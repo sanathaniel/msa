@@ -1,7 +1,123 @@
 # main links
+
+about_nav:
+  - title: "Mission & Values"
+    url: /about/mission/
+  - title: "Constitution & Bylaws"
+    url: /about/constitution/
+  - title: "Governance"
+    url: /about/governance/
+  - title: "Board Nominations"
+    url: /about/board-nominations/
+  - title: "Past Presidents & Trustees"
+    url: /about/past-presidents/
+
+members_nav:
+      - title: "Join/Renew Membership"
+        url: /members/join/
+      - title: "Advocacy Handbook"
+        url: /members/handbook/
+      - title: "Listserv"
+        url: /members/listserv/
+      - title: "Directory"
+        url: /members/directory/
+      - title: "Affiliations"
+        url: /members/affiliations/
+      - title: "Research Travel Grants"
+        url: /members/travel-grants/
+
+conference_nav:
+      - title: "MSA 2024"
+        url: /conference/msa2024/
+      - title: "Upcoming Conferences"
+        url: /conference/upcoming-conferences/
+      - title: "MSA/MLA"
+        url: /conference/MSA-MLA/
+      - title: "Past Conferences"
+        url: /conference/past-conferences/
+      - title: "Conference Access"
+        url: /conference/conference-access/
+    
+prizes_nav:
+      - title: "Shortlist"
+        url: /prizes/shortlist/
+      - title: "Nominations"
+        url: /prizes/nominations/
+      - title: "First Book"
+        url: /prizes/first-book/
+      - title: "Edition, Anthology, or Collection"
+        url: /prizes/collection/
+      - title: "Translation"
+        url: /prizes/translation/
+      - title: "Previous Winners"
+        url: /prizes/previous-winners/
+    
+journal_nav:
+      - title: "Modernism/modernity"
+        url: https://www.press.jhu.edu/journals/modernismmodernity
+      - title: "Print+ Online"
+        url: https://modernismmodernity.org/
+      - title: "Read Online"
+        url: https://muse.jhu.edu/journal/131
+    
+
+  
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/index/
+    children:
+        -   title: "Mission & Values"
+            url: /about/mission/
+        -   title: "Constitution & Bylaws"
+            url: /about/constitution/
+        -   title: "Governance"
+            url: /about/governance/
+        -   title: "Board Nominations"
+            url: /about/board-nominations/
+        -   title: "Past Presidents and Trustees"
+            url: /about/past-presidents/
+  - title: "Members"
+    url: /members/index/ 
+    children:
+        -   title: "Join/Renew Membership"
+            url: /members/member-services/
+        -   title: "Advocacy Handbook"
+            url: /members/advocacy-handbook/
+        -   title: "Directory"
+            url: /members/directory/
+        -   title: "Research Travel Grants"
+            url: /members/travel-grants/
+  - title: "Conference"
+    url: /conference/index/ 
+    children:
+        -   title: "MSA 2024"
+            url: /conference/MSA2024/
+        -   title: "Upcoming Conferences"
+            url: /conference/upcoming-conferences/
+        -   title: "Past Conferences"
+            url: /conference/past-conferences/
+        -   title: "MSA/MLA"
+            url: /conference/MSA-MLA/
+        -   title: "Conference Access"
+            url: /conference/conference_access/
+  - title: "Prizes"
+    url: /prize/index/ 
+    children:
+        -   title: "Nominations"
+            url: /prizes/nominations/
+        -   title: "Book Prize"
+            url: /prizes/shortlist/
+        -   title: "First Book Prize"
+            url: /prizes/first-book/
+        -   title: "Edition, Anthology, & Collection Prize"
+            url: /prizes/collection/
+        -   title: "Translation Prize"
+            url: /prizes/translation/
+        -   title: "Previous Winners"
+            url: /prizes/previous-winners/
+  - title: "Journal"
+    url: /journal/index/ 
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
