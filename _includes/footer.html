@@ -1,4 +1,52 @@
 <div class="page__footer-follow">
+  
+<div class="footer-row">
+
+
+
+    <!-- Column 1 Starts -->
+    <div class="footer-col">
+        <!-- Contact Us -->
+        <div class="footer-contact">
+            <h2>Contact Us</h2>
+			<a href="/about/governance/">Executive Committee</a>
+            <p>Modernist Studies Association <br />c/o Johns Hopkins University Press<br />Journals Division
+            <br />PO Box 19966<br />Baltimore, MD 21211-0966<br />USA</p>
+        </div>
+    </div>
+    <!-- Column 2 Starts -->
+    <div class="footer-col">
+        <!-- Conference Information -->
+        <div class="footer-links">
+            <h2>MSA Information</h2>
+            <ul>
+                <li><a href="/faq/" target="_blank">FAQ</a></li>
+				<li><a href="/members/join/" target="_blank">Membership</a></li>
+                <li><a href="/members/listserv/">Subscribe</a></li>
+                <li><a href="https://mla.hcommons.org/groups/modernist-studies-association/">MSA on MLA Commons</a></li>
+                <li><a href="/members/affiliations/">Affiliations</a></li>
+                <li><a href="/about/board-nominations">Elections</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- Column 3 Starts -->
+    <div class="footer-col">
+        <!-- Social Media -->
+			<div class="social_media">
+                <h2>Follow Us</h2>
+				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+				<a href="https://twitter.com/msatweet" class="fa fa-twitter" style="background: white; font-size: 35px; width: 35px; text-align: center; text-decoration: none; border-radius: 50%;">
+				</a>
+				<a href="https://www.facebook.com/groups/35866051126/" class="fa fa-facebook" style="background: white; font-size: 35px; width: 35px; text-align: center; text-decoration: none; border-radius: 50%;">
+				</a>
+				<a href="https://www.instagram.com/modernist.studies.association/" class="fa fa-instagram" style="background: white; font-size: 35px; width: 35px; text-align: center; text-decoration: none; border-radius: 50%;">
+				</a>					
+			</div>
+    </div>
+</div>  
+  
+  
+  <!--
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -16,6 +64,11 @@
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
   </ul>
+  -->
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<!--
+<div class="page__footer-copyright">&copy; 
+{{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. 
+-->
+{{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
