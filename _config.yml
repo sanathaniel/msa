@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MSA"
+title                    : ""
 title_separator          : "-"
-subtitle                 : "Modernist Studies Association"
+subtitle                 : ""
 name                     : "Steve Nathaniel" 
 description              : "The Modernist Studies Association is devoted to the study of the arts in their social, political, cultural, and intellectual contexts from the later nineteenth through the mid-twentieth century. The organization aims to develop an international and interdisciplinary forum to promote exchange among scholars in this vital and rapidly changing field."
 url                      : "https://sanathaniel.github.io/"
