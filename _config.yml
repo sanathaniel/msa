@@ -164,6 +164,15 @@ footer:
 include:
   - .htaccess
   - _pages
+  - about
+  - _about
+  - conference
+  - _conference
+  - _journal
+  - journal
+  - _members
+  - prizes
+  - _prizes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
