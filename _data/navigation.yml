@@ -64,7 +64,7 @@ journal_nav:
   
 main:
   - title: "About"
-    url: /about/index/
+    url: /about/
     children:
         -   title: "Mission & Values"
             url: /about/mission/
@@ -77,7 +77,7 @@ main:
         -   title: "Past Presidents and Trustees"
             url: /about/past-presidents/
   - title: "Members"
-    url: /members/index/ 
+    url: /members/
     children:
         -   title: "Join/Renew Membership"
             url: /members/member-services/
@@ -88,7 +88,7 @@ main:
         -   title: "Research Travel Grants"
             url: /members/travel-grants/
   - title: "Conference"
-    url: /conference/index/ 
+    url: /conference/
     children:
         -   title: "MSA 2024"
             url: /conference/MSA2024/
@@ -101,7 +101,7 @@ main:
         -   title: "Conference Access"
             url: /conference/conference_access/
   - title: "Prizes"
-    url: /prize/index/ 
+    url: /prize/
     children:
         -   title: "Nominations"
             url: /prizes/nominations/
@@ -116,7 +116,7 @@ main:
         -   title: "Previous Winners"
             url: /prizes/previous-winners/
   - title: "Journal"
-    url: /journal/index/ 
+    url: /journal/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
