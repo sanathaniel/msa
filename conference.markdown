@@ -5,7 +5,7 @@ permalink: /conference/
 sidebar:
   nav: conference_nav
 ---
-
+ 
 <div id="main-banner">
 	<div class="page__hero--overlay"
   style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/the_drake.jpg);">
