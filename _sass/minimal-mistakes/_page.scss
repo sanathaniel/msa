@@ -559,9 +559,11 @@ body {
 /*
    Wide Pages
    ========================================================================== */
-/*
+
 .wide {
   .page {
+
+    /*
     @include breakpoint($large) {
       padding-right: 0;
     }
@@ -569,9 +571,11 @@ body {
     @include breakpoint($x-large) {
       padding-right: 0;
     }
+    */
   }
 
   .page__related {
+    /*
     @include breakpoint($large) {
       padding-right: 0;
     }
@@ -579,6 +583,6 @@ body {
     @include breakpoint($x-large) {
       padding-right: 0;
     }
+    */
   }
 }
-*/
