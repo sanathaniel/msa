@@ -10,9 +10,7 @@
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-	/*
     padding-right: $right-sidebar-width-narrow;
-	*/
   }
 
   @include breakpoint($x-large) {
@@ -21,6 +19,7 @@
   }
   */
 }
+  */
 
 .archive__item {
   position: relative;
@@ -151,7 +150,7 @@
     @include breakpoint($x-large) {
       margin-right: -1 * $right-sidebar-width;
     }
-	*/
+    */
   }
 }
 
@@ -450,7 +449,7 @@
 /*
    Wide Pages
    ========================================================================== */
-
+/*
   .wide {
   .archive {
     @include breakpoint($large) {
