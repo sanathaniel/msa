@@ -532,6 +532,7 @@ body {
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
+  /*
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -540,6 +541,7 @@ body {
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
   }
+  */
 
   a {
     color: inherit;
@@ -556,7 +558,7 @@ body {
 /*
    Wide Pages
    ========================================================================== */
-
+/*
 .wide {
   .page {
     @include breakpoint($large) {
@@ -578,3 +580,4 @@ body {
     }
   }
 }
+*/
