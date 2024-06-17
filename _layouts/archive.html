@@ -1,9 +1,7 @@
 ---
-layout: single
-sidebar:
-  nav: docs 
+layout: default
 ---
-
+ 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -16,8 +14,6 @@ sidebar:
   {% endunless %}
 {% endif %}
 
-
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -25,18 +21,6 @@ sidebar:
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
-
     {{ content }}
   </div>
 </div>
-
-
-
-<!-- Social -->
-
-	<div class="social-row">
-		<div class ="feed-block">
-			<a class="twitter-timeline" href="https://twitter.com/msatweet?ref_src=twsrc%5Etfw" data-width="300" data-height="600">Tweets by msatweet</a> 
-			<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-		</div>
-	</div>   
