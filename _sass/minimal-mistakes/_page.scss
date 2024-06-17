@@ -35,8 +35,9 @@ body {
   flex: 1 0 auto;
 }
 
-/*
 .page {
+
+  /*
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -47,7 +48,7 @@ body {
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
   }
-*/
+  */
 
   .page__inner-wrap {
     float: left;
