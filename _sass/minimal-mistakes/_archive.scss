@@ -17,7 +17,6 @@
     padding-right: $right-sidebar-width;
   }
 }
-  */
 
 .archive__item {
   position: relative;
@@ -445,7 +444,7 @@
 /*
    Wide Pages
    ========================================================================== */
-/*
+
   .wide {
   .archive {
     @include breakpoint($large) {
