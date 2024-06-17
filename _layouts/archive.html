@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: single
+sidebar:
+  nav: docs 
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -14,6 +16,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
+
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -21,6 +25,18 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
+
     {{ content }}
   </div>
 </div>
+
+
+
+<!-- Social -->
+
+	<div class="social-row">
+		<div class ="feed-block">
+			<a class="twitter-timeline" href="https://twitter.com/msatweet?ref_src=twsrc%5Etfw" data-width="300" data-height="600">Tweets by msatweet</a> 
+			<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+	</div>   
