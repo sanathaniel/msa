@@ -10,14 +10,12 @@ $x-large: 2000px !default;
 
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
-  }
+    width: 100%;
+      }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
-  }
+    width: 100%;
+      }
 }
 
 .archive__item {
@@ -137,6 +135,7 @@ $x-large: 2000px !default;
    Grid view
    ========================================================================== */
 
+/*
 .archive {
   .grid__wrapper {
     /* extend grid elements to the right */
@@ -150,6 +149,7 @@ $x-large: 2000px !default;
     }
   }
 }
+*/
 
 .grid__item {
   margin-bottom: 2em;
