@@ -202,8 +202,8 @@ sidebar:
 	published in another year will not be eligible for the prize. This
 	exclusion applies even if a new edition (paperback or revised, for
 	example) was published in the award year.<br />
-<p>Please visit our <a href="prize/nominate.html">Nominations page</a>
+<p>Please visit our <a href="/msa/prizes/nominate.html">Nominations page</a>
 	in Spring 2024 to recommend a book for this year's prize (for books
-	published in 2023). Visit our <a href="prize/archive.html"
+	published in 2023). Visit our <a href="/msa/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 <!-- #EndEditable -->

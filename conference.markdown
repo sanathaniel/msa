@@ -19,7 +19,7 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
-<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/conference/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/conference/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Explore upcoming <a href="/conference/digital/">digital programming here</a> or explore the <a href="/conference/past-conferences/">conference archives here</a>.
+<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/msa/conference/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/msa/conference/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Explore upcoming <a href="/msa/conference/digital/">digital programming here</a> or explore the <a href="/msa/conference/past-conferences/">conference archives here</a>.
 </p>
 
 <hr>

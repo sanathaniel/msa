@@ -9,8 +9,7 @@ sidebar:
 <p>Presented by the MSA’s Caucus for Contingent and Independent
 Scholars</p>
 <p>The Modernist Studies Association <em>Advocacy Handbook</em>
-(available as a <a href="advocacy_handbook.pdf" target="_blank">PDF</a> or <a href="advocacy_handbook.html" target="_blank"
->Online</a>) presents recommendations for individuals, departments
+(available as a <a href="/msa/members/advocacy_handbook.pdf" target="_blank">PDF</a> presents recommendations for individuals, departments
 and institutions, professional societies, and event organizers to
 address the urgent need for support, advocacy, and action in the
 face of rising precarity and contingency; restructuring,
