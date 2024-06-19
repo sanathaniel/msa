@@ -47,6 +47,10 @@ sidebar:
 	readings of de- and post-colonial writers now.</p>
 <!-- SECOND NOMINEE -->
 <p>
+	<img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg"
+		alt="" width="100" height="150" align="right" />
+<p> 
+<p>
 	<strong>HONORABLE MENTION: Michael Lucey, <em><a
 				href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo130500168.html"
 				target="_blank">What Proust Heard: Novels and the
@@ -104,10 +108,7 @@ sidebar:
 		alt="" width="100" height="150" align="right" />
 <p> 
 <!-- FOURTH NOMINEE -->
-<p>
-	<img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg"
-		alt="" width="100" height="150" align="right" />
-<p> 
+
 <p>
 	<strong>Kobena Mercer, <em><a
 				href="https://yalebooks.yale.edu/book/9780300247268/alain-locke-and-the-visual-arts/"
@@ -218,8 +219,8 @@ sidebar:
 	year will not be eligible for the prize. This exclusion applies even
 	if a new edition (paperback or revised, for example) was published
 	in the award year.<br />
-<p>Please visit our <a href="/prize/nominate.html">Nominations page</a>
+<p>Please visit our <a href="prize/nominate.html">Nominations page</a>
 	in Spring 2024 to recommend a book for this year's prize (for books
-	published in 2023). Visit our <a href="/prize/archive.html">Archive</a> to see previous
+	published in 2023). Visit our <a href="prize/archive.html">Archive</a> to see previous
 	winners.</p>
                             <!-- #EndEditable -->
