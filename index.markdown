@@ -94,7 +94,7 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="https://th.bing.com/th/id/OIP.k9To_S5NDo-boJavHMcixQHaEK?pid=ImgDet&rs=1" min-width="150" min-height="150"/>
+					<img src="assets/msa2023logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2023: Brooklyn</h3>
 				<figcaption  class="archive__item-title">Review the fantastic program from last year's conference.</figcaption>
@@ -106,7 +106,7 @@ layout: home
 					<img src="assets/Between_the_Acts.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Between the Acts</h3>
-				<figcaption  class="archive__item-title">Last summer modernist gathered from across the globe through this digital community</figcaption>
+				<figcaption  class="archive__item-title">Last summer scholars gathered from across the globe through this digital community</figcaption>
 			<a href="https://msa.press.jhu.edu/conferences/bta2022/exhibits.html" class="btn btn--primary">Share</a>
 		</div>
 
