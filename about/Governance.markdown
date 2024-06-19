@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <!-- #BeginEditable "content" -->
-<h1>Governance</h1>
+
 <h2>MSA Executive Committee</h2>
 <p>Each year the MSA holds elections for the various committee positions
 	outlined in <a href="bylaws.html">the MSA constitution and
