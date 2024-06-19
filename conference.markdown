@@ -1,14 +1,25 @@
 ---
 layout: single
-title: Conferences
+title: 
 permalink: /conference/
 sidebar:
   nav: conference_nav
 ---
  
+<div id="main-banner">
+	<div class="page__hero--overlay"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/msa/assets/the_drake.jpg);">
+		<div class="wrapper">
+		  <h1 id="page-title" class="page__title" itemprop="headline">       
+			  Conferences    
+		  </h1> 
+		</div>
+	</div>
+</div>
+
 <!-- #BeginEditable "content" -->
 
-<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Explore upcoming <a href="/digital/">digital programming here</a> or explore the <a href="/past-conferences/">conference archives here</a>.
+<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/conference/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/conference/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Explore upcoming <a href="/conference/digital/">digital programming here</a> or explore the <a href="/conference/past-conferences/">conference archives here</a>.
 </p>
 
 <hr>

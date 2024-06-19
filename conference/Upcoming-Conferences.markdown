@@ -8,8 +8,9 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
+<hr> 
 
-<h1>MSA CHICAGO: MIGRATION</h1>
+<h2>MSA CHICAGO: MIGRATION</h2>
 
 <a href="https://msa.press.jhu.edu/conferences/msa2024/index.html">
 <img src="/msa/assets/migration_standard_trimmed.jpg" height="300px" />
