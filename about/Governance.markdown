@@ -10,7 +10,7 @@ sidebar:
 
 <h2>MSA Executive Committee</h2>
 <p>Each year the MSA holds elections for the various committee positions
-	outlined in <a href="bylaws.html">the MSA constitution and
+	outlined in <a href="/msa/about/constitution">the MSA constitution and
 		bylaws</a>. The chairs of these committees, along with the
 	officers, the webmaster, and the co-editors of
 		<em>Modernism/modernity</em>, comprise the MSA's Board of
@@ -58,28 +58,3 @@ sidebar:
 	Concordia University<br />
 	<a href="mailto:rg813@scarletmail.rutgers.edu">Rudrani Gangopadhyay</a>,  Rutgers University</p>
 <!-- #EndEditable -->
-</div>
-<div id="bottom">
-<div class="copyright">
-	<img src="/images/jhupcolophon.gif" class="colophon"
-		alt="Johns Hopkins University Press Colophon" />
-	<a href="http://www.press.jhu.edu">Johns Hopkins University
-		Press</a> | &copy; The Modernist Studies Association </div>
-<div class="social_media">
-	<a href="https://www.facebook.com/group.php?gid=35866051126&ref=ts">
-		<img src="/images/facebook_icon.gif" width="15" height="15"
-			class="social_media_icon" alt="Facebook" />
-	</a>
-	<a href="https://twitter.com/#!/msatweet">
-		<img src="/images/twitter_icon.gif" width="19" height="17"
-			class="social_media_icon" alt="Twitter" />
-	</a>
-</div>
-</div>
-</div>
-<!-- end main -->
-<div id="footer"> </div>
-</div>
-<!-- end inner-wrap -->
-</div>
-<!-- end wrap -->

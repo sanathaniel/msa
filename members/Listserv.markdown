@@ -18,7 +18,7 @@ sidebar:
 	<li>Click on the "Ask to join group" option.</li>
 </ul>
 <p> Members using the Google Group mailing list are expected to follow
-	the MSA's <a href="/about/mission/">Code of Conduct</a>. </p>
+	the MSA's <a href="/msa/about/mission/">Code of Conduct</a>. </p>
 <p>&nbsp;</p>
 <!-- 
 	<p>To view the archive of past MSA listserv messages, visit: <a
