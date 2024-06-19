@@ -32,9 +32,9 @@ Each year, the Modernist Studies Association seeks nominations for its Book Priz
 
   <!-- #BeginEditable "content" -->
 <p>Congratulations to this year's prize winners for the MSA's <a
-		href="/prizes/shortlist/">Book Prize</a>, <a
-		href="/prizes/first-book/">First Book Prize</a>, and the <a
-		href="/prizes/collection/">Edition, Anthology, or Collection
+		href="prize/shortlist/">Book Prize</a>, <a
+		href="prize/first-book/">First Book Prize</a>, and the <a
+		href="prize/collection/">Edition, Anthology, or Collection
 		Prize</a>.</p>
 <p>Each year, the Modernist Studies Association seeks nominations for
 	its Book Prize and its First Book Prize, awarded to books published
@@ -46,9 +46,9 @@ Each year, the Modernist Studies Association seeks nominations for its Book Priz
 	be eligible for the prize. This exclusion applies even if a new
 	edition (paperback or revised, for example) was published in the
 	award year.</p>
-<p>Please visit our <a href="/prizes/nominations">Nominations page</a>
+<p>Please visit our <a href="prize/nominations">Nominations page</a>
 	to recommend a book for this year's prize.<br /> Visit our <a
-		href="/prizes/previous-winners">archive</a> to see previous
+		href="prize/previous-winners">archive</a> to see previous
 	winners.</p>
 <!-- #EndEditable -->
 
