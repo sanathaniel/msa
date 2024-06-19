@@ -16,45 +16,16 @@ layout: home
         <p class="page__lead">...devoted to the study of the arts in their social, political, cultural, and intellectual contexts from the later nineteenth- through the mid-twentieth century.
 		</p>     
         <p>      
-          <a href="about/mission" class="btn btn--light-outline btn--large">Learn More</a>   
+          <a href="about/mission" class="btn btn--light-outline btn--large">Learn More</a>
+		</p>
     </div>
 </span>
   
-</div>
+	</div>
 
 </div>
 
 
-<!--
-<div>
-	{% include figure image_path="/assets/Aesthetic_Cold_War.jpg" %}
-</div>
--->
-
-<!--
-<div>
-	<gallery class="feature__wrapper">
-		<div class="feature__item">
-			<a href="https://modernismmodernity.org/"
-				<img src="/assets/JHUP.jfif" width="100%">
-				<figcaption class="archive__item-title">Check out the Modernism/modernity online at JHUP's Print+</figcaption>
-				
-		</div>
-		<div class="feature__item">
-			<img src="/assets/Aesthetic_Cold_War.jpg">
-			<figcaption class="archive__item-title">Aesthetic Cold War</figcaption>
-		</div>
-		<div class="feature__item">
-			<img src="/assets/square-logo.png">
-			<figcaption class="archive__item-title">A growing archive of digital resources</figcaption>
-		</div>
-		<div class="feature__item">
-			<img src="/assets/Aesthetic_Cold_War.jpg">
-			<figcaption class="archive__item-title">Aesthetic Cold War</figcaption>
-		</div>
-	</gallery>
-</div>
--->
 <div class="main-wrapper">
 	<div class="feature__wrapper">
 		<div class ="feature__item" style="border:20px;">
