@@ -12,7 +12,7 @@ sidebar:
 <h1>MSA CHICAGO: MIGRATION</h1>
 
 <a href="https://msa.press.jhu.edu/conferences/msa2024/index.html">
-<img src="assets/migration_standard.png" height="300px" />
+<img src="assets/migration_standard_trimmed.jpg" height="300px" />
 </a>
 
 <p><strong>
