@@ -28,14 +28,14 @@ Modernism for Girls: Laura Riding’s Schooling for Street Smarts, Anett Jessop 
 Presiding:
 Kristin B. Bluemel (Monmouth U)
 <p>Previous Sessions: </p>
-<p>|<a href="/conference/msa-mla/mla2019/"> MLA 2019</a> |<a
-		href="/conference/msa-mla/mla2018/"> MLA 2018</a> |<a
-		href="/conference/msa-mla/mla2017/"> MLA 2017</a> |<a
-		href="/conference/msa-mla/mla2016/"> MLA 2016</a> |<a
-		href="/conference/msa-mla/mla2015/"> MLA 2015</a> |<a
-		href="/conference/msa-mla/mla2014/"> MLA 2014</a> |<a
-		href="/conference/msa-mla/mla2013/"> MLA 2013</a> |<a
-		href="/conference/msa-mla/mla2012/"> MLA 2012</a> |<a
-		href="/conference/msa-mla/mla2010-11/"> MLA 2010/11</a> | <a
-		href="/conference/msa-mla/mla2009/">MLA 2009</a> | <a
-		href="/conference/msa-mla/mla2008/">MLA 2008</a> |</p>
+<p>|<a href="/conference/msa-mla/MLA2019/"> MLA 2019</a> |<a
+		href="/conference/msa-mla/MLA2018/"> MLA 2018</a> |<a
+		href="/conference/msa-mla/MLA2017/"> MLA 2017</a> |<a
+		href="/conference/msa-mla/MLA2016/"> MLA 2016</a> |<a
+		href="/conference/msa-mla/MLA2015/"> MLA 2015</a> |<a
+		href="/conference/msa-mla/MLA2014/"> MLA 2014</a> |<a
+		href="/conference/msa-mla/MLA2013/"> MLA 2013</a> |<a
+		href="/conference/msa-mla/MLA2012/"> MLA 2012</a> |<a
+		href="/conference/msa-mla/MLA2010-11/"> MLA 2010/11</a> | <a
+		href="/conference/msa-mla/MLA2009/">MLA 2009</a> | <a
+		href="/conference/msa-mla/MLA2008/">MLA 2008</a> |</p>

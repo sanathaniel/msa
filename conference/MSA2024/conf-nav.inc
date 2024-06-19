@@ -1,0 +1,9 @@
+  <li><a href="/conferences/msa2021/conf-cfp/CFP.html">CFP</a></li>
+  <li><a href="/conferences/msa2021/Registration.html">Registration</a></li>
+  <li><a href="/conferences/msa2021/Seminars.html">Chicago 2021 Seminars</a></li>
+  <li><a href="/conferences/msa2021/About-MSA-Seminars.html">About MSA Seminars</a></li>
+  <li><a href="/conferences/msa2021/Workshops.html">Workshops</a></li>
+  <li><a href="/conferences/msa2021/Special-Events.html">Special Events</a></li>
+  <li><a href="/conferences/msa2021/What-are-you-reading.html">What Are You Reading?</a></li>
+  <li><a href="/conferences/msa2021/Digital-Exhibits.html">Digital Exhibits</a></li>
+  <li><a href="/conferences/msa2021/Travel-and-Accommodations.html">Travel and Accommodations</a></li>
