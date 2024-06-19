@@ -27,8 +27,6 @@ members_nav:
         url: /members/travel-grants/
 
 conference_nav:
-      - title: "MSA 2024"
-        url: /conference/msa2024/
       - title: "Upcoming Conferences"
         url: /conference/upcoming-conferences/
       - title: "MSA/MLA"
