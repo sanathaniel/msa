@@ -19,7 +19,7 @@ sidebar:
 
 
 <fieldset style="display:inline-block">
-<form method="post" action="https://msa.press.jhu.edu/membership/add-to-cart">
+<form method="post" action="/msa/members/add-to-cart">
 
   
     <h3>Join</h3>
@@ -311,15 +311,15 @@ sidebar:
 
 
 </main>
-<script type="text/javascript" src="https://msa.press.jhu.edu/membership/js/jquery.js"> </script>
-<script type="text/javascript" src="https://msa.press.jhu.edu/membership/js/jquery.doubleScroll.js"></script>
-<script type="text/javascript" src="https://msa.press.jhu.edu/membership/js/jhup.js"> </script>
+<script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
+<script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
+<script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
 <script type='text/javascript'>enable_items_with(['#_o6729p210c2348','#_o6729p211c2348','#_o6729p212c2348','#_o6729p749c2348'],[],true)</script>
 
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>
-<script async src="https://msa.press.jhu.edu/membership/js/msa-analytics.js"></script>
+<script async src="/msa/members/js/msa-analytics.js"></script>
 
 <script type="text/javascript" defer>
 (function(d, src, c) { var t=d.scripts[d.scripts.length - 1],s=d.createElement('script');s.id='la_x2s6df8d';s.async=true;s.src=src;s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs&&(rs!='complete')&&(rs!='loaded')){return;}c(this);};t.parentElement.insertBefore(s,t.nextSibling);})(document,
