@@ -33,6 +33,8 @@ conference_nav:
         url: /conference/upcoming-conferences/
       - title: "MSA/MLA"
         url: /conference/MSA-MLA/
+      - title: "Digital Programming"
+        url: /conference/digital/
       - title: "Past Conferences"
         url: /conference/past-conferences/
       - title: "Conference Access"
