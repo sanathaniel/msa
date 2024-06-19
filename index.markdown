@@ -39,7 +39,7 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/party_thumb.jpg" min-width="150" min-height="150"/>
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Shortlist</h3>
 				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist</figcaption>
