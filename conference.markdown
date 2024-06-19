@@ -6,26 +6,50 @@ sidebar:
   nav: conference_nav
 ---
  
-<div id="main-banner">
-	<div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/msa/assets/the_drake.jpg);">
-    <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline">       
-          MSA Conferences     
-      </h1> 
-    </div>
-</div>
-</div>
-
-<!--
-<div id="main-banner">
-	<div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/the_drake.jpg);">
-</div>
+                           <!-- #BeginEditable "content" -->
+                            <!--
+<h2>Current Conference</h2>
+      <p><strong>MSA 2020: </strong>October 22-25, Brooklyn, NY</p>
+      <p>Theme: Streets</p>
+      <p>Hosts: Nico Israel, Amanda Golden, and Patrick Deer</p>
+      <p>Host Institutions: Columbia University, CUNY Graduate Center, New York Institute of Technology, Hunter College, John Jay College, New York University, Fordham University, Baruch College, City College of New York, Stony Brook University</p>
+      <p>&nbsp;</p>
+-->
+                          
+<!--						  
+<h2>Future Conferences</h2>
+<p style="padding-left:3em">
 -->
 
-Since 1999, the Modernist Studies Association has hosted an annual conference where scholars from across the globe have converged to meet, share, and learn. To access the sites and programs from past conferences, visit our <a href="/conference/past-conferences/">conference archive.</a> Also, stay posted on <a href="/conference/MSA2024/">our upcoming conference.</a>
+<h1>MSA CHICAGO: MIGRATION</h1>
 
-<p>If you are interested in hosting an MSA conference, please contact <a
-href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>,
-President, and <a href="mailto:mbradshaw@luc.edu">Melissa Bradshaw</a>, Second Vice President, for details.</p>
+	<a href="https://msa.press.jhu.edu/conferences/msa2024/index.html">
+		<img src="msa2024/assets/migration_standard.png" height="300px" />
+	</a>
+	
+<p><strong>
+	<a href="https://msa.press.jhu.edu/conferences/msa2024/"
+		>MSA 2024: November 7-10, 2024, The Drake Hotel, Chicago, IL</a>
+</strong></p>
+<p></p> 	
+												
+<hr>
+
+
+							
+							
+							
+                           
+						
+                             
+                            </p>
+							<!-- hide until MSA 2025 scheduled
+                            <h2>Upcoming Conferences</h2>
+                            <p style="padding-left:3em"><strong>MSA 2024: </strong>Chicago, IL</p>
+                            <p>&nbsp;</p>
+							-->
+                            <p>If you are interested in hosting an MSA conference, please contact <a
+                                    href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>,
+                                President, and <a href="mailto:mbradshaw@luc.edu">Melissa Bradshaw</a>, Second Vice President, for details.</p>
+                            <p>&nbsp;</p>
+                            <!-- #EndEditable -->
