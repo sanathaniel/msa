@@ -6,7 +6,9 @@ sidebar:
   nav: conference_nav
 ---
 
- <h1>TEACHING MODERNISMS</h1>
+<hr> 
+
+<h1>TEACHING MODERNISMS</h1>
  
 
 <p>A series of free online events co-organised by seven international associations of modernists:
