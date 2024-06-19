@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: Conferences
 permalink: /conference/
 sidebar:
   nav: conference_nav
@@ -8,18 +8,9 @@ sidebar:
  
 <!-- #BeginEditable "content" -->
 
+<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Explore upcoming <a href="/digital/">digital programming here</a> or explore the <a href="/past-conferences/">conference archives here</a>.
+</p>
 
-<h1>MSA CHICAGO: MIGRATION</h1>
-
-<a href="https://msa.press.jhu.edu/conferences/msa2024/index.html">
-<img src="/msa/assets/migration_standard_trimmed.jpg" height="300px" />
-</a>
-
-<p><strong>
-<a href="https://msa.press.jhu.edu/conferences/msa2024/"
->MSA 2024: November 7-10, 2024, The Drake Hotel, Chicago, IL</a>
-</strong></p>
-				
 <hr>
 
 <p>If you are interested in hosting an MSA conference, please contact <a
