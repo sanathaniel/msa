@@ -24,6 +24,9 @@ sidebar:
 	<img src="/assets/book_prize5.jpg" width="150"/>
 </div>
 
+Each year, the Modernist Studies Association seeks nominations for its Book Prize and its First Book Prize, awarded to books published in the previous year. The MSA seeks nominations for its Translation Prize and Edition, Anthology, or Collection Prize on alternating years. Panels of judges coordinated by the Past President determine the books that made the most significant contributions to modernist studies. The winners each receive $1,000. A book first published in another year will not be eligible for the prize. This exclusion applies even if a new edition (paperback or revised, for example) was published in the award year. Please visit our Nominations page to recommend a book for this year's prize (self-nominations are welcome) or visit our archive to see previous winners.
+
+
 <h1>Book Prizes</h1>
 -->
 
