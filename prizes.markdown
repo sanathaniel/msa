@@ -8,7 +8,7 @@ sidebar:
  
 <div id="main-banner">
 	<div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/msa/assets/book_prize1.jpg);">
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/book_prize1.jpg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
           Book Prizes    
@@ -42,7 +42,7 @@ sidebar:
 	each receive $1,000. A book first published in another year will not
 	be eligible for the prize. This exclusion applies even if a new
 	edition (paperback or revised, for example) was published in the
-	award year. 
+	award year.</p>
 <p>Please visit our <a href="/prizes/nominations">Nominations page</a>
 	to recommend a book for this year's prize.<br /> Visit our <a
 		href="/prizes/previous-winners">archive</a> to see previous

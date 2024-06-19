@@ -8,7 +8,6 @@ sidebar:
 
 <h1>2024 Book Prize Shortlist: Translation</h1>
 							
-<h2>About</h2>
 <p>Every other year, the Modernist Studies Association seeks nominations for
 	its Translation Prize, awarded to a book published in the
 	previous two years. A panel of judges determines the book that made the
