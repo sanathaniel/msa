@@ -6,8 +6,7 @@ sidebar:
   nav: prizes_nav
 ---
 
-                           <!-- #BeginEditable "content" 	
--->
+<!-- #BeginEditable "content"-->
 						
 <h1>Call for MSA Book Prize Nominations</h1>
 							
