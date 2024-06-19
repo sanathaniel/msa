@@ -12,7 +12,7 @@ sidebar:
 <!-- WINNER -->
 <div>
 	
-		<img src="teachingArchive.jpeg" alt="" width="100" height="150"
+		<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/73/9780226736136.jpg/jcr:content/9780226736136.jpg" alt="" width="100" height="150"
 			align="right" />
 	<p>
 		<strong style="font-size:125%;">WINNER: </strong><strong>Rachel Sagner Buurma and Laura Heffernan, <em>
@@ -47,7 +47,7 @@ sidebar:
 		necessary tool to rebuke prevailing accounts of literary studies
 		that, the authors show, are as inaccurate as they are expedient.</p>
 	<!-- SECOND NOMINEE -->
-		<img src="blackPulp.jpeg" alt="" width="100" height="150"
+		<img src="https://minnesota-us.imgix.net/covers/9781517911577.jpg?auto=format&w=298&dpr=1&q=100" alt="" width="100" height="150"
 			align="right" />
 	<p>
 		<strong>Brooks Hefner, <em>
@@ -78,7 +78,7 @@ sidebar:
 		texts such as <i>Black Panther</i> and <i>Get Out</i>.</p>
 	<!-- THIRD NOMINEE -->
 	
-		<img src="modernityForTheMasses.avif" alt="" width="100"
+		<img src="https://texas-press-us.imgix.net/covers/9781477321805.jpg?auto=format&w=298&dpr=1&q=20" alt="" width="100"
 			height="150" align="right" />
 	
 	<p>
@@ -106,7 +106,7 @@ sidebar:
 		transnational modernism.</p>
 	<!-- FOURTH NOMINEE -->
 	
-		<img src="indiasForgottenFutures.avif" alt="" width="100"
+		<img src="https://cup-us.imgix.net/covers/9780231201056.jpg?auto=format&w=350" alt="" width="100"
 			height="150" align="right" />
 	
 	<p>
@@ -140,7 +140,7 @@ sidebar:
 		with far-reaching implications for scholars in the fields of film
 		studies, post-colonial studies, and modernist studies.</p>
 	<!-- FIFTH NOMINEE -->
-		<img src="lureOfTheImage.jpeg" alt="" width="100" height="150"
+		<img src="https://images.ucpress.edu/covers/300/9780520344273.jpg" alt="" width="100" height="150"
 			align="right" />
 	<p>
 		<strong>Daniel Morgan, <em>
@@ -172,7 +172,7 @@ sidebar:
 		camera identification.</p>
 	<!-- SIXTH NOMINEE -->
 	
-		<img src="performanceAndModernity.jpeg" alt="" width="100"
+		<img src="https://assets.cambridge.org/97811089/64333/cover/9781108964333.jpg" alt="" width="100"
 			height="150" align="right" />
 	
 	<p>
@@ -209,7 +209,7 @@ sidebar:
 <h1>MSA First Book Prize (for a book published in 2021)</h1>
 	<!-- FIRST NOMINEE -->
 	<div>
-		<img src="makingLiberalismNew.jpeg" width="100" height="150"
+		<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421440910.jpg?itok=VCXSOC3u" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -236,7 +236,7 @@ sidebar:
 	</div>
 	<!-- SECOND NOMINEE -->
 	<div>
-		<img src="remakingHumanDisposition.webp" width="100" height="150"
+		<img src="https://img.perlego.com/book-covers/3041632/9780226745183_300_450.webp" width="100" height="150"
 			align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -266,7 +266,7 @@ sidebar:
 	</div>
 	<!-- THIRD NOMINEE -->
 	<div>
-		<img src="baroqueModernity.jpeg" width="100" height="150"
+		<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421441535.jpg?itok=J8AXdoo7" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -291,7 +291,7 @@ sidebar:
 	</div>
 	<!-- FOURTH NOMINEE -->
 	<div>
-		<img src="modernismChoreographicImagination.jpeg" width="100"
+		<img src="https://edinburghuniversitypress.com/media/catalog/product/cache/c57119711f6f6be310d32fe7539c40f3/9/7/9781474481632_3.jpg" width="100"
 			height="150" align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -320,7 +320,7 @@ sidebar:
 	</div>
 	<!-- FIFTH NOMINEE -->
 	<div>
-		<img src="remadeInAmerica.jpeg" width="100" height="150"
+		<img src="https://images.ucpress.edu/covers/300/9780520309043.jpg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -350,7 +350,7 @@ sidebar:
 	</div>
 	<!-- SIXTH NOMINEE -->
 	<div>
-		<img src="soundRecordingTechnology.jpeg" width="100" height="150"
+		<img src="https://assets.cambridge.org/97811088/40132/cover/9781108840132.jpg" width="100" height="150"
 			align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -380,7 +380,7 @@ sidebar:
 	</div>
 	<!-- SEVENTH NOMINEE -->
 	<div>
-		<img src="intelligentUnconscious.jpeg" width="100" height="150"
+		<img src="https://images.routledge.com/common/jackets/crclarge/978036755/9780367550905.jpg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -412,7 +412,7 @@ sidebar:
 	</div>
 	<!-- EIGHTH NOMINEE -->
 	<div>
-		<img src="obsoleteEmpire.jpeg" width="100" height="150"
+		<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421441368.jpg?itok=F2o1hP6-" width="100" height="150"
 			align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -442,7 +442,7 @@ sidebar:
 	</div>
 	<!-- NINTH NOMINEE -->
 	<div>
-		<img src="transatlanticModernism.jpeg" width="100" height="150"
+		<img src="https://global.oup.com/academic/covers/pdp/9780192893383" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />

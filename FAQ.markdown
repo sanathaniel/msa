@@ -1,6 +1,6 @@
 ---
 layout: single
-title: MSA Conferences
+title: FAQ
 permalink: /FAQ/
 
 ---
