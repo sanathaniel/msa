@@ -94,7 +94,7 @@ layout: home
 				</div>
 				<h3>MSA 2023: Brooklyn</h3>
 				<figcaption  class="archive__item-title">Review the fantastic program from last year's conference.</figcaption>
-			<a href="https://msa.press.jhu.edu/conferences/msa2023/" class="btn btn--primary">Review</a>
+			<a href="/msa/conference/msa2023/" class="btn btn--primary">Review</a>
 		</div>
 		
 		<div class ="feature__item">
@@ -103,7 +103,7 @@ layout: home
 				</div>
 				<h3>Between the Acts</h3>
 				<figcaption  class="archive__item-title">Last summer scholars gathered from across the globe through this digital community</figcaption>
-			<a href="https://msa.press.jhu.edu/conferences/bta2022/exhibits.html" class="btn btn--primary">Share</a>
+			<a href="/msa/conference/bta2022/exhibits.html" class="btn btn--primary">Share</a>
 		</div>
 
 	</div>	
