@@ -32,7 +32,7 @@ layout: home
 				</div>
 				<h3>MSA 2024 Chicago</h3>
 				<figcaption  class="archive__item-title">Register for the Annual Conference</figcaption>
-			<a href="/msa/conferences/MSA2024/index.html" class="btn btn--primary">Gather</a>
+			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
