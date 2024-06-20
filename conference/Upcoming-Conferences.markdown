@@ -12,12 +12,12 @@ sidebar:
 
 <h2>MSA CHICAGO: MIGRATION</h2>
 
-<a href="https://msa.press.jhu.edu/conferences/msa2024/index.html">
+<a href="/msa/conferences/msa2024/index.html">
 <img src="/msa/assets/migration_standard_trimmed.jpg" height="300px" />
 </a>
 
 <p><strong>
-<a href="https://msa.press.jhu.edu/conferences/msa2024/"
+<a href="/msa/conferences/msa2024/"
 >MSA 2024: November 7-10, 2024, The Drake Hotel, Chicago, IL</a>
 </strong></p>
 				
