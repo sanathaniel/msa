@@ -159,9 +159,9 @@
 
 header{
 	z-index: 999;
+	font-size: 1.5em;
 	width: 100%;
 	background-color: white;
-	font-size: 1.5em;
 }
 
 .bottom-nav li{
@@ -187,6 +187,8 @@ header{
     transition: all 1s;
 	position: fixed;
     letter-spacing: 4px;
+	margin-block-start: .3em;
+	margin-block-end: .3em;
 }
 
 .sticky a{
@@ -223,7 +225,10 @@ header ul{
 	padding: .2em;
 	font-family: 'Crimson Text';
 	font-weight: 500;
-	font-size: 1.2em;
+	font-size: 1em;
+	margin-block-start: .3em;
+	margin-block-end: .3em;
+	list-style-type: none;
 }
 
 header li{
@@ -256,6 +261,7 @@ header li{
 }
 
 li a:hover{
+  opacity: 0.7;
   color: rgb(196, 50, 37);;
 }
 
@@ -388,11 +394,11 @@ footer a:hover{
 
 .post p{
 	padding-left: 10px;
-	font-size: 1.2em;
+	font-size: 1em;
 }
 
 h3{
-	border-bottom: 2px solid #81a9d9;
+	border-bottom: 4px solid #000000;
 	padding-left: 1em;
 }
 
@@ -542,4 +548,61 @@ margin-top: -20px;
 
 .CFP-body {
 	max-width: 1000px;
+	text-align:left;
+	font-size:1em;
+	margin-left: 40px;
+}
+
+.seminar-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #dd9831;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  }
+  
+.seminar-title:hover {
+  opacity: 0.7;
+  }
+
+.workshop-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #dd9831;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+  
+.workshop-title:hover {
+  opacity: 0.7;
+  }
+  
+/*
+.CFP-full {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	position: fixed;
+	align-items: center;
+	justify-content:center;
+	}
+*/
+
+
+li {
+	font-size: 1em;
+}
+
+.bullets {
+}
+
+.bullets li {
+ list-style-type: circle;
 }

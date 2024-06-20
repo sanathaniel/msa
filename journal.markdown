@@ -54,7 +54,7 @@ sidebar:
 <ul>
 	<li>
 	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>, Rutgers University<br/></li>
-    <li><a href="mailto:fernald@fordham.edu">Stephen J. Ross</a>, Concordia University</li>
+    <li><a href="mailto:stephen.ross@concordia.ca">Stephen J. Ross</a>, Concordia University</li>
 </ul>
 <hr />
       
@@ -68,8 +68,8 @@ sidebar:
 <p>It is the author's sole responsibility to obtain permissions for illustrations, as well as any copyright clearances required for the publication of a submission. A black-and-white glossy print or a 300 dpi TIFF file of each illustration will be needed by the time of publication. Captions should be written in a separate document, with appropriate credits and permissions. The Print Plus platform can accommodate additional media, and the editors encourage their inclusion.</p>
 
 <p>All correspondence regarding book reviews should be directed to <a href="modernism.modernityreviews@gmail.com
-">modernism.modernityreviews@gmail.com</a>.</p>
+">mailto:modernism.modernityreviews@gmail.com</a>.</p>
 
-For all other correspondence contact <a href="modernism.modernity@gmail.com">modernism.modernity@gmail.com</a>.
+For all other correspondence contact <a href="mailto:modernism.modernity@gmail.com">modernism.modernity@gmail.com</a>.
        
 <!-- #EndEditable -->		
