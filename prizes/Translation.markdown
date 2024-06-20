@@ -12,9 +12,9 @@ sidebar:
 	its Translation Prize, awarded to a book published in the
 	previous two years. A panel of judges determines the book that made the
 	most significant contribution to modernist studies.<br />
-<p>Please visit our <a href="/msa/prizes/nominate.html">Nominations page</a>
+<p>Please visit our <a href="/msa/prizes/nominate">Nominations page</a>
 	in Spring 2024 to recommend a book for this year's prize (for books
-	published in 2022 or 2023). Visit our <a href="/msa/prizes/archive.html"
+	published in 2022 or 2023). Visit our <a href="/msa/prizes/archive"
 		>Archive</a> to see previous winners.</p>
 		
 <!--
