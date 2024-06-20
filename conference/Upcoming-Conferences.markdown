@@ -17,7 +17,7 @@ sidebar:
 </a>
 
 <p><strong>
-<a href="/msa/conferences/MSA2024/"
+<a href="/msa/conferences/MSA2024/index.html"
 >MSA 2024: November 7-10, 2024, The Drake Hotel, Chicago, IL</a>
 </strong></p>
 				
