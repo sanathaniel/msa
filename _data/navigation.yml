@@ -79,7 +79,9 @@ login_nav:
         url: /members/login/register
       - title: "Directory"
         url: /members/login/directory
- 
+      - title: "Log-out"
+        url: /members/login/logout
+
 main:
   - title: "About"
     url: /about/
