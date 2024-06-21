@@ -7,7 +7,7 @@ sidebar:
 ---
 
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -79,11 +79,6 @@ any time by getting in contact with Journals Customer Service at
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
 
-
-
-
-
-        </div>
 
 
 

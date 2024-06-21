@@ -6,7 +6,7 @@ sidebar:
   nav: login_nav
 ---
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -154,12 +154,6 @@ Not a customer? Create an account <a href="/msa/members/register">here</a>.<br>
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
-
-
-
-
-
-        </div>
 
 
 

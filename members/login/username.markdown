@@ -6,7 +6,7 @@ sidebar:
   nav: login_nav
 ---
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -53,12 +53,6 @@ sidebar:
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
-
-
-
-
-
-        </div>
 
 
 
