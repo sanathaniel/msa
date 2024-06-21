@@ -28,20 +28,6 @@ sidebar:
 <main id="maincontent">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h3>Order history</h3>
-
 <table class='order-history'>
   <thead>
     <tr>

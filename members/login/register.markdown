@@ -29,9 +29,6 @@ sidebar:
 <main id="maincontent">
 
 
-
-
-<h3>Register</h3>
 <form action="/msa/members/register" method="post">
   <table>
     <tbody>
@@ -906,7 +903,7 @@ sidebar:
 </form>
 
 
-Already a member? Log in <a href="/msa/members/log-in">here</a>.<br>
+Already a member? Log in <a href="/msa/members/login">here</a>.<br>
 Add a username to your account <a href="/msa/members/add-login">here</a>.<br>
 <p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p>
 

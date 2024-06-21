@@ -30,17 +30,6 @@ sidebar:
 <main id="maincontent">
 
 
-
-
-<h3>Payment</h3>
-
-
-
-
-
-
-
-
   
 <p>You will be transferred to a third party site for payment.</p>
 

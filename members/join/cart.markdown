@@ -28,9 +28,6 @@ sidebar:
 <main id="maincontent">
 
 
-<h3>Cart</h3>
-
-  
 <table class='cart-table' style="margin-bottom: 5ex">
   <tr>
     <th>Description</th>

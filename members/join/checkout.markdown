@@ -68,7 +68,7 @@ any time by getting in contact with Journals Customer Service at
     
     <span class='td-1-2'>
       <button type='submit' style='margin-top:4ex'>Save</button>
-      <a href='check-out'>No, thanks</a>
+      <a href='checkout'>No, thanks</a>
     </span>
   </div>
   <input name="csrf_token" value="{SSHA}5T6YrygOcPN1SopgHj4jGOQoEyrhk4wz" type="hidden">

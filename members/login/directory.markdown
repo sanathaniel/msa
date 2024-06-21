@@ -49,31 +49,6 @@ sidebar:
 
 
 
-<button id="usertips-accordion">Member Directory User Tips</button>
-<div id="usertips-panel" style='display:none'>
-<ul>
-<li>Enter information into a field or multiple fields for a list of relevant results.</li>
-<li>Enter an asterisk (*) or percentage sign (%) in the Name field to see all active members who have agreed to appear in the directory.</li>
-<li>Click “Select columns” to select/deselect the columns in your results. Press the Control key on your PC keyboard (Command key on Apple) to make multiple selections/deselections. Click “Select columns” again to remove that box from your screen.</li>
-<li>Click on a column header to sort results in ascending or descending order.</li>
-</ul>
-</div>
-<script>
-(function(){
-var acc = document.getElementById('usertips-accordion');
-var panel = document.getElementById('usertips-panel');
-acc.addEventListener('click', function() {
-  this.classList.toggle('active');
-  if (panel.style.display === 'block') {
-    panel.style.display = 'none';
-  } else {
-    panel.style.display = 'block';
-  }
-});
-})()
-</script>
-
-
 <form method='get' action='/msa/members/directory'>
 
 <h4>Name and address</h4>

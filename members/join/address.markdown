@@ -39,7 +39,7 @@ sidebar:
     Please select a billing and a shipping address before continuing with your checkout.
   </p>
 </div>
-<form action="/msa/members/check-out/select-address" method="post">
+<form action="/msa/members/checkout/address" method="post">
   <table>
     <thead>
       <tr>
@@ -117,7 +117,7 @@ sidebar:
     
       <tr>
         <td colspan="2">
-          <a href="/msa/members/add-address">Add an address</a>
+          <a href="/msa/members/profile">Add an address</a>
         </td>
       </tr>
       <tr>
