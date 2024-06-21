@@ -6,7 +6,7 @@ sidebar:
   nav: login_nav
 ---
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -918,9 +918,6 @@ Add a username to your account <a href="/msa/members/add-login">here</a>.<br>
 <script type='text/javascript' src='/msa/members/js/jquery-ui.js'></script><script type='text/javascript' src='/msa/members/js/university-names.js'></script>
 <link href='/msa/members/css/jquery-ui.css' rel='stylesheet' type='text/css'>
 
-
-
-        </div>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>

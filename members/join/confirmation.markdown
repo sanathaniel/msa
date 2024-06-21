@@ -8,7 +8,7 @@ sidebar:
 
 
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -245,12 +245,6 @@ accommodating your needs.
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
-
-
-
-
-
-        </div>
 
 
 

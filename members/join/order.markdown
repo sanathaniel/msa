@@ -6,7 +6,7 @@ sidebar:
   nav: join_nav
 ---
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -1166,12 +1166,6 @@ sidebar:
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
-
-
-
-
-
-        </div>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>

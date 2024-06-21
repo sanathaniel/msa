@@ -6,7 +6,7 @@ sidebar:
   nav: join_nav
 ---
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -311,11 +311,6 @@ sidebar:
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
 <script type='text/javascript'>(function(){
 enable_items_with(['#_o6729p210c2348','#_o6729p211c2348','#_o6729p212c2348','#_o6729p749c2348'],[],true)})()</script>
-
-
-
-
-        </div>
 
 
 
