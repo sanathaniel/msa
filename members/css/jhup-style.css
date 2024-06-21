@@ -1,0 +1,248 @@
+
+ul.jhup-nav {
+  display: inline-block;
+  list-style: outside none none;
+  padding-bottom: 0.5ex;
+  padding-left: 0ex;
+  padding-right: 0ex;
+  padding-top: 0.5ex;
+}
+
+ul.jhup-nav li {
+  display: inline;
+  padding-right: 0.5ex;
+  padding-left: 0;
+}
+
+ul.jhup-nav li.jhup-nav-right {
+  /*float: right;*/
+  padding-left: 0.5ex;
+}
+
+ul.jhup-nav li a { text-decoration: none; }
+ul.jhup-nav li a:hover { text-decoration: underline; }
+
+a.obvious {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+fieldset {
+    width: fit-content;
+}
+
+
+/*ul.top-nav li {
+    list-style: none;
+    display: inline-block;
+}
+ul.top-nav {
+    padding-left: 0ex;
+    margin-left: 0ex;
+    padding-bottom: 1ex;
+}
+ul.top-nav li {
+    padding-left: 0ex;
+    padding-right: 1.5ex;
+    display: inline-block;
+}
+ul.top-nav * a {
+    text-decoration: none;
+}
+ul.top-nav * a:hover {
+    text-decoration: underline;
+}
+*/
+
+.required-label       { font-weight: bolder; }
+.required-label:after { content: '*'; }
+
+/* Align some <th> to the left. */
+.left-th th, th.left-th { text-align: left; }
+
+.top-align { vertical-align: top; }
+
+/* Align money values to the right. */
+.money-cell {
+  text-align: right; /* vertical-align: top; */
+  margin-left: 1.5ex;
+}
+.item-price { vertical-align: top; }
+
+/* Error in a price input. */
+input.price-error { background-color: red; }
+input.input-error { background-color: red; }
+
+.error-messages, .info-messages {
+    display: inline-block;
+    border: 1px dashed black;
+    padding: 1ex;
+    list-style: none;
+    margin-left: 2ex;
+}
+.error-message, .info-message {
+    font-size: 120%;
+    font-weight: bolder;
+    font-style: italic;
+}
+.error-message {
+    color: red;
+}
+
+.hidden-text {
+    color: #999;
+    font-size: smaller;
+}
+
+table.joint-details {
+    padding-left: 4ex;
+}
+
+.inventory {
+    font-size: 80%;
+}
+
+table.directory-results * td, table.directory-results * th {
+    white-space: nowrap;
+}
+table.directory-results * th {
+    cursor: pointer;
+    position: sticky;
+		top: 0;
+		background-color: #f2f2f2;
+}
+
+table.cart-table {
+    padding-bottom: 3ex;
+}
+
+table.order-history thead tr th,
+table.order-history tbody tr td {
+    vertical-align: top;
+}
+
+table.order-history * td,table.order-history * th {
+    padding: 0.5ex;
+    text-align: left;
+}
+
+table.order-history * span.pkg-cmp {
+    font-size: smaller;
+    font-style: italic;
+}
+table.item-table {
+    min-width: 70ex;
+    padding-top: 3ex;
+}
+.item-desc-col {
+    padding-right: 4ex;
+    width: 80ex;
+}
+.item-price-col {
+    width: 10ex;
+}
+.item-col {
+}
+
+/*membership directory padding and zebra striping*/
+#searchresults tr td, #searchresults tr th {
+  padding: 5px;
+}
+#searchresults thead tr {
+  background-color: #f2f2f2
+}
+#searchresults tbody tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+form {
+  width:100%;
+  overflow:auto;
+}
+#navbar {
+	overflow-x: auto;
+	overflow-y: scroll !important;
+	height: 90vh;
+}
+
+.skipnav, .vis-hidden {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+.skipnav:focus {
+    position: static;
+    width: auto;
+    height: auto;
+}
+
+
+/* Start of the changes away from tables for edit-address. */
+.edit-address-item {
+  margin-top: 1.5ex;
+}
+.edit-address-label, .edit-address-label-wid, .edit-address-input {
+  display: inline-block;
+}
+.edit-address-label {
+  min-width: 16ex;
+}
+
+.not-a-table {
+    display: inline-grid;
+    grid-row-gap: 0.5ex;
+    grid-column-gap: 0.5ex;
+}
+.not-a-table .td-1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.not-a-table .td-2 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+.not-a-table .td-3 {
+  grid-column-start: 5;
+  grid-column-end: 6;
+}
+.not-a-table .td-4 {
+  grid-column-start: 7;
+  grid-column-end: 8;
+}
+.not-a-table .td-5 {
+  grid-column-start: 9;
+  grid-column-end: 10;
+}
+.not-a-table .td-1-2 {
+  /* Span column one and two. */
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+.not-a-table .td-1-3 {
+  /* Span columns one, two and three. */
+  grid-column-start: 1;
+  grid-column-end: 6;
+}
+.not-a-table .td-1-5 {
+  grid-column-start: 1;
+  grid-column-end: 10;
+}
+.was-a-th {
+  /*font-size: larger;*/
+  font-weight: bolder;
+}
+.joint-table-row {
+    padding-top: 1ex;
+    padding-left: 6ex;
+}
+.td-1, .td-2, .td-3, .td-4, .td-5 {
+    min-width: 1em;
+}
+.item-row .select-cell {
+    text-align: center;
+}
+.item-row td {
+    vertical-align: top;
+}
