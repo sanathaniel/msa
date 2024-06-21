@@ -1,10 +1,12 @@
 ---
 layout: single
-title: Login
+title: Log-in
 permalink: /members/login/
 sidebar:
-  nav: members_nav
+  nav: login_nav
 ---
+
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -13,14 +15,98 @@ sidebar:
   <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
   <title>MSA Membership - Log in</title>
-  <link rel="stylesheet" href="/msa/tree/gh-pages/_sass/minimal-mistakes/msa-style.css" type="text/css">
-  <link rel="stylesheet" href="/msa/tree/gh-pages/_sass/minimal-mistakes/jhup-style.css" type="text/css">
-  <link href="/msa/tree/gh-pages/_sass/minimal-mistakes/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-  <link href="/msa/members/msa/img/msa-favicon.png" rel= "shortcut icon" type="image/gif" />
+  <link rel="stylesheet" href="/msa/members/css/msa-style.css" type="text/css">
+  <link rel="stylesheet" href="/msa/members/css/jhup-style.css" type="text/css">
+  <link href="/msa/members/css/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+  <link href="/msa/members/img/msa-favicon.png" rel= "shortcut icon" type="image/gif" />
 
 </head>
 
 <body>
+<a class="skipnav" href="#maincontent">Skip to main content</a>
+  <div id="wrap">
+    <div class="header" style="width: 900px;">
+      <div class="logo">
+        <a href="/index.html">
+        <img src="/msa/members/img/MSABanner.png" alt=""></a>
+      </div>
+
+      <div class="clear"></div>
+    </div><!-- end header -->
+
+    <div id="inner-wrap">
+      <div id="topnav">
+        <ul id="MenuBar1" class="MenuBarHorizontal">
+          <li class="color_holder"></li>
+        </ul>
+      </div>
+
+      <div id="left">
+        <h1 class="colorbox">Modernism Society of America</h1>
+      </div><!-- end left -->
+
+      <div id="main">
+        <div class="headblock">
+          <h1 class="title">Member Services</h1>
+        </div>
+
+        <div class="content">
+          
+
+<nav>
+  <div class="jhup-nav-div">
+    <ul class="jhup-nav">
+      <li>
+        <a href="/msa/members/join">Join/renew</a>
+      </li>
+      
+      <li>
+        <a href="/msa/members/contribute">Contribute</a>
+      </li>
+      
+  
+      
+      <li>
+        <a href="/msa/members/conference">Conference</a>
+      </li>
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      <li>
+        <a href="/msa/members/order-history">Order history</a>
+      </li>
+  
+      <li>
+        <a href="/msa/members/cart">Cart</a>
+      </li>
+  
+      
+  
+      <li>
+        <a href="/msa/members/profile">Profile</a>
+      </li>
+  
+      <li>
+        <a href="/msa/members/directory">Directory</a>
+      </li>
+  
+      <li>
+        <a href="https://faq.press.jhu.edu/msa/">FAQ</a>
+      </li>
+  
+      
+    </ul>
+  </div>
+</nav>
 
 
 <!-- <h1>Modernist Studies Association</h1> -->
@@ -57,7 +143,7 @@ sidebar:
   <a href="/msa/members/add-login" class="forgotten">
     Add username
   </a><br>
-  <input name="csrf_token" value="{SSHA}ZXHg1+kpGbsg6kNSoGk6HMFzlyAVLBbb" type="hidden">
+  <input name="csrf_token" value="{SSHA}2K3DMEPXIlFympNDwTGWnP3fqSjhk4wz" type="hidden">
 </form>
 
 Not a customer? Create an account <a href="/msa/members/register">here</a>.<br>
@@ -75,16 +161,7 @@ Not a customer? Create an account <a href="/msa/members/register">here</a>.<br>
 
         </div>
 
-        <div id="bottom">
-          <div class="copyright">
-            <img src="/msa/members/msa/img/jhupcolophon.gif" class="colophon" alt="Johns Hopkins University Press Colophon"> <a href="http://press.jhu.edu">Johns Hopkins University Press</a> | &#169; The Modernist Studies Association
-          </div>
-        </div>
-      </div><!-- end main -->
 
-      <div id="footer"></div>
-    </div><!-- end inner-wrap -->
-  </div><!-- end wrap -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>
 <script async src="/msa/members/js/msa-analytics.js"></script>

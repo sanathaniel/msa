@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Contribute
-permalink: /members/contribute/
+permalink: /members/join/contribute/
 sidebar:
-  nav: members_nav
+  nav: join_nav
 ---
 
 <!DOCTYPE html>
@@ -15,10 +15,10 @@ sidebar:
   <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
   <title>MSA Membership - Contributions</title>
-  <link rel="stylesheet" href="/msa/tree/gh-pages/_sass/minimal-mistakes/msa-style.css" type="text/css">
-  <link rel="stylesheet" href="/msa/tree/gh-pages/_sass/minimal-mistakes/jhup-style.css" type="text/css">
-  <link href="/msa/tree/gh-pages/_sass/minimal-mistakes/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-  <link href="/msa/members/msa/img/msa-favicon.png" rel= "shortcut icon" type="image/gif" />
+  <link rel="stylesheet" href="/msa/members/css/msa-style.css" type="text/css">
+  <link rel="stylesheet" href="/msa/members/css/jhup-style.css" type="text/css">
+  <link href="/msa/members/css/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+  <link href="/msa/members/img/msa-favicon.png" rel= "shortcut icon" type="image/gif" />
 
 </head>
 
@@ -121,7 +121,7 @@ sidebar:
 
 
   <button type="submit">Add to cart</button>
-  <input name="csrf_token" value="{SSHA}0wf9CsRRED0LbbyCGh6lUTGBj1IVLBbb" type="hidden">
+  <input name="csrf_token" value="{SSHA}4vCAht1eHY0HWUEMjhPdYc+uewzhk4wz" type="hidden">
 </form>
 
 </main>
@@ -135,16 +135,6 @@ sidebar:
 
         </div>
 
-        <div id="bottom">
-          <div class="copyright">
-            <img src="/msa/members/msa/img/jhupcolophon.gif" class="colophon" alt="Johns Hopkins University Press Colophon"> <a href="http://press.jhu.edu">Johns Hopkins University Press</a> | &#169; The Modernist Studies Association
-          </div>
-        </div>
-      </div><!-- end main -->
-
-      <div id="footer"></div>
-    </div><!-- end inner-wrap -->
-  </div><!-- end wrap -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>
 <script async src="/msa/members/js/msa-analytics.js"></script>
