@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Log-in
+title: Member Services
 permalink: /members/login/
 sidebar:
   nav: login_nav
@@ -23,34 +23,11 @@ sidebar:
 </head>
 
 <body>
-<a class="skipnav" href="#maincontent">Skip to main content</a>
-  <div id="wrap">
-    <div class="header" style="width: 900px;">
-      <div class="logo">
-        <a href="/index.html">
-        <img src="/msa/members/img/MSABanner.png" alt=""></a>
-      </div>
 
-      <div class="clear"></div>
-    </div><!-- end header -->
+<div id="main">
 
-    <div id="inner-wrap">
-      <div id="topnav">
-        <ul id="MenuBar1" class="MenuBarHorizontal">
-          <li class="color_holder"></li>
-        </ul>
-      </div>
 
-      <div id="left">
-        <h1 class="colorbox">Modernism Society of America</h1>
-      </div><!-- end left -->
-
-      <div id="main">
-        <div class="headblock">
-          <h1 class="title">Member Services</h1>
-        </div>
-
-        <div class="content">
+<div class="content">
           
 
 <nav>
@@ -61,42 +38,25 @@ sidebar:
       </li>
       
       <li>
-        <a href="/msa/members/contribute">Contribute</a>
+        <a href="/msa/members/join/contribute">Contribute</a>
       </li>
       
-  
-      
       <li>
-        <a href="/msa/members/conference">Conference</a>
-      </li>
-      
-  
-      
-  
-      
-  
-      
-  
-      
-  
-      
-  
-      <li>
-        <a href="/msa/members/order-history">Order history</a>
+        <a href="/msa/members/join/order">Order history</a>
       </li>
   
       <li>
-        <a href="/msa/members/cart">Cart</a>
+        <a href="/msa/members/join/cart">Cart</a>
       </li>
   
       
   
       <li>
-        <a href="/msa/members/profile">Profile</a>
+        <a href="/msa/members/login/profile">Profile</a>
       </li>
   
       <li>
-        <a href="/msa/members/directory">Directory</a>
+        <a href="/msa/members/login/directory">Directory</a>
       </li>
   
       <li>
@@ -116,7 +76,7 @@ sidebar:
 
 
 <h3>Log in</h3>
-<form action="/msa/members/log-in" method="post">
+<form action="/msa/members/login" method="post">
   <table border="0">
     <tbody>
       <tr>
@@ -134,17 +94,25 @@ sidebar:
       </tr>
     </tbody>
   </table>
-  <a href="/msa/members/forgot-password" class="forgotten">
+<ul>
+	<li>
+  <a href="/msa/members/login/password" class="forgotten">
     Reset password
+	</li>
+	<li>
   </a><br>
-  <a href="/msa/members/forgot-username" class="forgotten">
+  <a href="/msa/members/login/username" class="forgotten">
     Retrieve username
+	</li>
+	<li>
   </a><br>
-  <a href="/msa/members/add-login" class="forgotten">
+  <a href="/msa/members/join/profile" class="forgotten">
     Add username
   </a><br>
+  	</li>
   <input name="csrf_token" value="{SSHA}2K3DMEPXIlFympNDwTGWnP3fqSjhk4wz" type="hidden">
 </form>
+
 
 Not a customer? Create an account <a href="/msa/members/register">here</a>.<br>
 <p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p>

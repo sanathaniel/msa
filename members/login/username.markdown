@@ -29,9 +29,6 @@ sidebar:
 <main id="maincontent">
 
 
-
-
-<h3>Retrieve username</h3>
 <form action="/msa/members/forgot-username" method="post">
   <table>
     <tr>
@@ -42,7 +39,7 @@ sidebar:
     <tr>
       <td colspan="2">
         <button type="submit">Submit</button>
-        <a href="/msa/members/log-in">Cancel</a>
+        <a href="/msa/members/login">Cancel</a>
       </td>
     </tr>
   </table>

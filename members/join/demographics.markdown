@@ -42,7 +42,7 @@ accommodating your needs.
 </p>
 
 
-<p><a href="/msa/members/check-out">Continue to check-out</a></p>
+<p><a href="/msa/members/checkout">Continue to check-out</a></p>
 
 
 
@@ -51,7 +51,7 @@ accommodating your needs.
 
 
 
-<form method="post" action="/msa/members/check-out/demographics/2348">
+<form method="post" action="/msa/members/checkout/demographics/2348">
   <div>
     
     <p><em>Questions requiring a response are marked with an asterisk (*).</em></p>
@@ -234,7 +234,7 @@ accommodating your needs.
     <button type="submit" id='save_btn'>Save</button>
     
     
-      <a href='/msa/members/check-out'>Continue to check-out</a>
+      <a href='/msa/members/checkout'>Continue to check-out</a>
     
   </div>
   <input name="csrf_token" value="" type="hidden">
