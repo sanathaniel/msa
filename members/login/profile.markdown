@@ -6,8 +6,6 @@ sidebar:
   nav: login_nav
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
@@ -210,12 +208,6 @@ style='padding-bottom:3ex'>
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
-
-
-
-
-
-        </div>
 
 
 

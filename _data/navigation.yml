@@ -1,6 +1,8 @@
 # main links
 
 about_nav:
+  - title: "About"
+    url: /about/
   - title: "Mission & Values"
     url: /about/mission/
   - title: "Constitution & Bylaws"
@@ -13,6 +15,8 @@ about_nav:
     url: /about/past-presidents/
 
 members_nav:
+      - title: "Members"
+        url: /members/
       - title: "Join/Renew Membership"
         url: /members/join/
       - title: "Login"
@@ -29,6 +33,8 @@ members_nav:
         url: /members/travel-grants/
 
 conference_nav:
+      - title: "Conference"
+        url: /conference/
       - title: "Upcoming Conferences"
         url: /conference/upcoming-conferences/
       - title: "MSA/MLA"
@@ -41,6 +47,8 @@ conference_nav:
         url: /conference/conference-access/
     
 prizes_nav:
+      - title: "Prizes"
+        url: /prize/
       - title: "Shortlist"
         url: /prizes/shortlist/
       - title: "Nominations"
@@ -55,6 +63,8 @@ prizes_nav:
         url: /prizes/previous-winners/
     
 journal_nav:
+      - title: "Journal"
+        url: /journal/
       - title: "Modernism/modernity"
         url: https://www.press.jhu.edu/journals/modernismmodernity
       - title: "Print+ Online"
