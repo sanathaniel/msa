@@ -38,4 +38,4 @@ sidebar:
 </ul>
 <p><i>The MSA Code of Conduct was drafted by the Code of Conduct Subcommittee 2/2/21; and approved by the Executive Committee in 2/21; it was reviewed and revised 2/18/21 and 1/11/24. It is lightly adapted from the Code of Conduct prepared by the Council of Editors of Learned Journals with grateful acknowledgment.</i></p>
 
-                            <!-- #EndEditable -->
+<!-- #EndEditable -->
