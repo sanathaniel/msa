@@ -67,8 +67,8 @@ sidebar:
 
 <p>It is the author's sole responsibility to obtain permissions for illustrations, as well as any copyright clearances required for the publication of a submission. A black-and-white glossy print or a 300 dpi TIFF file of each illustration will be needed by the time of publication. Captions should be written in a separate document, with appropriate credits and permissions. The Print Plus platform can accommodate additional media, and the editors encourage their inclusion.</p>
 
-<p>All correspondence regarding book reviews should be directed to <a href="modernism.modernityreviews@gmail.com
-">mailto:modernism.modernityreviews@gmail.com</a>.</p>
+<p>All correspondence regarding book reviews should be directed to <a href="mailto:modernism.modernityreviews@gmail.com
+">modernism.modernityreviews@gmail.com</a>.</p>
 
 For all other correspondence contact <a href="mailto:modernism.modernity@gmail.com">modernism.modernity@gmail.com</a>.
        

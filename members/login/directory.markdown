@@ -51,7 +51,6 @@ sidebar:
 
 <form method='get' action='/msa/members/directory'>
 
-<h4>Name and address</h4>
 <table>
   
   <tr>
@@ -397,7 +396,7 @@ sidebar:
     </td>
   
   </tr>
-</table>
+
 
 <h4>Customer demographics</h4>
 <table>

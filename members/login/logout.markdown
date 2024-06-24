@@ -7,8 +7,6 @@ sidebar:
 ---
 
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
@@ -33,26 +31,12 @@ sidebar:
 <p>You have been logged out. Come <a href="/msa/members/login">back</a> any time.</p>
 
 </main>
+
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
 
 
-
-
-
-        </div>
-
-        <div id="bottom">
-          <div class="copyright">
-            <img src="/msa/members//img/jhupcolophon.gif" class="colophon" alt="Johns Hopkins University Press Colophon"> <a href="http://press.jhu.edu">Johns Hopkins University Press</a> | &#169; The Modernist Studies Association
-          </div>
-        </div>
-      </div><!-- end main -->
-
-      <div id="footer"></div>
-    </div><!-- end inner-wrap -->
-  </div><!-- end wrap -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>
 <script async src="/msa/members/js/msa-analytics.js"></script>
