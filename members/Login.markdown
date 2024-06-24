@@ -38,18 +38,12 @@ sidebar:
       </li>
       
       <li>
-        <a href="/msa/members/join/contribute">Contribute</a>
-      </li>
-      
-      <li>
         <a href="/msa/members/join/order">Order history</a>
       </li>
   
       <li>
         <a href="/msa/members/join/cart">Cart</a>
       </li>
-  
-      
   
       <li>
         <a href="/msa/members/login/profile">Profile</a>
@@ -58,12 +52,7 @@ sidebar:
       <li>
         <a href="/msa/members/login/directory">Directory</a>
       </li>
-  
-      <li>
-        <a href="https://faq.press.jhu.edu/msa/">FAQ</a>
-      </li>
-  
-      
+        
     </ul>
   </div>
 </nav>
@@ -94,35 +83,32 @@ sidebar:
       </tr>
     </tbody>
   </table>
+</form>
+
 <ul>
 	<li>
   <a href="/msa/members/login/password" class="forgotten">
-    Reset password
+    Reset password</a><br>
 	</li>
 	<li>
-  </a><br>
+
   <a href="/msa/members/login/username" class="forgotten">
-    Retrieve username
+    Retrieve username</a><br>
 	</li>
 	<li>
-  </a><br>
   <a href="/msa/members/join/profile" class="forgotten">
-    Add username
-  </a><br>
+    Add username</a><br>
   	</li>
-  <input name="csrf_token" value="{SSHA}2K3DMEPXIlFympNDwTGWnP3fqSjhk4wz" type="hidden">
-</form>
+<input name="csrf_token" value="{SSHA}2K3DMEPXIlFympNDwTGWnP3fqSjhk4wz" type="hidden">
+
 
 
 Not a customer? Create an account <a href="/msa/members/register">here</a>.<br>
 <p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p>
 
-
-</main>
 <script type="text/javascript" src="/msa/members/js/jquery.js"> </script>
 <script type="text/javascript" src="/msa/members/js/jquery.doubleScroll.js"></script>
 <script type="text/javascript" src="/msa/members/js/jhup.js"> </script>
-
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122948754-11"></script>
@@ -133,6 +119,3 @@ Not a customer? Create an account <a href="/msa/members/register">here</a>.<br>
 'https://jhup.ladesk.com/scripts/track.js',
 function(e){ LiveAgent.createButton('uyox0una', e); });
 </script>
-
-</body>
-</html>

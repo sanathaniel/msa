@@ -16,7 +16,6 @@ layout: home
           <a href="about/mission" class="btn btn--light-outline btn--large">Learn More</a>
 		</p>
     </div>
-</span>
   
 	</div>
 
@@ -84,7 +83,7 @@ layout: home
 					<img src="assets/vorticism2.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Digital Programming</h3>
-				<figcaption  class="archive__item-title">Examine this summer's digital conference</figcaption>
+				<figcaption  class="archive__item-title">Examine this year's digital content</figcaption>
 			<a href="https://sanathaniel.github.io/msa/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
 		
