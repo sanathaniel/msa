@@ -57,7 +57,7 @@ sidebar:
   <input name="csrf_token" value="{SSHA}KkZhNlspgFTRc7aKAJM1gSE+zfXhk4wz" type="hidden">
 </form>
 
-<br><a class='obvious' href="/msa/members/check-out">Check out</a><br>
+<br><a class='obvious' href="/msa/members/checkout">Check out</a><br>
 
 
 

@@ -9,17 +9,17 @@ sidebar:
 <!-- #BeginEditable "content" -->
 
 <h3>Congratulations to our recently elected MSA Board members!</h3>
-<br/>
+
 <ul>
-<li>
-	2nd Vice President: Amanda Golden
-</li>
-<li>
-	Interdisciplinary Studies Chair: Joel Terence  Rhone
-</li>
-<li>
-	International Relations Chair: Yasna Bozhkova
-</li>
+	<li>
+		2nd Vice President: Amanda Golden
+	</li>
+	<li>
+		Interdisciplinary Studies Chair: Joel Terence  Rhone
+	</li>
+	<li>
+		International Relations Chair: Yasna Bozhkova
+	</li>
 </ul>
 
 

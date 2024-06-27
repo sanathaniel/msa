@@ -15,18 +15,16 @@ about_nav:
     url: /about/past-presidents/
 
 members_nav:
-      - title: "Members"
+      - title: "Membership"
         url: /members/
       - title: "Join/Renew Membership"
         url: /members/join/
       - title: "Login"
         url: /members/login/
-      - title: "Advocacy Handbook"
-        url: /members/handbook/
       - title: "Listserv"
         url: /members/listserv/
-      - title: "Directory"
-        url: /members/directory/
+      - title: "Advocacy Handbook"
+        url: /members/handbook/
       - title: "Affiliations"
         url: /members/affiliations/
       - title: "Research Travel Grants"
@@ -73,6 +71,8 @@ journal_nav:
         url: https://muse.jhu.edu/journal/131
     
 join_nav:
+      - title: "Join/Renew Membership"
+        url: /members/join/
       - title: "Cart"
         url: /members/join/cart
       - title: "Contribute"
@@ -83,12 +83,12 @@ join_nav:
         url: /members/join/checkout
         
 login_nav:
+      - title: "Login"
+        url: /members/login/
       - title: "Profile"
         url: /members/login/profile
       - title: "Register"
         url: /members/login/register
-      - title: "Directory"
-        url: /members/login/directory
       - title: "Log-out"
         url: /members/login/logout
 
@@ -109,30 +109,40 @@ main:
   - title: "Members"
     url: /members/
     children:
+        -   title: "Membership"
+            url: /members/
         -   title: "Join/Renew Membership"
-            url: /members/member-services/
+            url: /members/join/
+        -   title: "Login"
+            url: /members/login/
+        -   title: "Listserv"
+            url: /members/listserv/
         -   title: "Advocacy Handbook"
-            url: /members/advocacy-handbook/
-        -   title: "Directory"
-            url: /members/directory/
+            url: /members/handbook/
+        -   title: "Affiliations"
+            url: /members/affiliations/
         -   title: "Research Travel Grants"
             url: /members/travel-grants/
   - title: "Conference"
     url: /conference/
     children:
-        -   title: "MSA 2024"
-            url: /conference/MSA2024/
+        -   title: "Conference"
+            url: /conference/
         -   title: "Upcoming Conferences"
             url: /conference/upcoming-conferences/
-        -   title: "Past Conferences"
-            url: /conference/past-conferences/
         -   title: "MSA/MLA"
             url: /conference/MSA-MLA/
+        -   title: "Digital Programming"
+            url: /conference/digital/
+        -   title: "Past Conferences"
+            url: /conference/past-conferences/
         -   title: "Conference Access"
-            url: /conference/conference_access/
+            url: /conference/conference-access/
   - title: "Prizes"
     url: /prize/
     children:
+        -   title: "Prizes"
+            url: /prize/
         -   title: "Nominations"
             url: /prizes/nominations/
         -   title: "Book Prize"
