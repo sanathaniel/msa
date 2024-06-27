@@ -47,12 +47,7 @@ sidebar:
   
       <li>
         <a href="/msa/members/login/profile">Profile</a>
-      </li>
-  
-      <li>
-        <a href="/msa/members/login/directory">Directory</a>
-      </li>
-        
+      </li>        
     </ul>
   </div>
 </nav>
