@@ -18,9 +18,7 @@ members_nav:
       - title: "Membership"
         url: /members/
       - title: "Join/Renew Membership"
-        url: /members/join/
-      - title: "Login"
-        url: /members/login/
+        url: https://www.press.jhu.edu/journals/cart/log-in
       - title: "Listserv"
         url: /members/listserv/
       - title: "Advocacy Handbook"
@@ -112,9 +110,7 @@ main:
         -   title: "Membership"
             url: /members/
         -   title: "Join/Renew Membership"
-            url: /members/join/
-        -   title: "Login"
-            url: /members/login/
+            url: https://www.press.jhu.edu/journals/cart/log-in
         -   title: "Listserv"
             url: /members/listserv/
         -   title: "Advocacy Handbook"
