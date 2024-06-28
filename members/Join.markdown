@@ -30,7 +30,7 @@ sidebar:
 
 
 
-<form method="post" action="/msa/members/add-to-cart">
+<form method="post" action="/msa/members/cart">
 
   
     <h3>Join</h3>
