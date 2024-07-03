@@ -44,7 +44,7 @@ sidebar:
       <li>
         <a href="https://www.press.jhu.edu/journals/cart/register">Join MSA</a>
       </li>
-       
+        
     </ul>
   </div>
 </nav>
