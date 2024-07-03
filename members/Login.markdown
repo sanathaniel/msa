@@ -52,6 +52,6 @@ sidebar:
 
 <!-- <h1>Modernist Studies Association</h1> -->
 <main id="maincontent">
-
+ 
 
 <p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p>

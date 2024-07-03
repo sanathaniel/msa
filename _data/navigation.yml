@@ -92,7 +92,7 @@ login_nav:
         url: https://www.press.jhu.edu/journals/cart/register
       - title: "Join MSA"
         url: /members/login/logout
-
+ 
 main:
   - title: "About"
     url: /about/
