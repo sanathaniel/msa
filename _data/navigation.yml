@@ -87,8 +87,10 @@ login_nav:
         url: https://www.press.jhu.edu/journals/cart/log-in
       - title: "Profile"
         url: https://www.press.jhu.edu/journals/cart/profile
-      - title: "Join MSA"
+      - title: "Register"
         url: https://www.press.jhu.edu/journals/cart/register
+      - title: "Join MSA"
+        url: https://www.press.jhu.edu/journals/cart/for-sale?oc=42
 
 main:
   - title: "About"
