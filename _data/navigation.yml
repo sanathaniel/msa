@@ -17,9 +17,7 @@ about_nav:
 members_nav:
       - title: "Membership"
         url: /members/
-      - title: "Join/Renew Membership"
-        url: /members/join/
-      - title: "Login"
+      - title: "Member Services"
         url: /members/login/
       - title: "Listserv"
         url: /members/listserv/
@@ -83,13 +81,15 @@ join_nav:
         url: /members/join/checkout
         
 login_nav:
-      - title: "Login"
+      - title: "Member Services"
         url: /members/login/
+      - title: "Log-In"
+        url: https://www.press.jhu.edu/journals/cart/log-in
       - title: "Profile"
-        url: /members/login/profile
+        url: https://www.press.jhu.edu/journals/cart/profile
       - title: "Register"
-        url: /members/login/register
-      - title: "Log-out"
+        url: https://www.press.jhu.edu/journals/cart/register
+      - title: "Join MSA"
         url: /members/login/logout
 
 main:

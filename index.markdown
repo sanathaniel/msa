@@ -49,7 +49,7 @@ layout: home
 				</div>
 				<h3>Membership</h3>
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association</figcaption>
-			<a href="https://www.press.jhu.edu/journals/cart/log-in" class="btn btn--primary">Join</a>
+			<a href="members/join/" class="btn btn--primary">Join</a>
 		</div>
 		
 		<div class ="feature__item">
