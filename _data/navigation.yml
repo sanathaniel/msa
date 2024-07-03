@@ -1,5 +1,4 @@
-# main links
-
+# main links 
 
 about_nav:
   - title: "About"
@@ -88,11 +87,9 @@ login_nav:
         url: https://www.press.jhu.edu/journals/cart/log-in
       - title: "Profile"
         url: https://www.press.jhu.edu/journals/cart/profile
-      - title: "Register"
-        url: https://www.press.jhu.edu/journals/cart/register
       - title: "Join MSA"
-        url: /members/login/logout
- 
+        url: https://www.press.jhu.edu/journals/cart/register
+
 main:
   - title: "About"
     url: /about/
