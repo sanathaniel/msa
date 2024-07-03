@@ -81,8 +81,6 @@ join_nav:
         url: /members/join/checkout
         
 login_nav:
-      - title: "Join/Renew Membership"
-        url: /members/login/
       - title: "Log-In"
         url: https://www.press.jhu.edu/journals/cart/log-in
       - title: "Profile"
