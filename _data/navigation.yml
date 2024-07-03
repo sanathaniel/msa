@@ -17,7 +17,7 @@ about_nav:
 members_nav:
       - title: "Membership"
         url: /members/
-      - title: "Member Services"
+      - title: "Join/Renew Membership"
         url: /members/login/
       - title: "Listserv"
         url: /members/listserv/
@@ -81,7 +81,7 @@ join_nav:
         url: /members/join/checkout
         
 login_nav:
-      - title: "Member Services"
+      - title: "Join/Renew Membership"
         url: /members/login/
       - title: "Log-In"
         url: https://www.press.jhu.edu/journals/cart/log-in
