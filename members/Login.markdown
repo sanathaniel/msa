@@ -30,28 +30,14 @@ sidebar:
 <div class="content">
           
  
-<nav>
-  <div class="jhup-nav-div">
-    <ul class="jhup-nav">
-      <li>
-        <a href="https://www.press.jhu.edu/journals/cart/log-in">Log-in</a>
-      </li>
-      
-      <li>
-        <a href="https://www.press.jhu.edu/journals/cart/profile">Profile</a>
-      </li>
-  
-      <li>
-        <a href="https://www.press.jhu.edu/journals/cart/register">Join MSA</a>
-      </li>
-        
-    </ul>
-  </div>
-</nav>
+<p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Returning members may <a href="https://www.press.jhu.edu/journals/cart/log-in">Log-in</a> here. You may update your MSA <a href="https://www.press.jhu.edu/journals/cart/profile">Profile</a> on this page. To <a href="https://www.press.jhu.edu/journals/cart/register">join MSA</a> first create an account here. Then<a href="https://www.press.jhu.edu/journals/cart/for-sale?oc=42">purchase or renew your membership here.</a>
+</p>
+
+<p>Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p> 
 
 
 <!-- <h1>Modernist Studies Association</h1> -->
 <main id="maincontent">
  
 
-<p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p>
+
