@@ -29,7 +29,7 @@ sidebar:
 
 <div class="content">
           
-
+ 
 <nav>
   <div class="jhup-nav-div">
     <ul class="jhup-nav">
