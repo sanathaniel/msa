@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Member Services
+title: Join/Renew Membership
 permalink: /members/login/
 sidebar:
   nav: login_nav
@@ -30,7 +30,7 @@ sidebar:
 <div class="content">
           
  
-<p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Returning members may <a href="https://www.press.jhu.edu/journals/cart/log-in">Log-in</a> here. You may update your MSA <a href="https://www.press.jhu.edu/journals/cart/profile">Profile</a> on this page. To <a href="https://www.press.jhu.edu/journals/cart/register">join MSA</a> first create an account here. Then<a href="https://www.press.jhu.edu/journals/cart/for-sale?oc=42">purchase or renew your membership here.</a>
+<p style='max-width:100ex' class='footer-text'>We contract with Johns Hopkins University Press (JHUP) for publishing and membership management services. Returning members may <a href="https://www.press.jhu.edu/journals/cart/log-in">log-in</a> here. You may <a href="https://www.press.jhu.edu/journals/cart/profile">update your MSA profile</a> on this page. To <a href="https://www.press.jhu.edu/journals/cart/register">join MSA</a> first create an account, then <a href="https://www.press.jhu.edu/journals/cart/for-sale?oc=42">purchase or renew your membership here.</a>
 </p>
 
 <p>Refer to the <a href="https://www.press.jhu.edu/about/jhup-privacy-policy">JHUP Privacy Policy</a> for details on use and protection of your account data.</p> 
