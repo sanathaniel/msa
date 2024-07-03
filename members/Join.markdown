@@ -30,7 +30,7 @@ sidebar:
 
 
 
-<form method="post" action="/msa/members/cart">
+<form method="post" action="https://www.press.jhu.edu/journals/cart/cart">
 
   
     <h3>Join</h3>
