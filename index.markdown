@@ -29,7 +29,7 @@ layout: home
 					<img src="assets/The_Migration_Series_Panel_3.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2024 Chicago</h3>
-				<figcaption  class="archive__item-title">Register for the Annual Conference</figcaption>
+				<figcaption  class="archive__item-title">Register for the Annual Conference.</figcaption>
 			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
 		
@@ -38,7 +38,7 @@ layout: home
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Shortlist</h3>
-				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist</figcaption>
+				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist.</figcaption>
 			<a href="prize/" class="btn btn--primary">Commend</a>
 		</div>		
 		
@@ -47,8 +47,8 @@ layout: home
 					<img src="assets/MSAMasthead.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>Membership</h3>
-				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association</figcaption>
-			<a href="members/join/" class="btn btn--primary">Join</a>
+				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
+			<a href="/msa/members/login/" class="btn btn--primary">Join</a>
 		</div>
 		
 		<div class ="feature__item">
@@ -56,7 +56,7 @@ layout: home
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
 				</div>
 				<h3>Print+</h3>
-				<figcaption  class="archive__item-title">Modernism/modernity is reaching a broader scholarly community through its Print+ platform</figcaption>
+				<figcaption  class="archive__item-title">Modernism/modernity reaches new audiences through its Print+ platform.</figcaption>
 			<a href="https://modernismmodernity.org/" class="btn btn--primary">Read</a>
 		</div>	
 		
@@ -65,7 +65,7 @@ layout: home
 					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>2023 Book Prizes</h3>
-				<figcaption  class="archive__item-title">Come celebrate the latest prize-winning scholarly works and the complete 2023 shortlists</figcaption>
+				<figcaption  class="archive__item-title">Come see the complete 2023 prize shortlists.</figcaption>
 			<a href="/prize/" class="btn btn--primary">Celebrate</a>
 		</div>
 		
@@ -74,7 +74,7 @@ layout: home
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>Modernist Networks</h3>
-				<figcaption  class="archive__item-title">Explore the ever-growing repository of digital scholarship</figcaption>
+				<figcaption  class="archive__item-title">Explore the ever-growing repository of digital scholarship.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
@@ -83,7 +83,7 @@ layout: home
 					<img src="assets/vorticism2.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Digital Programming</h3>
-				<figcaption  class="archive__item-title">Examine this year's digital content</figcaption>
+				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>
 			<a href="https://sanathaniel.github.io/msa/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
 		
@@ -101,7 +101,7 @@ layout: home
 					<img src="assets/Between_the_Acts.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Between the Acts</h3>
-				<figcaption  class="archive__item-title">Last summer scholars gathered from across the globe through this digital community</figcaption>
+				<figcaption  class="archive__item-title">Look back on the digital programming that expanded out global community.</figcaption>
 			<a href="/msa/conference/bta2022/exhibits.html" class="btn btn--primary">Share</a>
 		</div>
 
