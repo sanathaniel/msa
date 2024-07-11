@@ -28,7 +28,7 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/The_Migration_Series_Panel_3.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA 2024 Chicago</h3>
+				<h3>MSA24: Chicago</h3>
 				<figcaption  class="archive__item-title">Register for the Annual Conference.</figcaption>
 			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
@@ -73,8 +73,8 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
-				<h3>Modernist Networks</h3>
-				<figcaption  class="archive__item-title">Explore the ever-growing repository of digital scholarship.</figcaption>
+				<h3>ModNets</h3>
+				<figcaption  class="archive__item-title">Explore Modernist Networks' repository of digital scholarship.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
@@ -82,7 +82,7 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/vorticism2.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Digital Programming</h3>
+				<h3>Digital Programs</h3>
 				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>
 			<a href="https://sanathaniel.github.io/msa/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
@@ -91,7 +91,7 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/msa2023logo.png" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA 2023: Brooklyn</h3>
+				<h3>MSA23: Brooklyn</h3>
 				<figcaption  class="archive__item-title">Review the fantastic program from last year's conference.</figcaption>
 			<a href="/msa/conference/msa2023/" class="btn btn--primary">Review</a>
 		</div>
