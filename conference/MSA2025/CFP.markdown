@@ -20,15 +20,15 @@ footer: false
 <div class="CFP-full">
 <div class="CFP-body">
 
-<img src="/msa/conference/MSA2024/assets/The_Migration_Series_Panel_3_a.jpg" max-height="1200px" width="100%">
-<div class="banner-caption" style="margin-left: 30px; margin-right: 30px;">
-	<div class="image-credit" style="font-weight:bold; font-size: 12px;">
-		Image Credit: Jacob Lawrence, The Migration Series, Panel no. 3: From every southern town migrants left by the hundreds to travel north, between 1940 and 1941, Casein tempera on hardboard 12 x 18 in.; 30.48 x 45.72cm. The Phillips Collection, Acquired 1942.
-	</div>
-	<div class="header-main" style="padding:20px; font-size: 36px; color:#bd252b; text-align:center; letter-spacing: 2px; word-spacing: 8px;">
-		CHICAGO MSA 24 NOVEMBER 7-10, 2024 
+<div class="page__hero--overlay"
+style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/krasner_celebration.jpeg);">
+	<div class="wrapper">
+	  <h1 id="page-title" class="page__title" itemprop="headline">       
+		  CFP for MSA Boston       
+	  </h1> 
 	</div>
 </div>
+
 <p>
 </p>
 <h1 style="background-color:#237567;color:white; text-align:center;" >CFP for the Modernist Studies Association 2024 Annual Conference</h1>
