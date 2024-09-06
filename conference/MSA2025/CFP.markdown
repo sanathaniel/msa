@@ -1,6 +1,5 @@
 ---
-layout: single
-title: CFP
+layout: conference
 permalink: /conference/MSA2025/CFP/
 sidebar:
   nav: conf_nav

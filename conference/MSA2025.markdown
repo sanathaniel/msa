@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: conference
 title: MSA 2025
 permalink: /conference/MSA2025/
 sidebar:

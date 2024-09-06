@@ -1,6 +1,5 @@
 ---
-layout: single
-title: Program
+layout: conference
 permalink: /conference/MSA2025/program/
 sidebar:
   nav: conf_nav
