@@ -1,5 +1,23 @@
 # main links
 
+conf_nav:
+  - title: "MSA 2025"
+    url: /MSA2025/
+  - title: "CFP"
+    url: /CFP/
+  - title: "Registration"
+    url: /registration/
+  - title: "Seminars"
+    url: /seminars/
+  - title: "Workshops"
+    url: /workshops/
+  - title: "Special Events"
+    url: /special-events/
+  - title: "Travel and Accomodations"
+    url: /travel/
+  - title: "Program"
+    url: /program/
+
 about_nav:
   - title: "About"
     url: /about/
