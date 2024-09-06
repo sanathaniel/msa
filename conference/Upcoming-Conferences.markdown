@@ -10,14 +10,14 @@ sidebar:
 
 <hr> 
 
-<h2>MSA CHICAGO: MIGRATION</h2>
+<h2>MSA BOSTON</h2>
 
-<a href="/msa/conference/MSA2024">
+<a href="/msa/conference/MSA2025">
 <img src="/msa/assets/migration_standard_trimmed.jpg" height="300px" />
 </a>
 
 <p><strong>
-<a href="/msa/conference/MSA2024"
+<a href="/msa/conference/MSA2025"
 >MSA 2024: November 7-10, 2024, The Drake Hotel, Chicago, IL</a>
 </strong></p>
 				

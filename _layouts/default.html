@@ -29,7 +29,9 @@
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
-        {% include_cached footer.html %}
+		{% unless page.footer == false %}
+          {% include_cached footer.html %}
+        {% endunless %}
       </footer>
     </div>
 
