@@ -2,7 +2,9 @@
 layout: single
 title: CFP
 permalink: /conference/MSA2025/CFP/
-
+sidebar:
+  nav: conf_nav
+masthead: false
 ---
 
 <body>
