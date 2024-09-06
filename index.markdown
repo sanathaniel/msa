@@ -29,7 +29,7 @@ layout: home
 					<img src="assets/The_Migration_Series_Panel_3.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA24: Chicago</h3>
-				<figcaption  class="archive__item-title">Register for the Annual Conference.</figcaption>
+				<figcaption  class="archive__item-title">Check out the CFP for MSA25: Boston.</figcaption>
 			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
 		
@@ -89,12 +89,23 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
+					<img src="assets/The_Migration_Series_Panel_3.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA24: Chicago</h3>
+				<figcaption  class="archive__item-title">Review the program from this year's conference</figcaption>
+			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
+		</div>
+		
+		<!--
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
 					<img src="assets/msa2023logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA23: Brooklyn</h3>
 				<figcaption  class="archive__item-title">Review the fantastic program from last year's conference.</figcaption>
 			<a href="/msa/conference/msa2023/" class="btn btn--primary">Review</a>
 		</div>
+		-->
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">

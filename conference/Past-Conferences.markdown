@@ -11,6 +11,15 @@ Follow the links below to see programs for past MSA conferences.
 <p>Follow the links below to see programs for past MSA conferences.</p>
 <ul>
 	<li>
+		<a href="http://msa.press.jhu.edu/conferences/msa2024/">MSA
+			2024: Chicago, November 7-10, 2024</a>
+		<br>
+		<a
+			href="https://msa.press.jhu.edu/conferences/msa2024/MSA_2023_Program_10_13_23.pdf"
+			style="margin-left: 50px; font-size: 75%;">download the
+			conference program</a>
+	</li>
+	<li>
 		<a href="http://msa.press.jhu.edu/conferences/msa2023/">MSA
 			2023: Brooklyn, October 26-29, 2023</a>
 		<br>
