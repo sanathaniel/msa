@@ -5,6 +5,8 @@ sidebar:
   nav: conf_nav
 masthead: false
 footer: false
+classes:
+  - dark-theme
 ---
 
 <body>
