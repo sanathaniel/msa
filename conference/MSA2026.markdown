@@ -1,0 +1,10 @@
+---
+layout: conference
+title: MSA 2025
+permalink: /conference/MSA2025/
+sidebar:
+  nav: conf_nav
+masthead: false
+footer: false
+---
+
