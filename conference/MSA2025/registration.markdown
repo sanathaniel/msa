@@ -19,7 +19,7 @@ style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0
 <body>
 
 
-<div class="post">
+
   <p><strong><a target="_blank" href="/msa/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
 
     <p>
@@ -53,7 +53,7 @@ style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0
 
   <p><strong><a target="_blank" href="/msa/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
 			
-</div>
+
 			
 <!--	  
       <li><strong>After September 15:</strong> </li>
