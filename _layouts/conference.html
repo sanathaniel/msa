@@ -5,6 +5,8 @@ classes:
   - dark-theme
 ---
 
+<div style="background-color:black;">
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -80,4 +82,6 @@ classes:
   {% elsif page.id and page.related %}
     {% include page__related.html posts=site.posts %}
   {% endif %}
+</div>
+
 </div>
