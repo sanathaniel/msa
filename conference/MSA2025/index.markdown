@@ -7,7 +7,6 @@ masthead: false
 footer: false
 ---
 
-<div style="background-color:black;">
 
 	<div class="page__hero--overlay"
 	style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(assets/subway_2022.jpeg);">
@@ -18,5 +17,3 @@ footer: false
 		<p class="page__lead">"...a quotation that capture the conference spirit"
 		</p>     
 	</div>
-
-</div>
