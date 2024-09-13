@@ -65,12 +65,12 @@
   }
 
   li {
-    display: inline-block;
+    display: inline;
     float: left;
     margin-left: -1px;
 
     a {
-      display: inline-block;
+      display: inline;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
       font-family: $sans-serif;
