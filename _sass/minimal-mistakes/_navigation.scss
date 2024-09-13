@@ -350,7 +350,7 @@
   @include breakpoint(max-width $large - 1px) {
     label {
       position: relative;
-      display: inline;
+      display: block;
       padding: 0.5em 2.5em 0.5em 1em;
       color: $gray;
       font-size: $type-size-6;
@@ -445,7 +445,7 @@
   list-style-type: square;
   padding-left: 0.5em;
   padding-right: 0.5em;
-  display: inline;
+  display: inline-flex;
 
   a {
     color: inherit;
