@@ -443,9 +443,11 @@
 .nav__list .nav__items {
   margin: 0;
   font-size: 1.25rem;
+  display: flex-wrap;
 
   a {
     color: inherit;
+	list-style-type: circle;
   }
 
   .active {
@@ -494,13 +496,14 @@
 .nav__sub-title {
   display: block;
   padding-left: 2em;
+  list-style-type: circle;
   margin: 0.5rem 0;
   padding: 1rem 1rem 0;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border: 1px solid $border-color;
 }
 
 /*
