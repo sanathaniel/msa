@@ -15,7 +15,7 @@ style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0
 	  MSA2025: Boston       
   </h1> 
 	<p class="page__lead">
-		<div style="text-shadow: 0 0 6px #000000;">
+		<div style="text-shadow: 0 0 10px #000000;">
 			<br><br>
 			&emsp;For what to us were halls and corridors<br>
 			&emsp;However large and fitting, if we part<br>
