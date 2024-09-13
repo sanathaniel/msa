@@ -5,7 +5,25 @@ classes:
   - dark-theme
 ---
 
-<div style="background-color:black; color:white;">
+<style>
+  body {
+    background-color: black;
+	color: white;
+  }
+  
+  h1 {
+    color: #2dbae7;
+  }
+ 
+  h2 {
+    color: #96bb2d;
+  }
+  
+  h3 {
+    color: #f04d3a;
+  }
+  
+</style>
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -25,7 +43,9 @@ classes:
 
 <div id="main" role="main">
 
+<div style="background-color:black; color:#f07330;"> 
   {% include sidebar.html %}
+</div>
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
@@ -84,6 +104,4 @@ classes:
   {% elsif page.id and page.related %}
     {% include page__related.html posts=site.posts %}
   {% endif %}
-</div>
-
 </div>
