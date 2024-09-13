@@ -119,7 +119,7 @@
 
   /* next/previous buttons */
   &--pager {
-    display: block;
+    display: inline;
     padding: 1em 2em;
     float: left;
     width: 50%;
@@ -422,7 +422,7 @@
     }
 
     a {
-      display: block;
+      display: inline;
       padding: 0.25em 0;
 
       @include breakpoint($large) {
@@ -489,7 +489,7 @@
 }
 
 .nav__sub-title {
-  display: block;
+  display: inline;
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
