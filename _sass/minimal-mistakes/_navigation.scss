@@ -62,7 +62,7 @@
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
-	display: inline-flex;
+	display: block;
   }
 
   li {
@@ -350,7 +350,7 @@
   @include breakpoint(max-width $large - 1px) {
     label {
       position: relative;
-      display: block;
+      display: inline;
       padding: 0.5em 2.5em 0.5em 1em;
       color: $gray;
       font-size: $type-size-6;
@@ -442,7 +442,10 @@
 .nav__list .nav__items {
   margin: 0;
   font-size: 1.25rem;
-  display: inline-flex;
+  list-style-type: square;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  display: inline;
 
   a {
     color: inherit;
