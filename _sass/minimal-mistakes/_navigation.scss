@@ -59,10 +59,11 @@
 
   ul {
     margin: 0;
-    padding: 0;
+	width: 100%
+    padding-left: 2em;
     list-style-type: none;
     font-family: $sans-serif;
-	display: block;
+	display: flex-wrap;
   }
 
   li {
@@ -503,12 +504,12 @@
   padding-left: 2em;
   list-style-type: circle;
   margin: 0.5rem 0;
-  padding: 1rem 1rem 1rem 1rem;
+  padding: .5rem 1rem .5rem 1rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  /* border: 1px solid $border-color; */
+  /* border-below: 1px solid $border-color; */
 }
 
 /*
