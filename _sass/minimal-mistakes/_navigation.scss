@@ -442,6 +442,8 @@
 .nav__list .nav__items {
   margin: 0;
   font-size: 1.25rem;
+  padding-left: 2em;
+  list-style-type: circle;
 
   a {
     color: inherit;
