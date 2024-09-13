@@ -34,7 +34,7 @@ style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0
 
 <p>
 </p>
-<h1 style="background-color:#237567;color:white; text-align:center;" >CFP for the Modernist Studies Association 2024 Annual Conference</h1>
+
 
 <h1>Theme: Migration</h1>
 <!--

@@ -14,14 +14,16 @@ style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0
   <h1 id="page-title" class="page__title" itemprop="headline">       
 	  MSA2025: Boston       
   </h1> 
-	<p class="page__lead" style="text-shadow: 4px 4px 4px 4px;">
-<br><br>
-&emsp;For what to us were halls and corridors<br>
-&emsp;However large and fitting, if we part<br>
-&emsp;With this which is our birthright; if we lose<br>
-&emsp;A sentiment profound, unsoundable,<br>
-&emsp;Which Time's slow ripening alone can make,<br>
-&emsp;And man's blind foolishness so quickly mar.<br>
-&emsp;&emsp;&emsp;&mdash;Amy Lowell, from "Boston Athenæum"
+	<p class="page__lead">
+		<div style="text-shadow: 0 0 6px #000000;">
+			<br><br>
+			&emsp;For what to us were halls and corridors<br>
+			&emsp;However large and fitting, if we part<br>
+			&emsp;With this which is our birthright; if we lose<br>
+			&emsp;A sentiment profound, unsoundable,<br>
+			&emsp;Which Time's slow ripening alone can make,<br>
+			&emsp;And man's blind foolishness so quickly mar.<br>
+			&emsp;&emsp;&emsp;&mdash;Amy Lowell, from "Boston Athenæum"
+		</div>
 	</p>     
 </div>
