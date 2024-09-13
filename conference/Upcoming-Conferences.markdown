@@ -13,12 +13,12 @@ sidebar:
 <h2>MSA BOSTON</h2>
 
 <a href="/msa/conference/MSA2025">
-<img src="/msa/assets/migration_standard_trimmed.jpg" height="300px" />
+<img src="/msa/conference/MSA2025/assets/subway_2022.jpeg" height="300px" />
 </a>
 
 <p><strong>
 <a href="/msa/conference/MSA2025"
->MSA 2024: November 7-10, 2024, The Drake Hotel, Chicago, IL</a>
+>MSA 2025: Date, Hotel, Boston, MA</a>
 </strong></p>
 				
 <hr>

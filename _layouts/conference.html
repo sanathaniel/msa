@@ -5,6 +5,7 @@ classes:
   - dark-theme
 ---
 
+<div style="background-color:black; color:white;">
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -24,9 +25,8 @@ classes:
 
 <div id="main" role="main">
 
-<div style="background-color:black; color:white;">
   {% include sidebar.html %}
-</div>
+
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -86,3 +86,4 @@ classes:
   {% endif %}
 </div>
 
+</div>
