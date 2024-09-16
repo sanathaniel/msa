@@ -17,7 +17,8 @@ footer: false
 </h1> 
 
 <div>
-	<img src="assets/subway_2022_tall.jpg"
+	<div class="subway" 
+		style="background-image: url(assets/subway_2022_tall.jpg)">
 		<div class="center">
 			<button style="display:inline-block">
 				<a href="/msa/conference/MSA2025">
@@ -25,9 +26,8 @@ footer: false
 				</a>
 			</button>
 		</div>
-	
-	
-	>
+	</div>
+
 </div>
 
 
