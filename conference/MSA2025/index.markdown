@@ -9,6 +9,7 @@ footer: false
   body {
     background-color: feefdc;
 	color: black;
+	}
 </style>
 
 

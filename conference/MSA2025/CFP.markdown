@@ -24,23 +24,12 @@ classes:
 
 
 <div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+  style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
           CFP for MSA Boston   
       </h1>     
     </div>
-</div>
-
-
-
-<div class="page__hero--overlay"
-style="background-color: #000; background-image: box-shadow; 0 0 20px 20px white inset, url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
-	<div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline">       
-		  CFP for MSA Boston       
-	  </h1> 
-	</div>
 </div>
 
 <p>
