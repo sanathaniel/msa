@@ -17,7 +17,7 @@ classes:
 
 
 <div class="page__hero--overlay"
-  style="background-color: #000; filter: blur(10px); background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+  style="background-color: #000; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: black;">       
           CFP for MSA Boston   
