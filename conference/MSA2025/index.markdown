@@ -17,7 +17,7 @@ footer: false
 		MSA2025: Boston       
 </h1> 
 
-<img src="assets/subway_2022_tall.jpg">
+<img src="assets/subway_2022_tall.jpg" width="100%">
 
 
 <div>
