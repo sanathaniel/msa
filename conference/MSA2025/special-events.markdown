@@ -11,6 +11,7 @@ footer: false
   body {
     background-color: feefdc;
 	color: black;
+	}
 </style>
 
 <div class="page__hero--overlay"

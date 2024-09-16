@@ -14,6 +14,7 @@ classes:
   body {
     background-color: feefdc;
 	color: black;
+	}
 </style>
 
 <body>
