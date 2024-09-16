@@ -9,9 +9,9 @@ footer: false
 
 
 <div class="page__hero--overlay"
- style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+ style="background-color: #000; filter: blur(10px); background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
 	<div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline">       
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: black;">       
 		  Registration       
 	  </h1> 
 	</div>
@@ -19,7 +19,7 @@ footer: false
 
 <body>
 
-<div style="background-color:black; color:white;">
+<div>
 
   <p><strong><a target="_blank" href="/msa/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
 
