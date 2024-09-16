@@ -7,7 +7,12 @@ masthead: false
 footer: false
 ---
 
-
+<style>
+  body {
+    background-color: fcf0d8;
+	color: white;
+</style>
+	
 <div class="page__hero--overlay"
 style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(assets/subway_2022_tall.jpg);">
 <div class="wrapper">
