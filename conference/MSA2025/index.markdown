@@ -1,5 +1,5 @@
 ---
-layout: conference
+layout: conference-hub
 permalink: /conference/MSA2025/
 masthead: false
 footer: false
@@ -7,17 +7,39 @@ footer: false
 
 <style>
   body {
-    background-color: black;
-	color: white;
+    background-color: feefdc;
+	color: black;
 </style>
+
+
+<h1 id="page-title" class="page__title" itemprop="headline">       
+		MSA2025: Boston       
+</h1> 
+
+<div>
+	<img src="assets/subway_2022_tall.jpg"
+		<div class="center">
+			<button style="display:inline-block">
+				<a href="/msa/conference/MSA2025">
+					MSA 2025
+				</a>
+			</button>
+		</div>
 	
+	
+	>
+</div>
+
+
+
+<!--	
 <div class="page__hero--overlay"
 style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(assets/subway_2022_tall.jpg);">
 	<div class="wrapper">
 		<h1 id="page-title" class="page__title" itemprop="headline">       
 		MSA2025: Boston       
 		</h1> 
-		<!--
+		
 		<p class="page__lead">
 		
 			<div style="text-shadow: 5px 5px 10px #000000;">
@@ -32,6 +54,7 @@ style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0
 			</div>
 
 		</p> 	
-		-->    
+		 
 	</div>
 </div>
+-->

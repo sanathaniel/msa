@@ -10,21 +10,19 @@ classes:
   - dark-theme
 ---
 
+<style>
+  body {
+    background-color: feefdc;
+	color: black;
+</style>
+
 <body>
  
-<!--
-<div class="post">
-                <p><strong>CFP for the Modernist Studies Association’s Annual Conference</strong></p>
-
-<p><strong>MIGRATION</strong></p>
-
-<p><strong>Check back again soon on this page for the MSA 2024 Chicago conference Call for Papers.</strong></p>
--->
 <div class="CFP-full">
 <div class="CFP-body">
 
 <div class="page__hero--overlay"
-style="background-color: #000; background-image: box-shadow: 0 0 20px 20px white inset, url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+style="background-color: #000; background-image: box-shadow; 0 0 20px 20px white inset, url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
 		  CFP for MSA Boston       
