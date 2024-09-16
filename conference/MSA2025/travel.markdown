@@ -8,7 +8,7 @@ footer: false
 ---
 
 <div class="page__hero--overlay"
-style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 0)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
 		  Travel and Accomodations       

@@ -1,25 +1,25 @@
 ---
 layout: conference
 permalink: /conference/MSA2025/
-sidebar:
-  nav: conf_nav
 masthead: false
 footer: false
 ---
 
 <style>
   body {
-    background-color: fcf0d8;
+    background-color: black;
 	color: white;
 </style>
 	
 <div class="page__hero--overlay"
-style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(assets/subway_2022_tall.jpg);">
+style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(assets/subway_2022_tall.jpg);" "padding: 0 0 10em 0;">
 <div class="wrapper">
   <h1 id="page-title" class="page__title" itemprop="headline">       
 	  MSA2025: Boston       
   </h1> 
+	<!--
 	<p class="page__lead">
+	
 		<div style="text-shadow: 5px 5px 10px #000000;">
 			<br><br>
 			&emsp;For what to us were halls and corridors<br>
@@ -30,5 +30,7 @@ style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0
 			&emsp;And man's blind foolishness so quickly mar.<br>
 			&emsp;&emsp;&emsp;&mdash;Amy Lowell, from "Boston Athenæum"
 		</div>
-	</p>     
+
+	</p> 	
+	-->    
 </div>
