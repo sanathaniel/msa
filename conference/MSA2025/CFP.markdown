@@ -10,13 +10,6 @@ classes:
   - dark-theme
 ---
 
-<style>
-  body {
-    background-color: feefdc;
-	color: black;
-	}
-</style>
-
 <body>
  
 <div class="CFP-full">
