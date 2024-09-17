@@ -14,9 +14,6 @@ footer: false
 
 
 <h1 id="page-title" class="page__title" itemprop="headline">MSA25: INFRASTRUCTURE</h1> 		
-<br>
-<h2 style="color: #206db5;">Boston, November 7-10, 2025</h2>
-
 
 <div class="subway">
 	<img src="assets/subway_2022_tall.jpg" width="100%">
@@ -29,6 +26,7 @@ footer: false
 	<a href="workshops" class="btn7">WORKSHOPS</a>
 </div>
 
+<h1>Boston, November 7-10, 2025</h1>
 
 
 
