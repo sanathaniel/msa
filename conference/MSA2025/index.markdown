@@ -18,7 +18,7 @@ footer: false
 </h1> 
 
 <div class="subway">
-	<img src="assets/subway_2022_tall.jpg" style:"box-shadow: 0 0 8px 8px black inset;" width="100%">
+	<img src="assets/subway_2022_tall.jpg" width="100%">
 	<a href="special-events" class="btn1">EVENTS</a>
 	<a href="CFP" class="btn2">CFP</a>
 	<a href="program" class="btn3">PROGRAM</a>
