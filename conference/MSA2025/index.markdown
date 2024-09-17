@@ -21,11 +21,11 @@ footer: false
 	<img src="assets/subway_2022_tall.jpg" style:"box-shadow: 0 0 8px 8px black inset;" width="100%">
 	<a href="special-events" class="btn1">EVENTS</a>
 	<a href="CFP" class="btn2">CFP</a>
-	<a href="seminars" class="btn3">SEMINARS</a>
-	<a href="workshops" class="btn4">WORKSHOPS</a>
+	<a href="program" class="btn3">PROGRAM</a>
+	<a href="registration" class="btn4">REGISTRATION</a>
 	<a href="travel" class="btn5">TRAVEL</a>
-	<a href="registration" class="btn6">REGISTRATION</a>
-	<a href="program" class="btn7">PROGRAM</a>
+	<a href="seminars" class="btn6">SEMINARS</a>
+	<a href="workshops" class="btn7">WORKSHOPS</a>
 </div>
 
 
