@@ -19,11 +19,13 @@ footer: false
 
 <div class="subway">
 	<img src="assets/subway_2022_tall.jpg" width="100%">
-	<button class="btn1">CFP</button>
-	<button class="btn2">SEMINARS</button>
-	<button class="btn3">WORKSHOPS</button>
-	<button class="btn4">TRAVEL</button>
-	<button class="btn5">REGISTRATION</button>
+	<button class="btn1">EVENTS</button>
+	<button class="btn2">CFP</button>
+	<button class="btn3">SEMINARS</button>
+	<button class="btn4">WORKSHOPS</button>
+	<button class="btn5">TRAVEL</button>
+	<button class="btn6">REGISTRATION</button>
+	<button class="btn7">PROGRAM</button>
 </div>
 
 
