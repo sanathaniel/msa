@@ -14,7 +14,7 @@ footer: false
 
 
 <h1 id="page-title" class="page__title" itemprop="headline">       
-		MSA2025: Boston       
+		MSA25: <i>INFRASTRUCTURE<i><br>Boston, November 7-10, 2025
 </h1> 
 
 <div class="subway">
