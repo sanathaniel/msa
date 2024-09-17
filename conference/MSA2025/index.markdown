@@ -15,7 +15,7 @@ footer: false
 
 <h1 id="page-title" class="page__title" itemprop="headline">MSA25: INFRASTRUCTURE</h1> 		
 <br>
-<h2 style="color: #206db5;">Boston, November 7-10, 2025</h1>
+<h2 style="color: #206db5;">Boston, November 7-10, 2025</h2>
 
 
 <div class="subway">
