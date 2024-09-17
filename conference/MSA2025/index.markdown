@@ -17,7 +17,14 @@ footer: false
 		MSA2025: Boston       
 </h1> 
 
-<img src="assets/subway_2022_tall.jpg" width="100%">
+<div class="subway">
+	<img src="assets/subway_2022_tall.jpg" width="100%">
+	<button class="btn1">CFP</button>
+	<button class="btn2">SEMINARS</button>
+	<button class="btn3">WORKSHOPS</button>
+	<button class="btn4">TRAVEL</button>
+	<button class="btn5">REGISTRATION</button>
+</div>
 
 
 <div>
