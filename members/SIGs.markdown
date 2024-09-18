@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Join/SIGs
+title: Special Interest Groups
 permalink: /members/sigs/
 sidebar:
   nav: login_nav
