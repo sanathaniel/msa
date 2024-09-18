@@ -30,8 +30,8 @@ layout: home
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA2025 CFP</h3>
-				<figcaption  class="archive__item-title">CFP for MSA2025: Infrastructure.</figcaption>
-			<a href="/msa/conference/MSA2024" class="btn btn--primary">Meet</a>
+				<figcaption  class="archive__item-title">CFP for MSA2025: Infrastructure, in Boston.</figcaption>
+			<a href="/msa/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
@@ -105,7 +105,7 @@ layout: home
 				</div>
 				<h3>2023 Book Prizes</h3>
 				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
-			<a href="/prize/" class="btn btn--primary">Read</a>
+			<a href="/prize/previous-winners" class="btn btn--primary">Read</a>
 		</div>
 <!--
 				
