@@ -24,14 +24,15 @@ layout: home
 
 
 <div class="main-wrapper">
+
 	<div class="feature__wrapper">
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/The_Migration_Series_Panel_3.jpg" min-width="150" min-height="150"/>
+					<img src="assets/subway_thumbnail.jpeg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA24: Chicago</h3>
-				<figcaption  class="archive__item-title">Check out the CFP for MSA25: Boston.</figcaption>
-			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
+				<h3>MSA2025 CFP</h3>
+				<figcaption  class="archive__item-title">CFP for MSA2025: Infrastructure.</figcaption>
+			<a href="/msa/conference/MSA2024" class="btn btn--primary">Meet</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
@@ -40,7 +41,7 @@ layout: home
 				</div>
 				<h3>Prize Shortlist</h3>
 				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist.</figcaption>
-			<a href="prize/" class="btn btn--primary">Commend</a>
+			<a href="prize/" class="btn btn--primary">Celebrate</a>
 		</div>		
 		
 		<div class ="feature__item">
@@ -57,18 +58,19 @@ layout: home
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
 				</div>
 				<h3>Print+</h3>
-				<figcaption  class="archive__item-title">Modernism/modernity reaches new audiences through its Print+ platform.</figcaption>
+				<figcaption  class="archive__item-title">Modernism/modernity reaches new audiences through Print+.</figcaption>
 			<a href="https://modernismmodernity.org/" class="btn btn--primary">Read</a>
 		</div>	
 		
-		<div class ="feature__item">
+		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
+					<img src="assets/vonwerefkin_frauen_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>2023 Book Prizes</h3>
-				<figcaption  class="archive__item-title">Come see the complete 2023 prize shortlists.</figcaption>
-			<a href="/prize/" class="btn btn--primary">Celebrate</a>
+				<h3>SIGs</h3>
+				<figcaption  class="archive__item-title">Join a Special Interest Group</figcaption>
+			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
+		
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -94,10 +96,20 @@ layout: home
 				</div>
 				<h3>MSA24: Chicago</h3>
 				<figcaption  class="archive__item-title">Review the program from this year's conference</figcaption>
-			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
+			<a href="/msa/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 		
 		<!--
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>2023 Book Prizes</h3>
+				<figcaption  class="archive__item-title">Come see the complete 2023 prize shortlists.</figcaption>
+			<a href="/prize/" class="btn btn--primary">Celebrate</a>
+		</div>
+		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/msa2023logo.png" min-width="150" min-height="150"/>
