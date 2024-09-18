@@ -37,6 +37,8 @@ members_nav:
         url: /members/
       - title: "Join/Renew Membership"
         url: /members/login/
+      - title: "Join/SIGs"
+        url: /members/sigs/
       - title: "Listserv"
         url: /members/listserv/
       - title: "Advocacy Handbook"
