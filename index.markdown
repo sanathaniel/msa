@@ -27,7 +27,7 @@ layout: home
 	<div class="feature__wrapper">
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpeg" min-width="150" min-height="150"/>
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA2025 CFP</h3>
 				<figcaption  class="archive__item-title">CFP for MSA2025: Infrastructure.</figcaption>
@@ -66,7 +66,7 @@ layout: home
 					<img src="assets/vonwerefkin_frauen_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>SIGs</h3>
-				<figcaption  class="archive__item-title">Join a Special Interest Group</figcaption>
+				<figcaption  class="archive__item-title">Special Interest Groups shape the future of modernist studies</figcaption>
 			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
 		
@@ -86,7 +86,7 @@ layout: home
 				</div>
 				<h3>Digital Programs</h3>
 				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>
-			<a href="https://sanathaniel.github.io/msa/conference/digital/" class="btn btn--primary">Connect</a>
+			<a href="/msa/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
@@ -98,17 +98,17 @@ layout: home
 			<a href="/msa/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 		
-		<!--
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>2023 Book Prizes</h3>
-				<figcaption  class="archive__item-title">Come see the complete 2023 prize shortlists.</figcaption>
-			<a href="/prize/" class="btn btn--primary">Celebrate</a>
+				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
+			<a href="/prize/" class="btn btn--primary">Read</a>
 		</div>
-		
+<!--
+				
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/msa2023logo.png" min-width="150" min-height="150"/>
@@ -117,8 +117,7 @@ layout: home
 				<figcaption  class="archive__item-title">Review the fantastic program from last year's conference.</figcaption>
 			<a href="/msa/conference/msa2023/" class="btn btn--primary">Review</a>
 		</div>
-		-->
-		
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/Between_the_Acts.jpg" min-width="150" min-height="150"/>
@@ -127,7 +126,8 @@ layout: home
 				<figcaption  class="archive__item-title">Look back on the digital programming that expanded out global community.</figcaption>
 			<a href="/msa/conference/bta2022/exhibits.html" class="btn btn--primary">Share</a>
 		</div>
-
+		-->
+		
 	</div>	
 	
 	<div class="social-row">		
