@@ -2,11 +2,6 @@
 layout: home
 ---
 
-<style>
- body {
-	font-family: sans-serif;
-  }
-</style>	
 
 <div id="main-banner">
 
