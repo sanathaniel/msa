@@ -19,15 +19,14 @@ sidebar:
 	>Louise Hornby</a>, UCLA</p>
 <p><b>First Vice President</b>: <a href="mailto:ogonzale@wellesley.edu"
 	>Octavio González</a>, Wellesley College</p>
-<p><b>Second Vice President</b>: <a href="mailto:mbradshaw@luc.edu">Melissa Bradshaw</a>, Loyola University Chicago</p>
+<p><b>Second Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>New York Institute of Technology</p>
 <p><b>Past President</b>: <a href="mailto:amy.clukey@louisville.edu">Amy
 	Clukey</a>, University of Louisville</p>
-<p><b>Chair, Interdisciplinary Approaches</b>: <a
-		href="mailto:sls0009@auburn.edu">Sunny Stalter-Pace</a>, Auburn
-	University</p>
+<p><b>Chair, Interdisciplinary Studies Chair</b>: <a
+		href="mailto:joel.rhone@louisiana.edu">Joel Terence Rhone</a>, University of Louisiana</p>
 <p><b>Chair, International Relations</b>: <a
-		href="mailto:christos.hadjiyiannis@sprachlit.uni-regensburg.de"
-		>Christos Hadjiyiannis</a>, University of Regensburg</p>
+		href="mailto:yasna.bozhkova@parisnanterre.fr"
+		>Yasna Bozhkova</a>, Université Paris Nanterre</p>
 <p><b>Chair, Membership &amp; Elections</b>: <a
 	href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a>, CUNY Queens College<br />
 <p><b>Chair, Program</b>: <a href="mailto:pdabashi@brynmawr.edu"

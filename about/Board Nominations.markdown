@@ -6,8 +6,99 @@ sidebar:
   nav: about_nav
 ---
 
-<!-- #BeginEditable "content" -->
+                          <!-- #BeginEditable "content" -->
 
+
+
+<p><h2>Call for Applications: Co-editor of Modernism/modernity</h2></p>
+<p><strong>Due date: September 30, 2024</strong></p>
+
+<p>This year, the MSA Executive Committee will appoint a new co-editor of the Association’s official journal, Modernism/modernity. This co-editor will be appointed to a <strong>four-year term (July 1, 2025–July 1, 2029)</strong> and will serve as one of the journal’s editors, replacing Stephen Ross in that position. Please note: the Executive Committee will accept applications from editorial teams (of up to two editors) as well as from individuals.</p>
+
+<p>The incoming editor(s) will serve two years as the junior editor(s) to Anjali Nerlekar and then two years as the senior editor to her successor. Responsibilities and initiatives are coordinated between the junior and senior editors’ offices–whether teams or individuals. Each “office” (junior or senior) has responsibility for assigning peer review, editing, and the production of two print issues per year. Responsibilities for Print Plus are currently shared between the two editorial offices and book reviews are handled by the reviews editors Stefanie Sobelle and Martin Harries (now completing the first year of their three-year term, 2024-27).</p>
+
+<p>We strongly encourage applications from scholars who will further the MSA’s commitments to diversity, equity, and inclusion in all aspects of the journal.</p> 
+
+<p>Each editorial office receives $20,000 USD in annual support from Johns Hopkins University Press (JHUP); this is intended to cover some of the stipend toward the employment of a managing editor. Typically, the managing editor has been a graduate student at the co-editor’s institution, although we welcome applications from faculty at non-research universities, provided there is a cogent plan for securing adequate editorial support. Any other editorial office expenses must be covered by the co-editor’s institution; we strongly advise that any additional funding secured be sufficient to cover a second graduate student editor at full or half-time.</p>
+
+<p>*If you are applying as a team, please note: JHUP only provides two $20,000 stipends–one for the junior office, one for the senior office.  
+Applications should include:
+	<ul>
+		<li>a vision statement (approximately 1,000 words)</li>
+		<li>a description of qualifications (a paragraph)</li>
+		<li>a C.V. (editorial teams should include one for each member)</li>
+		<li>a statement about the funding resources to be brought to the position (including course releases, institutional support for the Managing Editor and other editorial support, etc.)</li>
+	</ul>
+		</p>
+
+<p>The Executive Committee will interview finalists for the position on Zoom in October.</p>
+
+<p>By <strong>no later than September 30, 2024</strong> applicants should send their materials as email attachments to MSA President Louise Hornby (lhornby@humnet.ucla.edu), and Modernism/modernity co-editors Stephen Ross (stephen.ross@concordia.ca) and Anjali Nerlekar (nerlekar@amesall.rutgers.edu).</p>
+
+<p>We strongly encourage inquiries about the position before applying and would appreciate hearing before the deadline from those who are considering submitting an application. The current editors will be happy to speak with those interested and answer any questions about the position. Please contact the MSA President and Modernism/modernity co-editors at the email addresses above.</p>
+
+
+
+<!--
+<h3>Congratulations to our recently elected MSA Board members!</h3>
+<br/>
+<ul>
+	<li>
+		2nd Vice President: Melissa Bradshaw
+	</li>
+	<li>
+		Contingent Faculty Representative: Kate Schnur
+	</li>
+	<li>
+		Membership and Elections Chair: Karen
+			Weingarten
+	</li>
+	<li>
+		Technology and Infrastructure Chair: Steven
+			Nathaniel
+	</li>
+	<li>
+		<i>Modernism/modernity</i> Book Review Co-Editors
+			(inaugural position): Stefanie Sobelle and Martin
+			Harries
+	</li>
+	<li>
+		Vice Program Chair, Matthew Levay
+	</li>
+</ul>
+-->
+<!--
+<p>There are no current open calls for nominations or open elections for
+	the MSA Board. Check this page again soon for information about
+	upcoming nominations and elections. You may also contact Erin Kappeler
+	(ekappeler@tulane.edu), Chair, Membership and Elections, with any
+	questions.</p>
+<p>&nbsp;</p>
+-->
+	
+<!--
+	<h3>The MSA Board is seeking nominations for four Executive Board positions:</h3>
+<br/>
+<ul>
+	<li>
+	<strong>2nd Vice President.</strong> The 2nd Vice President assumes office on the final day of the MSA conference in 2024, then proceeds to the position of 1st Vice President on the final day of the MSA conference in 2025, and then to that of President on the final day of the MSA conference in 2026.
+	</li>
+	<li>
+	<strong>Interdisciplinary Chair.</strong> The Interdisciplinary Chair fosters interactions among disciplines relevant to the study of modernism. The Interdisciplinary Chair also serves on Program Subcommittee and the Research Grant Subcommittee. The Interdisciplinary Chair serves a three-year term beginning on the final day of the MSA conference in 2024. 
+	</li>
+	<li>
+	<strong>International Relations Chair.</strong> The International Relations Chair plans conferences/ events to be held outside the USA, including sponsored MSA panels for our affiliated international organizations. They also recruit members from outside the USA. The International Relations chair serves a three-year term beginning on the final day of the MSA conference in 2024. 
+	</li>
+	<li>
+	<strong>Graduate Student Representative.</strong> The Grad Student Representative works to maintain, expand and support the MSA’s student community through networking, professional development, and liaising with other organizations. The Graduate Student Representative serves a two-year term beginning on the final day of the MSA conference in 2024. 
+	</li>                              
+</ul>
+
+<p>Official descriptions of these positions may be found at the MSA website (https://msa.press.jhu.edu/about/bylaws.html).</p>	                         
+-->
+					   
+					    
+ <!--
 <h3>Congratulations to our recently elected MSA Board members!</h3>
 
 <ul>
@@ -29,7 +120,7 @@ upcoming nominations and elections. You may also contact Erin Kappeler
 (ekappeler@tulane.edu), Chair, Membership and Elections, with any
 questions.</p>
 <p>&nbsp;</p>
-
+-->
 
 <!--
 <h3>The MSA Board is seeking nominations for four Executive Board positions:</h3>
@@ -247,3 +338,4 @@ less of our future conferences.</p>
 <h3>ABOUT THE MSA BOARD:</h3>
 
 <p>Since the inception of the MSA over a decade ago, membership has grown to almost 1000. Most of the organization’s work is done by volunteers on the MSA Board and their committees, with the assistance of an MSA administrator. Therefore, those deciding to run for election should be prepared to make a substantial time commitment to MSA. Board members also work individually and collectively to build the membership base, and to communicate with members and the larger academy concerning the Modernist Studies Association. The MSA Board is responsible for planning and executing the annual meeting in conjunction with representatives of the host institution; we believe that the liveliest and most provocative conferences result from attention to diversity of representation on the fronts of discipline, nation, race, and gender on the Board, among the membership, and on the annual program. Our most recent conferences have further diversified our membership and increased interdisciplinary and multicultural panel offerings. We expect no less of our future conferences.</p>
+                            <!-- #EndEditable -->
