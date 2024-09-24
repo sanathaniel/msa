@@ -16,7 +16,7 @@ footer: false
 <h1 id="page-title" class="page__title" itemprop="headline">MSA25: INFRASTRUCTURE</h1> 		
 
 <div class="subway">
-	<img src="assets/subway_2022_tall.jpg" width="100%">
+	<img src="assets/subway_landing" width="100%">
 	<a href="special-events" class="btn1">EVENTS</a>
 	<a href="CFP" class="btn2">CFP</a>
 	<a href="program" class="btn3">PROGRAM</a>
