@@ -41,7 +41,7 @@ layout: home
 				</div>
 				<h3>Prize Shortlist</h3>
 				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist.</figcaption>
-			<a href="prize/" class="btn btn--primary">Celebrate</a>
+			<a href="prize/shortlist/" class="btn btn--primary">Celebrate</a>
 		</div>		
 		
 		<div class ="feature__item">
