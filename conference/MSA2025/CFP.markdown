@@ -33,7 +33,7 @@ classes:
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #206db5; text-shadow: 4px 4px 4px rgb(254, 239, 220);">       
-          CFP for MSA Boston   
+          CFP for MSA 2025, Boston   
       </h1>     
     </div>
 </div>
@@ -42,7 +42,7 @@ classes:
 </p>
 
 
-<h1>Theme: Migration</h1>
+<h1>Theme: Infrastructure</h1>
 <!--
 <h2>
 <p>Chicago, IL, November 7-10, 2024</p>
