@@ -41,7 +41,7 @@ layout: home
 				</div>
 				<h3>Prize Shortlist</h3>
 				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist.</figcaption>
-			<a href="prize/shortlist/" class="btn btn--primary">Celebrate</a>
+			<a href="prizes/shortlist/" class="btn btn--primary">Celebrate</a>
 		</div>		
 		
 		<div class ="feature__item">
@@ -106,7 +106,7 @@ layout: home
 				</div>
 				<h3>2023 Book Prizes</h3>
 				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
-			<a href="/prize/previous-winners" class="btn btn--primary">Read</a>
+			<a href="/prizes/previous-winners" class="btn btn--primary">Read</a>
 		</div>
 <!--
 				
