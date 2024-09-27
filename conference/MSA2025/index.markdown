@@ -24,6 +24,9 @@ footer: false
 	<a href="travel" class="btn5">TRAVEL</a>
 	<a href="seminars" class="btn6">SEMINARS</a>
 	<a href="workshops" class="btn7">WORKSHOPS</a>
+	<!--
+	<img src="assets/subway_bottom.jpeg" width="100%">
+	-->
 </div>
 
 <h1>Boston, November 7-10, 2025</h1>
