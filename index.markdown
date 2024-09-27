@@ -31,7 +31,7 @@ layout: home
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA2025 CFP</h3>
-				<figcaption  class="archive__item-title">CFP for MSA2025: Infrastructure, in Boston.</figcaption>
+				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, in Boston.</figcaption>
 			<a href="/msa/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
 		</div>
 		
