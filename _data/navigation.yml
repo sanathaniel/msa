@@ -11,9 +11,9 @@ conf_nav:
     url: /conference/MSA2025/seminars/
   - title: "Workshops"
     url: /conference/MSA2025/workshops/
-  - title: "Special Events"
+  - title: "Events"
     url: /conference/MSA2025/special-events/
-  - title: "Travel and Accomodations"
+  - title: "Accomodations"
     url: /conference/MSA2025/travel/
   - title: "Program"
     url: /conference/MSA2025/program/
@@ -87,19 +87,7 @@ journal_nav:
         url: https://modernismmodernity.org/
       - title: "Read Online"
         url: https://muse.jhu.edu/journal/131
-    
-join_nav:
-      - title: "Join/Renew Membership"
-        url: /members/join/
-      - title: "Cart"
-        url: /members/join/cart
-      - title: "Contribute"
-        url: /members/join/contribute
-      - title: "Order"
-        url: /members/join/order
-      - title: "Checkout"
-        url: /members/join/checkout
-        
+           
 login_nav:
       - title: "Log-In"
         url: https://www.press.jhu.edu/journals/cart/log-in
