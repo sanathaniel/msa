@@ -39,8 +39,6 @@ members_nav:
         url: /members/login/
       - title: "SIGs"
         url: /members/sigs/
-      - title: "Listserv"
-        url: /members/listserv/
       - title: "Advocacy Handbook"
         url: /members/handbook/
       - title: "Affiliations"
@@ -97,6 +95,8 @@ login_nav:
         url: https://www.press.jhu.edu/journals/cart/register
       - title: "Join MSA"
         url: https://www.press.jhu.edu/journals/cart/for-sale?oc=42
+      - title: "Listserv"
+        url: /members/listserv/
 
 main:
   - title: "About"
