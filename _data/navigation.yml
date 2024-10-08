@@ -96,7 +96,7 @@ login_nav:
       - title: "Join MSA"
         url: https://www.press.jhu.edu/journals/cart/for-sale?oc=42
       - title: "Listserv"
-        url: /members/listserv/
+        url: /members/login/listserv/
 
 main:
   - title: "About"
