@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Listserv
-permalink: /members/listserv/
+permalink: /members/login/listserv/
 sidebar:
-  nav: members_nav
+  nav: login_nav
 ---
 
 <!-- #BeginEditable "content" -->
