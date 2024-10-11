@@ -7,7 +7,6 @@ sidebar:
 ---
 
 <!-- #BeginEditable "content" -->
-<h1>Previous Winners</h1>
 
 <!-- 2024 Book Prize-->
 <h1>MSA Book Prize (for a book published in 2022)</h1>
