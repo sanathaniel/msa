@@ -6,17 +6,12 @@ sidebar:
   nav: prizes_nav
 ---
 
- <!-- #BeginEditable "content" -->
-<!-- 2022 Book Prize -->
+<!-- #BeginEditable "content" -->
+<h1>Previous Winners</h1>
 
+<!-- 2024 Book Prize-->
+<h1>MSA Book Prize (for a book published in 2022)</h1>
 
-<h1>2023 MSA Book Prize</h1>
-
-<p>The Modernist Studies Association has announced its short list for
-	the MSA Book Prize for a book published in 2022. Many
-	congratulations to everyone who published books last year and to the
-	finalists below. The winner will be announced at the MSA conference
-	this fall.<br /><br /></p>
 <!-- FIRST NOMINEE -->
 <p>
 	<img
@@ -50,10 +45,6 @@ sidebar:
 	the naivété of ideological and social determinism in political
 	readings of de- and post-colonial writers now.</p>
 <!-- SECOND NOMINEE -->
-<p>
-	<img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg"
-		alt="" width="100" height="150" align="right" />
-<p> 
 <p>
 	<strong>HONORABLE MENTION: Michael Lucey, <em><a
 				href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo130500168.html"
@@ -112,7 +103,10 @@ sidebar:
 		alt="" width="100" height="150" align="right" />
 <p> 
 <!-- FOURTH NOMINEE -->
-
+<p>
+	<img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg"
+		alt="" width="100" height="150" align="right" />
+<p> 
 <p>
 	<strong>Kobena Mercer, <em><a
 				href="https://yalebooks.yale.edu/book/9780300247268/alain-locke-and-the-visual-arts/"
@@ -214,15 +208,375 @@ sidebar:
 	<br />Gabriel Hankins (Clemson University), Chair<br /> Lisi
 	Schoenbach (University of Tennessee, Knoxville)<br /> Julia Jordan
 	(University College London) </p>
+
+<!--First Book 2023-->
+
+<h1>MSA First Book Prize (for a book published in 2022)</h1>
+<p>The Modernist Studies Association has announced its short list for
+	the MSA First Book Prize for a book published in 2022. Many
+	congratulations to everyone who published books last year and to the
+	finalists below. The winner will be announced at the MSA conference
+	this fall.</p>
+<!-- FIRST NOMINEE -->
+<div>
+	<img src="https://yale-press-us.imgix.net/covers/9780300254037.jpg"
+		width="100" height="150" align="left" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>CO-WINNER: Aglaya Glebova, <em><a
+					href="https://yalebooks.yale.edu/book/9780300254037/aleksandr-rodchenko/"
+					target="_blank">Aleksandr Rodchenko: Photography in
+					the Time of Stalin</a></em> (Yale University Press,
+			2022)</strong>
+	</p>
+	<p>Aglaya Glebova’s elegant study of Aleksandr Rodchenko’s “shadow
+		oeuvre” has the feel of an instant classic. At once subtle and
+		ambitious, the book illuminates an era—that of the first Five
+		Year Plans (1928-1938)—in a way that will engage both art
+		historians and literary scholars. Through the lens of the single
+		artist study, Glebova shows how, despite their origin in
+		government propaganda efforts, Rodchenko’s knotty, eclectic
+		images fail to correspond to the ideal of the new Soviet
+		citizen. Focusing her critical gaze on an aesthetics of
+		prolongation and dwelling rather than action, and on the porous
+		and provisional, rather than crisis or rupture, Glebova
+		defamiliarizes a set of photographic concepts (perspective,
+		color, instantaneity, montage) and art historical categories,
+		from portraiture and landscape to the photo essay and album.
+			<em>Aleksandr Rodchenko: Photography in the Time of
+			Stalin</em> reconsiders the relation of art to
+		totalitarianism, elucidating a variety of “paths and
+		potentialities” beyond mere complicity, and asking how
+		photography might “hold open the vicissitudes of a moment.”</p>
+</div>
+
+<div>
+	<img
+		src="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780192895899.jpg"
+		width="100" height="150" align="left" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>CO-WINNER: Noreen Masud, <em><a
+					href="https://global.oup.com/academic/product/stevie-smith-and-the-aphorism-9780192895899"
+					target="_blank">Stevie Smith and the Aphorism: Hard
+					Language</a></em> (Oxford University Press,
+			2022)</strong>
+	</p>
+	<p>One wouldn’t expect a book tightly focused on a single poet and a
+		small form to feel expansive, but this is precisely the case
+		with Noreen Masud’s delightful and inventive <em>Stevie Smith
+			and the Aphorism: Hard Language</em>. Aphorism, in Masud’s
+		astute theorization, offers a “safe form” for dangerous feeling,
+		lingering at the “edge of conversation” and accommodating
+		“femaleness, queerness, illness, outsiderhood, and
+		unhearability.” With its “acrobatics of display and effacement,”
+		aphoristic poetry functions as a “self-concealing mode of
+		protest.” Each chapter interweaves Smith’s poetry with her
+		drawings, exploring various sources of aphoristic contradiction,
+		including classics, proverbs, etiquette guides, refrains,
+		quotations, fairytales, captions, and fragments. The book wears
+		its feminism lightly, dodging the logic of subversion and
+		considering the complexity of midcentury women’s writing via
+		Smith’s vexed relation to the “appropriate” and her conjunction
+		of waste and frugality, significance and dismissibility. One
+		need not be versed in Stevie Smith or even in poetry to love
+		reading this quirky and surprising book. </p>
+</div>
+<div>
+	<img
+		src="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780192863331.jpg"
+		width="100" height="150" align="right" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>Doug Battersby, <em><a
+					href="https://global.oup.com/academic/product/troubling-late-modernism-9780192863331"
+					target="_blank">Troubling Late Modernism: Ethics,
+					Feeling, and the Novel Form</a></em> (Oxford
+			University Press, 2022)</strong>
+	</p>
+	<p><em>Troubling Late Modernism</em> troubled us as critics, in
+		challenging and exciting ways. The authors Doug Battersby
+		examines look back on the developments of modernist literary
+		form—its ability to align readers’ perspectives with characters,
+		the deciphering demands it places on readers—and say something
+		like: <em>This is a powerful narrative tool—and perhaps an evil
+			one?</em> Through dazzlingly precise, detailed, and
+		convincing close readings, Battersby examines the ways these
+		authors put us as readers in morally compromised—or
+		victimized—positions. Nabokov sets up the reader like a victim
+		of harassment, made to feel perversely complicit when she
+		imputes a sexual meaning to language; Morrison’s novels offer
+		“enforced intimacies.” Often merely trying to understand a novel
+		seems to require the reader to participate in an eroticizing
+		impulse that might be morally monstrous. Battersby refuses to
+		accede to the critical tendency to convert erotic descriptions
+		of abused women into philosophical problems about the nature of
+		language, asking us, instead, to see close reading as an ethical
+		practice—indeed, the only practice capable of exposing and doing
+		justice to the most intense and disturbing elements of modernist
+		form.</p>
+</div>
+<!-- SECOND NOMINEE -->
+<!-- THIRD NOMINEE -->
+<div>
+	<img
+		src="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1639499523/northwest_298W/3641.jpg"
+		width="100" height="150" align="right" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>Preetha Mani, <em><a
+					href="https://nupress.northwestern.edu/9780810144996/the-idea-of-indian-literature/"
+					target="_blank">The Idea of Indian Literature:
+					Gender, Genre, and Comparative Method</a></em>
+			(Northwestern University Press/FlashPoints, 2022) </strong>
+	</p>
+	<p><em>The Idea of Indian Literature</em> offers an exciting
+		approach to both world literature and comparative literature.
+		The book advances a new methodology that unhooks national
+		literature from language, attending instead to anti-vernacular
+		projects of regional and national literature in India. This
+		precise and detailed study moves among Hindi, Tamil, and
+		Anglophone literature to advance an understanding of world
+		literature grounded not in a fixed corpus but, rather, in a
+		dynamic method of worlding: responses to shifting understandings
+		of literary value, constructions of literary history, and
+		emergent understandings of readership. In this expansive
+		theorization of modernism, the undertheorized realist short
+		story, with its persistent tropes of a feminized modernity,
+		emerges as a powerful new site. The author reveals a utopian
+		cosmopolitanism that emerges with and through regional and
+		national frames, moving beyond critiques of world literature as
+		essentially European or Western. Lucid and ambitious, this book
+		ends with a provocative coda, “Ten Theses on Indian Literature,”
+		which offers fresh insights to scholars of gender, translation,
+		global modernisms, postcolonial studies, and the institutional
+		turn in literary studies. </p>
+</div>
+<!-- FOURTH NOMINEE -->
+
+<!-- FIFTH NOMINEE -->
+<div>
+	<img
+		src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/80/9780226806914.jpg/jcr:content/9780226806914.jpg"
+		width="100" height="150" align="right" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>Autumn Womack, <em><a
+					href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo114655831.html"
+					target="_blank">The Matter of Black Living: The
+					Aesthetic Experiment of Racial Data,
+				1880-1930</a></em> (University of Chicago Press,
+			2022)</strong>
+	</p>
+	<p>We’re perhaps a little too quick to tell stories in which the
+		idea of data, or of documentation, marks a form of epistemic
+		violence imposed on African American life by white outsiders—or
+		so Autumn Womack argues, declaring that, by contrast, “data is
+		not this book’s antagonist.” Charting a rigorous, artful course
+		between two equally unsatisfying extremes—black sociability as
+		fundamentally undocumentable in its fugitive quality on the one
+		hand; the fantasy of unimpeachably good data on the other—<em>The
+		Matter of Black Living</em> demonstrates, via original and compelling
+		archival analysis, the ways African American people have seen in
+		data a horizon for their own creative practice. Despite the
+		pervasiveness of a white documentary gaze, the forms of data
+		Womack examines—the social survey, photographs of lynching
+		survivors, documentary film—persistently reveal African American
+		subjects and artists as analysts and users of documentation
+		technology itself, drawing our attention to the ways these
+		formats can point our attention to their own limitations. The
+		book ends by asking: “how to document the sociality of black
+		life?” The history it tells ensures that we understand the
+		effort to do so as an integral part of the history of black
+		modernist art.</p>
+</div>
 <hr />
+<!-- COMMITTEE -->
+<p><strong>MSA 2023 First Book Prize Committee</strong><br />Hannah
+	Freed-Thall (New York University), Chair<br /> Michaela Bronstein
+	(Stanford University)<br /> Sarah Ann Wells (University of
+	Wisconsin-Madison)<br />
+</p>
+
+<!--Edition 2023-->
+
+<h1>2023 Book Prize Shortlist: Edition, Anthology, or Essay
+	Collection</h1>
+<p>The Modernist Studies Association has announced its short list for
+	the 2023 MSA Book Prize for an Edition, Anthology, or Essay
+	Collection published in 2021 or 2022. We offer our congratulations
+	to all of the finalists. This prize is awarded every other year.</p>
+<!-- FIRST NOMINEE -->
+<div>
+	<img
+		src="https://images.routledge.com/common/jackets/crclarge/978036746/9780367466442.jpg"
+		width="100" height="150" align="right" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>WINNERS: Kirby Brown, Stephen Ross, and Alana Sayers, eds. <em><a
+					href="https://www.routledge.com/The-Routledge-Handbook-of-North-American-Indigenous-Modernisms/Brown-Ross-Sayers/p/book/9780367466442"
+					target="_blank">The Routledge Handbook of North
+					American Indigenous Modernisms</a></em> (Routledge,
+			2022)</strong>
+	</p>
+	<p>The <em>Routledge Handbook of North American Indigenous
+			Modernisms</em> explores Indigenous lives, literatures, and
+		cultural productions in North American from the late nineteenth
+		and early twentieth centuries. The volume crucially reshapes
+		canonicity in this period, attending to the ways that, in
+		contributor Philip J. Deloria’s words, “Indigenous Modernism
+		transformed the modern itself.” Chapters are exemplary for their
+		interdisciplinary scope and transnational juxtapositions, taking
+		up the ties between Indigenous and Black communities in the
+		Mississippi Delta, oral histories of the General Allotment Act,
+		representations of indigeneity in Caribbean print cultures, and
+		the Alaska Native solidarity networks, amongst other historical
+		and political constellations. The volume highlights key figures
+		of Indigenous cultural production and activism, including
+		Zitkála-Šá, Lynn Riggs, Paul Green, Henry Starr, Mourning Dove,
+		John Joseph Mathews, Joy Harjo, and Kent Monkman. Insisting upon
+		the centrality of settler-colonial dispossession to any
+		accounting of the modern, alongside longstanding histories of
+		native survivance, this powerful account of Indigenous thought
+		and action will be an essential resource for scholars and
+		teachers.<br /><br /></p>
+</div>
+<div>
+	<img
+		src="https://pennsylvania-press-us.imgix.net/covers/9780812225044.jpg"
+		width="100" height="150" align="right" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>Jacqueline Bhabha, Caroline Elkins, and Margareta
+			Matache, eds. <em><a
+					href="https://www.pennpress.org/9780812225044/time-for-reparations/"
+					target="_blank">Time for Reparations: A Global
+					Perspective</a></em> (University of Pennsylvania
+			Press, 2021)</strong>
+	</p>
+	<p><em>Time for Reparations</em> is an intervention that the New
+		Modernist Studies needs. The multidisciplinary contributors in
+		this essay collection explicate the global “traces carved by
+		unrepaired past injustice”— the long-lasting pain that various
+		nations, peoples, and communities endure. This collection raises
+		questions that will help reorient the theoretical and historical
+		horizons of the New Modernist Studies. For example: how do past
+		injustices transmit across generations and shape present
+		disempowerment? What are responsible and effective forms of
+		reparation? How does activist scholarship link the histories of
+		injustices to contemporary political changes? Through these
+		questions, <em>Time for Reparations</em> traces how the past
+		remains central to current injustices through four topical
+		sections—“Addressing the Legacy of Slavery,” “Reparations:
+		Precedents and Lessons Learned,” and “Outstanding Issues:
+		Unrepaired State-Sponsored Collective Injustice,” and “Ways
+		Forward for Reparations.” <em>Time for Reparations</em>
+		catalyzes a fundamental shift of conceptual frameworks in
+		approaching twentieth-century political and cultural histories.
+		<br /><br /></p>
+</div>
+<!-- SECOND NOMINEE -->
+
+<!-- THIRD NOMINEE -->
+<div>
+	<img
+		src="https://assets.cambridge.org/97811087/37449/cover/9781108737449.jpg"
+		width="100" height="150" align="left" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>Rachel Farebrother & Miriam Thaggert, eds., <em><a
+					href="https://www.cambridge.org/core/books/history-of-the-harlem-renaissance/FA8A4106E9340E65106B1EF892EF92AF?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark"
+					target="_blank">A History of the Harlem
+					Renaissance</a></em> (Cambridge University Press,
+			2021)</strong>
+	</p>
+	<p>Rachel Farebrother and Miriam Thaggert’s <em>A History of the
+			Harlem Renaissance</em> is an exceptionally thoughtful
+		volume that brings fresh perspective to a much-studied period of
+		literary innovation. The titular qualifier that announces this
+		as a history, rather than the history, acknowledges the
+		contributions to the field that have preceded it, and sets off
+		the work of this volume as additive, or, as the editors put it
+		in their introduction, as participating in “a long tradition of
+		revising, re-reading, and remaking the Harlem Renaissance” (11).
+		It makes welcome additions and revisions indeed, both bringing
+		new texts into the spotlight and refocusing scholarly attention
+		on form and genre in particular. Bringing together literature
+		with visual culture, popular culture, dance, and music, the book
+		covers well-known genres and also exceeds them to attend to
+		biography, bildungsroman, roman à clef, children’s literature,
+		short story, film, and more. The volume is not only an
+		introduction to the literature and history of the period, but
+		also to the histories, theories, and methodologies of the
+		scholarship that has been published about it. The editors’
+		introduction usefully outlines the ways in which African
+		American literary criticism and black studies more broadly can
+		be historicised by attending to the ways that the stakes of the
+		field have been articulated through iterative reevaluations of
+		the cultural production of the Harlem Renaissance period, and an
+		afterword by Deborah McDowell assesses what the scholarship
+		collected here portends for the future of the field. Across four
+		sections of critical essays engaged with “Re-Reading,”
+		“Experimenting,” “Re-Mapping,” and “Performing” the New Negro,
+		the contributors offer exceptionally incisive and insightful
+		considerations, both deep and wide-ranging, of the history and
+		legacy of this influential movement in African American literary
+		history.<br /><br />
+	</p>
+</div>
+<!-- FOURTH NOMINEE -->
+<div>
+	<img
+		src="https://www.psupress.org/images/covers/294wide/978-0-271-09135-8md_294.jpg"
+		width="100" height="150" align="right" style="padding:10px;" />
+	<p>
+		<br />
+		<strong>Eliot H. King and Abigail Susik, eds., <em><a
+					href="https://www.psupress.org/books/titles/978-0-271-09135-8.html"
+					target="_blank">Radical Dreams: Surrealism,
+					Counterculture, Resistance</a></em> (Pennsylvania
+			State University Press, 2022)</strong>
+	</p>
+	<p><em>Radical Dreams: Surrealism, Counterculture, Resistance</em>
+		shifts the traditional timeline of the surrealist movement,
+		moving beyond the interwar period to the 1960s, 1970s, and
+		1980s. This shift highlights the ties between a surrealist
+		aesthetic and radical politics, turning to the affinity groups,
+		underground subcultures, and student protest movements that
+		pronounced a commitment to surrealism as a mode of
+		anti-authoritarian resistance. A reconsideration of “Surrealism
+		as Radicalism,” as the introductory essay posits, leads to a
+		suite of essays that are particularly impressive for their
+		interdisciplinary breadth and transnational contours. Chapters
+		turn to the student protests of May ’68, Afrosurrealism, the
+		Situationist International, the Wobblies, and London punk. New
+		constellations emerge through the juxtaposition of a variety of
+		artists and political actors, including Charles Fourier, Roberto
+		Matta, Robert Rauschenberg, and Ted Joans. Drawing out the
+		interactions between late surrealist currents and a variety of
+		New Left political formations, spanning the sexual revolution to
+			<em>Earth First!</em>, this volume importantly reshapes the
+		historical contours of surrealism’s legacy.<br /><br /></p>
+</div>
+<hr />
+<!-- COMMITTEE -->
+<p><strong>MSA 2023 Edition, Anthology, or Collection Prize
+		Committee</strong><br /> Juno Richards (Yale University),
+	Chair<br />Amy Tang (University of Fraser Valley)<br />Joan Lubin
+	(Durham University) </p>
 
 
+	
+	
+	
 
+
+<!-- 2022 Book Prize -->
 <h1>MSA Book Prize (for a book published in 2021)</h1>
 <!-- WINNER -->
 <div>
 	
-		<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/73/9780226736136.jpg/jcr:content/9780226736136.jpg" alt="" width="100" height="150"
+		<img src="teachingArchive.jpeg" alt="" width="100" height="150"
 			align="right" />
 	<p>
 		<strong style="font-size:125%;">WINNER: </strong><strong>Rachel Sagner Buurma and Laura Heffernan, <em>
@@ -257,7 +611,7 @@ sidebar:
 		necessary tool to rebuke prevailing accounts of literary studies
 		that, the authors show, are as inaccurate as they are expedient.</p>
 	<!-- SECOND NOMINEE -->
-		<img src="https://minnesota-us.imgix.net/covers/9781517911577.jpg?auto=format&w=298&dpr=1&q=100" alt="" width="100" height="150"
+		<img src="blackPulp.jpeg" alt="" width="100" height="150"
 			align="right" />
 	<p>
 		<strong>Brooks Hefner, <em>
@@ -288,7 +642,7 @@ sidebar:
 		texts such as <i>Black Panther</i> and <i>Get Out</i>.</p>
 	<!-- THIRD NOMINEE -->
 	
-		<img src="https://texas-press-us.imgix.net/covers/9781477321805.jpg?auto=format&w=298&dpr=1&q=20" alt="" width="100"
+		<img src="modernityForTheMasses.avif" alt="" width="100"
 			height="150" align="right" />
 	
 	<p>
@@ -316,7 +670,7 @@ sidebar:
 		transnational modernism.</p>
 	<!-- FOURTH NOMINEE -->
 	
-		<img src="https://cup-us.imgix.net/covers/9780231201056.jpg?auto=format&w=350" alt="" width="100"
+		<img src="indiasForgottenFutures.avif" alt="" width="100"
 			height="150" align="right" />
 	
 	<p>
@@ -350,7 +704,7 @@ sidebar:
 		with far-reaching implications for scholars in the fields of film
 		studies, post-colonial studies, and modernist studies.</p>
 	<!-- FIFTH NOMINEE -->
-		<img src="https://images.ucpress.edu/covers/300/9780520344273.jpg" alt="" width="100" height="150"
+		<img src="lureOfTheImage.jpeg" alt="" width="100" height="150"
 			align="right" />
 	<p>
 		<strong>Daniel Morgan, <em>
@@ -382,7 +736,7 @@ sidebar:
 		camera identification.</p>
 	<!-- SIXTH NOMINEE -->
 	
-		<img src="https://assets.cambridge.org/97811089/64333/cover/9781108964333.jpg" alt="" width="100"
+		<img src="performanceAndModernity.jpeg" alt="" width="100"
 			height="150" align="right" />
 	
 	<p>
@@ -419,7 +773,7 @@ sidebar:
 <h1>MSA First Book Prize (for a book published in 2021)</h1>
 	<!-- FIRST NOMINEE -->
 	<div>
-		<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421440910.jpg?itok=VCXSOC3u" width="100" height="150"
+		<img src="makingLiberalismNew.jpeg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -446,7 +800,7 @@ sidebar:
 	</div>
 	<!-- SECOND NOMINEE -->
 	<div>
-		<img src="https://img.perlego.com/book-covers/3041632/9780226745183_300_450.webp" width="100" height="150"
+		<img src="remakingHumanDisposition.webp" width="100" height="150"
 			align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -476,7 +830,7 @@ sidebar:
 	</div>
 	<!-- THIRD NOMINEE -->
 	<div>
-		<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421441535.jpg?itok=J8AXdoo7" width="100" height="150"
+		<img src="baroqueModernity.jpeg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -501,7 +855,7 @@ sidebar:
 	</div>
 	<!-- FOURTH NOMINEE -->
 	<div>
-		<img src="https://edinburghuniversitypress.com/media/catalog/product/cache/c57119711f6f6be310d32fe7539c40f3/9/7/9781474481632_3.jpg" width="100"
+		<img src="modernismChoreographicImagination.jpeg" width="100"
 			height="150" align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -530,7 +884,7 @@ sidebar:
 	</div>
 	<!-- FIFTH NOMINEE -->
 	<div>
-		<img src="https://images.ucpress.edu/covers/300/9780520309043.jpg" width="100" height="150"
+		<img src="remadeInAmerica.jpeg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -560,7 +914,7 @@ sidebar:
 	</div>
 	<!-- SIXTH NOMINEE -->
 	<div>
-		<img src="https://assets.cambridge.org/97811088/40132/cover/9781108840132.jpg" width="100" height="150"
+		<img src="soundRecordingTechnology.jpeg" width="100" height="150"
 			align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -590,7 +944,7 @@ sidebar:
 	</div>
 	<!-- SEVENTH NOMINEE -->
 	<div>
-		<img src="https://images.routledge.com/common/jackets/crclarge/978036755/9780367550905.jpg" width="100" height="150"
+		<img src="intelligentUnconscious.jpeg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -622,7 +976,7 @@ sidebar:
 	</div>
 	<!-- EIGHTH NOMINEE -->
 	<div>
-		<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421441368.jpg?itok=F2o1hP6-" width="100" height="150"
+		<img src="obsoleteEmpire.jpeg" width="100" height="150"
 			align="left" style="padding:10px;" />
 		<p>
 			<br />
@@ -652,7 +1006,7 @@ sidebar:
 	</div>
 	<!-- NINTH NOMINEE -->
 	<div>
-		<img src="https://global.oup.com/academic/covers/pdp/9780192893383" width="100" height="150"
+		<img src="transatlanticModernism.jpeg" width="100" height="150"
 			align="right" style="padding:10px;" />
 		<p>
 			<br />
@@ -4092,3 +4446,4 @@ Jessica Burstein<br /> Rebecca Walkowitz <br />
 	approach.</p>
 <strong>MSA Prize Committee</strong>:<br /> Kevin Dettmar (Chair)<br />
 Melba Cuddy-Keane<br /> Jesse Matz <!-- #EndEditable -->
+</div>

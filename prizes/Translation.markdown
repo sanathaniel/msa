@@ -6,15 +6,41 @@ sidebar:
   nav: prizes_nav
 ---
 
+<!-- #BeginEditable "content" -->
+
+
+<p>The Modernist Studies Association is excited to announce its short list for
+	the MSA Translation Book Prize for a book published in 2022 or 2023. Many congratulations to everyone who published books last year and to the
+	finalists below. The winner will be announced at the MSA conference
+	this fall.</p>
+	
 <h1>2024 Book Prize Shortlist: Translation</h1>
-							
+
+<p>Marcel Proust, <a href="https://www.hup.harvard.edu/books/9780674271012">The Seventy-Five Folios and Other Unpublished Manuscripts, 
+translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p>
+
+<p>Shushan Avagyan, <a href="https://www.tiltedaxispress.com/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
+Cachoian-Schanz</a> (Tilted Axis Press, 2023)</p>
+
+<p>Fradl Shtok, <a href="https://nupress.northwestern.edu/9780810144392/from-the-jewish-provinces/">From the Jewish Provinces: Selected Stories, translated from 
+Yiddish by Jordan Finkin and Allison Schachter</a> (Northwestern University 
+Press, 2022)</p>
+
+<p>Murathan Mungan, <a href="https://nupress.northwestern.edu/9780810145245/valor/">Valor: Stories, translated from Turkish by Aron Aji and 
+David Gramling</a> (Northwestern University Press, 2022)</p>
+
+<p>Nominating Committee: Christos Hadjiyiannis, University of Regensberg 
+(Chair), María del Pilar Blanco, University of Oxford, Harris Feinsod, Johns 
+Hopkins University</p>							
+
+
+<h1>About</h1>
 <p>Every other year, the Modernist Studies Association seeks nominations for
 	its Translation Prize, awarded to a book published in the
 	previous two years. A panel of judges determines the book that made the
 	most significant contribution to modernist studies.<br />
-<p>Please visit our <a href="/msa/prizes/nominate">Nominations page</a>
-	in Spring 2024 to recommend a book for this year's prize (for books
-	published in 2022 or 2023). Visit our <a href="/msa/prizes/archive"
+<p>Please visit our <a href="/prize/nominate.html">Nominations page</a>
+	in Spring 2026 to recommend a book(                              published in 2024 or 2025). Visit our <a href="/prize/archive.html"
 		>Archive</a> to see previous winners.</p>
 		
 <!--
