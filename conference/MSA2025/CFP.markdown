@@ -44,9 +44,9 @@ classes:
 
 <h1>Theme: Infrastructure</h1>
 
-<h2>
+<h1>
 <p>Chicago, IL, October 9-12, 2025</p>
-</h2>
+</h1>
 
 <p>As Modernist Studies returns to Boston in 2025, we have centered on the theme of “Infrastructure” for our annual conference. Infrastructure highlights the organizational systems and resources—whether material, cultural, or affective—that underpin, connect, and define the places we live, the work we do, and the texts we study. We invite participants to understand infrastructure as a capacious term, breaking new ground for conversations about the construction and constructions of modernism’s literature, drama, music, art, architecture, design, and even its own periodicity. Papers on topics or issues outside this conceptual framework are also welcome.</p>
 
@@ -57,8 +57,8 @@ classes:
 <p>The 2025 conference will feature keynote speakers, film screenings, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organizing committee. 
 The conference organizers for MSA Chicago 2025 invite proposals for:</p>
 
-<ul fontsize="16px";>
-	<strong>
+
+<strong>
 	<li>
 		<a href="#p1">Seminars (due March 15, 2025)</a>
 	</li>
@@ -74,8 +74,8 @@ The conference organizers for MSA Chicago 2025 invite proposals for:</p>
 		<li>
 		<a href="#p5">Individual Papers (due April 5, 2025) </a>
 	</li>
-	</strong>
-</ul>
+</strong>
+
 <hr>
 <details closed>
 	<summary class="CFP-summary" id="p1">Call for Seminar Proposals</summary>
@@ -226,7 +226,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</p>
 </details>
 <hr>
-</p>
+
 <details closed>
 	<summary class="CFP-summary">Participation</summary>
 		<div class="description">
