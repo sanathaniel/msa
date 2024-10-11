@@ -6,19 +6,28 @@ sidebar:
   nav: prizes_nav
 ---
 
-<!-- #BeginEditable "content"-->
+<!-- #BeginEditable "content" 	
+-->
 						
 <h1>Call for MSA Book Prize Nominations</h1>
 							
-	
-<p>The call for submissions for books published in 2024 will be posted to this 
-	page when it is announced. General queries about the book prizes can be emailed to <a
+							
+                            						
+<!--The call for submissions for books published in 2023 will be posted to this page when it is announced.-->
+
+<p>
+The call for Book Prize nominations is now closed. Please visit our shortlists to see this year's excellent selections.
+</p>
+
+<p>
+General queries about the book prizes can be emailed to <a
 	href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>, MSA
 	First Vice-President.</p>
+</p>
 
+<p></p>
 
-<!--
-
+<!--    
 <p>All prizes recognize books published in 2023 that made a significant contribution to the field of modernist studies. For the details of each prize, see the relevant sections below.</p>
 <p>General queries about the Book and First Book Prizes can be emailed to <a href="mailto:matthewlevay@isu.edu">Matthew Levay</a>, MSA Vice Program Chair. General queries about the Translation Prize can be emailed to <a
 	href="mailto:c_hadjiyiannis@yahoo.com">Christos Hadjiyiannis</a>, MSA International Relations Chair.
