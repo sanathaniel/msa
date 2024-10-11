@@ -9,14 +9,13 @@ sidebar:
 <!-- #BeginEditable "content" -->
 
 
+<h1>2024 MSA Book Prize</h1>
+
 <p>The Modernist Studies Association is excited to announce its short list for
 	the MSA Book Prize for a book published in 2023. Many
 	congratulations to everyone who published books last year and to the
 	finalists below. The winner will be announced at the MSA conference
 	this fall.</p>
-
-
-<h1>2024 MSA Book Prize</h1>
 
 <p>Kimberly Quiogue Andrews, <a href="https://www.press.jhu.edu/books/title/12559/academic-avant-garde">The Academic Avant-Garde: Poetry and the 
 American University</a> (Johns Hopkins University Press, 2023)</p>
