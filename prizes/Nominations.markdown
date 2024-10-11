@@ -22,7 +22,7 @@ The call for Book Prize nominations is now closed. Please visit our shortlists t
 <p>
 General queries about the book prizes can be emailed to <a
 	href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>, MSA
-	First Vice-President.</p>
+	First Vice-President.
 </p>
 
 <p></p>

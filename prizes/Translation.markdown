@@ -8,13 +8,13 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
+	
+<h1>2024 Book Prize Shortlist: Translation</h1>
 
 <p>The Modernist Studies Association is excited to announce its short list for
 	the MSA Translation Book Prize for a book published in 2022 or 2023. Many congratulations to everyone who published books last year and to the
 	finalists below. The winner will be announced at the MSA conference
 	this fall.</p>
-	
-<h1>2024 Book Prize Shortlist: Translation</h1>
 
 <p>Marcel Proust, <a href="https://www.hup.harvard.edu/books/9780674271012">The Seventy-Five Folios and Other Unpublished Manuscripts, 
 translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p>

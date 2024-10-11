@@ -63,15 +63,15 @@ conference_nav:
 prizes_nav:
       - title: "Prizes"
         url: /prize/
-      - title: "Shortlist"
-        url: /prizes/shortlist/
       - title: "Nominations"
         url: /prizes/nominations/
-      - title: "First Book"
+      - title: "Book Prize"
+        url: /prizes/shortlist/
+      - title: "First Book Prize"
         url: /prizes/first-book/
-      - title: "Edition, Anthology, or Collection"
+      - title: "Edition, Anthology, or Collection Prize"
         url: /prizes/collection/
-      - title: "Translation"
+      - title: "Translation Prize"
         url: /prizes/translation/
       - title: "Previous Winners"
         url: /prizes/previous-winners/
