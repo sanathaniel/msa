@@ -43,41 +43,39 @@ classes:
 
 
 <h1>Theme: Infrastructure</h1>
-<!--
+
 <h2>
-<p>Chicago, IL, November 7-10, 2024</p>
+<p>Chicago, IL, October 9-12, 2025</p>
 </h2>
--->
 
-<p>The MSA 2024 conference on Migration, carried over from 2021, aims to highlight the creativity, energy, and inspiration that migration has brought to Chicago’s modernist culture, and also the racialized discrimination and persecution that confronted Indigenous populations, African American migrants, and immigrant populations in Chicago and other northern and western destinations. The layered history of Chicago tells a series of stories of forced removals, relocations, and displacements. The city is situated within the original homelands of the Council of the Three Fires, the Ojibwe, Potawatomi, and Odawa, who were forced to relocate west of the Mississippi after the 1833 Treaty of Chicago. Under the 1956 Indian Relocation Act, Chicago became a central destination for relocated Indigenous people and communities. It was also a major destination during the Great Migration, the mass exodus of African Americans from the Jim Crow South to the industrial centers of the North from 1916-1970. Alongside such histories, the theme asks us to consider more broadly the roles and relations of deterritorialization, exile, and diaspora in literary and artistic production. 
-</p>
+<p>As Modernist Studies returns to Boston in 2025, we have centered on the theme of “Infrastructure” for our annual conference. Infrastructure highlights the organizational systems and resources—whether material, cultural, or affective—that underpin, connect, and define the places we live, the work we do, and the texts we study. We invite participants to understand infrastructure as a capacious term, breaking new ground for conversations about the construction and constructions of modernism’s literature, drama, music, art, architecture, design, and even its own periodicity. Papers on topics or issues outside this conceptual framework are also welcome.</p>
 
-<p> We invite participants to understand migration as a capacious term, enabling new conversations about forced and coerced relocation, the Great Migration, immigrants and the making of the city, migration from abroad, the current global migration crisis, and the impact of these demographic movements on modernist innovation in literature, drama, music, art, architecture, and design in the twentieth- and twenty-first centuries. Taken metaphorically, the theme of migration also speaks to questions of translation, transmission, transmediality, transnationalism, transgenderism, transraciality, transhistoricism, transcription, transference, and transgression. 
-</p>
+<p>As a local topic, infrastructure in Boston gestures to more than the infamously executed Big Dig. More seminally, it illuminates the palimpsest of our current urban ecosystem upon the traditional, ancestral, and unceded land of the Pawtucket and Massachusett First Nations. These Nations lived in villages that went from what is now Salem in the north, to Plymouth on the South Coast, and west towards Worcester. They were decimated in a 1616 plague, and then further displaced by the ensuing waves of European settlers. In the name of infrastructure improvements, a more recent displacement and reshaping of Boston took place with the West End Renewal project in the 1950s and ’60s, razing a neighborhood that had been home to a vibrant and politically active Black community in the early 19th century and an increasingly diverse immigrant community into the 20th century. And yet infrastructure also reminds us of the foundational nature of stories about place and people; the Massachusett tribe writes that they “continue to survive as Massachusett people because we have retained the oral tradition of storytelling just as our ancestors did.” Infrastructure recalls Boston’s role as the first publishing center of the United States and as an originary site of literary, educational, and political communities and institutions.</p>
  
-<p>The 2024 conference will feature plenary speakers, film screenings, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organizing committee.  
-</p>
+<p>More broadly, we hope that discussion of material infrastructure like buildings and bridges, public utility grids, systems of technological communication, roads and highways, shipping and trade routes, large-scale environmental interventions, and climate-control schemes will interface with materialist analysis of symbolic infrastructures. Such infrastructure include networks of collaboration (i.e., salons, bookstores, magazines), broader economic development, imperial and post-imperial order, and intellectual exchange on both intimate and anonymous registers that impacted twentieth- and twenty-first century cultural production.  It can be taken even more abstractly. Infrastructure speaks to questions of affective patterns, psychic organization and brain structures, historical configurations of gender, sexuality, and race, media ecologies, and the infrastructural affordances of aesthetic form as such.</p>
+ 
+<p>The 2025 conference will feature keynote speakers, film screenings, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organizing committee. 
+The conference organizers for MSA Chicago 2025 invite proposals for:</p>
 
-<p>Although the Chicago conference was postponed in 2021, previously accepted panels and papers will not be carried over, and presenters will need to submit new proposals. The conference organizers for MSA Chicago 2024 invite proposals for:
-<blockquote fontsize="16px";>
+<ul fontsize="16px";>
 	<strong>
 	<li>
-		<a href="#p1">Seminars (due March 15, 2024)</a>
+		<a href="#p1">Seminars (due March 15, 2025)</a>
 	</li>
 	<li>
-		<a href="#p2">Workshops (due March 15, 2024)</a>
+		<a href="#p2">Workshops (due March 15, 2025)</a>
 	</li>
 	<li>
-		<a href="#p3">Panels (due April 5, 2024)</a>
+		<a href="#p3">Panels (due April 5, 2025)</a>
 	</li>
 	<li>
-		<a href="#p4">Roundtables (due April 5, 2024)</a>
+		<a href="#p4">Roundtables (due April 5, 2025)</a>
 	</li>
 		<li>
-		<a href="#p5">Individual Papers (due April 5, 2024) </a>
+		<a href="#p5">Individual Papers (due April 5, 2025) </a>
 	</li>
 	</strong>
-</blockquote>
+</ul>
 <hr>
 <details closed>
 	<summary class="CFP-summary" id="p1">Call for Seminar Proposals</summary>
@@ -87,7 +85,7 @@ classes:
 
 <p>Seminar Topics: There are no limits on topics, but past experience has shown that the more clearly defined the topic and the more guidance provided by the leader, the more productive the ensuing discussion. “Clearly defined” should not be confused with “narrow,” as extremely narrow seminar topics tend to exclude many potential participants. To review past seminar topics, go to the <a href="/msa/conference/archive.html">Conference Archives</a> on the MSA website, click the link to a prior conference, and then click on “Conference Schedule” or “Conference Program.” You will find seminars listed along with panels and other events.</p>
 
-<p><a href="https://msa2024.exordo.com/">Click here to submit Seminar Proposals</a> by Friday March 15, 2024. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Seminar Proposals</a> by Friday March 15, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
 		</div>
 </details>
 <hr>
@@ -101,7 +99,7 @@ classes:
 Workshops are participatory in format and can be either 90 or 120 minutes in length. They may be led by one person or by a panel of experts. Participants will register for workshops at the same time as conference registration.
 </p>
 
-<p><a href="https://msa2024.exordo.com/">Click here to submit Workshop Proposals</a> by Friday March 15, 2024. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Workshop Proposals</a> by Friday March 15, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -127,7 +125,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
 </blockquote>
-<p><a href="https://msa2024.exordo.com/">Click here to submit Panel Proposals</a> by Friday April 5, 2024. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Friday April 5, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -160,7 +158,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<li>Roundtable organizers should identify a chair and include this information with their proposals.
 	</li>
 </blockquote>
-<p><a href="https://msa2024.exordo.com/">Click here to submit Roundtable Proposals</a> by Friday April 5, 2024. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Friday April 5, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
 		</div>
 </details>
 <hr>
@@ -168,8 +166,8 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<summary class="CFP-summary" id="p5">Call for Individual Paper Proposals for MSA Panel Streams</summary>
 		<div class="description">
 <p>Individual paper proposals must speak directly to one of this year’s streams, described below. The MSA program committee and MSA Special Interest Groups in charge of the streams will compose panels and roundtables from the individual papers.</p>
-<p><a href="https://msa2024.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by April 5, 
-2024. Please include a 300-word abstract of the paper. Author bios are limited to
+<p><a href="https://msa2025.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by April 5, 
+2025. Please include a 300-word abstract of the paper. Author bios are limited to
  100 words. </p>
 		<details closed>
 			<summary class="stream-title">Modernism and the Environment Stream: Migration, Modernization, and Environmental Change</summary>
@@ -249,7 +247,7 @@ also presenting a paper or making substantive remarks in the session; the sessio
  someone who is otherwise not presenting.
 </p>
 <p>All who attend the MSA conference must be members of the organization with dues paid for 
-2024-25 (MSA membership runs from July 1 until June 30 each year) and with any past dues paid 
+2025-26 (MSA membership runs from July 1 until June 30 each year) and with any past dues paid 
 in full. For information on MSA, please check the <a href="/msa/index.html">Association website.</a>
 </p>
 		</div>
@@ -285,7 +283,7 @@ access, and equality are critical to the strength of our organization and the ef
 	<summary class="CFP-summary">Contact Information</summary>
 		<div class="description">
 <p>Questions about our upcoming conference?</p>
-<u1><li>Contact <a href="msa2024chicago@gmail.com">msa2024chicago@gmail.com</a></li></u1>
+<u1><li>Contact <a href="msa2025boston@gmail.com">msa2025boston@gmail.com</a></li></u1>
 <p>
 </p>
 <p>Questions about membership and registration?</p>
@@ -293,7 +291,7 @@ access, and equality are critical to the strength of our organization and the ef
 <p>
 </p>
 <p>Questions for the Program Committee?</p>
-<u1><li>Contact Pardis Dabashi at <a href="kpdabashi@brynmawr.edu">pdabashi@brynmawr.edu</a></li></u1>
+<u1><li>Contact Octavio Gonzalez at <a href="ogonzale@wellesley.edu">ogonzale@wellesley.edu</a></li></u1>
 <p>
 </p>
 		</div>
