@@ -31,7 +31,7 @@ sidebar:
 <p>Congratulations to this year's prize winners for the MSA's <a
 		href="/msa/prizes/shortlist/">Book Prize</a>, <a
 		href="/msa/prizes/first-book/">First Book Prize</a>, and the <a
-		href="/msa/prizes/collection/">Edition, Anthology, or Collection
+		href="/msa/prizes/translation/">Translation
 		Prize</a>.</p>
 <p>Each year, the Modernist Studies Association seeks nominations for
 	its Book Prize and its First Book Prize, awarded to books published
