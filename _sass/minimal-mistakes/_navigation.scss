@@ -446,8 +446,11 @@
 .nav__list .nav__items {
   margin-left: 0em;
   font-size: 1.25rem;
+  width: 600px;
+  justify-content: center;
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
 
   a {
     color: inherit;
