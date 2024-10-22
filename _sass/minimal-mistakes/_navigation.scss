@@ -421,7 +421,10 @@
 
     ul {
 	  list-style-type: none;
-	  display: inline-flex;
+	  width: 400px;
+	  justify-content: left;
+	  display: flex;
+	  flex-wrap: wrap;
     }
 	
 	li {
@@ -446,11 +449,6 @@
 .nav__list .nav__items {
   margin-left: 0em;
   font-size: 1.25rem;
-  width: 600px;
-  justify-content: center;
-  display: flex;
-  flex-wrap: wrap;
-  text-align: center;
 
   a {
     color: inherit;
