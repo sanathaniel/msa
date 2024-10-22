@@ -382,6 +382,16 @@
         -ms-transform: rotate(90deg);
         transform: rotate(90deg);
       }
+	  
+	  &:after {		
+		ul {
+			list-style-type: none;
+			width: 360px;
+			justify-content: left;
+			display: flex;
+			flex-wrap: wrap;
+		}
+	  }
 	 
       &:hover {
         color: #fff;
@@ -402,15 +412,7 @@
 
       &:before,
       &:after {
-        background-color: #fff;
-		    
-			ul {
-				list-style-type: none;
-				width: 360px;
-				justify-content: left;
-				display: flex;
-				flex-wrap: wrap;
-			}
+        background-color: #fff;	    
       }
     }
 
