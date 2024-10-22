@@ -403,6 +403,14 @@
       &:before,
       &:after {
         background-color: #fff;
+		    
+			ul {
+				list-style-type: none;
+				width: 360px;
+				justify-content: left;
+				display: flex;
+				flex-wrap: wrap;
+			}
       }
     }
 
@@ -421,10 +429,6 @@
 
     ul {
 	  list-style-type: none;
-	  width: 400px;
-	  justify-content: left;
-	  display: flex;
-	  flex-wrap: wrap;
     }
 	
 	li {
