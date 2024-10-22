@@ -421,8 +421,7 @@
 
     ul {
 	  list-style-type: none;
-	  display: flex;
-	  flex-wrap: wrap;
+	  display: inline-flex;
     }
 	
 	li {
@@ -447,7 +446,8 @@
 .nav__list .nav__items {
   margin-left: 0em;
   font-size: 1.25rem;
-  display: flex-wrap;
+  display: flex;
+  flex-wrap: wrap;
 
   a {
     color: inherit;
