@@ -382,7 +382,7 @@
         -ms-transform: rotate(90deg);
         transform: rotate(90deg);
       }
-
+	 
       &:hover {
         color: #fff;
         border-color: $gray;
@@ -421,7 +421,8 @@
 
     ul {
 	  list-style-type: none;
-	  display: inline-flex;
+	  display: flex;
+	  flex-wrap: wrap;
     }
 	
 	li {
