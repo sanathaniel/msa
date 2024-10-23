@@ -8,30 +8,80 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
-	
-<h1>2024 Book Prize Shortlist: Translation</h1>
 
 <p>The Modernist Studies Association is excited to announce its short list for
 	the MSA Translation Book Prize for a book published in 2022 or 2023. Many congratulations to everyone who published books last year and to the
 	finalists below. The winner will be announced at the MSA conference
 	this fall.</p>
+	
+<h1>2024 Book Prize Shortlist: Translation</h1>
 
-<p>Marcel Proust, <a href="https://www.hup.harvard.edu/books/9780674271012">The Seventy-Five Folios and Other Unpublished Manuscripts, 
-translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p>
+<!-- FIRST NOMINEE -->
 
-<p>Shushan Avagyan, <a href="https://www.tiltedaxispress.com/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
-Cachoian-Schanz</a> (Tilted Axis Press, 2023)</p>
+<p>
+	<img src="https://images.squarespace-cdn.com/content/v1/565a42a7e4b0f06765f7b528/2cfb300f-e748-4200-884a-1db46ebfddbe/9781911284888.jpg?format=750w"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
 
-<p>Fradl Shtok, <a href="https://nupress.northwestern.edu/9780810144392/from-the-jewish-provinces/">From the Jewish Provinces: Selected Stories, translated from 
+<strong><p>WINNER: Shushan Avagyan, <a href="https://www.tiltedaxispress.com/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
+Cachoian-Schanz</a> (Tilted Axis Press, 2023)</p></strong>
+
+<p>
+Written as a literary experiment, <em>A Book, Untitled</em> puts Armenian modernist writers in a world, beyond their native literary landscape, populated by such contemporaries as Marina Tsvetaeva, Gertrude Stein, and Virginia Woolf. As the reader navigates 26.5 chapters of seemingly unrelated vignettes in disparate and unidentified voices, they discover that Avagyan, while writing the novel as a translator’s diary, is also mapping out a larger archival or archaeological site: an imagined encounter between Kurghinian and Yesayan, whose legacies have been censored by the Tsarist and Stalinist regimes. The imagined encounter in 1926 is juxtaposed with a contemporary conversation between the novel’s unnamed narrator—an archivist and translator referred to as the “typist/writer”—and her friend Lara, who are both piecing together the writers’ fragmented stories.
+</p>
+
+<!-- SECOND NOMINEE -->
+
+<p>
+	<img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674271012.png?fm=jpg&q=80&fit=max&w=600"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Marcel Proust, <a href="https://www.hup.harvard.edu/books/9780674271012">The Seventy-Five Folios and Other Unpublished Manuscripts, 
+translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p></strong>
+
+<p>
+Presented for the first time in English, the recently discovered early manuscripts of the twentieth century’s most towering literary figure offer uncanny glimpses of his emerging genius and the creation of his masterpiece. One of the most significant literary events of the century, the discovery of manuscript pages containing early drafts of Marcel Proust’s <em>In Search of Lost Time</em> put an end to a decades-long search for the Proustian grail. The Paris publisher Bernard de Fallois claimed to have viewed the folios, but doubts about their existence emerged when none appeared in the Proust manuscripts bequeathed to the Bibliothèque Nationale in 1962. The texts had in fact been hidden among Fallois’s private papers, where they were found upon his death in 2018. <em>The Seventy-Five Folios and Other Unpublished Manuscripts</em> presents these folios here for the first time in English, along with seventeen other brief unpublished texts. Extensive commentary and notes by the Proust scholar Nathalie Mauriac Dyer offer insightful critical analysis.
+</p>
+
+
+
+<!-- THIRD NOMINEE -->
+
+<p>
+	<img src="https://northwest-press-us.imgix.net/covers/9780810144392.jpg?auto=format&w=298&dpr=1&q=20"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Fradl Shtok, <a href="https://nupress.northwestern.edu/9780810144392/from-the-jewish-provinces/">From the Jewish Provinces: Selected Stories, translated from 
 Yiddish by Jordan Finkin and Allison Schachter</a> (Northwestern University 
-Press, 2022)</p>
+Press, 2022)</p></strong>
 
-<p>Murathan Mungan, <a href="https://nupress.northwestern.edu/9780810145245/valor/">Valor: Stories, translated from Turkish by Aron Aji and 
-David Gramling</a> (Northwestern University Press, 2022)</p>
+<p>
+The translation of Fradl Shtok’s From the <em>Jewish Provinces</em> revives a nearly forgotten collection of Yiddish modernist masterpieces. Shtok’s collection of short stories represents one of the only known volumes of Yiddish modernist short fiction authored by a woman. In sophisticated prose, the stories describe the travails of young women looking for love and desire in a world that spurns them. These young Jewish women struggle with disabled bodies, sexual violence, and unwanted marriage. Some strive to imagine themselves as artists, while others lose themselves in fantasy worlds or look with desperate longing at the non-Jewish men that surround them. Through deft portraits of her characters’ inner worlds Shtok gives us access to unglimpsed corners of the Jewish imagination. The translation intervenes in the literary history of Yiddish prose to show women’s active participation in modernist experimentation.
+</p>
 
-<p>Nominating Committee: Christos Hadjiyiannis, University of Regensberg 
+<!-- FOURTH NOMINEE -->
+
+<p>
+	<img src="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Murathan Mungan, <a href="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg">Valor: Stories, translated from Turkish by Aron Aji and 
+David Gramling</a> (Northwestern University Press, 2022)</p></strong>
+
+<p>
+Among the array of Turkish literature available in English, one of the most glaring gaps is the work of Murathan Mungan (b. 1955), author of over sixty books--of poetry, fiction, plays, screenplays and essays--produced in the course of a forty-year writing career. To date, only a handful of his poems and short fiction have appeared in English (many in Aji’s and Gramling’s own co-translations), and no book-length work had been translated yet until <em>Valor. Cenk Hikayeleri/Valor</em> (1986) has long been considered by Turkish critics as a milestone of modern Turkish literature deserving of international reception. <em>Valor</em> reflects most vividly the author’s multi-ethnic, Kurdish-Arab-Turkish background, and represents his lush poetics, literary breadth, and his enduring sociopolitical commitments.
+</p>
+
+<hr />
+
+<p><strong>Nominating Committee:</strong> Christos Hadjiyiannis, University of Regensberg 
 (Chair), María del Pilar Blanco, University of Oxford, Harris Feinsod, Johns 
 Hopkins University</p>							
+
+<hr />
 
 
 <h1>About</h1>
