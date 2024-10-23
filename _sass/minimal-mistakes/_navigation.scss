@@ -422,14 +422,7 @@
     ul {
 	  list-style-type: none;
     }
-	
-	ul:after {
-		width: 360px;
-		justify-content: left;
-		display: flex;
-		flex-wrap: wrap;
-	}
-	
+		
 	li {
     }
 
@@ -486,6 +479,11 @@
     overflow: visible;
     opacity: 1;
     margin-top: 1em;
+	width: 90vw;
+	font-size: 1.5 em;
+	justify-content: left;
+	display: flex;
+	flex-wrap: wrap;
     -webkit-transform: translate(0, 0);
     -ms-transform: translate(0, 0);
     transform: translate(0, 0);
