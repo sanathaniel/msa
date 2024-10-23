@@ -3,107 +3,100 @@
 conf_nav:
   - title: "MSA 2025"
     url: /conference/MSA2025/
-    children:
-      - title: "CFP"
-        url: /conference/MSA2025/CFP/
-      - title: "Registration"
-        url: /conference/MSA2025/registration/
-      - title: "Seminars"
-        url: /conference/MSA2025/seminars/
-      - title: "Workshops"
-        url: /conference/MSA2025/workshops/
-      - title: "Events"
-        url: /conference/MSA2025/special-events/
-      - title: "Accomodations"
-        url: /conference/MSA2025/travel/
-      - title: "Program"
-        url: /conference/MSA2025/program/
+  - title: "CFP"
+    url: /conference/MSA2025/CFP/
+  - title: "Registration"
+    url: /conference/MSA2025/registration/
+  - title: "Seminars"
+    url: /conference/MSA2025/seminars/
+  - title: "Workshops"
+    url: /conference/MSA2025/workshops/
+  - title: "Events"
+    url: /conference/MSA2025/special-events/
+  - title: "Accomodations"
+    url: /conference/MSA2025/travel/
+  - title: "Program"
+    url: /conference/MSA2025/program/
 
 about_nav:
   - title: "About"
     url: /about/
-    children:
-      - title: "Mission & Values"
-        url: /about/mission/
-      - title: "Constitution & Bylaws"
-        url: /about/constitution/
-      - title: "Governance"
-        url: /about/governance/
-      - title: "Board Nominations"
-        url: /about/board-nominations/
-      - title: "Past Presidents & Trustees"
-        url: /about/past-presidents/
+  - title: "Mission & Values"
+    url: /about/mission/
+  - title: "Constitution & Bylaws"
+    url: /about/constitution/
+  - title: "Governance"
+    url: /about/governance/
+  - title: "Board Nominations"
+    url: /about/board-nominations/
+  - title: "Past Presidents & Trustees"
+    url: /about/past-presidents/
 
 members_nav:
       - title: "Membership"
         url: /members/
-        children:
-          - title: "Join/Renew Membership"
-            url: /members/login/
-          - title: "SIGs"
-            url: /members/sigs/
-          - title: "Advocacy Handbook"
-            url: /members/handbook/
-          - title: "Affiliations"
-            url: /members/affiliations/
-          - title: "Research Travel Grants"
-            url: /members/travel-grants/
+      - title: "Join/Renew Membership"
+        url: /members/login/
+      - title: "SIGs"
+        url: /members/sigs/
+      - title: "Advocacy Handbook"
+        url: /members/handbook/
+      - title: "Affiliations"
+        url: /members/affiliations/
+      - title: "Research Travel Grants"
+        url: /members/travel-grants/
 
 conference_nav:
       - title: "Conference"
         url: /conference/
-        children:
-          - title: "Upcoming Conferences"
-            url: /conference/upcoming-conferences/
-          - title: "MSA/MLA"
-            url: /conference/MSA-MLA/
-          - title: "Digital Programming"
-            url: /conference/digital/
-          - title: "Past Conferences"
-            url: /conference/past-conferences/
-          - title: "Conference Access"
-            url: /conference/conference-access/
+      - title: "Upcoming Conferences"
+        url: /conference/upcoming-conferences/
+      - title: "MSA/MLA"
+        url: /conference/MSA-MLA/
+      - title: "Digital Programming"
+        url: /conference/digital/
+      - title: "Past Conferences"
+        url: /conference/past-conferences/
+      - title: "Conference Access"
+        url: /conference/conference-access/
     
 prizes_nav:
       - title: "Prizes"
         url: /prize/
-        children:
-          - title: "Nominations"
-            url: /prizes/nominations/
-          - title: "Book Prize"
-            url: /prizes/shortlist/
-          - title: "First Book Prize"
-            url: /prizes/first-book/
-          - title: "Edition, Anthology, or Collection Prize"
-            url: /prizes/collection/
-          - title: "Translation Prize"
-            url: /prizes/translation/
-          - title: "Previous Winners"
-            url: /prizes/previous-winners/
+      - title: "Nominations"
+        url: /prizes/nominations/
+      - title: "Book Prize"
+        url: /prizes/shortlist/
+      - title: "First Book Prize"
+        url: /prizes/first-book/
+      - title: "Edition, Anthology, or Collection Prize"
+        url: /prizes/collection/
+      - title: "Translation Prize"
+        url: /prizes/translation/
+      - title: "Previous Winners"
+        url: /prizes/previous-winners/
     
 journal_nav:
       - title: "Journal"
         url: /journal/
-        children:
-          - title: "Modernism/modernity"
-            url: https://www.press.jhu.edu/journals/modernismmodernity
-          - title: "Print+ Online"
-            url: https://modernismmodernity.org/
-          - title: "Read Online"
-            url: https://muse.jhu.edu/journal/131
+      - title: "Modernism/modernity"
+        url: https://www.press.jhu.edu/journals/modernismmodernity
+      - title: "Print+ Online"
+        url: https://modernismmodernity.org/
+      - title: "Read Online"
+        url: https://muse.jhu.edu/journal/131
            
 login_nav:
       - title: "Log-In"
         url: https://www.press.jhu.edu/journals/cart/log-in
-        children:
-          - title: "Profile"
-            url: https://www.press.jhu.edu/journals/cart/profile
-          - title: "Register"
-            url: https://www.press.jhu.edu/journals/cart/register
-          - title: "Join MSA"
-            url: https://www.press.jhu.edu/journals/cart/for-sale?oc=42
-          - title: "Listserv"
-            url: /members/login/listserv/
+      - title: "Profile"
+        url: https://www.press.jhu.edu/journals/cart/profile
+      - title: "Register"
+        url: https://www.press.jhu.edu/journals/cart/register
+      - title: "Join MSA"
+        url: https://www.press.jhu.edu/journals/cart/for-sale?oc=42
+      - title: "Listserv"
+        url: /members/login/listserv/
 
 main:
   - title: "About"
