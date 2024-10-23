@@ -83,7 +83,7 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/vorticism2.jpg" min-width="150" min-height="150"/>
+					<img src="assets/party_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Digital Programs</h3>
 				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>

@@ -21,6 +21,7 @@ conf_nav:
 about_nav:
   - title: "About"
     url: /about/
+  - title: <hr class="rounded">
   - title: "Mission & Values"
     url: /about/mission/
   - title: "Constitution & Bylaws"
@@ -35,6 +36,7 @@ about_nav:
 members_nav:
       - title: "Membership"
         url: /members/
+      - title: "<hr class="rounded">"
       - title: "Join/Renew Membership"
         url: /members/login/
       - title: "SIGs"
