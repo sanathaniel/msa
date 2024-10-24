@@ -6,10 +6,9 @@ sidebar:
   nav: about_nav
 ---
 
-                          <!-- #BeginEditable "content" -->
+<!-- #BeginEditable "content" -->
 
-
-
+<!--
 <p><h2>Call for Applications: Co-editor of Modernism/modernity</h2></p>
 <p><strong>Due date: September 30, 2024</strong></p>
 
@@ -67,14 +66,13 @@ Applications should include:
 	</li>
 </ul>
 -->
-<!--
+
 <p>There are no current open calls for nominations or open elections for
 	the MSA Board. Check this page again soon for information about
-	upcoming nominations and elections. You may also contact Erin Kappeler
-	(ekappeler@tulane.edu), Chair, Membership and Elections, with any
+	upcoming nominations and elections. You may also contact <a href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a> (kweingarten@qc.cuny.edu), Chair, Membership and Elections, with any
 	questions.</p>
 <p>&nbsp;</p>
--->
+
 	
 <!--
 	<h3>The MSA Board is seeking nominations for four Executive Board positions:</h3>
