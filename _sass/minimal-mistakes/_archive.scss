@@ -256,6 +256,10 @@
   margin: 0px;
   margin-bottom: 2em;
   font-size: 1.125em;
+  
+  &:hover {
+      font-weight: bold;
+    }
 
   @include breakpoint($small) {
     float: left;

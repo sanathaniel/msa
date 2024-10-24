@@ -96,7 +96,8 @@ Applications should include:
 -->
 					   
 					    
- <!--
+<!--
+
 <h3>Congratulations to our recently elected MSA Board members!</h3>
 
 <ul>
@@ -118,7 +119,9 @@ upcoming nominations and elections. You may also contact Erin Kappeler
 (ekappeler@tulane.edu), Chair, Membership and Elections, with any
 questions.</p>
 <p>&nbsp;</p>
+
 -->
+
 
 <!--
 <h3>The MSA Board is seeking nominations for four Executive Board positions:</h3>
@@ -336,4 +339,5 @@ less of our future conferences.</p>
 <h3>ABOUT THE MSA BOARD:</h3>
 
 <p>Since the inception of the MSA over a decade ago, membership has grown to almost 1000. Most of the organization’s work is done by volunteers on the MSA Board and their committees, with the assistance of an MSA administrator. Therefore, those deciding to run for election should be prepared to make a substantial time commitment to MSA. Board members also work individually and collectively to build the membership base, and to communicate with members and the larger academy concerning the Modernist Studies Association. The MSA Board is responsible for planning and executing the annual meeting in conjunction with representatives of the host institution; we believe that the liveliest and most provocative conferences result from attention to diversity of representation on the fronts of discipline, nation, race, and gender on the Board, among the membership, and on the annual program. Our most recent conferences have further diversified our membership and increased interdisciplinary and multicultural panel offerings. We expect no less of our future conferences.</p>
-                            <!-- #EndEditable -->
+
+<!-- #EndEditable -->

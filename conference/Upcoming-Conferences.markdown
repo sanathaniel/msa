@@ -23,7 +23,7 @@ sidebar:
 
 <p><strong>
 <a href="/msa/conference/MSA2025"
->MSA 2025: October 9-12, Boston</a>
+>October 9-12, Boston</a>
 </strong></p>
 				
 <hr>
