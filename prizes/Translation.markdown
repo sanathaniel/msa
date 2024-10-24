@@ -19,15 +19,15 @@ sidebar:
 <!-- FIRST NOMINEE -->
 
 <p>
-	<img src="https://images.squarespace-cdn.com/content/v1/565a42a7e4b0f06765f7b528/2cfb300f-e748-4200-884a-1db46ebfddbe/9781911284888.jpg?format=750w"
+	<img src="https://images.squarespace-cdn.com/content/v1/5490c4c7e4b0518046d7a6c3/1671044953924-QH60QZNY0CRR5ONA06L9/A+Book+Untitled+Cover.png?format=500w"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>WINNER: Shushan Avagyan, <a href="https://www.tiltedaxispress.com/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
-Cachoian-Schanz</a> (Tilted Axis Press, 2023)</p></strong>
+<strong><p>WINNER: Shushan Avagyan, <a href="https://awst-press.com/shop/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
+Cachoian-Schanz</a> (AWST Press, 2023)</p></strong>
 
 <p>
-Written as a literary experiment, <em>A Book, Untitled</em> puts Armenian modernist writers in a world, beyond their native literary landscape, populated by such contemporaries as Marina Tsvetaeva, Gertrude Stein, and Virginia Woolf. As the reader navigates 26.5 chapters of seemingly unrelated vignettes in disparate and unidentified voices, they discover that Avagyan, while writing the novel as a translator’s diary, is also mapping out a larger archival or archaeological site: an imagined encounter between Kurghinian and Yesayan, whose legacies have been censored by the Tsarist and Stalinist regimes. The imagined encounter in 1926 is juxtaposed with a contemporary conversation between the novel’s unnamed narrator—an archivist and translator referred to as the “typist/writer”—and her friend Lara, who are both piecing together the writers’ fragmented stories.
+Written as a literary experiment, <em>A Book, Untitled</em> puts Armenian modernist writers in a world beyond their native literary landscape, populated by such contemporaries as Marina Tsvetaeva, Gertrude Stein, and Virginia Woolf. As the reader navigates 26.5 chapters of seemingly unrelated vignettes in disparate and unidentified voices, they discover that Avagyan, while writing the novel as a translator’s diary, is also mapping out a larger archival or archaeological site: an imagined encounter between two literary giants of the twentieth century, Shushanik Kurghinian and Zabel Yesayan, whose legacies had been censored by the Tsarist and Stalinist regimes. The imagined encounter between these two authors in 1926 is juxtaposed with a contemporary conversation between the novel’s unnamed narrator—an archivist and translator referred to as the “typist/writer”—and her friend Lara, who are both piecing together their feminist predecessors' fragmented stories.
 </p>
 
 <!-- SECOND NOMINEE -->
