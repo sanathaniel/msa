@@ -29,7 +29,7 @@ footer: false
 	-->
 </div>
 
-<h1>Boston, November 7-10, 2025</h1>
+<h1>Boston, October 9-12, 2025</h1>
 
 
 
