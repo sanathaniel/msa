@@ -1,8 +1,6 @@
 ---
 layout: conference
 permalink: /conference/MSA2025/CFP/
-sidebar:
-  nav: conf_nav
 masthead: false
 footer: false
 minimal_mistakes_skin: "dark"

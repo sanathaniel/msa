@@ -8,11 +8,13 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
-
+<!--
 <p>The Modernist Studies Association is excited to announce its short list for
 	the MSA Translation Book Prize for a book published in 2022 or 2023. Many congratulations to everyone who published books last year and to the
 	finalists below. The winner will be announced at the MSA conference
-	this fall.</p>
+	this fall.
+</p>
+-->
 	
 <h1>2024 Book Prize Shortlist: Translation</h1>
 
