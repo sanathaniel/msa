@@ -2,10 +2,9 @@
 layout: conference
 permalink: /conference/MSA2025/workshops/
 sidebar:
-  - title: "MSA2025"
-    image: /conference/MSA2025/assets/subway_icon.jpg
   - title: ""
-    nav: conf_nav
+    image: conference/MSA2025/assets/subway_icon.jpg
+  - nav: conf_nav
 masthead: false
 footer: false
 ---

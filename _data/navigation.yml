@@ -1,6 +1,8 @@
 # main links
 
 conf_nav:
+  - title: "Conference Home"
+    url: /conference/MSA2025/
   - title: "CFP"
     url: /conference/MSA2025/CFP/
   - title: "Registration"

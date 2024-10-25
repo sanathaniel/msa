@@ -2,11 +2,8 @@
 layout: conference
 permalink: /conference/MSA2025/seminars/
 sidebar:
-  - title: "MSA 2025"
-    url: /conference/MSA2025/
+  - title: ""
     image: conference/MSA2025/assets/subway_icon.jpg
-  - title: "MSA 2025"
-    url: https://sanathaniel.github.io/msa/conference/MSA2025/
   - nav: conf_nav
 masthead: false
 footer: false
