@@ -1,11 +1,8 @@
 ---
 layout: conference
 permalink: /conference/MSA2025/seminars/
-author_profile: true
 sidebar:
-  - title: "MSA2025"
-    image: /msa/conference/MSA2025/assets/subway_icon.jpg
-	nav: conf_nav
+  nav: conf_nav
 masthead: false
 footer: false
 ---
