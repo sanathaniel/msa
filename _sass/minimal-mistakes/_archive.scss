@@ -258,7 +258,7 @@
   font-size: 1.125em;
   
   &:hover {
-      font-weight: bold;
+      box-shadow: 0px 0px 6px 6px gray;;
     }
 
   @include breakpoint($small) {
