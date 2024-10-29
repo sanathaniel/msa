@@ -22,7 +22,7 @@ sidebar:
 </div>
 
 <p><strong>
-<a href="/msa/conference/MSA2025"
+<a href="/msa/conference/MSA2025/CFP/"
 >October 9-12, Boston</a>
 </strong></p>
 				
