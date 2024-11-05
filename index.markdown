@@ -140,9 +140,11 @@ layout: home
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   	</div>
 
-	<div class="feed-block">
+	<!--
+	<div class="feed-block" width="324" height="650">
 		<div class='sk-ww-facebook-group-posts' data-embed-id='25483802'></div><script src='https://widgets.sociablekit.com/facebook-group-posts/widget.js' async defer></script>	
 	</div>
+	-->
 	
 	<!--current facebook page not compatible with embedded timeline				
 	<div class="feed-block">
