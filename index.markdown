@@ -140,8 +140,11 @@ layout: home
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   	</div>
 
-			<!--current facebook page not compatible with embedded timeline-->	
-			
+	<div class="feed-block">
+		<div class='sk-ww-facebook-group-posts' data-embed-id='25483802'></div><script src='https://widgets.sociablekit.com/facebook-group-posts/widget.js' async defer></script>	
+	</div>
+	
+	<!--current facebook page not compatible with embedded timeline				
 	<div class="feed-block">
       <div id="fb-root"></div>
 		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v21.0"></script>
@@ -150,7 +153,7 @@ layout: home
 	  </div>
 		
     </div>
-	    
+	    -->
 
     
     <div class ="feed-block">
