@@ -43,7 +43,7 @@ classes:
 <h1>Theme: Infrastructure</h1>
 
 <h1>
-<p>Chicago, IL, October 9-12, 2025</p>
+<p>Boston, MA, October 9-12, 2025</p>
 </h1>
 
 <p>As Modernist Studies returns to Boston in 2025, we have centered on the theme of “Infrastructure” for our annual conference. Infrastructure highlights the organizational systems and resources—whether material, cultural, or affective—that underpin, connect, and define the places we live, the work we do, and the texts we study. We invite participants to understand infrastructure as a capacious term, breaking new ground for conversations about the construction and constructions of modernism’s literature, drama, music, art, architecture, design, and even its own periodicity. Papers on topics or issues outside this conceptual framework are also welcome.</p>
@@ -52,8 +52,9 @@ classes:
  
 <p>More broadly, we hope that discussion of material infrastructure like buildings and bridges, public utility grids, systems of technological communication, roads and highways, shipping and trade routes, large-scale environmental interventions, and climate-control schemes will interface with materialist analysis of symbolic infrastructures. Such infrastructure include networks of collaboration (i.e., salons, bookstores, magazines), broader economic development, imperial and post-imperial order, and intellectual exchange on both intimate and anonymous registers that impacted twentieth- and twenty-first century cultural production.  It can be taken even more abstractly. Infrastructure speaks to questions of affective patterns, psychic organization and brain structures, historical configurations of gender, sexuality, and race, media ecologies, and the infrastructural affordances of aesthetic form as such.</p>
  
-<p>The 2025 conference will feature keynote speakers, film screenings, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organizing committee. 
-The conference organizers for MSA Chicago 2025 invite proposals for:</p>
+<p>The 2025 conference will feature keynote speakers, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organizing committee.</p>
+
+<p>The conference organizers for MSA Chicago 2025 invite proposals for:</p>
 
 
 <strong>
