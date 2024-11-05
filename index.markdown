@@ -144,9 +144,9 @@ layout: home
 			
 	<div class="feed-block">
       <div id="fb-root"></div>
-			<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v21.0"></script>
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v21.0"></script>
 		
-	  <div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="group" data-width="324" data-height="650" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+	  <div class="fb-page" data-href="https://www.facebook.com/groups/35866051126/" data-tabs="group" data-width="324" data-height="650" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
 	  </div>
 		
     </div>
