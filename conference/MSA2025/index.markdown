@@ -19,13 +19,13 @@ footer: false
 <div class="subway">
 	<img src="assets/subway_landing.jpeg" width="100%">
 	<div class="title1">
-		Infrastructure
+		INFRASTRUCTURE
 	</div>
 	<div class="title2">
-		Modernist<br>Studies<br>Association
+		MODERNIST<br>STUDIES<br>ASSOCIATION
 	</div>
 	<div class="title3">
-		Boston<hr>MSA 2025<hr>Oct 9-12
+		BOSTON<hr>MSA 2025<hr>OCT 9-12
 	</div>
 	<a href="special-events" class="btn1">EVENTS</a>
 	<a href="CFP" class="btn2">CFP</a>
