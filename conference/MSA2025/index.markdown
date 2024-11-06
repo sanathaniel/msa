@@ -19,7 +19,7 @@ footer: false
 <div class="subway">
 	<img src="assets/subway_landing.jpeg" width="100%">
 	<div class="title1">
-		INFRASTRUCTURE
+		INFRASTRUCTURE 
 	</div>
 	<div class="title2">
 		MODERNIST<br>STUDIES<br>ASSOCIATION
