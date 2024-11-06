@@ -136,7 +136,7 @@ layout: home
 			<br>
     
 		<div class ="feed-block">
-		  <a class="twitter-timeline" data-width="324" data-height="650" href="https://fxtwitter.com/msatweet?ref_src=twsrc%5Etfw">Tweets by msatweet</a> 
+		  <a class="twitter-timeline" data-width="324" data-height="650" href="https://twitter.com/msatweet?ref_src=twsrc%5Etfw">Tweets by msatweet</a> 
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   	</div>
 
