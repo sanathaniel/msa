@@ -8,6 +8,7 @@ footer: false
 <style>
   body {
     background-color: feefdc;
+	font-style: "gill sans";
 	color: black;
 	}
 </style>
@@ -17,6 +18,15 @@ footer: false
 
 <div class="subway">
 	<img src="assets/subway_landing.jpeg" width="100%">
+	<div class="title1">
+		Infrastructure
+	</div>
+	<div class="title2">
+		Modernist<br>Studies<br>Association
+	</div>
+	<div class="title3">
+		Boston<hr>MSA 2025<hr>Oct 9-12
+	</div>
 	<a href="special-events" class="btn1">EVENTS</a>
 	<a href="CFP" class="btn2">CFP</a>
 	<a href="program" class="btn3">PROGRAM</a>
