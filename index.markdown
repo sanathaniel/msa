@@ -162,10 +162,12 @@ layout: home
 	
 	<div class ="feed-block" style="padding-right:63px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
 		<p>
-			<a href="https://bsky.app/profile/moderniststudies.bsky.social">
-				<div style="color:black; font-size:1.5em; font-weight:bold;">MSA on</div>
-				<img src="assets/bsky.jpg" style="height: 35px;">
-			</a>
+			<div style="color:black; font-size:1.5em; font-weight:bold;">
+				<a href="https://bsky.app/profile/moderniststudies.bsky.social">
+					MSA on
+					<img src="assets/bsky.jpg" style="height: 35px;">
+				</a>
+			</div>
 		</p>		
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
