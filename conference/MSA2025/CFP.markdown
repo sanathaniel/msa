@@ -28,7 +28,7 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(254, 239, 220, .25), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(254, 239, 220, .25), rgba(254, 239, 220, 1)), url(/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #206db5; text-shadow: 4px 4px 4px rgb(254, 239, 220);">       
           MSA '25<br>CFP   
@@ -82,7 +82,7 @@ classes:
 <p>Seminars are a central feature of the MSA conference. They are longer sessions of no more than 12 participants, designed to generate lively exchange and facilitate future collaborations. Each participant writes a brief position paper (5-7 pages) that is pre-circulated and read by all participants prior to the conference. Participants sign up for seminars on a first-come, first-served basis when registering for the conference.
 </p>
 
-<p>Seminar Topics: There are no limits on topics, but past experience has shown that the more clearly defined the topic and the more guidance provided by the leader, the more productive the ensuing discussion. “Clearly defined” should not be confused with “narrow,” as extremely narrow seminar topics tend to exclude many potential participants. To review past seminar topics, go to the <a href="/msa/conference/archive.html">Conference Archives</a> on the MSA website, click the link to a prior conference, and then click on “Conference Schedule” or “Conference Program.” You will find seminars listed along with panels and other events.</p>
+<p>Seminar Topics: There are no limits on topics, but past experience has shown that the more clearly defined the topic and the more guidance provided by the leader, the more productive the ensuing discussion. “Clearly defined” should not be confused with “narrow,” as extremely narrow seminar topics tend to exclude many potential participants. To review past seminar topics, go to the <a href="/conference/archive.html">Conference Archives</a> on the MSA website, click the link to a prior conference, and then click on “Conference Schedule” or “Conference Program.” You will find seminars listed along with panels and other events.</p>
 
 <p><a href="https://msa2025.exordo.com/">Click here to submit Seminar Proposals</a> by Friday March 15, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
 		</div>
@@ -247,7 +247,7 @@ also presenting a paper or making substantive remarks in the session; the sessio
 </p>
 <p>All who attend the MSA conference must be members of the organization with dues paid for 
 2025-26 (MSA membership runs from July 1 until June 30 each year) and with any past dues paid 
-in full. For information on MSA, please check the <a href="/msa/index.html">Association website.</a>
+in full. For information on MSA, please check the <a href="/index.html">Association website.</a>
 </p>
 		</div>
 </details>
