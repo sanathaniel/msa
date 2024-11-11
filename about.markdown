@@ -6,9 +6,9 @@ sidebar:
   nav: about_nav
 ---
  
-<div id="main-banner">
+<div id="main-banner"> 
 	<div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/msa/assets/vonwerefkin_sturmwind.jpeg);">
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(msa/assets/vonwerefkin_sturmwind.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
           About MSA     

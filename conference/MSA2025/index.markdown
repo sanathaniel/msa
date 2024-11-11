@@ -26,7 +26,7 @@ footer: false
 		MODERNIST<br>STUDIES<br>ASSOCIATION
 	</div>
 	<div class="title3">
-		BOSTON<br>MSA 2025<br>OCT 9-12
+		MSA 2025<br>BOSTON<br>OCT 9-12
 	</div>
 	<a href="special-events" class="btn1">EVENTS</a>
 	<a href="CFP" class="btn2">CFP</a>
