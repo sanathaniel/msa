@@ -13,16 +13,16 @@ sidebar:
 <h2>MSA '25: Infrastructure</h2>
 
 <div class="page__hero--overlay"
-  style="background-color: #000; color: 1e6cb6; background-image: url(/msa/conference/MSA2025/assets/subway_2022.jpeg);">
+  style="background-color: #000; color: 1e6cb6; background-image: url(/conference/MSA2025/assets/subway_2022.jpeg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
-		  <a href="/msa/conference/MSA2025/CFP/">CFP for MSA '25: Infrastructure</a>      
+		  <a href="/conference/MSA2025/CFP/">CFP for MSA '25: Infrastructure</a>      
 	  </h1> 
 	</div>
 </div>
 
 <p><strong>
-<a href="/msa/conference/MSA2025/CFP/"
+<a href="/conference/MSA2025/CFP/"
 >October 9-12, Boston</a>
 </strong></p>
 				

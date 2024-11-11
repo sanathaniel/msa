@@ -148,7 +148,7 @@ questions.</p>
 <!--
 <h2>2024 MSA Elections Now Open!</h2>
 
-<p>The 2024 election is now open and will run through 11:59 PM EST on Monday, May 20, 2024. This year we are electing a new 2nd VP, International Relations Chair, Interdisciplinary Studies Chair, and Graduate Student Representative.We have a superb slate of candidates. Please do take a moment to vote at our election website, linked here: <a href="https://vote.press.jhu.edu/msa/elections">Election | MSA Elections</a></p>
+<p>The 2024 election is now open and will run through 11:59 PM EST on Monday, May 20, 2024. This year we are electing a new 2nd VP, International Relations Chair, Interdisciplinary Studies Chair, and Graduate Student Representative.We have a superb slate of candidates. Please do take a moment to vote at our election website, linked here: <a href="https://vote.press.jhu.edu/elections">Election | MSA Elections</a></p>
 
 <p>Please use your MSA membership username and password  to log in and submit your ballot choices.</p>
 

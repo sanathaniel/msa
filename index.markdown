@@ -32,7 +32,7 @@ layout: home
 				</div>
 				<h3>MSA2025 CFP</h3>
 				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
-			<a href="/msa/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
+			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
@@ -50,7 +50,7 @@ layout: home
 				</div>
 				<h3>Membership</h3>
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
-			<a href="/msa/members/login/" class="btn btn--primary">Join</a>
+			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>
 		
 		<div class ="feature__item">
@@ -68,7 +68,7 @@ layout: home
 				</div>
 				<h3>SIGs</h3>
 				<figcaption  class="archive__item-title">Special Interest Groups shape the future of modernist studies</figcaption>
-			<a href="/msa/conference/MSA2024" class="btn btn--primary">Gather</a>
+			<a href="/conference/MSA2024" class="btn btn--primary">Gather</a>
 		</div>
 		
 		
@@ -87,7 +87,7 @@ layout: home
 				</div>
 				<h3>Digital Programs</h3>
 				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>
-			<a href="/msa/conference/digital/" class="btn btn--primary">Connect</a>
+			<a href="/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
@@ -96,7 +96,7 @@ layout: home
 				</div>
 				<h3>MSA24: Chicago</h3>
 				<figcaption  class="archive__item-title">Review the program from this year's conference</figcaption>
-			<a href="/msa/conference/MSA2024" class="btn btn--primary">Reflect</a>
+			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 		
 		
@@ -106,7 +106,7 @@ layout: home
 				</div>
 				<h3>2023 Book Prizes</h3>
 				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
-			<a href="/msa/prizes/previous-winners" class="btn btn--primary">Read</a>
+			<a href="/prizes/previous-winners" class="btn btn--primary">Read</a>
 		</div>
 <!--
 				
@@ -116,7 +116,7 @@ layout: home
 				</div>
 				<h3>MSA23: Brooklyn</h3>
 				<figcaption  class="archive__item-title">Review the fantastic program from last year's conference.</figcaption>
-			<a href="/msa/conference/msa2023/" class="btn btn--primary">Review</a>
+			<a href="/conference/msa2023/" class="btn btn--primary">Review</a>
 		</div>
 
 		<div class ="feature__item">
@@ -125,7 +125,7 @@ layout: home
 				</div>
 				<h3>Between the Acts</h3>
 				<figcaption  class="archive__item-title">Look back on the digital programming that expanded out global community.</figcaption>
-			<a href="/msa/conference/bta2022/exhibits.html" class="btn btn--primary">Share</a>
+			<a href="/conference/bta2022/exhibits.html" class="btn btn--primary">Share</a>
 		</div>
 		-->
 		
