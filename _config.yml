@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 subtitle                 : ""
-name                     : "Steve Nathaniel" 
+name                     : "Modernist Studies Association" 
 description              : "The Modernist Studies Association is devoted to the study of the arts in their social, political, cultural, and intellectual contexts from the later nineteenth through the mid-twentieth century. The organization aims to develop an international and interdisciplinary forum to promote exchange among scholars in this vital and rapidly changing field."
-url                      : "https://sanathaniel.github.io/"
+url                      : "https://moderniststudies.org/"
 baseurl                  : "/msa"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://msa.press.jhu.edu/images/MSABanner.png"
+logo                     : "/assets/MSAMastehead.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
