@@ -8,7 +8,7 @@ sidebar:
  
 <div id="main-banner"> 
 	<div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(msa/assets/the_drake.jpg);">
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/the_drake.jpg);">
 		<div class="wrapper">
 		  <h1 id="page-title" class="page__title" itemprop="headline">       
 			  Conferences    
@@ -19,7 +19,7 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
-<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/msa/conference/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/msa/conference/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Preview upcoming <a href="/msa/conference/digital/">digital programming here</a> or explore the <a href="/msa/conference/past-conferences/">conference archives here</a>.
+<p>Stay tuned for the MSA's many gatherings throughout the year, including our <a href="/conference/upcoming-conferences/">annual conference</a>. Each year MSA also collaborates as an <a href="/conference/MSA-MLA/">Allied Organization of the Modern Language Association</a>. Preview upcoming <a href="/conference/digital/">digital programming here</a> or explore the <a href="/conference/past-conferences/">conference archives here</a>.
 </p>
 
 <hr>
