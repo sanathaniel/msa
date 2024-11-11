@@ -163,13 +163,13 @@ layout: home
 	<div class ="feed-block">
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
-			username="vincentwill.com"
-			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
+			username="moderniststudies.bsky.social"			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
 			mode=""
 			limit="3"
 		  >
 		  </bsky-embed>
 	</div>
+	
 		<!--
 		<div class ="feed-block">
 		  <a class="twitter-timeline" data-width="324" data-height="650" href="https://twitter.com/msatweet?ref_src=twsrc%5Etfw">Tweets by msatweet</a> 
