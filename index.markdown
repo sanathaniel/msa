@@ -161,8 +161,8 @@ layout: home
 		</div>
 	
 	<div class ="feed-block" style="padding-right:63px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
-		<a href="https://bsky.app/profile/moderniststudies.bsky.social">MSA on Bluesky</a>
-		<img src="assets/bsky.jpeg" width="2em;" height="auto;"/>
+		<a href="https://bsky.app/profile/moderniststudies.bsky.social" style="font-weight:bold; font-color: black;">MSA on Bluesky</a>
+		<img src="assets/bsky.jpeg" width="50px;" height="50px;"/>
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
 			username="moderniststudies.bsky.social"			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
