@@ -24,8 +24,8 @@ description              : "The Modernist Studies Association is devoted to the 
 url                      : "https://moderniststudies.org/"
 baseurl                  : "/msa"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/MSAMasthead.png"
-logo                     : "/assets/MSABanner.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "assets/MSAMastehead.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
