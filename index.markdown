@@ -162,8 +162,8 @@ layout: home
 	
 	<div class ="feed-block" style="padding-right:63px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
 		<p></p>
-		<a href="https://bsky.app/profile/moderniststudies.bsky.social"
-			<img src="assets/bsky.jpeg" height="50px;">
+		<a href="https://bsky.app/profile/moderniststudies.bsky.social">
+			<img src="assets/bsky.jpg" style="height: 50px;">
 		</a>
 	
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
