@@ -168,6 +168,9 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 <p><a href="https://msa2025.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by April 5, 
 2025. Please include a 300-word abstract of the paper. Author bios are limited to
  100 words. </p>
+ 
+ <!--
+ 
 		<details closed>
 			<summary class="stream-title">Modernism and the Environment Stream: Migration, Modernization, and Environmental Change</summary>
 				<div class="description">
@@ -225,6 +228,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</p>
 </details>
 <hr>
+-->
 
 <details closed>
 	<summary class="CFP-summary">Participation</summary>
