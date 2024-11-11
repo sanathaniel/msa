@@ -22,7 +22,7 @@ footer: false
 </style>
 
 <div class="page__hero--overlay"
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(254, 239, 220, .25), rgba(254, 239, 220, 1)), url(/msa/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(254, 239, 220, .25), rgba(254, 239, 220, 1)), url(/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #206db5; text-shadow: 4px 4px 4px rgb(254, 239, 220);">       
 		  Registration       
@@ -34,10 +34,10 @@ footer: false
 
 <div>
 
-  <p><strong><a target="_blank" href="/msa/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
+  <p><strong><a target="_blank" href="/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
 
     <p>
-      Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="/msa/members/join">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
+      Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="/members/join">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
     </p>
 	
       <h2>Registration Rates</h2>
@@ -59,13 +59,13 @@ footer: false
 
       <h2>SEMINAR REGISTRATION</h2>
 	  
-			<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/msa/conference/MSA2024Seminars.html">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
+			<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2024Seminars.html">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
 
 		<h2>CANCELLATIONS AND REFUNDS</h2>
 	  
 			<p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="kyoung36@jh.edu">Kathy Young</a>.</p>
 
-  <p><strong><a target="_blank" href="/msa/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
+  <p><strong><a target="_blank" href="/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
 			
 
 			
@@ -80,7 +80,7 @@ footer: false
     <p>These fees and any associated with the optional
     Business Lunch or for Special Events such as the Art Institute and American
     Writers Museum tour must be paid in advance through our 
-    <a style="font-size:2em" href='/msa/members/conference'>online registration portal</a>.
+    <a style="font-size:2em" href='/members/conference'>online registration portal</a>.
     </p>
 
     <p>
@@ -90,7 +90,7 @@ footer: false
     must be current in order for you to register, so you may be directed within the
     Registration process to renew or initiate your membership.  Membership fees are
     listed on the MSA website at 
-    <a href="/msa/members/join">/msa/members/join</a>.</p>
+    <a href="/members/join">/members/join</a>.</p>
 
         <p>
             Customer orders, refunds, and other account questions should be directed to the Johns Hopkins University Press in-house Customer Service team at this address: <a href="mailto: jrnlcirc@press.jhu.edu">jrnlcirc@press.jhu.edu</a>.  Reimbursement requests must be made two weeks <i>before</i> the conference begins (21 October at the latest).

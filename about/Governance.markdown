@@ -10,7 +10,7 @@ sidebar:
 
 <h2>MSA Executive Committee</h2>
 <p>Each year the MSA holds elections for the various committee positions
-	outlined in <a href="/msa/about/constitution">the MSA constitution and
+	outlined in <a href="/about/constitution">the MSA constitution and
 		bylaws</a>. The chairs of these committees, along with the
 	officers, the webmaster, and the co-editors of
 		<em>Modernism/modernity</em>, comprise the MSA's Board of

@@ -14,10 +14,10 @@ sidebar:
   <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
   <title>MSA Membership - Log in</title>
-  <link rel="stylesheet" href="/msa/members/css/msa-style.css" type="text/css">
-  <link rel="stylesheet" href="/msa/members/css/jhup-style.css" type="text/css">
-  <link href="/msa/members/css/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-  <link href="/msa/members/img/msa-favicon.png" rel= "shortcut icon" type="image/gif" />
+  <link rel="stylesheet" href="/members/css/msa-style.css" type="text/css">
+  <link rel="stylesheet" href="/members/css/jhup-style.css" type="text/css">
+  <link href="/members/css/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+  <link href="/members/img/msa-favicon.png" rel= "shortcut icon" type="image/gif" />
 
 </head>
 
