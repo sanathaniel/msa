@@ -177,7 +177,7 @@ layout: home
 		  >
 		  </bsky-embed>
 	</div>
-	 
+	
 		<!--
 		<div class ="feed-block">
 		  <a class="twitter-timeline" data-width="324" data-height="650" href="https://twitter.com/msatweet?ref_src=twsrc%5Etfw">Tweets by msatweet</a> 
