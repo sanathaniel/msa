@@ -161,7 +161,8 @@ layout: home
 		</div>
 	
 	<div class ="feed-block" style="padding-right:63px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
-		<a href="https://bsky.app/profile/moderniststudies.bsky.social" style="font-weight:bold; font-color: black;">MSA on Bluesky</a>
+		<p></p>
+		<a href="https://bsky.app/profile/moderniststudies.bsky.social" style="font-size: 1.5em; font-weight:bold; color: black;">MSA is on</a>
 		<img src="assets/bsky.jpeg" width="50px;" height="50px;"/>
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
