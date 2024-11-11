@@ -68,7 +68,7 @@ layout: home
 				</div>
 				<h3>SIGs</h3>
 				<figcaption  class="archive__item-title">Special Interest Groups shape the future of modernist studies</figcaption>
-			<a href="/conference/MSA2024" class="btn btn--primary">Gather</a>
+			<a href="/members/sigs/" class="btn btn--primary">Gather</a>
 		</div>
 		
 		
