@@ -162,7 +162,7 @@ layout: home
 	
 	<div class ="feed-block" style="padding-right:63px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
 		<p>
-			<div style="color:black; font-size:1.5em; font-weight:bold;">
+			<div style="color:black; font-size:1.5em; font-weight:bold; text-align:center;">
 				<a href="https://bsky.app/profile/moderniststudies.bsky.social">
 					MSA on
 					<img src="assets/bsky.jpg" style="height: 35px;">
