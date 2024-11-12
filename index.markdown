@@ -165,7 +165,7 @@ layout: home
 			<div class="soc-title">
 				<a href="https://bsky.app/profile/moderniststudies.bsky.social">
 					<font color="black">MSA on</font>
-					<img src="assets/bsky.jpg" style="height: 35px;">
+					<img src="assets/bsky.jpg" style="height: 26px;">
 				</a>
 			</div>	
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
