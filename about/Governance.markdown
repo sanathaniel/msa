@@ -15,45 +15,66 @@ sidebar:
 	officers, the webmaster, and the co-editors of
 		<em>Modernism/modernity</em>, comprise the MSA's Board of
 	Trustees.</p>
-<p><b>President</b>: <a href="mailto:lhornby@humnet.ucla.edu"
-	>Louise Hornby</a>, UCLA</p>
-<p><b>First Vice President</b>: <a href="mailto:ogonzale@wellesley.edu"
+	
+<p><b>President</b>: <a href="mailto:ogonzale@wellesley.edu"
 	>Octavio González</a>, Wellesley College</p>
+	
+<p><b>First Vice President</b>: <a href="mbradshaw@luc.edu"
+	>Melissa Bradshaw</a>, Loyala University Chicago</p>
+	
 <p><b>Second Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>New York Institute of Technology</p>
-<p><b>Past President</b>: <a href="mailto:amy.clukey@louisville.edu">Amy
-	Clukey</a>, University of Louisville</p>
+
+<p><b>Past President</b>: <a href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>, UCLA</p>
+
 <p><b>Chair, Interdisciplinary Studies Chair</b>: <a
 		href="mailto:joel.rhone@louisiana.edu">Joel Terence Rhone</a>, University of Louisiana</p>
+		
 <p><b>Chair, International Relations</b>: <a
 		href="mailto:yasna.bozhkova@parisnanterre.fr"
 		>Yasna Bozhkova</a>, Université Paris Nanterre</p>
+		
 <p><b>Chair, Membership &amp; Elections</b>: <a
 	href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a>, CUNY Queens College<br />
+	
 <p><b>Chair, Program</b>: <a href="mailto:pdabashi@brynmawr.edu"
 	>Pardis Dabashi</a>, Bryn Mawr College</p>
+	
 <p><b>Vice-Chair, Program</b>: <a href="mailto:matthewlevay@isu.edu"
 		>Matthew Levay</a>, Idaho State University</p>
+		
 <p><b>Chair, Finance</b> (Treasurer): <a
 		href="mailto:matthew.eatough@baruch.cuny.edu">Matthew
 		Eatough</a>, CUNY-Baruch College<br />
+		
 <p><b>Chair, Technology and Infrastructure</b>: <a
 	href="mailto:nathanis@gvsu.edu">Steven Nathaniel</a>,
 	Grand Valley State University</p>
+	
 <p><b>Contingent Faculty Representative</b>: <a
 	href="mailto:kschnur@qc.cuny.edu">Kate Schnur</a>, CUNY Queens College</p>
+	
 <p><b>Graduate Student Representative</b>: <a
-		href="mailto:zlhenry@iu.edu">Zoë Henry</a>, Inidiana
-	University-Bloomington</p>
+		href="mailto:jessica.masters@sydney.edu.au">Jessica Masters</a>, University of Sydney</p>
+		
 <p><b>Co-Editors of <em>Modernism/modernity</em></b>: <br />
+
 	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>,
 	Rutgers University<br />
+	
 	<a href="mailto:stephen.ross@concordia.ca>">Stephen J. Ross</a>, Concordia
 	University </p>
+	
 <p><b>Book Review Editors of <em>Modernism/modernity</em></b>: <br/>
+
 	<a href="mailto:ssobelle@gettysburg.edu">Stefanie Sobelle</a>, Gettysburg College<br/>
+	
 	<a href="mailto:martin.harries@uci.edu">Martin Harries</a>, UC Irvine</p>
+	
 <p><b>Managing Editors of <em>Modernism/modernity</em></b>: <br />
+
 	<a href="mailto:paisleyconrad@gmail.com">Paisley Conrad</a>,
 	Concordia University<br />
+	
 	<a href="mailto:rg813@scarletmail.rutgers.edu">Rudrani Gangopadhyay</a>,  Rutgers University</p>
+	
 <!-- #EndEditable -->
