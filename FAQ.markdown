@@ -21,10 +21,12 @@ permalink: /FAQ/
 		href="https://associations.press.jhu.edu/cgi-bin/msa/msa_membership.cgi"
 		>Online Membership Form</a> and follow the directions there.</p>
 <h2>What is my membership number?</h2>
+<!--
 <p>Your membership number identifies you as a member of the MSA to the
 	JHUP. Go to the <a href="/cgi-bin/member_number_lookup.cgi"
 		>Membership Number Retrieval</a> page to find out how to locate
 	it.</p>
+-->	
 <h2>How do I contact the Johns Hopkins University Press?</h2>
 <p>You may contact the Johns Hopkins University Press by writing them at
 	the following address:</p>
@@ -48,5 +50,5 @@ permalink: /FAQ/
 	<li>Click on the "Ask to join group" option.</li>
 </ul>
 <p> Members using the Google Group mailing list are expected to follow
-	the MSA's <a href="/about/conduct.html">Code of Conduct</a>. </p>
+	the MSA's <a href="/about/mission/">Code of Conduct</a>. </p>
 <!-- #EndEditable -->
