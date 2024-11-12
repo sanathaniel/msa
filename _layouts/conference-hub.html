@@ -11,6 +11,14 @@ layout: default
     background-color: black;
 	font-family: "gill sans";
 	color: white;
+	
+	html {
+	  
+	  @include breakpoint($small){
+		font-size: 12px; // change to whatever
+	  }
+	}
+	
   }
  
   a {
@@ -151,7 +159,7 @@ layout: default
   color: black;
   background-color: #f55032;
   text-decoration-line: none;
-  padding: 0px 16px 0px 16px;
+  padding: 0px 14px 0px 14px;
   no-repeat;
   border-radius: 16px;
   top: 24%;
