@@ -11,11 +11,11 @@ Follow the links below to see programs for past MSA conferences.
 <p>Follow the links below to see programs for past MSA conferences.</p>
 <ul>
 	<li>
-		<a href="http://msa.press.jhu.edu/conferences/msa2024/">MSA
+		<a href="/conferences/msa2024/">MSA
 			2024: Chicago, November 7-10, 2024</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/msa2024/MSA_2023_Program_10_13_23.pdf"
+			href="/conference/MSA2024/MSA2024_Final_Program.pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -24,7 +24,7 @@ Follow the links below to see programs for past MSA conferences.
 			2023: Brooklyn, October 26-29, 2023</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/msa2023/schedules/MSA_2023_Program_10_13_23.pdf"
+			href="conference/archive/MSA_2023_Program_10_13_23.pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -33,7 +33,7 @@ Follow the links below to see programs for past MSA conferences.
 			2022: Portland, October 27-30, 2022</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/msa2022/schedules/MSA2022_Final_Program.pdf"
+			href="conference/archive/MSA2022_Final_Program.pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -51,7 +51,7 @@ Follow the links below to see programs for past MSA conferences.
 			17-20, 2019</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2019 Program (Toronto).pdf"
+			href="conference/archive/2019 Program (Toronto).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -60,7 +60,7 @@ Follow the links below to see programs for past MSA conferences.
 			2018: Columbus, November 8-11, 2018</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2018 Program (Columbus).pdf"
+			href="conference/archive/2018 Program (Columbus).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -69,7 +69,7 @@ Follow the links below to see programs for past MSA conferences.
 			Amsterdam, August 10-13, 2017</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2017 Program (Amsterdam).pdf"
+			href="conference/archive/2017 Program (Amsterdam).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -78,7 +78,7 @@ Follow the links below to see programs for past MSA conferences.
 			Pasadena, CA, November 17-20, 2016</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2016 Program (Pasadena).pdf"
+			href="conference/archive/2016 Program (Pasadena).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -87,7 +87,7 @@ Follow the links below to see programs for past MSA conferences.
 			Boston, MA, November 19-22, 2015</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2015 Program (Boston).pdf"
+			href="conference/archive/2015 Program (Boston).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -96,7 +96,7 @@ Follow the links below to see programs for past MSA conferences.
 			Pittsburgh, PA, November 6-9, 2014</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2014 Program (Pittsburgh).pdf"
+			href="conference/archive/2014 Program (Pittsburgh).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -105,7 +105,7 @@ Follow the links below to see programs for past MSA conferences.
 			Sussex, UK, August 29-September 3, 2013</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2013 Program (Sussex).pdf"
+			href="conference/archive/2013 Program (Sussex).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -114,7 +114,7 @@ Follow the links below to see programs for past MSA conferences.
 			>MSA 14: Las Vegas, October 18-21, 2012</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2012 Program (Vegas).pdf"
+			href="conference/archive/2012 Program (Vegas).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -124,7 +124,7 @@ Follow the links below to see programs for past MSA conferences.
 			2011</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2011 Program (Buffalo).pdf"
+			href="conference/archive/2011 Program (Buffalo).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -133,7 +133,7 @@ Follow the links below to see programs for past MSA conferences.
 			Victoria, November 11-14, 2010</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2010 Program (Victoria).pdf"
+			href="conference/archive/2010 Program (Victoria).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -142,7 +142,7 @@ Follow the links below to see programs for past MSA conferences.
 			2009</a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2009 Program (Montreal).pdf"
+			href="conference/archive/2009 Program (Montreal).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -150,7 +150,7 @@ Follow the links below to see programs for past MSA conferences.
 		<a href="/archive/msa10">MSA 10: Nashville, November 13-16, 2008 </a>
 		<br>
 		<a
-			href="https://msa.press.jhu.edu/conferences/programs/2008 Program (Nashville).pdf"
+			href="conference/archive/2008 Program (Nashville).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
