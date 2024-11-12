@@ -134,10 +134,14 @@ layout: home
 	</div>
 	
 	
-	<div class="social-row">		
+	<div class="social-row">	
+	
+		<!--
 		<i style="text-align:center"><h2>Follow MSA</h2></i>
+		
 			<br>
-    
+		-->
+	
 	<!--
 	<div class="feed-block" width="324" height="650">
 		<div class='sk-ww-facebook-group-posts' data-embed-id='25483802'></div><script src='https://widgets.sociablekit.com/facebook-group-posts/widget.js' async defer></script>	
