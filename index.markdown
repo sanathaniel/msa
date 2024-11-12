@@ -58,7 +58,7 @@ layout: home
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
 				</div>
 				<h3>Print+</h3>
-				<figcaption  class="archive__item-title">Modernism/modernity reaches new audiences through Print+.</figcaption>
+				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences through Print+.</figcaption>
 			<a href="https://modernismmodernity.org/" class="btn btn--primary">Read</a>
 		</div>	
 		
@@ -106,7 +106,7 @@ layout: home
 				</div>
 				<h3>2023 Book Prizes</h3>
 				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
-			<a href="/prizes/previous-winners" class="btn btn--primary">Read</a>
+			<a href="/prizes/previous-winners" class="btn btn--primary">Review</a>
 		</div>
 <!--
 				
@@ -161,14 +161,13 @@ layout: home
 		</div>
 	
 	<div class ="feed-block" style="padding-right:63px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
-		<p>
-			<div style="color:black; font-size:1.5em; font-weight:bold; text-align:center;">
+		<br>
+			<div style="font-size: 1.5em; font-weight: bold; text-align:center;">
 				<a href="https://bsky.app/profile/moderniststudies.bsky.social">
-					MSA on
+					<font color="black">MSA on</font>
 					<img src="assets/bsky.jpg" style="height: 35px;">
 				</a>
-			</div>
-		</p>		
+			</div>	
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
 			username="moderniststudies.bsky.social"			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
