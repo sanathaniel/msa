@@ -10,8 +10,8 @@ sidebar:
 <h2>Research Grants</h2>
 <p>The MSA research grant program is currently suspended. Next year's
 	round of research grants will be announced at a future date.
-	Questions? Email <a href="mailto:amy.clukey@louisville.edu">Amy
-		Clukey</a>, President, or <a
+	Questions? Email <a href="mailto:ogonzale@wellesley.edu"
+	>Octavio González</a>, President, or <a
 		href="mailto:matthew.eatough@baruch.cuny.edu">Matthew
 		Eatough</a>, Treasurer </p>
 
