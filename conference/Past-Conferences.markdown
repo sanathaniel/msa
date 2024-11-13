@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Past Conferences
-permalink: //conference/past-conferences/
+permalink: /conference/past-conferences/
 sidebar:
   nav: conference_nav
 ---
