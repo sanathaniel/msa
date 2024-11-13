@@ -12,7 +12,7 @@ sidebar:
 	<tr>
 		<td width="144">
 			<img
-				src="/assets/images/mlalogo.jpg"
+				src="/assets/mla_logo.jpg"
 				alt="mla" width="144" height="32" />
 		</td>
 		<td width="12">&nbsp;</td>
@@ -59,7 +59,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="/assets/bams_logo1.jpg"
+				src="/assets/bams_logo.jpg"
 				alt="bams" width="144" height="123" />
 		</td>
 		<td>&nbsp;</td>
@@ -85,7 +85,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="/assets/AMSN_logo.png"
+				src="/assets/amsn_logo.png"
 				alt="bams" width="144" height="123" />
 		</td>
 		<td>&nbsp;</td>
@@ -104,7 +104,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="/assets/SEM_logo.png"
+				src="/assets/sem_logo.png"
 				alt="sem" width="144" height="64" />
 		</td>
 		<td>&nbsp;</td>
@@ -132,7 +132,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="/assets/SHARP_logo.jpg"
+				src="/assets/sharp_logo.jpg"
 				alt="sem" width="144" height="auto" />
 		</td>
 		<td>&nbsp;</td>
@@ -160,7 +160,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="/assets/MSIA_logo.jpg"
+				src="/assets/msia_logo.jpg"
 				alt="Modernist Studies in Asia logo" width="144"
 				height="auto" />
 		</td>
