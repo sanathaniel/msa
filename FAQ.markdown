@@ -8,7 +8,7 @@ permalink: /FAQ/
 <!-- #BeginEditable "content" -->
 <h2>How do I join the Modernist Studies Association?</h2>
 <p>Go to the <a
-		href="https://associations.press.jhu.edu/cgi-bin/msa/msa_membership.cgi"
+		href="https://msa.press.jhu.edu/membership/register"
 		>Online Membership Form</a> and follow the directions there.</p>
 <h2> How do I know if I am a current MSA member or if my membership is
 	expired?</h2>
@@ -18,10 +18,11 @@ permalink: /FAQ/
 </p>
 <h2> How do I renew my MSA membership?</h2>
 <p>Go to the <a
-		href="https://associations.press.jhu.edu/cgi-bin/msa/msa_membership.cgi"
-		>Online Membership Form</a> and follow the directions there.</p>
-<h2>What is my membership number?</h2>
+		href="https://msa.press.jhu.edu/membership/join"
+		>online registration page</a> and follow the directions there.</p>
 <!--
+<h2>What is my membership number?</h2>
+
 <p>Your membership number identifies you as a member of the MSA to the
 	JHUP. Go to the <a href="/cgi-bin/member_number_lookup.cgi"
 		>Membership Number Retrieval</a> page to find out how to locate
@@ -37,7 +38,7 @@ permalink: /FAQ/
 		href="mailto:jrnlcirc@press.jhu.edu">jrnlcirc@press.jhu.edu</a>
 </p>
 <h2>How do I submit an essay for <em>Modernism/modernity</em>?</h2>
-<p>You can find submissions guidelines on the journal&rsquo;s page on
+<p>You can find submissions guidelines on the journal's page on
 	our site.</p>
 <h2>What is the msa-members mailing list? How do I join?</h2>
 <p>The MSA uses a Google Group mailing list to communicate with
