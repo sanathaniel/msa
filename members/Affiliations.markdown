@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Affiliations
-permalink: /assets/affiliations/
+permalink: /affiliations/
 sidebar:
   nav: members_nav
 ---
