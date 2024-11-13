@@ -19,7 +19,7 @@ sidebar:
 <p><b>President</b>: <a href="mailto:ogonzale@wellesley.edu"
 	>Octavio González</a>, Wellesley College</p>
 	
-<p><b>First Vice President</b>: <a href="mbradshaw@luc.edu"
+<p><b>First Vice President</b>: <a href="mailto:mbradshaw@luc.edu"
 	>Melissa Bradshaw</a>, Loyala University Chicago</p>
 	
 <p><b>Second Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>New York Institute of Technology</p>
