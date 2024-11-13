@@ -30,6 +30,7 @@ sidebar:
 <p>William J. Maxwell (2020-2021)</p>
 <p>Janine Utell (2021-2022)</p>
 <p>Amy Clukey (2022-2023)</p>
+<p>Louise Hornby (2023-2024)</p>
 <br />
 <hr />
 <h1>Archive of MSA Executive Committees</h1>
