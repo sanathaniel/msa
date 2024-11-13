@@ -12,7 +12,7 @@ sidebar:
 	<tr>
 		<td width="144">
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/mlalogo.jpg"
+				src="/members/images/mlalogo.jpg"
 				alt="mla" width="144" height="32" />
 		</td>
 		<td width="12">&nbsp;</td>
@@ -34,7 +34,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/eam_logo.jpg"
+				src="/members/eam_logo.jpg"
 				alt="eam" width="144" height="143" />
 		</td>
 		<td>&nbsp;</td>
@@ -59,7 +59,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/bams_logo1.jpg"
+				src="/members/bams_logo1.jpg"
 				alt="bams" width="144" height="123" />
 		</td>
 		<td>&nbsp;</td>
@@ -85,7 +85,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/AMSN21_144px.png"
+				src="/members/AMSN_logo.png"
 				alt="bams" width="144" height="123" />
 		</td>
 		<td>&nbsp;</td>
@@ -104,7 +104,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/Logo-SEM.png"
+				src="/members/SEM_logo.png"
 				alt="sem" width="144" height="64" />
 		</td>
 		<td>&nbsp;</td>
@@ -132,7 +132,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/SHARP_small.jpg"
+				src="/members/SHARP_logo.jpg"
 				alt="sem" width="144" height="auto" />
 		</td>
 		<td>&nbsp;</td>
@@ -160,7 +160,7 @@ sidebar:
 	<tr>
 		<td>
 			<img
-				src="http://msa.press.jhu.edu/affiliations/images/msia.jpg"
+				src="/members/MSIA_logo.jpg"
 				alt="Modernist Studies in Asia logo" width="144"
 				height="auto" />
 		</td>
