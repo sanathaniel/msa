@@ -22,7 +22,7 @@ sidebar:
 <p><b>First Vice President</b>: <a href="mailto:mbradshaw@luc.edu"
 	>Melissa Bradshaw</a>, Loyala University Chicago</p>
 	
-<p><b>Second Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>New York Institute of Technology</p>
+<p><b>Second Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, New York Institute of Technology</p>
 
 <p><b>Past President</b>: <a href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>, UCLA</p>
 
@@ -35,11 +35,13 @@ sidebar:
 		
 <p><b>Chair, Membership &amp; Elections</b>: <a
 	href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a>, CUNY Queens College<br />
-	
+
+<!--	
 <p><b>Chair, Program</b>: <a href="mailto:pdabashi@brynmawr.edu"
 	>Pardis Dabashi</a>, Bryn Mawr College</p>
+-->
 	
-<p><b>Vice-Chair, Program</b>: <a href="mailto:matthewlevay@isu.edu"
+<p><b>Chair, Program</b>: <a href="mailto:matthewlevay@isu.edu"
 		>Matthew Levay</a>, Idaho State University</p>
 		
 <p><b>Chair, Finance</b> (Treasurer): <a
