@@ -35,6 +35,30 @@ sidebar:
 <h1>Archive of MSA Executive Committees</h1>
 <hr />
 <br />
+<h2>MSA Executive Committee 2023-2024</h2>
+<p><b>President</b>:  Louise Hornby, UCLA</p>
+<p><b>First Vice President</b>: Octavio González, Wellesley College</p>
+<p><b>Second Vice President</b>: Melissa Bradshaw, Loyola University Chicago</p>
+<p><b>Past President</b>: Amy Clukey, University of Louisville </p>
+<p><b>Chair, Interdisciplinary Approaches</b>: Sunny Stalter-Pace,
+	Auburn University</p>
+<p><b>Chair, International Relations</b>: Christos Hadjiyiannis,
+	University of Regensburg</p>
+<p><b>Chair, Membership &amp; Elections</b>: Karen Weingarten, CUNY Queens College<br />
+<p><b>Chair, Program</b>: Pardis Dabashi, Bryn Mawr College</p>
+<p><b>Vice-Chair, Program</b>: Matthew Levay, Idaho State University</p>
+<p><b>Chair, Finance</b> (Treasurer): Matthew Eatough, CUNY-Baruch
+	College<br />
+<p><b>Chair, Technology and Infrastructure</b>: Steven Nathaniel, Grand Valley State University</p>
+<p><b>Contingent Faculty Representative</b>: Kate Schnur, CUNY Queens College</p>
+<p><b>Graduate Student Representative</b>: Zoë Henry, Inidiana
+	University-Bloomington</p>
+<p><b>Co-Editors of <em>Modernism/modernity</em></b>: <br /> Anjali
+	Nerlekar, Rutgers University<br /> Stephen J. Ross, Concordia
+	University </p>
+<hr />
+<br />
+
 <h2>MSA Executive Committee 2022-2023</h2>
 <p><b>President</b>: Amy Clukey, University of Louisville</p>
 <p><b>First Vice President</b>: Louise Hornby, UCLA</p>
