@@ -26,7 +26,7 @@ sidebar:
 
 <p><b>Past President</b>: <a href="mailto:lhornby@humnet.ucla.edu">Louise Hornby</a>, UCLA</p>
 
-<p><b>Chair, Interdisciplinary Studies Chair</b>: <a
+<p><b>Chair, Interdisciplinary Studies</b>: <a
 		href="mailto:joel.rhone@louisiana.edu">Joel Terence Rhone</a>, University of Louisiana</p>
 		
 <p><b>Chair, International Relations</b>: <a
@@ -36,14 +36,13 @@ sidebar:
 <p><b>Chair, Membership &amp; Elections</b>: <a
 	href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a>, CUNY Queens College<br />
 
-<!--	
-<p><b>Chair, Program</b>: <a href="mailto:pdabashi@brynmawr.edu"
-	>Pardis Dabashi</a>, Bryn Mawr College</p>
--->
-	
+
 <p><b>Chair, Program</b>: <a href="mailto:matthewlevay@isu.edu"
 		>Matthew Levay</a>, Idaho State University</p>
 		
+<p><b>Interim Vice-Chair, Program</b>: <a href="mailto:robertvolpicelli@rmc.edu"
+	>Robert Volpicelli</a>, Randolph-Macon College</p>
+	
 <p><b>Chair, Finance</b> (Treasurer): <a
 		href="mailto:matthew.eatough@baruch.cuny.edu">Matthew
 		Eatough</a>, CUNY-Baruch College<br />
