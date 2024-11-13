@@ -150,7 +150,7 @@ Follow the links below to see programs for past MSA conferences.
 		<a href="/past-conferences/msa10">MSA 10: Nashville, November 13-16, 2008 </a>
 		<br>
 		<a
-			href="conference/archive/2008 Program (Nashville).pdf"
+			href="/conference/past-conferences/2008 Program (Nashville).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
