@@ -28,7 +28,7 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(254, 239, 220, .25), rgba(254, 239, 220, 1)), url(/conference/MSA2025/assets/subway_2022_salmon.jpeg);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px rgb(254, 239, 220) inset; background-image: radial-gradient(rgba(254, 239, 220, .25), rgba(254, 239, 220, 1)), url(/conference/MSA2025/assets/subway_landing.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #206db5; text-shadow: 4px 4px 4px rgb(254, 239, 220);">       
           MSA '25<br>CFP   
@@ -202,16 +202,9 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</details>
 
 		<details closed>
-			<summary class="stream-title">Intersectional Feminist and Queer Praxis Stream: Queer, Trans, and Feminist Intersections + Interventions</summary>
+			<summary class="stream-title">Feminist, Queer, and Trans Structures + Infrastructures</summary>
 				<div class="description">
-			<p>This stream will feature papers, panels, and other presentations exploring the relationship 
-			among feminism, queer studies, and modernism. Of particular interest are examinations of how 
-			queer studies and feminism intersect and intervene within modernist studies in a moment when 
-			such approaches are under surveillance, threat, and attack. Possible topics may include new 
-			readings of key feminist, queer, and/or trans modernist figures and works; queer, trans, and/or
-			feminist contributions that revisit and revitalize more traditional texts; methodologies and 
-			theoretical approaches informed by feminist, queer, and/or trans positionalities and politics; 
-			and embodied queer, trans, and/or feminist representations within modernist studies and/or the academy.
+			<p>The IFQP SIG stream seeks papers, panels, and other presentations that explore the structural relationships among modernism and feminist, queer, and trans studies. Of particular interest are examinations of the way that the formal systems of queer and trans studies and feminism intersect and intervene within modernist studies. In other words, we might employ Lauren Berlant’s claim that "infrastructure is not identical to system or structure" but is "defined by the movement or patterning of social form" to ask: what historical, political, and theoretical affordances have resulted from the relationship between and among modernist studies, feminism, queer theory, and trans studies? In line with the conference theme of infrastructure, the IFQP SIG is particularly interested in the construction and constructions of modernism’s literary and cultural production in light of feminist, queer, and trans readings of structures and systems as well as the socialities that are materialized in and through those structures. Possible topics may include new readings of key feminist, queer, and/or trans modernist figures and works; queer, trans, and/or feminist contributions that revisit and revitalize more traditional texts; methodologies and theoretical approaches informed by feminist, queer, and/or trans positionalities and politics; and embodied queer, trans, and/or feminist representations within modernist studies and/or the academy.
 		</p>
 			</div>
 		</details>

@@ -6,7 +6,7 @@ sidebar:
   nav: members_nav
 ---
 
-<h2>2024 SIGS</h2>
+<!-- <h2>2024 SIGS</h2> -->
 
 <h2>MODERNISM AND ENVIRONMENT</h2>
 Anne Raine, University of Ottawa (<a href="mailto:araine@ottawa.edu">araine@ottawa.edu</a>) 
