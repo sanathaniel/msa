@@ -14,11 +14,13 @@ classes:
 <div class="CFP-full">
 <div class="CFP-body">
 
+<!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
+
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: radial-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255,1)), url(/conference/MSA2025/assets/subway_landing.jpeg);">
+  style="background-color: #000; background-image:  url(/conference/MSA2025/assets/subway_landing.jpeg);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3;">       
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; text-shadow: 4px 4px 4px rgb(0, 0, 0);">       
           MSA '25<br>CFP   
       </h1>     
     </div>
@@ -33,6 +35,8 @@ classes:
 <h1>
 <p>Boston, October 9-12, 2025</p>
 </h1>
+
+<hr>
 
 <p>As Modernist Studies returns to Boston in 2025, we have centered on the theme of “Infrastructure” for our annual conference. Infrastructure highlights the organizational systems and resources—whether material, cultural, or affective—that underpin, connect, and define the places we live, the work we do, and the texts we study. We invite participants to understand infrastructure as a capacious term, breaking new ground for conversations about the construction and constructions of modernism’s literature, drama, music, art, architecture, design, and even its own periodicity. Papers on topics or issues outside this conceptual framework are also welcome.</p>
 
@@ -95,7 +99,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		<div class="description">
 <p>Panels are designed to expand research and debate on a topic or theme and present a clear rationale for the papers’ collective goal. Keep in mind that topics are not limited to the conference theme. Please be sure to characterize in your proposal what each paper contributes individually and how it fits into a cohesive session.
 </p>
-<blockquote>
+<ul>
 	<li>We encourage interdisciplinary panels and generally discourage panels on single authors.
 	</li>
 	<li>In order to allow for discussion, preference will be given to panels with three participants 
@@ -111,7 +115,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<li>Please elect an appropriate chair for your panel if possible and include this information as 
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
-</blockquote>
+</ul>
 <p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Friday April 5, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
@@ -124,7 +128,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 
 <p>Please bear in mind these guidelines:
 </p>
-<blockquote>
+<ul>
 	<li>Roundtables may feature as many as 6 speakers but are more likely to be accepted if 
 	they include 4 or 5.
 	</li>
@@ -144,7 +148,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	</li>
 	<li>Roundtable organizers should identify a chair and include this information with their proposals.
 	</li>
-</blockquote>
+</ul>
 <p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Friday April 5, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
 		</div>
 </details>
@@ -217,12 +221,12 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 <p>So as to involve as many people as possible as active participants, the MSA limits appearances
  on the program to one in each category below:
  </p>
- <blockquote>
+ <ul>
 	<li>Seminar, either as leader or as participant
 	</li>
 	<li>Panel or roundtable, as participant (you may also chair a different panel or roundtable)
 	</li>
-</blockquote>
+</ul>
 <p>In other words, you may organize a seminar, present a paper on a panel, and register for a workshop, but you may not 
  present two papers on panels or roundtables.
 </p>
