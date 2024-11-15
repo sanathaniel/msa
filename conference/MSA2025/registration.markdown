@@ -99,7 +99,6 @@ Please note that your membership in the MSA must be current in order for you to 
 
 </div> <!-- .post -->
 
-</div>
 
 
 <p>
