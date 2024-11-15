@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/special-events/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
+    image: conference/MSA2025/assets/subway_logo_1.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -30,7 +30,7 @@ footer: false
 	</div>
 </div>
 
-<body>
+<!-- <body>
     <div class="post">
 		
 		<h2>Conference Excursions</h2>
@@ -119,9 +119,11 @@ We expect to walk approximately two miles, <strong>rain or shine</strong>. Meet 
 		<p>
 		<strong>Chaz Ebert –</strong>Chicago luminary, CEO of rogerebert.com, and Executive Producer of Passing –  will introduce the film. <strong>A roundtable discussion with Rafael Walker, Pardis Dabashi, and Cyraina Johnson-Roullier will follow the screening. </strong>
 		</p>
+ -->
 
-
-
+<p>
+Special-events coming, September 2025.
+</p>
 
 
 <!--		

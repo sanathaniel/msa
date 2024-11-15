@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/travel/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
+    image: conference/MSA2025/assets/subway_logo_1.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -30,7 +30,7 @@ footer: false
 	</div>
 </div>
 
-<body>
+<!-- <body>
     <div class="post">
         
         <p></p>
@@ -41,7 +41,7 @@ footer: false
         <a target="_blank" href="https://www.thedrakehotel.com/"><img src="https://img.travelpass.com/hotel/5ff55f4/52542938/0/x700" style="width:100%"/></a>
 		-->
         
-        <p>Located in the Gold Coast neighborhood, on the lake side of Michigan Avenue, the <a target="_blank" href="https://www.thedrakehotel.com/">Drake Hotel</a>
+ <!--        <p>Located in the Gold Coast neighborhood, on the lake side of Michigan Avenue, the <a target="_blank" href="https://www.thedrakehotel.com/">Drake Hotel</a>
 is surrounded by restaurants and tourist destinations, including many of
 Chicago’s most prominent cultural institutions.</p>
         
@@ -54,7 +54,7 @@ Chicago’s most prominent cultural institutions.</p>
 </p>
 		
 		<p>Alternatively, you may call 1-800-55-DRAKE and refer to group code MSA to receive the conference rate. They can also answer any questions you may have regarding room and hotel amenities.</p>
-		
+		 -->
 		
 <!--
 <p>Check back on this page for hotel booking and conference discount information in 2024.</p>
@@ -66,7 +66,7 @@ efforts will help ensure that the MSA can meet its contractual obligations with
 the Drake.</p>
 -->
         
-        <p></p>
+ <!--        <p></p>
         
         <h2><strong>Getting to Chicago</strong></h2>
         
@@ -127,4 +127,8 @@ from Midway to the Drake should run $30–$40 (not including tip).</p>
     </div>
 
 
-</body>
+</body> --> 
+
+<p>
+Travel and Accomodations coming, September 2025.
+</p>

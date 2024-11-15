@@ -6,7 +6,7 @@ sidebar:
   nav: conference_nav
 ---
 
-MSA Statement on Conference Access
+<h2>MSA Statement on Conference Access</h2>
 
 The MSA is committed to ensuring that all conference registrants will be able to participate in conference events. We ask that all conference attendees give thought to questions of access and work with the conference organizers to create an event that is welcoming to the entire community of participants.
 
