@@ -6,6 +6,12 @@ sidebar:
   nav: conference_nav
 ---
 
+<hr>
+
+<p>
+Digital programming has concluded for 2024. Review past meetings below, and stay tuned for upcoming announcements in spring 2025.
+</p>
+
 <hr> 
 
 <h1>TEACHING MODERNISMS</h1>

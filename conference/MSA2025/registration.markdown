@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/registration/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
+    image: conference/MSA2025/assets/subway_logo_1.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -32,41 +32,41 @@ footer: false
 
 <body>
 
-<div>
+<!-- <div>
 
-  <p><strong><a target="_blank" href="/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
+<p><strong><a target="_blank" href="/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
 
-    <p>
-      Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="/members/join">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
-    </p>
-	
-      <h2>Registration Rates</h2>
-	  
-      <ul style="font-size: 18px;">
-        <li><strong>Regular Member Rate:</strong> $260 before September 20 $ | $290 after September 20<br/></li>
-        <li><strong>Reduced Rate*:</strong> $130 before September 20 | $160 after September 20<br/></li>
-		<li><strong>Undergraduate Rate:</strong> $50 before September 20 | $60 after September 20<br/></li>
-		<li>*The reduced registration rate is available to graduate students, scholars with contingent appointments, non-affiliated scholars, and retired scholars.<br/></li>
-      </ul>
+<p>
+Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="/members/join">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
+</p>
 
-      <h2>OPTIONAL BUSINESS LUNCH: $25</h2>
-	  
-			<p>We encourage all members to sign up to attend the MSA business lunch. Future conferences and other MSA programs are up for discussion, departing Board members are recognized for their service, and new Board members are introduced. Please join us!</p>
+<h2>Registration Rates</h2>
 
-	  <h2>SPECIAL EVENTS</h2>
-	  
-			<p>When you register for the conference, you can sign up for special events or workshops organized by the local organizing committee. For event descriptions see the <a href="Special-Events.html">Special Events</a> page. For workshop descriptions see the <a href="Workshops.html">Workshops</a> page.</p>
+<ul style="font-size: 18px;">
+<li><strong>Regular Member Rate:</strong> $260 before September 20 $ | $290 after September 20<br/></li>
+<li><strong>Reduced Rate*:</strong> $130 before September 20 | $160 after September 20<br/></li>
+<li><strong>Undergraduate Rate:</strong> $50 before September 20 | $60 after September 20<br/></li>
+<li>*The reduced registration rate is available to graduate students, scholars with contingent appointments, non-affiliated scholars, and retired scholars.<br/></li>
+</ul>
 
-      <h2>SEMINAR REGISTRATION</h2>
-	  
-			<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2024Seminars.html">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
+<h2>OPTIONAL BUSINESS LUNCH: $25</h2>
 
-		<h2>CANCELLATIONS AND REFUNDS</h2>
-	  
-			<p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="kyoung36@jh.edu">Kathy Young</a>.</p>
+	<p>We encourage all members to sign up to attend the MSA business lunch. Future conferences and other MSA programs are up for discussion, departing Board members are recognized for their service, and new Board members are introduced. Please join us!</p>
 
-  <p><strong><a target="_blank" href="/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
-			
+<h2>SPECIAL EVENTS</h2>
+
+	<p>When you register for the conference, you can sign up for special events or workshops organized by the local organizing committee. For event descriptions see the <a href="Special-Events.html">Special Events</a> page. For workshop descriptions see the <a href="Workshops.html">Workshops</a> page.</p>
+
+<h2>SEMINAR REGISTRATION</h2>
+
+	<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2024Seminars.html">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
+
+<h2>CANCELLATIONS AND REFUNDS</h2>
+
+	<p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="kyoung36@jh.edu">Kathy Young</a>.</p>
+
+<p><strong><a target="_blank" href="/members/conference">Registration for MSA Chicago 2024 coming soon</a></strong></p>
+	 -->
 
 			
 <!--	  
@@ -100,5 +100,11 @@ footer: false
 </div> <!-- .post -->
 
 </div>
+
+
+<p>
+Registration coming, September 2025.
+</p>
+
 
 </body>

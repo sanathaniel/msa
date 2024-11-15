@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/seminars/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
+    image: conference/MSA2025/assets/subway_logo_1.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -30,7 +30,7 @@ footer: false
 	</div>
 </div>
 
-<p></p>
+<!-- <p></p>
 
 <p>During the registration process, you will have the opportunity to select a seminar should you wish to participate in one (seminar titles and descriptions are listed below). In advance of the seminar meeting at MSA, participants produce short papers in response to the seminar topic description and share them with the entire group through whatever mechanism the seminar leaders devise. All participants are to read all of the participants’ papers—a process that aims to ensure careful and significant dialogue on the topic. Seminars take place at MSA in blocks of two hours and thirty minutes. Typically, the first two hours are devoted to specific discussion of the topic by seminar participants and the final thirty minutes allow room for questions, general discussion, and/or participation of auditors, if relevant.
   </p>
@@ -465,9 +465,11 @@ The following topics, among others, are welcome:
 				<p>This seminar will explore the stakes of American transatlantic expatriation namely in relation with migration, exile, networks, communities, colonies, racism, xenophobia, homesickness, tourism, cosmopolitanism, international modernism, individual and collective transnational experience.
 				</p>
 			</div>
-	</details>	
+	</details>	 -->
 
-	
+<p>
+Seminars coming, September 2025.
+</p>
 	
 <!--
 <h1><strong>In-Person</strong></h1>

@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/workshops/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
+    image: conference/MSA2025/assets/subway_logo_1.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -30,7 +30,7 @@ footer: false
 	</div>
 </div>
 
-<body>
+<!-- <body>
     <div class="post">
         
     	<p></p>
@@ -73,4 +73,8 @@ process. </p>
     </div>
 
 
-</body>
+</body> -->
+
+<p>
+Workshops coming, September 2025.
+</p>
