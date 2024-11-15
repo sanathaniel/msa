@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/seminars/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo_1.jpg
+    image: conference/MSA2025/assets/subway_logo.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -1981,5 +1981,3 @@ workshop form at MSA 2022 in Portland.</p>
 
 </div>
 -->
-
-</body>

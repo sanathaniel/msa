@@ -3,7 +3,7 @@ layout: conference
 permalink: /conference/MSA2025/special-events/
 sidebar:
   - title: ""
-    image: conference/MSA2025/assets/subway_logo_1.jpg
+    image: conference/MSA2025/assets/subway_logo.jpg
   - nav: conf_nav
 masthead: false
 footer: false
@@ -242,8 +242,3 @@ welcome.  Texts to be announced.  Capacity 20.  </p>
         
         <p></p>
  -->       
-        
-    </div>
-
-
-</body>
