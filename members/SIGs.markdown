@@ -16,11 +16,8 @@ Foreground the scholarship, teaching, and voices of marginalized scholars
 Attract new members to MSA and give them reasons to continue participating in the organization
 
 <h2>GOALS:</h2>
-<hr>
 
 SIGs are not intended to replace or direct already established formal or informal networking groups within MSA. Rather, we are rolling out SIGs in the spirit of invitation in order to foster new forms of collaboration, networking, and community; develop structures for horizontal and vertical mentorship; extend discussion and engagement throughout and between conferences; and shape conversations and programming within MSA. SIGs may be formed around areas of scholarly research or identity groups. 
-
-<hr>
 
 <h2>2024 SIGS</h2>
 
