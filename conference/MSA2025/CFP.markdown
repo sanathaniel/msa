@@ -175,9 +175,9 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
  <!--
  
 		<details closed>
-			<summary class="stream-title">Modernism and the Environment Stream: Migration, Modernization, and Environmental Change</summary>
+			<summary class="stream-title">Modernism & Environment Stream: Infrastructure and Cultures of Environmental Modernity</summary>
 				<div class="description">
-			<p>This stream invites papers on the intersections of migration, modernization, and environmental change in modernist literatures and aesthetics. How do modernist aesthetic practices register, illuminate, or obfuscate the role of environmental degradation and injustice in human migrations of the long twentieth century? How do the environmental aesthetics of migrant or transnational authors enrich or unsettle Eurocentric modernist frameworks? How do modernist ideologies, infrastructures, or aesthetics inform current representations of climate migration? How has ecocritical modernist scholarship migrated across media and beyond traditional methodologies to engage with environmental history, decolonial studies, or critical studies of race, gender, sexuality, disability, and beyond?
+			<p>This stream invites papers that explore the ecological dimensions of modernist infrastructures, whether material, social, or textual. From built environments and ecosystems to cyber & neural networks, energy grids to social institutions and their attendant discourses, infrastructure is key to the interconnected naturecultures that we all inhabit and in which our aesthetic objects of study emerge and circulate. How might environmental criticism enrich infrastructural understandings of modernism as entangled in and resistant to climate crisis and environmental injustice? How do modernist texts draw attention to the imbrication of modernist infrastructures with more-than-human world-making? How might modernist forms, aesthetics, and narratives provide environmentally fertile ground for understanding our infrastructural inheritance, as well as for the mapping of future systems and structures that enable more just and sustainable forms of collective life?
 		</p>
 				</div>
 		</details>
