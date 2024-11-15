@@ -6,7 +6,23 @@ sidebar:
   nav: members_nav
 ---
 
-<!-- <h2>2024 SIGS</h2> -->
+<h2>PURPOSE:</h2>
+
+Generate discussions on topics important to the membership 
+Foster community, sociability, and networking opportunities
+Prioritize diversity, equity, and inclusion, broadly conceived 
+Provide a welcoming space for new members and first-time conference attendees 
+Foreground the scholarship, teaching, and voices of marginalized scholars
+Attract new members to MSA and give them reasons to continue participating in the organization
+
+<h2>GOALS:</h2>
+<hr>
+
+SIGs are not intended to replace or direct already established formal or informal networking groups within MSA. Rather, we are rolling out SIGs in the spirit of invitation in order to foster new forms of collaboration, networking, and community; develop structures for horizontal and vertical mentorship; extend discussion and engagement throughout and between conferences; and shape conversations and programming within MSA. SIGs may be formed around areas of scholarly research or identity groups. 
+
+<hr>
+
+<h2>2024 SIGS</h2>
 
 <h2>MODERNISM AND ENVIRONMENT</h2>
 Anne Raine, University of Ottawa (<a href="mailto:araine@ottawa.edu">araine@ottawa.edu</a>) 
@@ -68,7 +84,7 @@ The Mod & Ped SIG of MSA focuses on all aspects of pedagogy-related conversation
 
 • If a SIG leader steps down and is not replaced, the SIG is considered retired until there is renewed interest. Retired SIGs will be listed on the MSA website as such. 
 
-Establishment of New SIGs
+<h3>Establishment of New SIGs</h3>
 
 • The MSA Membership & Elections Chair will send an email every fall shortly after the MSA conference with a list of active SIGs, their leadership (and contact info), and a call for new SIG proposals. (This will also include any open leadership positions; see above.) 
 
