@@ -8,12 +8,14 @@ sidebar:
 
 <h2>PURPOSE:</h2>
 
-Generate discussions on topics important to the membership 
-Foster community, sociability, and networking opportunities
-Prioritize diversity, equity, and inclusion, broadly conceived 
-Provide a welcoming space for new members and first-time conference attendees 
-Foreground the scholarship, teaching, and voices of marginalized scholars
-Attract new members to MSA and give them reasons to continue participating in the organization
+<ul>
+	<li>Generate discussions on topics important to the membership</li>
+	<li>Foster community, sociability, and networking opportunities</li>
+	<li>Prioritize diversity, equity, and inclusion, broadly conceived </li>
+	<li>Provide a welcoming space for new members and first-time conference attendees </li>
+	<li>Foreground the scholarship, teaching, and voices of marginalized scholars</li>
+	<li>Attract new members to MSA and give them reasons to continue participating in the organization</li>
+</ul>
 
 <h2>GOALS:</h2>
 
