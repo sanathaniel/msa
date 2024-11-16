@@ -18,7 +18,7 @@ sidebar:
 	be eligible for the prize. This exclusion applies even if a new
 	edition (paperback or revised, for example) was published in the
 	award year. 
-<p>Please visit our <a href="/prizes/nominate.html">Nominations</a> in
+<p>Please visit our <a href="/prizes/nominations.html">Nominations</a> in
 	spring 2025 to recommend a book for the next prize (for books
 	published in 2023 and 2024). Visit our <a
 		href="/prizes/archive.html">Archive</a> to see previous

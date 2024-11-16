@@ -91,7 +91,7 @@ Hopkins University</p>
 	its Translation Prize, awarded to a book published in the
 	previous two years. A panel of judges determines the book that made the
 	most significant contribution to modernist studies.<br />
-<p>Please visit our <a href="/prizes/nominate.html">Nominations page</a>
+<p>Please visit our <a href="/prizes/nominations.html">Nominations page</a>
 	in Spring 2026 to recommend a book(published in 2024 or 2025). Visit our <a href="/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 		
