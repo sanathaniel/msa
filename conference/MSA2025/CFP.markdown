@@ -172,7 +172,6 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 2025. Please include a 300-word abstract of the paper. Author bios are limited to
  100 words. </p>
  
- <!--
  
 		<details closed>
 			<summary class="stream-title">Modernism & Environment Stream: Infrastructure and Cultures of Environmental Modernity</summary>
@@ -183,23 +182,14 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</details>
 
 		<details closed>
-			<summary class="stream-title">Modernism and Film Stream: Cinema and Modernism</summary>
-			<p>The advent of cinema coincided with the rise of modernism in the arts; yet film historians 
-			and modernists have generated their own genealogies of the modern grounded in different, sometimes conflicting theoretical and historical traditions. Informed by this interdisciplinary background,the Film and Modernism stream will explore the history and theory of cinema through its interconnections with other media while remaining anchored in the aesthetics of moving images and the generic specificity of film art. 
-		</p>
-		</details>
-		<details closed>
-			<summary class="stream-title">Critical Race Studies Stream: Displacement, Transplantation, and Finding Home</summary>
-				<div class="description">
-			<p>We seek to demonstrate the ways in which people of color and colonized peoples have resisted white supremacist “un-homing” and found agency in constructing new homes and forging new communities. How does modernism reflect the historical and contemporary experiences of coerced migration for indigenous, Black, and colonized peoples? How do writers, artists, and thinkers from marginalized communities depict the reclaiming of original homelands, imagine the formation of new homelands, the generation of–and reconstruction of–communities and kinships, and conceptualize the “home,” “homelessness,” and “re-homing”?
-			</p> 
-				</div>
-		</details>
+			<summary class="stream-title">Modernism and Film Stream</summary>
+			<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Film and Modernism stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which infrastructures—material, social, theoretical, ephemeral—undergird film productions, film cultures, and the very activity of cinematic thought.
+			</p>
 
 		<details closed>
 			<summary class="stream-title">Modernism and Pedagogy Stream</summary>
 				<div class="description">
-			<p>We invite papers that address pedagogical concerns: approaches to teaching modernist texts in all types of courses (literature surveys; first-year writing; basic writing; modernist novel, etc.); how modernist studies connects to other disciplines in the classroom, such as creative writing, composition studies, or women's & gender studies, to name a few; the pedagogies in and of modernist texts/artists; as well as modernism’s place(s) in the history of pedagogy/education. We are also very interested in revealing the connection between pedagogy and scholarship -- how do we articulate this relationship? Lastly, we hope papers will address the lived conditions of our teaching labor, with institutional pressures and constraints both demanding creativity in our pedagogy as it potentially creates limits.
+			<p>Coming soon!
 		</p>
 				</div>
 		</details>
@@ -213,13 +203,6 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</details>
 	</div>
 
-		<details closed>
-			<summary class="stream-title">Chicago Stream: Modernism/Modernity's Chicago</summary>
-				<div class="description">
-			<p>This stream invites papers that deal with any aspect of modernism or modernity as it relates to the midwestern metropolis. Home to continually new waves of migrants, Chicago was (and is) a place marked by constant change and multitudinous movements. As the birthplace of important modernist magazines like Poetry and The Little Review, early 20th-century Chicago was at the center of literary and artistic innovations in music, art, theatre, film, activism, and architecture -- and attracted well-known figures such as Carl Sandburg, Gwendolyn Brooks, Richard Wright, Charlie Chaplin, Ida B. Wells, Jane Addams, Floyd Dell, and Frank Lloyd Wright, who all lived and worked in Chicago for parts of their careers. Papers for this stream may consider the importance of Chicago as a site of modernist transformation and exchange, but also as a locus of modernity. From skyscrapers to settlement houses, from railroads to community organizations, the city of Chicago has been shaped by infrastructures of modernity, which have in turn exerted an influence on city inhabitants, writers, and artists alike. Approaches to this stream could derive from many directions, including aesthetics, science, journalism, testimony, psychology, economy, urban planning, public health, and sociology.
-			</p>
-				</div>
-		</details>
 		<p>
 		</p>
 </details>
