@@ -183,14 +183,17 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 
 		<details closed>
 			<summary class="stream-title">Modernism and Film Stream</summary>
-			<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Film and Modernism stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which infrastructures—material, social, theoretical, ephemeral—undergird film productions, film cultures, and the very activity of cinematic thought.
-			</p>
-
+				<div class="description">
+					<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Film and Modernism stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which infrastructures—material, social, theoretical, ephemeral—undergird film productions, film cultures, and the very activity of cinematic thought.
+					</p>
+				</div>
+		</details>
+		
 		<details closed>
 			<summary class="stream-title">Modernism and Pedagogy Stream</summary>
 				<div class="description">
-			<p>Coming soon!
-		</p>
+					<p>Coming soon!
+					</p>
 				</div>
 		</details>
 
@@ -207,7 +210,6 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</p>
 </details>
 <hr>
--->
 
 <details closed>
 	<summary class="CFP-summary">Participation</summary>
