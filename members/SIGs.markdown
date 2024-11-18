@@ -56,7 +56,7 @@ The Mod & Ped SIG of MSA focuses on all aspects of pedagogy-related conversation
 
 <h2>CRITICAL RACE STUDIES</h2>
 
-<hr>
+<p></p>
 
 <h2>Guidelines for MSA SIGs</h2>
 (Approved by the MSA Board on November 7, 2024)
