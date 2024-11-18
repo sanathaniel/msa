@@ -52,6 +52,10 @@ Benjamin Hagen, University of South Dakota (<a href="mailto:benjamin.hagen@usd.e
 
 The Mod & Ped SIG of MSA focuses on all aspects of pedagogy-related conversations that overlap with modernist concerns. Generally, these can be categorized as two-fold: teaching-related questions and job application questions that ask about one’s pedagogical practice (teaching statements, etc.). This SIG has attracted a wide array of MSA members and non-members, including full-time and part-time adjuncts and graduate students. We currently have 60+ members on our mailing list. The SIG maintains a <a href="https://drive.google.com/drive/folders/1YaS6ehdQcuaIzmz-d8scazZHarlABCL4">Google Folder</a> where we are collating a bibliography of published modernism & pedagogy materials, a folder of past presentations, and sample job materials, along with a letter establishing the expected acknowledgements and community standards when using other’s materials. 
 
+<h2>Retired SIGS</h2>
+
+<h2>CRITICAL RACE STUDIES</h2>
+
 <hr>
 
 <h2>Guidelines for MSA SIGs</h2>
