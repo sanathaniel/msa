@@ -267,15 +267,15 @@ access, and equality are critical to the strength of our organization and the ef
 	<summary class="CFP-summary">Contact Information</summary>
 		<div class="description">
 <p>Questions about our upcoming conference?</p>
-<u1><li>Contact <a href="msa2025boston@gmail.com">msa2025boston@gmail.com</a></li></u1>
+<u1><li>Contact <a href="mailto:msa2025boston@gmail.com">msa2025boston@gmail.com</a></li></u1>
 <p>
 </p>
 <p>Questions about membership and registration?</p>
-<u1><li>Contact Karen Weingarten at <a href="kweingarten@qc.cuny.edu">kweingarten@qc.cuny.edu</a></li></u1>
+<u1><li>Contact Karen Weingarten at <a href="mailto:kweingarten@qc.cuny.edu">kweingarten@qc.cuny.edu</a></li></u1>
 <p>
 </p>
 <p>Questions for the Program Committee?</p>
-<u1><li>Contact Octavio Gonzalez at <a href="ogonzale@wellesley.edu">ogonzale@wellesley.edu</a></li></u1>
+<u1><li>Contact Octavio Gonzalez at <a href="mailto:ogonzale@wellesley.edu">ogonzale@wellesley.edu</a></li></u1>
 <p>
 </p>
 		</div>
