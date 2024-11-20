@@ -170,8 +170,7 @@ layout: home
 			</div>	
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
-			username="moderniststudies.bsky.social"			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
-			mode=""
+			username="moderniststudies.bsky.social"			
 			limit="3"
 		  >
 		  </bsky-embed>
