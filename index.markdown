@@ -168,6 +168,14 @@ layout: home
 					<img src="assets/bsky.jpg" style="height: 26px;">
 				</a>
 			</div>	
+		<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:b3qmhgmfccnnzp45n5aqtwqc/app.bsky.feed.post/3lasastvgzk2k" data-bluesky-cid="bafyreibxdk6c23egtbwwvpjcm4ibed7626tkuqyf3z5aiypx6us6axmlmy"><p lang="en">My 2020 book on #VirginiaWoolf and #DHLawrence and #pedagogy is now out in paperback. Got my author copies today!
+
+#newbook
+
+Order here:
+
+www.liverpooluniversitypress.co.uk/doi/book/10....<br><br><a href="https://bsky.app/profile/did:plc:b3qmhgmfccnnzp45n5aqtwqc/post/3lasastvgzk2k?ref_src=embed">[image or embed]</a></p>&mdash; Benjamin Hagen (<a href="https://bsky.app/profile/did:plc:b3qmhgmfccnnzp45n5aqtwqc?ref_src=embed">@bdavidhagen.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:b3qmhgmfccnnzp45n5aqtwqc/post/3lasastvgzk2k?ref_src=embed">November 12, 2024 at 9:00 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 		  <script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		  <bsky-embed
 			username="moderniststudies.bsky.social"			
