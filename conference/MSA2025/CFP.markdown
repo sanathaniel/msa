@@ -192,8 +192,15 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		<details closed>
 			<summary class="stream-title">Modernism and Pedagogy Stream</summary>
 				<div class="description">
-					<p>Coming soon!
-					</p>
+				
+The Modernism and Pedagogy SIG seeks papers that reflect modernist scholar-teachers coping with the infrastructure (or lack thereof) in the universities we teach in. 
+ 
+We'd like to hear about adapting pedagogy to classrooms or other spaces that are unconventional due to deferred maintenance; "doing more with less" teaching methods (potentially in terms of library resources being cut, department budgets for photocopies ending, etc.); curriculum innovations that underscore the need to widen one's teaching specialties; etc. 
+ 
+We are also hoping for success stories: unexpected adaptations in infrastructure — for example, assignments; peer observations or connections; organizing — that have led to a positive difference; a replacement in infrastructure; or, if possible...subversions, workarounds, solidarities. 
+ 
+And, as ever, we invite papers that address more general pedagogical concerns: teaching modernist texts across course types (literature surveys; first-year writing; basic writing; the modernist novel; etc.); modernist studies’ connections to other disciplines in the classroom, such as creative writing, composition studies, or women's & gender studies; (modernist) pedagogy and/as (modernist) scholarship—how do we articulate this relationship? Lastly, we hope papers will address the lived conditions of our teaching labor, with institutional pressures and constraints both demanding creativity in our pedagogy as it potentially creates limits.
+				
 				</div>
 		</details>
 
