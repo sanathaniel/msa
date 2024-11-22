@@ -174,8 +174,11 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
  
  
 		<details closed>
-			<summary class="stream-title">Modernism & Environment Stream: Infrastructure and Cultures of Environmental Modernity</summary>
+			<summary class="stream-title">Modernism & Environment Stream</summary>
 				<div class="description">
+			<p>
+			Infrastructure and Cultures of Environmental Modernity
+			</p>
 			<p>This stream invites papers that explore the ecological dimensions of modernist infrastructures, whether material, social, or textual. From built environments and ecosystems to cyber & neural networks, energy grids to social institutions and their attendant discourses, infrastructure is key to the interconnected naturecultures that we all inhabit and in which our aesthetic objects of study emerge and circulate. How might environmental criticism enrich infrastructural understandings of modernism as entangled in and resistant to climate crisis and environmental injustice? How do modernist texts draw attention to the imbrication of modernist infrastructures with more-than-human world-making? How might modernist forms, aesthetics, and narratives provide environmentally fertile ground for understanding our infrastructural inheritance, as well as for the mapping of future systems and structures that enable more just and sustainable forms of collective life?
 		</p>
 				</div>
@@ -205,8 +208,11 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</details>
 
 		<details closed>
-			<summary class="stream-title">Feminist, Queer, and Trans Structures + Infrastructures</summary>
+			<summary class="stream-title">Intersectional Feminist and Queer Praxis Stream</summary>
 				<div class="description">
+			<p>
+			Feminist, Queer, and Trans Structures + Infrastructures
+			</p>
 			<p>The IFQP SIG stream seeks papers, panels, and other presentations that explore the structural relationships among modernism and feminist, queer, and trans studies. Of particular interest are examinations of the way that the formal systems of queer and trans studies and feminism intersect and intervene within modernist studies. In other words, we might employ Lauren Berlant’s claim that "infrastructure is not identical to system or structure" but is "defined by the movement or patterning of social form" to ask: what historical, political, and theoretical affordances have resulted from the relationship between and among modernist studies, feminism, queer theory, and trans studies? In line with the conference theme of infrastructure, the IFQP SIG is particularly interested in the construction and constructions of modernism’s literary and cultural production in light of feminist, queer, and trans readings of structures and systems as well as the socialities that are materialized in and through those structures. Possible topics may include new readings of key feminist, queer, and/or trans modernist figures and works; queer, trans, and/or feminist contributions that revisit and revitalize more traditional texts; methodologies and theoretical approaches informed by feminist, queer, and/or trans positionalities and politics; and embodied queer, trans, and/or feminist representations within modernist studies and/or the academy.
 		</p>
 			</div>
