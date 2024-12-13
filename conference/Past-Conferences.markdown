@@ -45,8 +45,8 @@ sidebar:
 			2020: Brooklyn (rescheduled to MSA 2023: Brooklyn)
 	</li>
 	<li>
-		<a href="https://msatoronto2019.org/">MSA 2019: Toronto, October
-			17-20, 2019</a>
+		MSA 2019: Toronto, October
+			17-20, 2019
 		<br>
 		<a
 			href="/conference/past-conferences/2019 Program (Toronto).pdf"
