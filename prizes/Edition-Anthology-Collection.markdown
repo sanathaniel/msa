@@ -5,7 +5,7 @@ permalink: /prizes/collection/
 sidebar:
   nav: prizes_nav
 ---
- 
+
 <!-- #BeginEditable "content" -->
 
 <hr />
