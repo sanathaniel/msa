@@ -21,6 +21,6 @@ sidebar:
 <p>Please visit our <a href="/prizes/nominations/">Nominations</a> in
 	spring 2025 to recommend a book for the next prize (for books
 	published in 2023 and 2024). Visit our <a
-		href="/prizes/archive.html">Archive</a> to see previous
+		href="/prizes/previous-winners">Archive</a> to see previous
 	winners.</p>
 <!-- #EndEditable -->
