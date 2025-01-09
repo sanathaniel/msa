@@ -6,6 +6,32 @@ sidebar:
   nav: about_nav
 ---
 
+<style>
+
+.accordion-one {
+  padding: 4px;
+  width: 100%;
+  background-color: #2db8e3;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.accordion-two {
+  padding: 4px;
+  width: 100%;
+  background-color: #f37834;
+  color: white; 
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+  
+</style>
+
 <h3>Mission</h3>
 <p>The Modernist Studies Association is devoted to the study of the arts in their social, political, cultural, and intellectual contexts from the later nineteenth through the mid-twentieth century. The organization aims to develop an international and interdisciplinary forum to promote exchange among scholars in this vital and rapidly changing field.</p>
 <h3>Values</h3>
@@ -31,10 +57,10 @@ sidebar:
 </ul>
 
 		
-<h3>Reporting Harassment</h3>
+<h3>Reporting Conduct Violations</h3>
 
 <details closed>
-<summary class="CFP-summary">OPTION 1: PRESIDENTIAL ADVISORY</summary>
+<summary class="accordion-one">OPTION 1: PRESIDENTIAL ADVISORY</summary>
 
 <div class="description">
 <ol>
@@ -44,12 +70,11 @@ sidebar:
 	<li>The President delivers a formal advisory to the person whose behavior is in question, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
 	<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
 	<li>If the warned Member appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
-</ol>
-</div>
-</details>
+
+<br>
 
 <details closed>
-<summary class="CFP-summary">OPTION 2: FORMAL COMPLAINT</summary>	
+<summary class="accordion-one">OPTION 2: FORMAL COMPLAINT</summary>	
 <div class="description">
 	<ol>
 		<li>Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
@@ -77,17 +102,16 @@ sidebar:
 				<li>All determinations by the AHC must be unanimous.</li>
 				<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.</li>
 			</ol>
-	</ol>		
-</div>
-</details>
+
+<br>
 
 <details closed>
-<summary class="CFP-summary">SANCTIONS</summary>	
+<summary class="accordion-one">SANCTIONS</summary>	
 <div class="description">
 	<p>The AHC will determine the sanction(s) based on the severity of the violation and submit the determination in the form of a Recommendation to be approved by the President and Presidential Chain.</p>
 
 <details closed>
-<summary class="stream-title">Possible Sanctions</summary>
+<summary class="accordion-two">Possible Sanctions</summary>
 <div class="description"> 
 	<p>Possible sanctions include the following,</p> 
 		<ol>
@@ -102,7 +126,7 @@ sidebar:
 </details>
 
 <details closed>
-<summary class="stream-title">Complaint Notification</summary>
+<summary class="accordion-two">Complaint Notification</summary>
 <div class="description"> 
 	<ul>
 		<li>Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.</li>
@@ -112,7 +136,7 @@ sidebar:
 </details>
 
 <details closed>
-<summary class="stream-title">Complaint Appeal:</summary>
+<summary class="accordion-two">Complaint Appeal:</summary>
 <div class="description"> 
 	<p>Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include</p>
 		<ol>
@@ -126,8 +150,10 @@ sidebar:
 </div>
 </details>
 
+<br> 
+
 <details closed>
-<summary class="CFP-summary">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
+<summary class="accordion-one">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
 <div class="description">		
 <p>During the Annual Conference or any other MSA-sponsored convening, the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. </p>
 
