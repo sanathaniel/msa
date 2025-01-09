@@ -70,8 +70,11 @@ sidebar:
 	<li>The President delivers a formal advisory to the person whose behavior is in question, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
 	<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
 	<li>If the warned Member appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
+</ol>
+</div>
+</details>
 
-<br>
+<hr>
 
 <details closed>
 <summary class="accordion-one">OPTION 2: FORMAL COMPLAINT</summary>	
@@ -102,8 +105,11 @@ sidebar:
 				<li>All determinations by the AHC must be unanimous.</li>
 				<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.</li>
 			</ol>
+	</ol>
+</div>
+</details>
 
-<br>
+<hr>
 
 <details closed>
 <summary class="accordion-one">SANCTIONS</summary>	
@@ -150,7 +156,7 @@ sidebar:
 </div>
 </details>
 
-<br> 
+<hr> 
 
 <details closed>
 <summary class="accordion-one">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
