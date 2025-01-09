@@ -61,17 +61,16 @@ sidebar:
 
 <details closed>
 <summary class="accordion-one">OPTION 1: PRESIDENTIAL ADVISORY</summary>
-
-<div class="description">
-<ol>
-	<li>The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.</li>
-	<li>The MSA Ombudsperson confidentially reports to the MSA President.</li>
-	<li>In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. </li>
-	<li>The President delivers a formal advisory to the person whose behavior is in question, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
-	<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
-	<li>If the warned Member appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
-</ol>
-</div>
+	<div class="description">
+		<ol>
+			<li>The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.</li>
+			<li>The MSA Ombudsperson confidentially reports to the MSA President.</li>
+			<li>In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. </li>
+			<li>The President delivers a formal advisory to the accused member, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
+			<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
+			<li>If the accuesed appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
+		</ol>
+	</div>
 </details>
 
 <hr>
@@ -82,21 +81,21 @@ sidebar:
 	<ol>
 		<li>Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
 		<li>The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including
-			<ol>
+			<ul>
 				<li>at least 1 Officer of the MSA Board (but not the President),</li>
 				<li>at least 1 who is NOT a member of the MSA (but not the Ombudsperson), </li>
 				<li>and at least 1 other MSA member.</li>
-			</ol>
+			</ul>
 		<li>The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality to the extent possible. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.</li>
 			<ol>
 				<li>The AHC requests a formal, written statement from the Complainant that provides as much information as possible, including</li> 
-				<ol>
+				<ul>
 					<li>name / position / institution of the person accused of the violation;</li> 
 					<li>the behavior that was in violation;</li> 
 					<li>the approximate time / date of the behavior;</li> 
 					<li>the location and circumstances surrounding the incident;</li> 
 					<li>and any other people who might have been involved or witnessed the incident.</li>
-				</ol>
+				</ul>
 				<li>The Chair of the Ad-Hoc Committee notifies the Person accused of a violation and shares the written statement of the complaint.</li>
 				<li>The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.</li>
 				<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question, as indicated by the complainant or accused.</li> 
@@ -118,63 +117,61 @@ sidebar:
 
 <details closed>
 <summary class="accordion-two">Possible Sanctions</summary>
-<div class="description"> 
-	<p>Possible sanctions include the following,</p> 
-		<ol>
-			<li>Warning the harasser to cease their behavior</li>
-			<li>Termination of any MSA conference or formally sponsored event or proceeding, as well as any ongoing MSA responsibilities and appointments held by the harasser (such as serving on a Book Prize committee)</li>
-			<li>Barring the harasser from any future governance positions within the MSA</li>
-			<li>Barring the harasser from any future MSA meetings, conferences, workshops, or other sponsored MSA events</li>
-			<li>Revocation of MSA membership.</li>
-		</ol>
-	<p>Sanctions may be applied individually or in combination, with the length of time determined by the AHC.</p>
-</div>
+	<div class="description"> 
+		<p>Possible sanctions include the following,</p> 
+			<ul>
+				<li>Warning the harasser to cease their behavior</li>
+				<li>Termination of any MSA conference or formally sponsored event or proceeding, as well as any ongoing MSA responsibilities and appointments held by the harasser (such as serving on a Book Prize committee)</li>
+				<li>Barring the harasser from any future governance positions within the MSA</li>
+				<li>Barring the harasser from any future MSA meetings, conferences, workshops, or other sponsored MSA events</li>
+				<li>Revocation of MSA membership.</li>
+			</ul>
+		<p>Sanctions may be applied individually or in combination, with the length of time determined by the AHC.</p>
+	</div>
 </details>
 
 <details closed>
 <summary class="accordion-two">Complaint Notification</summary>
-<div class="description"> 
-	<ul>
-		<li>Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.</li>
-		<li>Finding of Harassment: Chair of AHC will convey the finding and the sanctions in writing in the form of a recommendation to be approved by the MSA President (or designee), who will inform both parties of the AHC’s finding and sanctions in writing.</li>
-	</ul>
-</div>
+	<div class="description"> 
+		<ul>
+			<li>Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.</li>
+			<li>Finding of Harassment: Chair of AHC will convey the finding and the sanctions in writing in the form of a recommendation to be approved by the MSA President (or designee), who will inform both parties of the AHC’s finding and sanctions in writing.</li>
+		</ul>
+	</div>
 </details>
 
 <details closed>
 <summary class="accordion-two">Complaint Appeal:</summary>
-<div class="description"> 
-	<p>Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include</p>
-		<ol>
-			<li>claims of procedural error,</li>
-			<li>substantive new evidence,</li> 
-			<li>evidence of impermissible criteria used in the adjudication,</li> 
-			<li>or evidence of bias in the treatment of the fact finding and decision process.</li>
-		</ol>
-</div>
-</details>		
-</div>
-</details>
+	<div class="description"> 
+		<p>Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include</p>
+			<ul>
+				<li>claims of procedural error,</li>
+				<li>substantive new evidence,</li> 
+				<li>evidence of impermissible criteria used in the adjudication,</li> 
+				<li>or evidence of bias in the treatment of the fact finding and decision process.</li>
+			</ul>
+	</div>
+</details>	
 
 <hr> 
 
 <details closed>
 <summary class="accordion-one">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
-<div class="description">		
-<p>During the Annual Conference or any other MSA-sponsored convening, the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. </p>
+	<div class="description">		
+		<p>During the Annual Conference or any other MSA-sponsored convening, the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. </p>
 
-<p>This designated Board member will receive complaints “in real time” about behavior occurring at that conference, and they will be identified in the Program as such. </p>
+		<p>This designated Board member will receive complaints “in real time” about behavior occurring at that conference, and they will be identified in the Program as such. </p>
 
-<p>Any MSA members working at the Conference (including Volunteers, Registration Desk, member of the Local Organizing Committee, or any Board Member) can receive complaints, but must connect the Complainant with the Designated Board Member. </p>
+		<p>Any MSA members working at the Conference (including Volunteers, Registration Desk, member of the Local Organizing Committee, or any Board Member) can receive complaints, but must connect the Complainant with the Designated Board Member. </p>
 
-<p>The Designated Board member (DBM) will confidentially speak with the Complainant and offer them the Ombudsperson’s contact information. </p>
+		<p>The Designated Board member (DBM) will confidentially speak with the Complainant and offer them the Ombudsperson’s contact information. </p>
 
-<p>Since in many cases, the Ombudsperson may not be present at the Conference, the designation of a “mandated reporter” such as the Designated Board Member is necessary.</p>
+		<p>Since in many cases, the Ombudsperson may not be present at the Conference, the designation of a “mandated reporter” such as the Designated Board Member is necessary.</p>
 
-<p>Once the Complainant has the information and has contact the Ombudsperson, they can choose to follow the Reporting/Redress Process outlined above: Option 1 (Presidential Advisory) or Option 2 (Formal Complaint)</p>
+		<p>Once the Complainant has the information and has contact the Ombudsperson, they can choose to follow the Reporting/Redress Process outlined above: Option 1 (Presidential Advisory) or Option 2 (Formal Complaint)</p>
 
-<p>All entities assigned these roles will undergo appropriate trainings, sponsored either by their home institution (with documentation to that effect) or by MSA-sponsored trainings.</p>
-</div>
+		<p>All entities assigned these roles will undergo appropriate trainings, sponsored either by their home institution (with documentation to that effect) or by MSA-sponsored trainings.</p>
+	</div>
 </details>
 
 <!-- #EndEditable -->
