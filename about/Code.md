@@ -33,101 +33,101 @@ sidebar:
 		
 <h3>Reporting Harassment</h3>
 
-	<details closed>
-		<summary class="CFP-summary">OPTION 1: PRESIDENTIAL ADVISORY</summary>
-	
-			<div class="description">
-			1.	The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.
-			2.	The MSA Ombudsperson confidentially reports to the MSA President.
-			3.	In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. 
-			4.	The President delivers a formal advisory to the person whose behavior is in question, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
-			5.	The Ombudsperson writes a confidential report that will be filed and kept secure. 
-			6.	If the warned Member appeals the Presidential Advisory (due process questions etc.) option 2 applies.
-			</div>
-	</details>
-	
-	<details closed>
-		<summary class="CFP-summary">OPTION 2: FORMAL COMPLAINT</summary>	
-			<div class="description">
-			1.	Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
-			2.	 The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including
-				a.	at least 1 Officer of the MSA Board (but not the President),
-				b.	at least 1 who is NOT a member of the MSA (but not the Ombudsperson), 
-				c.	and at least 1 other MSA member.
-			3.	The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality to the extent possible. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.			
-				a.	The AHC requests a formal, written statement from the Complainant that provides as much information as possible, including 
-					i.	name / position / institution of the person accused of the violation; 
-					ii.	the behavior that was in violation; 
-					iii.	the approximate time / date of the behavior; 
-					iv.	the location and circumstances surrounding the incident; 
-					v.	and any other people who might have been involved or witnessed the incident.
-				b.	The Chair of the Ad-Hoc Committee notifies the Person accused of a violation and shares the written statement of the complaint.
-				c.	The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.
-				d.	The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question, as indicated by the complainant or accused. 
-				e.	The AHC may consult with Legal Counsel.
-				f.	Any fact finding or written statements provided to the AHC will be shared with either party at their request. 
-				g.	All determinations by the AHC must be unanimous.
-				h.	A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.
-			</div>
-	</details>
-	
-	<details closed>
-		<summary class="CFP-summary">SANCTIONS</summary>	
-			<div class="description">
-				The AHC will determine the sanction(s) based on the severity of the violation and submit the determination in the form of a Recommendation to be approved by the President and Presidential Chain.
-			
-			<details closed>
-				<summary class="stream-title">Possible Sanctions</summary>
-					<div class="description"> 
-						Possible sanctions include the following, 
-							a.	Warning the harasser to cease their behavior
-							b.	Termination of any MSA conference or formally sponsored event or proceeding, as well as any ongoing MSA responsibilities and appointments held by the harasser (such as serving on a Book Prize committee)
-							c.	Barring the harasser from any future governance positions within the MSA
-							d.	Barring the harasser from any future MSA meetings, conferences, workshops, or other sponsored MSA events
-							e.	Revocation of MSA membership. 
-						Sanctions may be applied individually or in combination, with the length of time determined by the AHC.
-					</div>
-			</details>
-					
-			<details closed>
-				<summary class="stream-title">Complaint Notification</summary>
-					<div class="description"> 
-						Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.
-						
-						Finding of Harassment: Chair of AHC will convey the finding and the sanctions in writing in the form of a recommendation to be approved by the MSA President (or designee), who will inform both parties of the AHC’s finding and sanctions in writing.
-					</div>
-			</details>
-			
-			<details closed>
-				<summary class="stream-title">Complaint Appeal:</summary>
-					<div class="description"> 
-						Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include 
-							a.	claims of procedural error,
-							b.	substantive new evidence, 
-							c.	evidence of impermissible criteria used in the adjudication, 
-							d.	or evidence of bias in the treatment of the fact finding and decision process.
-					</div>
-			</details>		
-			</div>
-	</details>
-	
-	<details closed>
-		<summary class="CFP-summary">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
-			<div class="description">		
-				During the Annual Conference or any other MSA-sponsored convening, the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. 
-				
-				This designated Board member will receive complaints “in real time” about behavior occurring at that conference, and they will be identified in the Program as such. 
+<details closed>
+<summary class="CFP-summary">OPTION 1: PRESIDENTIAL ADVISORY</summary>
 
-				Any MSA members working at the Conference (including Volunteers, Registration Desk, member of the Local Organizing Committee, or any Board Member) can receive complaints, but must connect the Complainant with the Designated Board Member. 
+<div class="description">
+1.	The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.
+2.	The MSA Ombudsperson confidentially reports to the MSA President.
+3.	In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. 
+4.	The President delivers a formal advisory to the person whose behavior is in question, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
+5.	The Ombudsperson writes a confidential report that will be filed and kept secure. 
+6.	If the warned Member appeals the Presidential Advisory (due process questions etc.) option 2 applies.
+</div>
+</details>
 
-				The Designated Board member (DBM) will confidentially speak with the Complainant and offer them the Ombudsperson’s contact information. 
-				
-				Since in many cases, the Ombudsperson may not be present at the Conference, the designation of a “mandated reporter” such as the Designated Board Member is necessary.
-				
-				Once the Complainant has the information and has contact the Ombudsperson, they can choose to follow the Reporting/Redress Process outlined above: Option 1 (Presidential Advisory) or Option 2 (Formal Complaint)
-				
-				All entities assigned these roles will undergo appropriate trainings, sponsored either by their home institution (with documentation to that effect) or by MSA-sponsored trainings.
-			</div>
-	</details>
+<details closed>
+<summary class="CFP-summary">OPTION 2: FORMAL COMPLAINT</summary>	
+<div class="description">
+1.	Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
+2.	 The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including
+a.	at least 1 Officer of the MSA Board (but not the President),
+b.	at least 1 who is NOT a member of the MSA (but not the Ombudsperson), 
+c.	and at least 1 other MSA member.
+3.	The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality to the extent possible. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.			
+a.	The AHC requests a formal, written statement from the Complainant that provides as much information as possible, including 
+i.	name / position / institution of the person accused of the violation; 
+ii.	the behavior that was in violation; 
+iii.	the approximate time / date of the behavior; 
+iv.	the location and circumstances surrounding the incident; 
+v.	and any other people who might have been involved or witnessed the incident.
+b.	The Chair of the Ad-Hoc Committee notifies the Person accused of a violation and shares the written statement of the complaint.
+c.	The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.
+d.	The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question, as indicated by the complainant or accused. 
+e.	The AHC may consult with Legal Counsel.
+f.	Any fact finding or written statements provided to the AHC will be shared with either party at their request. 
+g.	All determinations by the AHC must be unanimous.
+h.	A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.
+</div>
+</details>
+
+<details closed>
+<summary class="CFP-summary">SANCTIONS</summary>	
+<div class="description">
+The AHC will determine the sanction(s) based on the severity of the violation and submit the determination in the form of a Recommendation to be approved by the President and Presidential Chain.
+
+<details closed>
+<summary class="stream-title">Possible Sanctions</summary>
+<div class="description"> 
+	Possible sanctions include the following, 
+		a.	Warning the harasser to cease their behavior
+		b.	Termination of any MSA conference or formally sponsored event or proceeding, as well as any ongoing MSA responsibilities and appointments held by the harasser (such as serving on a Book Prize committee)
+		c.	Barring the harasser from any future governance positions within the MSA
+		d.	Barring the harasser from any future MSA meetings, conferences, workshops, or other sponsored MSA events
+		e.	Revocation of MSA membership. 
+	Sanctions may be applied individually or in combination, with the length of time determined by the AHC.
+</div>
+</details>
+
+<details closed>
+<summary class="stream-title">Complaint Notification</summary>
+<div class="description"> 
+	Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.
+	
+	Finding of Harassment: Chair of AHC will convey the finding and the sanctions in writing in the form of a recommendation to be approved by the MSA President (or designee), who will inform both parties of the AHC’s finding and sanctions in writing.
+</div>
+</details>
+
+<details closed>
+<summary class="stream-title">Complaint Appeal:</summary>
+<div class="description"> 
+	Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include 
+		a.	claims of procedural error,
+		b.	substantive new evidence, 
+		c.	evidence of impermissible criteria used in the adjudication, 
+		d.	or evidence of bias in the treatment of the fact finding and decision process.
+</div>
+</details>		
+</div>
+</details>
+
+<details closed>
+<summary class="CFP-summary">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
+<div class="description">		
+During the Annual Conference or any other MSA-sponsored convening, the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. 
+
+This designated Board member will receive complaints “in real time” about behavior occurring at that conference, and they will be identified in the Program as such. 
+
+Any MSA members working at the Conference (including Volunteers, Registration Desk, member of the Local Organizing Committee, or any Board Member) can receive complaints, but must connect the Complainant with the Designated Board Member. 
+
+The Designated Board member (DBM) will confidentially speak with the Complainant and offer them the Ombudsperson’s contact information. 
+
+Since in many cases, the Ombudsperson may not be present at the Conference, the designation of a “mandated reporter” such as the Designated Board Member is necessary.
+
+Once the Complainant has the information and has contact the Ombudsperson, they can choose to follow the Reporting/Redress Process outlined above: Option 1 (Presidential Advisory) or Option 2 (Formal Complaint)
+
+All entities assigned these roles will undergo appropriate trainings, sponsored either by their home institution (with documentation to that effect) or by MSA-sponsored trainings.
+</div>
+</details>
 
 <!-- #EndEditable -->
