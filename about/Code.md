@@ -153,6 +153,9 @@ sidebar:
 	</div>
 </details>	
 
+	</div>
+</details>	
+
 <hr> 
 
 <details closed>
