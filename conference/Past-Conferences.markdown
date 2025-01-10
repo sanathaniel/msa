@@ -10,7 +10,7 @@ sidebar:
 <p>Follow the links below to see programs for past MSA conferences.</p>
 <ul>
 	<li>
-		MSA 2024: Chicago, November 7-10, 2024
+		<a href= "/conference/MSA2024/">MSA 2024: Chicago, November 7-10, 2024</a>
 		<br>
 		<a
 			href="/conference/MSA2024/MSA2024_Final_Program.pdf"
