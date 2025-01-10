@@ -34,8 +34,14 @@ sidebar:
 
 <h3>Mission</h3>
 <p>The Modernist Studies Association is devoted to the study of the arts in their social, political, cultural, and intellectual contexts from the later nineteenth through the mid-twentieth century. The organization aims to develop an international and interdisciplinary forum to promote exchange among scholars in this vital and rapidly changing field.</p>
+
+<hr>
+
 <h3>Values</h3>
 <p>The MSA supports the professional development of its members and the ongoing work of the field through free inquiry, critical examination, the sharing of multiple and varied scholarly perspectives, and a commitment to access, inclusion, diversity, and equity. The MSA values collaboration, cross-disciplinary connection, and openness, and it aspires to create spaces hospitable to the diverse intellectual and professional interests of its members. As a future-facing organization, we are committed to interrogating and dismantling the ways in which social, political, and historic inequalities—colonialism, segregation, fascism, homophobia, etc.—continue to shape our field. The MSA is dedicated to making modernist studies more welcoming and fostering belonging for all scholars and students of modernity. </p>
+
+<hr> 
+
 <h3>Code of Conduct</h3>
 <p>This Code of Conduct applies to all forms of participation in the MSA community, including, but not limited to:</p>
 <ul>
@@ -63,12 +69,12 @@ sidebar:
 <summary class="accordion-one">OPTION 1: Presidential Advisory</summary>
 	<div class="description">
 		<ol>
-			<li>The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.</li>
-			<li>The MSA Ombudsperson confidentially reports to the MSA President.</li>
-			<li>In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. </li>
+			<li>The complainant reports to the MSA Ombudsperson or is referred through the presidential chain.</li>
+			<li>The Ombudsperson confidentially reports to the MSA President.</li>
+			<li>In consultation with the Complainant and the Ombudsperson, the President determines a resolution, possibly including a restorative justice approach. </li>
 			<li>The President delivers a formal advisory to the accused member, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.</li>
 			<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
-			<li>If the accused appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
+			<li>If the accused appeals the Presidential Advisory (due process questions etc.), Option 2 applies.</li>
 		</ol>
 	</div>
 </details>
@@ -86,23 +92,23 @@ sidebar:
 					<li>at least 1 who is NOT a member of the MSA (but not the Ombudsperson), </li>
 					<li>and at least 1 other MSA member.</li>
 				</ul>
-			<li>The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality to the extent possible. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.</li>
+			<li>The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.</li>
 				<ol>
 					<li>The AHC requests a formal, written statement from the Complainant that provides as much information as possible, including</li> 
 					<ul>
-						<li>name / position / institution of the person accused of the violation;</li> 
+						<li>name / position / institution of the  accused;</li> 
 						<li>the behavior that was in violation;</li> 
 						<li>the approximate time / date of the behavior;</li> 
 						<li>the location and circumstances surrounding the incident;</li> 
 						<li>and any other people who might have been involved or witnessed the incident.</li>
 					</ul>
-					<li>The Chair of the Ad-Hoc Committee notifies the Person accused of a violation and shares the written statement of the complaint.</li>
+					<li>The Chair of the Ad-Hoc Committee notifies the accused and shares the written statement of the complaint.</li>
 					<li>The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.</li>
-					<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question, as indicated by the complainant or accused.</li> 
+					<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question.</li> 
 					<li>The AHC may consult with Legal Counsel.</li>
 					<li>Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li> 
 					<li>All determinations by the AHC must be unanimous.</li>
-					<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.</li>
+					<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact-finding and determination process.</li>
 				</ol>
 		</ol>
 	</div>
@@ -113,18 +119,18 @@ sidebar:
 <details closed>
 <summary class="accordion-one">Sanctions</summary>	
 <div class="description">
-	<p>The AHC will determine the sanction(s) based on the severity of the violation and submit the determination in the form of a Recommendation to be approved by the President and Presidential Chain.</p>
+	<p>The AHC will determine the sanction(s) based on the severity of the violation and submit the determination in the form of a recommendation to be approved by the President and Presidential Chain.</p>
 
 <details closed>
 <summary class="accordion-two">Possible Sanctions</summary>
 	<div class="description"> 
 		<p>Possible sanctions include the following,</p> 
 			<ul>
-				<li>Warning the harasser to cease their behavior</li>
-				<li>Termination of any MSA conference or formally sponsored event or proceeding, as well as any ongoing MSA responsibilities and appointments held by the harasser (such as serving on a Book Prize committee)</li>
-				<li>Barring the harasser from any future governance positions within the MSA</li>
-				<li>Barring the harasser from any future MSA meetings, conferences, workshops, or other sponsored MSA events</li>
-				<li>Revocation of MSA membership.</li>
+				<li>Warning the violator to cease their behavior</li>
+				<li>Ejecting the violator from an MSA event, as well as any ongoing MSA responsibilities and appointments (such as serving on a Book Prize committee)</li>
+				<li>Barring the violator from any future governance positions within the MSA</li>
+				<li>Barring the violator from any future MSA meetings, conferences, workshops, or other sponsored MSA events</li>
+				<li>Revocation of MSA membership</li>
 			</ul>
 		<p>Sanctions may be applied individually or in combination, with the length of time determined by the AHC.</p>
 	</div>
