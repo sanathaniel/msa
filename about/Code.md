@@ -65,6 +65,8 @@ sidebar:
 		
 <h3>Reporting Conduct Violations</h3>
 
+<p>Below you will find the process for reporting infractions of the MSA code of conduct. The MSA takes reports of this nature seriously, and have updated our Code of Conduct to reflect a robust response mechanism, especially with regard to reports of bias or harassment. As this is a living document, the MSA Board strives to be responsive to our members; revisions to the Code and our reporting processes are subject to revision with Board approval and with input from our members.</p>
+
 <details closed>
 <summary class="accordion-one">OPTION 1: Presidential Advisory</summary>
 	<div class="description">
@@ -182,5 +184,7 @@ sidebar:
 		<p>All entities assigned these roles will undergo appropriate trainings, sponsored either by their home institution (with documentation to that effect) or by MSA-sponsored trainings.</p>
 	</div>
 </details>
+
+<p><i>The MSA Code of Conduct was drafted by the Code of Conduct Subcommittee 2/2/21; and approved by the Executive Committee in 2/21; it was reviewed and revised 2/18/21 and 1/11/24. It is lightly adapted from the Code of Conduct prepared by the Council of Editors of Learned Journals with grateful acknowledgment. The section on reporting violations was drafted by the Code of Conduct Subcommittee 5/20/24; and approved by the Executive Committee 1/23/25. </i></p>
 
 <!-- #EndEditable -->
