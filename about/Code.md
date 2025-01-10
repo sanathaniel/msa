@@ -104,7 +104,7 @@ sidebar:
 					<li>All determinations by the AHC must be unanimous.</li>
 					<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.</li>
 				</ol>
-		<ol>
+		</ol>
 	</div>
 </details>
 
