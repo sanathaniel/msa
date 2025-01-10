@@ -38,7 +38,7 @@ sidebar:
 <hr>
 
 <h3>Values</h3>
-<p>The MSA supports the professional development of its members and the ongoing work of the field through free inquiry, critical examination, the sharing of multiple and varied scholarly perspectives, and a commitment to access, inclusion, diversity, and equity. The MSA values collaboration, cross-disciplinary connection, and openness, and it aspires to create spaces hospitable to the diverse intellectual and professional interests of its members. As a future-facing organization, we are committed to interrogating and dismantling the ways in which social, political, and historic inequalities—colonialism, segregation, fascism, homophobia, etc.—continue to shape our field. The MSA is dedicated to making modernist studies more welcoming and fostering belonging for all scholars and students of modernity. </p>
+<p>The MSA supports the professional development of its members and the ongoing work of the field through free inquiry, critical examination, the sharing of multiple and varied scholarly perspectives, and a commitment to access, inclusion, diversity, and equity. The MSA values collaboration, cross-disciplinary connection, and openness, and it aspires to create spaces hospitable to the diverse intellectual and professional interests of its members. As a future-facing organization, we are committed to interrogating and dismantling the ways in which social, political, and historic inequalities—colonialism, segregation, fascism, homophobia, etc.—continue to shape our field. The MSA is dedicated to making modernist studies more welcoming and fostering belonging for all scholars and students of modernity.</p>
 
 <hr> 
 
@@ -48,7 +48,7 @@ sidebar:
 	<li> messages sent via MSA communication channels, both internal (e.g., listservs, email, instant messaging, Slack) and external (e.g., social media);</li>
 	<li> participation in MSA governance and the administrative workings of the organization;</li>
 	<li> participation in virtual and in-person events convened by MSA, including formal and informal gatherings taking place during the annual conference (seminars, workshops, panels, receptions, etc.), virtual and off-site conference events such as graduate student or Special Interest Group meet-ups, etc.</li>
-	<li>Ethical expectations for MSA Membership encompass professional behavior both inside and outside MSA-sponsored events. These “external” infractions can still be reported to the MSA Ombudsperson (see Options 1 and 2 below). If someone is found in violation of the Code of Conduct of one of MSA’s affiliate organizations, then sanctions issued by another organization may also extend to MSA participation. </l>	
+	<li>Ethical expectations for MSA Membership encompass professional behavior both inside and outside MSA-sponsored events. If someone is found in violation of the Code of Conduct of one of MSA’s affiliate organizations, then sanctions issued by another organization may also extend to MSA participation. These “external” infractions can still be reported to the MSA Ombudsperson (see Options 1 and 2 below).</li>	
 </ul>
 
 <p>The MSA calls upon its members to support these values in judgment and in action in order for the MSA to fulfill its mission and enact its values of free inquiry, collaboration, openness, access, and equity. We expect that all members have the opportunity to reap the full benefits of belonging, and MSA members are expected to participate in the work of the organization with integrity and the highest standards of professionalism.</p>
