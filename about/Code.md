@@ -66,7 +66,7 @@ sidebar:
 			<li>The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.</li>
 			<li>The MSA Ombudsperson confidentially reports to the MSA President.</li>
 			<li>In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. </li>
-			<li>The President delivers a formal advisory to the accused member, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
+			<li>The President delivers a formal advisory to the accused member, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.</li>
 			<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
 			<li>If the accused appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
 		</ol>
@@ -79,8 +79,8 @@ sidebar:
 <summary class="accordion-one">OPTION 2: Formal Complaint</summary>	
 	<div class="description">
 		<ol>
-			<li>Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
-			<li>The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including
+			<li>Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.</li>
+			<li>The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including</li>
 				<ul>
 					<li>at least 1 Officer of the MSA Board (but not the President),</li>
 					<li>at least 1 who is NOT a member of the MSA (but not the Ombudsperson), </li>
