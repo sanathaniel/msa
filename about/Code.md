@@ -60,7 +60,7 @@ sidebar:
 <h3>Reporting Conduct Violations</h3>
 
 <details closed>
-<summary class="accordion-one">OPTION 1: PRESIDENTIAL ADVISORY</summary>
+<summary class="accordion-one">OPTION 1: Presidential Advisory</summary>
 	<div class="description">
 		<ol>
 			<li>The complainant reports to the MSA Ombudsperson or is referred to the Ombudsperson through the presidential chain.</li>
@@ -68,7 +68,7 @@ sidebar:
 			<li>In consultation with the Complainant and the Ombudsperson, the president determines a resolution, possibly including a restorative justice approach. </li>
 			<li>The President delivers a formal advisory to the accused member, including reminders of the Code of Conduct. The advisory constitutes a probation of that MSA member’s status.
 			<li>The Ombudsperson writes a confidential report that will be filed and kept secure. </li>
-			<li>If the accuesed appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
+			<li>If the accused appeals the Presidential Advisory (due process questions etc.) option 2 applies.</li>
 		</ol>
 	</div>
 </details>
@@ -76,42 +76,42 @@ sidebar:
 <hr>
 
 <details closed>
-<summary class="accordion-one">OPTION 2: FORMAL COMPLAINT</summary>	
-<div class="description">
-	<ol>
-		<li>Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
-		<li>The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including
-			<ul>
-				<li>at least 1 Officer of the MSA Board (but not the President),</li>
-				<li>at least 1 who is NOT a member of the MSA (but not the Ombudsperson), </li>
-				<li>and at least 1 other MSA member.</li>
-			</ul>
-		<li>The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality to the extent possible. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.</li>
-			<ol>
-				<li>The AHC requests a formal, written statement from the Complainant that provides as much information as possible, including</li> 
+<summary class="accordion-one">OPTION 2: Formal Complaint</summary>	
+	<div class="description">
+		<ol>
+			<li>Complainant or a Member under advisement (see Option 1) seeks redress via a formal investigation.
+			<li>The Ombudsperson contacts the President, and the President institutes an Ad-Hoc Committee (AHC), including
 				<ul>
-					<li>name / position / institution of the person accused of the violation;</li> 
-					<li>the behavior that was in violation;</li> 
-					<li>the approximate time / date of the behavior;</li> 
-					<li>the location and circumstances surrounding the incident;</li> 
-					<li>and any other people who might have been involved or witnessed the incident.</li>
+					<li>at least 1 Officer of the MSA Board (but not the President),</li>
+					<li>at least 1 who is NOT a member of the MSA (but not the Ombudsperson), </li>
+					<li>and at least 1 other MSA member.</li>
 				</ul>
-				<li>The Chair of the Ad-Hoc Committee notifies the Person accused of a violation and shares the written statement of the complaint.</li>
-				<li>The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.</li>
-				<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question, as indicated by the complainant or accused.</li> 
-				<li>The AHC may consult with Legal Counsel.</li>
-				<li>Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li> 
-				<li>All determinations by the AHC must be unanimous.</li>
-				<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.</li>
-			</ol>
-	</ol>
-</div>
+			<li>The Ad-Hoc Committee (AHC) investigates. At all stages, members of the AHC will maintain strict confidentiality to the extent possible. All parties are also requested to maintain confidentiality until the formal complaint procedure is complete.</li>
+				<ol>
+					<li>The AHC requests a formal, written statement from the Complainant that provides as much information as possible, including</li> 
+					<ul>
+						<li>name / position / institution of the person accused of the violation;</li> 
+						<li>the behavior that was in violation;</li> 
+						<li>the approximate time / date of the behavior;</li> 
+						<li>the location and circumstances surrounding the incident;</li> 
+						<li>and any other people who might have been involved or witnessed the incident.</li>
+					</ul>
+					<li>The Chair of the Ad-Hoc Committee notifies the Person accused of a violation and shares the written statement of the complaint.</li>
+					<li>The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.</li>
+					<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question, as indicated by the complainant or accused.</li> 
+					<li>The AHC may consult with Legal Counsel.</li>
+					<li>Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li> 
+					<li>All determinations by the AHC must be unanimous.</li>
+					<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact finding and determination process.</li>
+				</ol>
+		<ol>
+	</div>
 </details>
 
 <hr>
 
 <details closed>
-<summary class="accordion-one">SANCTIONS</summary>	
+<summary class="accordion-one">Sanctions</summary>	
 <div class="description">
 	<p>The AHC will determine the sanction(s) based on the severity of the violation and submit the determination in the form of a Recommendation to be approved by the President and Presidential Chain.</p>
 
@@ -141,7 +141,7 @@ sidebar:
 </details>
 
 <details closed>
-<summary class="accordion-two">Complaint Appeal:</summary>
+<summary class="accordion-two">Complaint Appeal</summary>
 	<div class="description"> 
 		<p>Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include</p>
 			<ul>
@@ -156,7 +156,7 @@ sidebar:
 <hr> 
 
 <details closed>
-<summary class="accordion-one">ON-SITE COMPLAINTS AT THE ANNUAL CONFERENCE</summary>	
+<summary class="accordion-one">On-Site Complaints at the Annual Conference</summary>	
 	<div class="description">		
 		<p>During the Annual Conference or any other MSA-sponsored convening, the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. </p>
 
