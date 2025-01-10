@@ -66,7 +66,7 @@ sidebar:
 		
 <h3>Reporting Conduct Violations</h3>
 
-<p>Below you will find the process for reporting infractions of the MSA code of conduct. The MSA takes reports of this nature seriously, and have updated our Code of Conduct to reflect a robust response mechanism, especially with regard to reports of bias or harassment. As this is a living document, the MSA Board strives to be responsive to our members; revisions to the Code and our reporting processes are subject to revision with Board approval and with input from our members.</p>
+<p>Below you will find the process for reporting infractions of the MSA code of conduct. The MSA takes reports of this nature seriously, and has updated its Code of Conduct to reflect a robust response mechanism, especially with regard to reports of bias or harassment. As this is a living document, the MSA Board strives to be responsive to our members; the Code and reporting processes are subject to revision with Board approval and with input from our members.</p>
 
 <details closed>
 <summary class="accordion-one">OPTION 1: Presidential Advisory</summary>
@@ -107,10 +107,8 @@ sidebar:
 					</ul>
 					<li>The Chair of the Ad-Hoc Committee notifies the accused and shares the written statement of the complaint.</li>
 					<li>The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.</li>
-					<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question.</li> 
-					<li>The AHC may consult with Legal Counsel.</li>
-					<li>Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li> 
-					<li>All determinations by the AHC must be unanimous.</li>
+					<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question. The AHC also may consult with Legal Counsel. Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li>
+					<li>Violations must be determined through unanimous decision by the AHC.</li>
 					<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact-finding and determination process.</li>
 				</ol>
 		</ol>
@@ -144,13 +142,13 @@ sidebar:
 	<div class="description"> 
 		<ul>
 			<li>Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.</li>
-			<li>Finding of Harassment: Chair of AHC will convey the finding and the sanctions in writing in the form of a recommendation to be approved by the MSA President (or designee), who will inform both parties of the AHC’s finding and sanctions in writing.</li>
+			<li>Finding of Harassment: Chair of AHC will convey the finding and the sanctions in the form of a written recommendation to be approved by the MSA President (or designee), who will inform both parties of the AHC’s finding and sanctions in writing.</li>
 		</ul>
 	</div>
 </details>
 
 <details closed>
-<summary class="accordion-two">Complaint Appeal</summary>
+<summary class="accordion-two">Appealing a Recommendation</summary>
 	<div class="description"> 
 		<p>Should either party appeal the decision, they must do so within 30 days after it is made, and they may make an appeal to the Presidential Chain. Grounds for appeal include</p>
 			<ul>
@@ -170,9 +168,9 @@ sidebar:
 <details closed>
 <summary class="accordion-one">On-Site Complaints at the Annual Conference</summary>	
 	<div class="description">		
-		<p>Since in many cases, the Ombudsperson may not be present at the Conference,the Board will assign a Designated Board Member (DBM) to receive complaints from attendees, during the Annual Conference or any other MSA-sponsored convening. This designated Board member will receive complaints “in real time” about behavior occurring at that conference, and they will be identified in the Program as such. The Designated Board member (DBM) will confidentially speak with the Complainant and offer them the Ombudsperson’s contact information. </p>
+		<p>Since in many cases, the Ombudsperson may not be present at the Annual Conference or other MSA-sponsored conventions,the Board will assign a Designated Board Member (DBM) to receive complaints from attendees. This designated Board member will receive complaints “in real time” about behavior occurring at that event, and they will be identified in the Program as such. The Designated Board member (DBM) will speak confidentially with the Complainant and offer them the Ombudsperson’s contact information. </p>
 
-		<p>Once the Complainant has the information and has contact the Ombudsperson, they can choose to follow the Reporting/Redress Process outlined above: Option 1 (Presidential Advisory) or Option 2 (Formal Complaint)</p>
+		<p>Once the Complainant has contacted the Ombudsperson, they may choose to follow the Reporting/Redress Process outlined above: Option 1 (Presidential Advisory) or Option 2 (Formal Complaint)</p>
 		
 		<p>Any MSA members working at the Conference (including Volunteers, Registration Desk, member of the Local Organizing Committee, or any Board Member) can receive complaints, but must connect the Complainant with the Designated Board Member. All entities assigned these roles will undergo appropriate trainings, sponsored either by their home institution (with documentation to that effect) or by MSA-sponsored trainings.</p>
 
