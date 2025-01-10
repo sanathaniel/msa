@@ -47,7 +47,8 @@ sidebar:
 <ul>
 	<li> messages sent via MSA communication channels, both internal (e.g., listservs, email, instant messaging, Slack) and external (e.g., social media);</li>
 	<li> participation in MSA governance and the administrative workings of the organization;</li>
-	<li> participation in virtual and in-person events convened by MSA, including formal and informal gatherings taking place during the annual conference (seminars, workshops, panels, receptions, etc.), virtual and off-site conference events such as graduate student or Special Interest Group meet-ups, etc.</li>                                
+	<li> participation in virtual and in-person events convened by MSA, including formal and informal gatherings taking place during the annual conference (seminars, workshops, panels, receptions, etc.), virtual and off-site conference events such as graduate student or Special Interest Group meet-ups, etc.</li>
+	<li>Ethical expectations for MSA Membership encompass professional behavior both inside and outside MSA-sponsored events. These “external” infractions can still be reported to the MSA Ombudsperson (see Options 1 and 2 below). If someone is found in violation of the Code of Conduct of one of MSA’s affiliate organizations, then sanctions issued by another organization may also extend to MSA participation. </l>	
 </ul>
 
 <p>The MSA calls upon its members to support these values in judgment and in action in order for the MSA to fulfill its mission and enact its values of free inquiry, collaboration, openness, access, and equity. We expect that all members have the opportunity to reap the full benefits of belonging, and MSA members are expected to participate in the work of the organization with integrity and the highest standards of professionalism.</p>
@@ -107,7 +108,7 @@ sidebar:
 					</ul>
 					<li>The Chair of the Ad-Hoc Committee notifies the accused and shares the written statement of the complaint.</li>
 					<li>The accused will also be asked to provide a written statement providing their account of the activities covered in the complaint.</li>
-					<li>The AHC may meet with the complainant or the accused; solicit evidence from identified witnesses; and consult others with direct knowledge of the event in question. The AHC also may consult with Legal Counsel. Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li>
+					<li>The AHC may meet with the complainant or the accused, solicit evidence from identified witnesses, and consult others with direct knowledge of the event in question. The AHC also may consult with Legal Counsel. Any fact finding or written statements provided to the AHC will be shared with either party at their request.</li>
 					<li>Violations must be determined through unanimous decision by the AHC.</li>
 					<li>A written summary of the decision and recommended action will be provided in writing to all parties upon completion of the fact-finding and determination process.</li>
 				</ol>
@@ -138,7 +139,7 @@ sidebar:
 </details>
 
 <details closed>
-<summary class="accordion-two">Complaint Notification</summary>
+<summary class="accordion-two">Notification</summary>
 	<div class="description"> 
 		<ul>
 			<li>Finding Negative/Inconclusive/Non-Unanimous: Chair of AHC will inform to MSA President, who will inform both parties of the AHC’s finding in writing.</li>
