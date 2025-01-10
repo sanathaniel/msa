@@ -11,7 +11,7 @@ sidebar:
 .accordion-one {
   padding: 4px;
   width: 100%;
-  background-color: #2db8e3;
+  background-color: #0c3895;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -22,7 +22,7 @@ sidebar:
 .accordion-two {
   padding: 4px;
   width: 100%;
-  background-color: #f37834;
+  background-color: #da5a5f;
   color: white; 
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
