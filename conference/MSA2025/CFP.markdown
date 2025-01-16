@@ -57,7 +57,7 @@ classes:
  
 <p>The 2025 conference will feature keynote speakers, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organizing committee.</p>
 
-<p>The conference organizers for MSA Chicago 2025 invite proposals for:</p>
+<p>The conference organizers for MSA Boston 2025 invite proposals for:</p>
 
 
 <strong>
