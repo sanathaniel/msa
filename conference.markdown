@@ -24,7 +24,7 @@ sidebar:
 
 <hr>
 
-<p>If you are interested in hosting an MSA conference, please contact President, <a href="mailto:ogonzale@wellesley.edu"
-	>Octavio González</a>, and Second Vice President <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, for details.</p>
+<p>If you are interested in hosting an MSA conference, please contact <a href="mailto:ogonzale@wellesley.edu"
+	>Octavio González</a>, President, and <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, Second Vice President, for details.</p>
 <p>&nbsp;</p>
 <!-- #EndEditable -->
