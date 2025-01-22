@@ -17,9 +17,11 @@ sidebar:
 			>https://groups.google.com/g/msa-members-list</a>.</li>
 	<li>Click on the "Ask to join group" option.</li>
 </ul>
-<p> Members using the Google Group mailing list are expected to follow
+
+<p> Members using the Google Group mailing lists are expected to follow
 	the MSA's <a href="/about/mission/">Code of Conduct</a>. </p>
 <p>&nbsp;</p>
+
 <!-- 
 	<p>To view the archive of past MSA listserv messages, visit: <a
 		href="http://chaos.press.jhu.edu/pipermail/msa-members/"

@@ -20,6 +20,10 @@ sidebar:
 	  </h1> 
 	</div>
 </div>
+				
+<hr>
+
+We are excited to announce that Loughborough University will host the 2026 MSA Conference, to be held in July. We look forward to collaborating with the <a href="https://bams.ac.uk/">British Association for Modernist Studies</a> on the event. More details are soon to come!
 
 <!--
 <p><strong>
