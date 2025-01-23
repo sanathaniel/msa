@@ -10,10 +10,8 @@ sidebar:
 <hr />
 <p>The MSA uses a Google Group mailing list to communicate with 
 	members.</p>
-
-<hr>
 	
-<p>To sign up for the MSA Google Group mailing list, complete the
+<p>To sign up for the mailing list, complete the
 	following steps:</p>
 <ul>
 	<li>Visit <a href="https://groups.google.com/g/msa-members-list"
