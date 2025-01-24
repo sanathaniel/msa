@@ -8,7 +8,11 @@ sidebar:
 
 <p>Please see below the call for nominations for the inaugural Ombudsperson for the Modernist Studies Association. You may nominate someone outside of the MSA membership, provided that they are familiar with academic organizations like the MSA, and are members in good standing of their professional organizations. Please note that we are not taking self-nominations at this time. Those interested in nominating someone for this position can do so by emailing the nominee’s full name and contact information, as well as a brief statement of explanation for your choice of nominee. <strong>Please send your nomination to Karen Weingarten <a href="mailto:kweingarten@qc.cuny.edu">(kweingarten@qc.cuny.edu)</a>, Membership & Elections Chair, by February 28, 2025.</strong> </p>
  
-<p>This call is organized by Aimee Wilson, Kate Schnur, and Octavio González, who together agreed to serve on the Ad-Hoc Committee convened to update the <a href="https://www.moderniststudies.org/about/mission/">revised MSA Code of Conduct and the Anti-Harassment Policy</a>. These revisions included the creation of an ombuds role for the MSA. The ombudsperson will be an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the anti-harassment policy or the code of conduct.  </p>
+<p>This call is organized by Aimee Wilson, Kate Schnur, and Octavio González, who together agreed to serve on the Ad-Hoc Committee convened to update the <a href="https://www.moderniststudies.org/about/mission/">revised MSA Code of Conduct and the Anti-Harassment Policy</a>. These revisions included the creation of an ombuds role for the MSA. The Ad-hoc Committee will convene a committee to review and interview nominees as part of the selection process. 
+ </p>
+ 
+ <p>The ombudsperson will be an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the anti-harassment policy or the code of conduct.  
+</p>
 
 
 <p><strong>The first ombuds term is expected to run from May 2025 to May 2026 with the possibility of renewal for a second year. This is a position supported by a stipend. As the ombuds will be expected to attend the annual conference, their registration and hotel fees will be waived.</strong></p>
