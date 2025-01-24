@@ -40,8 +40,8 @@ layout: home
 					<img src="assets/cezanne_apples_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Ombuds Nominations</h3>
-				<figcaption  class="archive__item-title">Make a nomination for the MSA Ombudsperson</figcaption>
-			<a href="/about/ombuds" class="btn btn--primary">Nominate</a>
+				<figcaption  class="archive__item-title">Make a nomination for the new MSA Ombudsperson</figcaption>
+			<a href="/about/Ombuds" class="btn btn--primary">Nominate</a>
 		</div>
 		
 		<div class ="feature__item">
