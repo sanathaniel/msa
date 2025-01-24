@@ -37,7 +37,7 @@ layout: home
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
-					<img src="assets/cezanne_apples_thumb.jpeg" min-width="150" min-height="150"/>
+					<img src="assets/cezanne_apples_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Ombuds Nominations</h3>
 				<figcaption  class="archive__item-title">Make a nomination for the MSA Ombudsperson</figcaption>
