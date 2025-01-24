@@ -29,7 +29,7 @@ sidebar:
 <p>The ombuds protects the privacy of individual consultations except when there is an imminent risk of physical harm to self or others. The ombuds does not reveal information that identifies individuals without the express permission of all parties involved.</p>
 
 
-<h2>Desired qualifications for the MSA Ombuds:</h2>
+<h2>Desired qualifications for the MSA Ombuds:</h2> 
 
 <ul>
 
