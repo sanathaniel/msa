@@ -41,7 +41,7 @@ layout: home
 				</div>
 				<h3>Ombuds Nominations</h3>
 				<figcaption  class="archive__item-title">Make a nomination for the new MSA Ombudsperson</figcaption>
-			<a href="/about/Ombuds" class="btn btn--primary">Nominate</a>
+			<a href="/about/ombuds" class="btn btn--primary">Nominate</a>
 		</div>
 		
 		<div class ="feature__item">
