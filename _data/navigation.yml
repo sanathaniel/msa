@@ -1,26 +1,6 @@
 # main links
 
-conf_nav:
-  - title: "Ⓣ METRO Ⓣ"
-    url: /conference/MSA2025/
-  - title: "CFP"
-    url: /conference/MSA2025/CFP/
-  - title: "Registration"
-    url: /conference/MSA2025/registration/
-  - title: "Seminars"
-    url: /conference/MSA2025/seminars/
-  - title: "Workshops"
-    url: /conference/MSA2025/workshops/
-  - title: "Events"
-    url: /conference/MSA2025/special-events/
-  - title: "Accomodations"
-    url: /conference/MSA2025/travel/
-  - title: "Program"
-    url: /conference/MSA2025/program/
-
 about_nav:
-  - title: "About"
-    url: /about/
   - title: "Mission & Values"
     url: /about/mission/
   - title: "Constitution & Bylaws"
@@ -29,76 +9,62 @@ about_nav:
     url: /about/governance/
   - title: "Board Nominations"
     url: /about/board-nominations/
+  - title: "Ombuds Nomination"
+    url: /about/ombuds/
   - title: "Past Presidents & Trustees"
     url: /about/past-presidents/
 
 members_nav:
-      - title: "Membership"
-        url: /members/
       - title: "Join/Renew Membership"
-        url: /members/login/
-      - title: "SIGs"
-        url: /members/sigs/
+        url: /members/join/
       - title: "Advocacy Handbook"
         url: /members/handbook/
+      - title: "Listserv"
+        url: /members/listserv/
+      - title: "Directory"
+        url: /members/directory/
       - title: "Affiliations"
         url: /members/affiliations/
       - title: "Research Travel Grants"
         url: /members/travel-grants/
-
+        
 conference_nav:
-      - title: "Conference"
-        url: /conference/
       - title: "Upcoming Conferences"
         url: /conference/upcoming-conferences/
       - title: "MSA/MLA"
         url: /conference/MSA-MLA/
-      - title: "Digital Programming"
-        url: /conference/digital/
       - title: "Past Conferences"
         url: /conference/past-conferences/
       - title: "Conference Access"
         url: /conference/conference-access/
     
 prizes_nav:
-      - title: "Prizes"
-        url: /prize/
+      - title: "Shortlist"
+        url: /prizes/shortlist/
       - title: "Nominations"
         url: /prizes/nominations/
-      - title: "Book Prize"
-        url: /prizes/shortlist/
-      - title: "First Book Prize"
+      - title: "First Book"
         url: /prizes/first-book/
-      - title: "Edition, Anthology, or Collection Prize"
+      - title: "Edition, Anthology, or Collection"
         url: /prizes/collection/
-      - title: "Translation Prize"
+      - title: "Translation"
         url: /prizes/translation/
       - title: "Previous Winners"
         url: /prizes/previous-winners/
     
 journal_nav:
-      - title: "Journal"
-        url: /journal/
       - title: "Modernism/modernity"
         url: https://www.press.jhu.edu/journals/modernismmodernity
       - title: "Print+ Online"
         url: https://modernismmodernity.org/
       - title: "Read Online"
         url: https://muse.jhu.edu/journal/131
-           
-login_nav:
-      - title: "Log-In"
-        url: https://msa.press.jhu.edu/membership/log-in
-      - title: "Register"
-        url: https://msa.press.jhu.edu/membership/register
-      - title: "Join MSA"
-        url: https://msa.press.jhu.edu/membership/join
-      - title: "Listserv"
-        url: /members/login/listserv/
+    
 
+  
 main:
   - title: "About"
-    url: /about/
+    url: /about/index/
     children:
         -   title: "Mission & Values"
             url: /about/mission/
@@ -111,42 +77,32 @@ main:
         -   title: "Past Presidents and Trustees"
             url: /about/past-presidents/
   - title: "Members"
-    url: /members/
+    url: /members/index/ 
     children:
-        -   title: "Membership"
-            url: /members/
         -   title: "Join/Renew Membership"
-            url: /members/join/
-        -   title: "Login"
-            url: /members/login/
-        -   title: "Listserv"
-            url: /members/listserv/
+            url: /members/member-services/
         -   title: "Advocacy Handbook"
-            url: /members/handbook/
-        -   title: "Affiliations"
-            url: /members/affiliations/
+            url: /members/advocacy-handbook/
+        -   title: "Directory"
+            url: /members/directory/
         -   title: "Research Travel Grants"
             url: /members/travel-grants/
   - title: "Conference"
-    url: /conference/
+    url: /conference/index/ 
     children:
-        -   title: "Conference"
-            url: /conference/
+        -   title: "MSA 2024"
+            url: /conference/MSA2024/
         -   title: "Upcoming Conferences"
             url: /conference/upcoming-conferences/
-        -   title: "MSA/MLA"
-            url: /conference/MSA-MLA/
-        -   title: "Digital Programming"
-            url: /conference/digital/
         -   title: "Past Conferences"
             url: /conference/past-conferences/
+        -   title: "MSA/MLA"
+            url: /conference/MSA-MLA/
         -   title: "Conference Access"
-            url: /conference/conference-access/
+            url: /conference/conference_access/
   - title: "Prizes"
-    url: /prize/
+    url: /prize/index/ 
     children:
-        -   title: "Prizes"
-            url: /prize/
         -   title: "Nominations"
             url: /prizes/nominations/
         -   title: "Book Prize"
@@ -160,7 +116,7 @@ main:
         -   title: "Previous Winners"
             url: /prizes/previous-winners/
   - title: "Journal"
-    url: /journal/
+    url: /journal/index/ 
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
