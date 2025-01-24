@@ -11,7 +11,7 @@ sidebar:
 <p>This call is organized by Aimee Wilson, Kate Schnur, and Octavio González, who together agreed to serve on the Ad-Hoc Committee convened to update the <a href="https://www.moderniststudies.org/about/mission/">revised MSA Code of Conduct and the Anti-Harassment Policy</a>. These revisions included the creation of an ombuds role for the MSA. The ombudsperson will be an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the anti-harassment policy or the code of conduct.  </p>
 
 
-<p><strong>The first ombuds term is expected to run from May 2025 to May 2026 with the possibility of renewal for a second year. This is a position supported by a stipend. As the ombuds will be expected to attend the annual conference, their registration and hotel fees will be waived.<strong></p>
+<p><strong>The first ombuds term is expected to run from May 2025 to May 2026 with the possibility of renewal for a second year. This is a position supported by a stipend. As the ombuds will be expected to attend the annual conference, their registration and hotel fees will be waived.</strong></p>
 
 
 <h2>The Role of the Ombuds:</h2>
