@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <!-- #BeginEditable "content" -->
-<hr />
+
 <p>The MSA uses a Google Group mailing list to communicate with 
 	members.</p>
 	

@@ -29,6 +29,8 @@ about_nav:
     url: /about/governance/
   - title: "Board Nominations"
     url: /about/board-nominations/
+  - title: "Ombuds Nomination"
+    url: /about/obuds/
   - title: "Past Presidents & Trustees"
     url: /about/past-presidents/
 
@@ -88,11 +90,13 @@ journal_nav:
            
 login_nav:
       - title: "Log-In"
-        url: https://msa.press.jhu.edu/membership/log-in
+        url: https://www.press.jhu.edu/journals/cart/log-in
+      - title: "Profile"
+        url: https://www.press.jhu.edu/journals/cart/profile
       - title: "Register"
-        url: https://msa.press.jhu.edu/membership/register
+        url: https://www.press.jhu.edu/journals/cart/register
       - title: "Join MSA"
-        url: https://msa.press.jhu.edu/membership/join
+        url: https://www.press.jhu.edu/journals/cart/for-sale?oc=42
       - title: "Listserv"
         url: /members/login/listserv/
 
