@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Ombuds Nomination
+title: Ombudsperson Nomination
 permalink: /about/ombuds/
 sidebar:
   nav: about_nav
