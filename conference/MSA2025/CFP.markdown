@@ -87,7 +87,7 @@ classes:
 
 <p>Seminar Topics: There are no limits on topics, but past experience has shown that the more clearly defined the topic and the more guidance provided by the leader, the more productive the ensuing discussion. “Clearly defined” should not be confused with “narrow,” as extremely narrow seminar topics tend to exclude many potential participants. To review past seminar topics, go to the <a href="/conference/past-conferences.html">Conference Archives</a> on the MSA website and then click on “Conference Schedule” or “Conference Program.” You will find seminars listed along with panels and other events.</p>
 
-<p><a href="https://msa2025.exordo.com/">Click here to submit Seminar Proposals</a> by Friday March 15, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Seminar Proposals</a> by Saturday March 15, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
 		</div>
 </details>
 <hr>
@@ -101,7 +101,7 @@ classes:
 Workshops are participatory in format and can be either 90 or 120 minutes in length. They may be led by one person or by a panel of experts. Participants will register for workshops at the same time as conference registration.
 </p>
 
-<p><a href="https://msa2025.exordo.com/">Click here to submit Workshop Proposals</a> by Friday March 15, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Workshop Proposals</a> by Saturday March 15, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -127,7 +127,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Friday April 5, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Saturday April 5, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -160,7 +160,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<li>Roundtable organizers should identify a chair and include this information with their proposals.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Friday April 5, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Saturday April 5, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
 		</div>
 </details>
 <hr>
