@@ -36,7 +36,12 @@ sidebar:
 <h1>Archive of MSA Executive Committees</h1>
 <hr />
 <br />
-<h2>MSA Executive Committee 2023-2024</h2>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2023-2024</summary>
+	<div class="description"> 
+
 <p><b>President</b>:  Louise Hornby, UCLA</p>
 <p><b>First Vice President</b>: Octavio González, Wellesley College</p>
 <p><b>Second Vice President</b>: Melissa Bradshaw, Loyola University Chicago</p>
@@ -60,7 +65,13 @@ sidebar:
 <hr />
 <br />
 
-<h2>MSA Executive Committee 2022-2023</h2>
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2022-2023</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Amy Clukey, University of Louisville</p>
 <p><b>First Vice President</b>: Louise Hornby, UCLA</p>
 <p><b>Second Vice President</b>: Octavio González, Wellesley College</p>
@@ -85,8 +96,16 @@ sidebar:
 	Nerlekar, Rutgers University<br /> Stephen J. Ross, Concordia
 	University </p>
 <hr />
+
+	</div>
+</details>
+
 <br />
-<h2>MSA Executive Committee 2021-2022</h2>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2021-2022</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Janine Utell, formerly Widener University</p>
 <p><b>First Vice President</b>: Amy Clukey, University of Louisville</p>
 <p><b>Second Vice President</b>: Louise Hornby, UCLA</p>
@@ -124,8 +143,16 @@ sidebar:
 	Fleming (University of Maryland)<br /> Laura Heffernan (University
 	of North Florida) </p>
 <hr />
+
+	</div>
+</details>
+
 <br />
-<h2>MSA Executive Committee 2020-2021</h2>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2020-2021</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Bill Maxwell, Washington University</p>
 <p><b>First Vice President</b>: Janine Utell, Widener University</p>
 <p><b>Second Vice President</b>: Amy Clukey, University of
@@ -137,7 +164,7 @@ sidebar:
 	Gothenburg</p>
 <p><b>Chair, Membership &amp; Elections</b>: Erin Kappeler,, Tulane
 	University<br />
-<p><b>Chair, Program</b>: Elizabeth Evans, ??? </p>
+<p><b>Chair, Program</b>: Elizabeth Evans</p>
 <p><b>Chair, Finance</b> (Treasurer): Lisa Mendelman, Menlo
 	College<br />
 <p><b>Chair, Technology and Infrastructure</b>: Nikolaus Wasmoen,
@@ -158,9 +185,18 @@ sidebar:
 	(Johns Hopkins University)<br /> Nicole Rizzuto (Georgetown
 	University)</p>
 <hr />
+
+	</div>
+</details>
+
 <br />
+
 <!--  2019-2020 -->
-<h2>MSA Executive Committee 2019-2020</h2>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2019-2020</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Matthew Hart, Columbia University</p>
 <p><b>First Vice President</b>: Bill Maxwell, Washington University</p>
 <p><b>Second Vice President</b>: Janine Utell, Widener University</p>
@@ -193,7 +229,15 @@ sidebar:
 <hr />
 <br />
 <!--  2018-2019 -->
-<h2>MSA Executive Committee 2018-2019</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2018-2019</summary>
+	<div class="description"> 
+
 <p><b>President</b>: Celia Marshik, Stony Brook University</p>
 <p><b>First Vice President</b>: Matthew Hart, Columbia University</p>
 <p><b>Second Vice President</b>: Bill Maxwell, Washington University</p>
@@ -229,7 +273,15 @@ sidebar:
 <hr />
 <br />
 <!--  2016-2017 -->
-<h2>MSA Executive Committee 2017-2018</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2017-2018</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Laura Winkiel, University of Colorado Boulder</p>
 <p><b>First Vice President</b>: Celia Marshik, Stony Brook
 	University</p>
@@ -269,8 +321,16 @@ sidebar:
 	Essex</p>
 <hr />
 <br />
+
+	</div>
+</details>
+
 <!--  2016-2017 -->
-<h2>MSA Executive Committee 2016-2017</h2>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2016-2017</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Jessica Berman, University of Maryland, Baltimore
 	County</p>
 <p><b>First Vice President</b>: Laura Winkiel, University of Colorado
@@ -313,8 +373,16 @@ sidebar:
 	University)<br>
 <hr />
 <br />
+
+	</div>
+</details>
+
 <!--  2015-2016 -->
-<h2>MSA Executive Committee 2015-2016</h2>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2015-2016</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Stephen Ross, University of Victoria<br />
 <p><b>First Vice President</b>: Jessica Berman, University of Maryland,
 	Baltimore County</p>
@@ -352,7 +420,15 @@ sidebar:
 <hr />
 <br />
 <!--  2013-2014 -->
-<h2>MSA Executive Committee 2014-2015</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2014-2015</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Rebecca Walkowitz, Rutgers University<br />
 </p>
 <p><b>First Vice President</b>: Stephen Ross, University of
@@ -393,8 +469,17 @@ sidebar:
 	University<br>
 <hr />
 <br />
+
+	</div>
+</details>
+
 <!-- 2012-2013 -->
-<h2>MSA Executive Committee 2013-2014</h2>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2013-2014</summary>
+	<div class="description"> 
+
 <p><b>President</b>: David Chinitz, Loyola University, Chicago<br />
 </p>
 <p><b>First Vice President</b>: Rebecca Walkowitz, Rutgers
@@ -438,7 +523,15 @@ sidebar:
 	University</p>
 <hr />
 <br />
-<h2>MSA Executive Committee 2012-2013</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2012-2013</summary>
+	<div class="description"> 
+
 <p><strong>President</strong>: Paul Saint-Amour, University of
 	Pennsylvania<br />
 </p>
@@ -481,7 +574,15 @@ sidebar:
 	Cross</p>
 <hr />
 <br />
-<h2>MSA Executive Committee 2011-2012</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2011-2012</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Susan Stanford Friedman, The University of
 	Wisconsin, Madison<br />
 </p>
@@ -527,7 +628,15 @@ sidebar:
 	The University of Tulsa<br /> Stephen Ross, The University of
 	Victoria</p>
 <hr />
-<h2>MSA Executive Committee 2010-2011</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2010-2011</summary>
+	<div class="description"> 
+	
 <p><b>President</b>: Mark Morrisson, Pennsylvania State University<br />
 </p>
 <p><b>First Vice President</b>: Susan Stanford Friedman, The University
@@ -572,7 +681,15 @@ sidebar:
 	Michigan State University<br />
 </p>
 <hr />
-<h2>MSA Executive Committee 2009-2010</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2009-2010</summary>
+	<div class="description"> 
+	
 <p><b>President:</b> Pamela Caughie, Loyola University, Chicago<br />
 </p>
 <p><b>First Vice President:</b> Mark Morrisson, Pennsylvania State
@@ -614,7 +731,15 @@ sidebar:
 	Carolina <br />
 </p>
 <hr />
-<h2>MSA Executive Committee 2008-2009</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2008-2009</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President:</span> Sean Latham </p>
 <p><span style="font-weight: bold">First Vice President:</span> Pamela
 	Caughie</p>
@@ -652,7 +777,15 @@ sidebar:
 	of Birmingham<br />
 </p>
 <hr />
-<h2>MSA Executive Committee 2007-2008</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2007-2008</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President:</span> Melba
 	Cuddy-Keane</p>
 <p><span style="font-weight: bold">First Vice President:</span> Sean
@@ -687,7 +820,14 @@ sidebar:
 <h2>Book Prize Committee</h2>
 <p>Gail McDonald, Chair<br /> Laura Marcus<br /> Steven Yao</p>
 <hr />
-<h2>MSA Executive Committee 2006-2007</h2>
+
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2006-2007</summary>
+	<div class="description"> 
+
 <p><span style="font-weight: bold">President: </span>Cristanne Miller </p>
 <p><span style="font-weight: bold">First Vice President: </span>Melba
 	Cuddy-Keane</p>
@@ -722,7 +862,14 @@ sidebar:
 <h2>Book Prize Committee</h2>
 <p>Doug Mao, Chair <br /> Rita Felski<br /> Jordana Mendelson </p>
 <hr />
-<h2>MSA Executive Committee 2005-2006</h2>
+
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2005-2006</summary>
+	<div class="description"> 
+
 <p><span style="font-weight: bold">President: </span>Susan McCabe</p>
 <p><span style="font-weight: bold">First Vice President:</span>
 	Cristanne Miller</p>
@@ -757,7 +904,15 @@ sidebar:
 <p>Mark Wollaeger, Chair<br /> Jessica Burstein<br /> Rebecca
 	Walkowitz</p>
 <hr />
-<h2>MSA Executive Committee 2004-2005</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2004-2005</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President: </span>Mark Wollaeger <br />
 	<br />
 	<span style="font-weight: bold">Vice-President:</span> Susan McCabe<br />
@@ -789,7 +944,15 @@ sidebar:
 <h2>Book Prize Committee</h2>
 <p>Kevin Dettmar, Chair<br /> Melba Cuddy-Keane<br /> Jesse Matz</p>
 <hr />
-<h2>MSA Executive Committee 2003-2004</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2003-2004</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President: </span>Doug Mao<br />
 	<br />
 	<span style="font-weight: bold">Vice-President:</span> Mark Wollaeger<br />
@@ -822,7 +985,15 @@ sidebar:
 	Steve Collis, Mary Chapman <br /> Hosted by Simon Fraser University
 	and the University of British Columbia </p>
 <hr />
-<h2>MSA Executive Committee 2002-2003</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2002-2003</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President: </span>Kevin J. H. Dettmar<br />
 	<br />
 	<span style="font-weight: bold">Vice-President:</span> Doug Mao<br />
@@ -854,7 +1025,15 @@ sidebar:
 	Assistant: Samantha Skinner <br /> Hosted by the University of
 	Birmingham and the University of Sussex, United Kingdom</p>
 <hr />
-<h2>MSA Executive Committee 2001-2002</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 2001-2002</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President: </span>Gail McDonald<br />
 	<br />
 	<span style="font-weight: bold">Vice-President: </span>Kevin J. H. Dettmar<br />
@@ -884,7 +1063,15 @@ sidebar:
 	Conference Assistant: Elizabeth Evans <br /> Hosted by the
 	University of Wisconsin, Madison </p>
 <hr />
-<h2>MSA Executive Committee 1999-2001</h2>
+
+	</div>
+</details>
+
+
+<details closed>
+<summary class="accordion-one">MSA Executive Committee 1999-2001</summary>
+	<div class="description"> 
+	
 <p><span style="font-weight: bold">President:</span> Michael Coyle<br />
 	<br />
 	<span style="font-weight: bold">Vice-President:</span> Gail McDonald<br />
@@ -914,3 +1101,7 @@ sidebar:
 	Cotugno<br /> Sanford Schwartz <br /> Hosted by Pennsylvania State
 	University <br />
 </p>
+
+	</div>
+</details>
+
