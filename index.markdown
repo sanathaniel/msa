@@ -86,7 +86,7 @@ layout: home
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>ModNets</h3>
-				<figcaption  class="archive__item-title">Explore Modernist Networks' repository of digital scholarship.</figcaption>
+				<figcaption  class="archive__item-title">Explore Modernist Networks' digital scholarship.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
@@ -104,7 +104,7 @@ layout: home
 					<img src="assets/The_Migration_Series_Panel_3.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA24: Chicago</h3>
-				<figcaption  class="archive__item-title">Review the program from this year's conference</figcaption>
+				<figcaption  class="archive__item-title">Review the program from last year's conference</figcaption>
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 		
