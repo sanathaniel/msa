@@ -99,7 +99,6 @@ Books must be received by committee members no later than May 1, 2025. Books arr
 <p>Books published in years other than 2023 and 2024 are ineligible. Such submissions will not be returned.</p>
 	
 <strong>Eligibility</strong>
-</p>
 <ul>
 	<li>Nominated books must bear a first copyright date of 2023 or 2024, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.</li>
 	<li>Collaborative and multi-authored or -edited books are eligible.</li>

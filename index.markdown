@@ -35,6 +35,24 @@ layout: home
 			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
 		</div>
 		
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Prize Nominations</h3>
+				<figcaption  class="archive__item-title">Nominate a book for one of this year's MSA Prizes</figcaption>
+			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
+		</div>	
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/MSAlogo.png" min-width="150" min-height="150"/>
+				</div>
+				<h3>Membership</h3>
+				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
+			<a href="/members/login/" class="btn btn--primary">Join</a>
+		</div>	
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
@@ -43,25 +61,7 @@ layout: home
 				<figcaption  class="archive__item-title">Make a nomination for the new MSA Ombudsperson</figcaption>
 			<a href="/about/ombuds" class="btn btn--primary">Nominate</a>
 		</div>
-		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/MSAlogo.png" min-width="150" min-height="150"/>
-				</div>
-				<h3>Membership</h3>
-				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
-			<a href="/members/login/" class="btn btn--primary">Join</a>
-		</div>
-
-		<div class ="feature__item" style="border:20px;">
-				<div class="feature__item-teaser">
-					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Prize Shortlist</h3>
-				<figcaption  class="archive__item-title">Check out this year's excellent book prize shortlist.</figcaption>
-			<a href="prizes/shortlist/" class="btn btn--primary">Celebrate</a>
-		</div>		
-		
+				
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
@@ -86,7 +86,7 @@ layout: home
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>ModNets</h3>
-				<figcaption  class="archive__item-title">Explore Modernist Networks' digital scholarship.</figcaption>
+				<figcaption  class="archive__item-title">A digital federation of modernist studies.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
