@@ -28,8 +28,8 @@ To nominate a book for the MSA Book Prize, please send (or have the publisher se
 </p>
 
 <ul>
-	<li>Dr. Ben Hagen<br /> 118 S. Pine Street<br /> Vermillion, SD<br /> 57069<br />St. Louis, MO 63130-4899<br />USA<br /></li>
-	<li>Dr. Leah Flack<br /> 3543 N Cramer Street<br /> Shorewood, WI<br /> 53211<br />USA<br /></li>
+	<li>Ben Hagen<br /> 118 S. Pine Street<br /> Vermillion, SD<br /> 57069<br />St. Louis, MO 63130-4899<br />USA<br /></li>
+	<li>Leah Flack<br /> 3543 N Cramer Street<br /> Shorewood, WI<br /> 53211<br />USA<br /></li>
 	<li>Margaret Greaves<br /> 29 Brookstone Dr.<br /> Greenfield Center, NY<br /> 12833<br />USA<br /></li>
 </ul>
 
@@ -90,9 +90,9 @@ Books must be received by committee members no later than May 1, 2025. Books arr
 </p>
 <p>To nominate a book for the MSA Edition, Anthology, and Collections Prize, please send (or have the publisher send) a hard copy of the nominated book to each of this year’s the three jurors:</p>
 <ul>
-	<li>Dr. Wim Van Mierlo<br /> 119 Trent Road<br /> Beeston <br />Nottingham<br />NG9 1LP<br />UK<br /></li>
-	<li>Dr. Louise Kane<br /> Flat 3<br />46 The Drive<br /> Northwood<br /> London<br />HA6 1HP<br />UK<br /></li>
-	<li>Dr. Ellen Scheible<br /> 62 Samuel Drive<br />Whitinsville MA <br /> 01588<br /> USA<br /></li>
+	<li>Wim Van Mierlo<br /> 119 Trent Road<br /> Beeston <br />Nottingham<br />NG9 1LP<br />UK<br /></li>
+	<li>Louise Kane<br /> Flat 3<br />46 The Drive<br /> Northwood<br /> London<br />HA6 1HP<br />UK<br /></li>
+	<li>Ellen Scheible<br /> 62 Samuel Drive<br />Whitinsville MA <br /> 01588<br /> USA<br /></li>
 </ul>
 <p>Books must be received by committee members by May 1, 2025. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is strongly encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author or someone else plays no role in the Committee's deliberations. 
 </p>
