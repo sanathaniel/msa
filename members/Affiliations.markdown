@@ -26,7 +26,7 @@ sidebar:
 				approved as an Allied Organization of the Modern
 				Language Association, and became thereby eligible to
 				sponsor two sessions at the annual MLA Convention. <a
-					href="http://msa.press.jhu.edu/conferences/mla.html"
+					href="http://msa.press.jhu.edu/conference/MSA-MLA/"
 					>Click here to learn more about MSA @ MLA</a>.</p>
 			<p>&nbsp;</p>
 		</td>
@@ -73,11 +73,15 @@ sidebar:
 				(BAMS) aims to bring together all those in the UK
 				interested in modernism, and to connect outwards
 				globally."</p>
+				
+			<!--	
 			<p>
 				<a href="msabams.html" target="_blank">Click here to learn about MSA and
 					BAMS members recripocal membership benefits for
 					conferences.</a>
 			</p> 
+			-->
+			
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 		</td>
