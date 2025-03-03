@@ -22,7 +22,7 @@ footer: false
 <p></p>
 
 <div class="subway">
-	<img src="assets/subway_landing.jpeg" width="100%" style="box-shadow: 0 0 8px 8px black;">
+	<img src="assets/subway_landing.jpeg" width="100%" style="border-radius: 20px ; box-shadow: inset 0px 0px 40px 40px black;">
 	<div class="title1">
 		INFRASTRUCTURE 
 	</div>
