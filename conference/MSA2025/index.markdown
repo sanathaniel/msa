@@ -22,7 +22,7 @@ footer: false
 <p></p>
 
 <div class="subway">
-	<img src="assets/subway_landing.jpeg" width="100%" style="box-shadow: 0 0 8px 8px black;">
+	<style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2025/assets/subway_landing.jpeg);"">
 	<div class="title1">
 		INFRASTRUCTURE 
 	</div>
