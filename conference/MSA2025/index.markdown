@@ -22,7 +22,9 @@ footer: false
 <p></p>
 
 <div class="subway">
-	<img src="assets/subway_landing.jpeg" width="100%">
+	<div class="sub-land">
+		<img src="assets/subway_landing.jpeg" width="100%">
+	</div>
 	<div class="title1">
 		INFRASTRUCTURE 
 	</div>
