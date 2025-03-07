@@ -52,7 +52,16 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-				
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Board Nominations</h3>
+				<figcaption  class="archive__item-title">Calling candidates for the MSA board!</figcaption>
+			<a href="/about/board-nominations" class="btn btn--primary">Review</a>
+		</div>
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
@@ -98,7 +107,8 @@ layout: home
 				<figcaption  class="archive__item-title">Review the program from last year's conference</figcaption>
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
-			
+
+<!--			
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
@@ -107,6 +117,7 @@ layout: home
 				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
 			<a href="/prizes/previous-winners" class="btn btn--primary">Review</a>
 		</div>
+-->
 		
 		<!--
 		

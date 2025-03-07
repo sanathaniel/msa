@@ -6,6 +6,53 @@ sidebar:
   nav: about_nav
 ---
 
+<p>
+The MSA Board is seeking nominations for four Executive Board positions by <strong>April 21, 2025:</strong></p>
+
+<p><strong>2nd Vice President.</strong> The Second Vice President assists the other officers as needed and is tasked with keeping minutes of Executive Committee meetings. The most significant job of the Second Vice President is to secure one or more future conference sites.</p>
+
+<p>The 2nd Vice President assumes office on the final day of the MSA conference in 2025, then proceeds to the position of 1st Vice President Oct. 1 in 2026 (since the MSA conference will be in the summer), and then to that of President on the final day of the MSA conference in 2027.</p>
+
+<p><strong>Treasurer.</strong> The Treasurer manages the finances for the organization. Primary responsibilities include maintaining the banking accounts (currently with PNC Bank), reconciling these accounts using financial tracking software (currently using Aplos), coordinating JHUP finances, overseeing the annual research grants, and overseeing conference finances in coordination with each local organizing committee. The Treasurer completes and files the organization’s annual taxes.</p>
+
+<p>The Treasurer assumes office on the final day of the MSA conference in 2025 and serves approximately three years until the last day of the 2028 MSA Conference.</p>
+
+<p><strong>Vice Program Chair.</strong> The Vice Program Chair—with the help of the Program Chair—oversees the planning of the program for the annual conference, coordinating with the local organizing committee. The Vice Program Chair and Program Chair manage the proposal submission platform and the review process for all submitted proposals by assigning proposals for peer review. Both Chairs also assist in organizing individual paper proposals into roundtables and panels; compiles and publishes seminar descriptions; assesses workshop offerings; and reviews and publicizes the program.</p>
+
+<p>The Vice Program Chair assumes office on the final day of the MSA conference in 2025 and will initially serve as Vice Program Chair for one year after which they become Program Chair. The Program Chair serves approximately three years until the last day of the 2028 MSA Conference.</p>
+
+<p><strong>Contingent Faculty Representative.</strong> The Contingent Faculty Representative runs the Contingent Faculty Caucus, represents MSA members employed in contingent positions, organizes programming related to contingency and precarity, helps in the organizing of MSA-sponsored MLA panels, and works with the board on other initiatives related to the structure of the organization.</p>
+
+<p>The Contingent Faculty Rep assumes office on the final day of the MSA conference in 2025 and serves approximately two years until the last day of the 2027 MSA Conference.</p>
+
+<p>Prospective candidates with questions about the duties of any of the positions are encouraged to contact these current officers and/or outgoing Board Members: 2nd Vice President Amanda Golden; Treasurer Matthew Eatough; Program Chair Matthew Levay; Contingent Faculty Rep Kate Schnur.</p>
+
+<p>More information about the MSA Board and its Bylaws can be found here.</p>
+
+<h2>NOMINATION INSTRUCTIONS:</h2>
+
+<p>We encourage both self-nominations and nominations of other MSA members. Any MSA member in good standing is eligible to be nominated and serve as an officer. Please send your nomination of another MSA member or of yourself to Karen Weingarten (kweingarten@qc.cuny.edu), Chair, Membership and Elections.</p>
+
+<p>Nominations should include the following information about the nominee:</p>
+
+<ul>
+	<li>1.    Name</li>
+	<li>2.    Position sought</li>
+	<li>3.    Email and telephone contacts</li>
+	<li>4.    Rank, academic or organizational affiliation</li>
+	<li>5.    A statement of qualifications of no more than 200 words; the statement may additionally be accompanied by a list of up to four publications that demonstrate an interest in Modernist Studies and/or a website address that lists publications and other relevant information</li>
+	<li>6.    Current CV for public circulation (will be posted on MSA website during election)</li>
+</ul>
+
+<h2>NOMINATION DEADLINE: <strong>21 April 2025 (Monday)</strong></h2>
+
+<p>The Membership and Elections Committee Chair, in consultation with the Nominations Committee, will prepare a slate of candidates for election. The Nominations Chair will contact those nominees who were not self-nominated to confirm their interest in serving on the board. Please address any procedural questions to Karen Weingarten (kweingarten@qc.cuny.edu).</p>
+
+<h2>ABOUT THE MSA BOARD:</h2>
+
+<p>Since the inception of the MSA, membership has grown to almost 1000. Most of the organization’s work is done by volunteers on the MSA Board and their committees, with the assistance of an MSA administrator. Therefore, those deciding to run for election should be prepared to make a substantial time commitment to MSA. Board members also work individually and collectively to build the membership base, and to communicate with members and the larger academy concerning the Modernist Studies Association. The MSA Board is responsible for planning and executing the annual meeting in conjunction with representatives of the host institution; we believe that the liveliest and most provocative conferences result from attention to diversity of representation on the fronts of discipline, nation, race, and gender on the Board, among the membership, and on the annual program. Our most recent conferences in Toronto (2019), Portland, OR (2022), and Brooklyn (2023) have further diversified our membership and increased interdisciplinary and multicultural panel offerings. We expect no less of our future conferences.</p>
+
+
 <!-- #BeginEditable "content" -->
 
 <!--
@@ -67,12 +114,13 @@ Applications should include:
 </ul>
 -->
 
+<!--
 <p>There are no current open calls for nominations or open elections for
 	the MSA Board. Check this page again soon for information about
 	upcoming nominations and elections. You may also contact <a href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a> (kweingarten@qc.cuny.edu), Chair, Membership and Elections, with any
 	questions.</p>
 <p>&nbsp;</p>
-
+-->
 	
 <!--
 	<h3>The MSA Board is seeking nominations for four Executive Board positions:</h3>
@@ -335,9 +383,10 @@ less of our future conferences.</p>
 
 <!-- #EndEditable -->
 
-
+<!--
 <h3>ABOUT THE MSA BOARD:</h3>
 
 <p>Since the inception of the MSA over a decade ago, membership has grown to almost 1000. Most of the organization’s work is done by volunteers on the MSA Board and their committees, with the assistance of an MSA administrator. Therefore, those deciding to run for election should be prepared to make a substantial time commitment to MSA. Board members also work individually and collectively to build the membership base, and to communicate with members and the larger academy concerning the Modernist Studies Association. The MSA Board is responsible for planning and executing the annual meeting in conjunction with representatives of the host institution; we believe that the liveliest and most provocative conferences result from attention to diversity of representation on the fronts of discipline, nation, race, and gender on the Board, among the membership, and on the annual program. Our most recent conferences have further diversified our membership and increased interdisciplinary and multicultural panel offerings. We expect no less of our future conferences.</p>
+-->
 
 <!-- #EndEditable -->
