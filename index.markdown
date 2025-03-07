@@ -59,7 +59,7 @@ layout: home
 				</div>
 				<h3>Board Nominations</h3>
 				<figcaption  class="archive__item-title">Calling candidates for the MSA board!</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Review</a>
+			<a href="/about/board-nominations" class="btn btn--primary">Nominations</a>
 		</div>
 		
 		<div class ="feature__item">
