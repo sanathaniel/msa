@@ -25,9 +25,9 @@ The MSA Board is seeking nominations for four Executive Board positions by <stro
 
 <p>The Contingent Faculty Rep assumes office on the final day of the MSA conference in 2025 and serves approximately two years until the last day of the 2027 MSA Conference.</p>
 
-<p>Prospective candidates with questions about the duties of any of the positions are encouraged to contact these current officers and/or outgoing Board Members: 2nd Vice President Amanda Golden; Treasurer Matthew Eatough; Program Chair Matthew Levay; Contingent Faculty Rep Kate Schnur.</p>
+<p>Prospective candidates with questions about the duties of any of the positions are encouraged to contact <a href="/about/governance">these current officers and/or outgoing Board Members</a>: 2nd Vice President Amanda Golden; Treasurer Matthew Eatough; Program Chair Matthew Levay; Contingent Faculty Rep Kate Schnur.</p>
 
-<p>More information about the MSA Board and its Bylaws can be found here.</p>
+<p>More information about the MSA Board and its Bylaws <a href="/about/bylaws">can be found here.</a></p>
 
 <h2>NOMINATION INSTRUCTIONS:</h2>
 
@@ -46,7 +46,7 @@ The MSA Board is seeking nominations for four Executive Board positions by <stro
 
 <h2>NOMINATION DEADLINE: <strong>21 April 2025 (Monday)</strong></h2>
 
-<p>The Membership and Elections Committee Chair, in consultation with the Nominations Committee, will prepare a slate of candidates for election. The Nominations Chair will contact those nominees who were not self-nominated to confirm their interest in serving on the board. Please address any procedural questions to Karen Weingarten (kweingarten@qc.cuny.edu).</p>
+<p>The Membership and Elections Committee Chair, in consultation with the Nominations Committee, will prepare a slate of candidates for election. The Nominations Chair will contact those nominees who were not self-nominated to confirm their interest in serving on the board. Please address any procedural questions to Karen Weingarten <a href="mailto:kweingarten@qc.cuny.edu">(kweingarten@qc.cuny.edu).</a></p>
 
 <h2>ABOUT THE MSA BOARD:</h2>
 
