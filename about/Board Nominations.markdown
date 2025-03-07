@@ -27,7 +27,7 @@ The MSA Board is seeking nominations for four Executive Board positions by <stro
 
 <p>Prospective candidates with questions about the duties of any of the positions are encouraged to contact <a href="/about/governance">these current officers and/or outgoing Board Members</a>: 2nd Vice President Amanda Golden; Treasurer Matthew Eatough; Program Chair Matthew Levay; Contingent Faculty Rep Kate Schnur.</p>
 
-<p>More information about the MSA Board and its Bylaws <a href="/about/bylaws">can be found here.</a></p>
+<p>More information about the MSA Board and its Bylaws <a href="/about/constitution">can be found here.</a></p>
 
 <h2>NOMINATION INSTRUCTIONS:</h2>
 
