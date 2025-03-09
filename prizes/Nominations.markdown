@@ -28,7 +28,7 @@ To nominate a book for the MSA Book Prize, please send (or have the publisher se
 </p>
 
 <ul>
-	<li>Ben Hagen<br /> 118 S. Pine Street<br /> Vermillion, SD<br /> 57069<br />St. Louis, MO 63130-4899<br />USA<br /></li>
+	<li>Ben Hagen<br /> 118 S. Pine Street<br /> Vermillion, SD<br /> 57069<br />USA<br /></li>
 	<li>Leah Flack<br /> 3543 N Cramer Street<br /> Shorewood, WI<br /> 53211<br />USA<br /></li>
 	<li>Margaret Greaves<br /> 29 Brookstone Dr.<br /> Greenfield Center, NY<br /> 12833<br />USA<br /></li>
 </ul>
