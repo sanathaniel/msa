@@ -60,7 +60,7 @@ Books must be received by committee members no later than May 1, 2025. Books arr
 <ul>
 	<li>Kirsty Dootson<br /> School of European Languages, Culture & Society<br /> Foster Court, Malet Place
 <br /> University College London <br />London<br />WC1E 7GJ<br /></li>
-	<li>Pardis Dabashi<br /> 1065 Locust Street<br />Reno, NV<br /> 89502<br /></li>
+	<li>Pardis Dabashi<br />3208 Clifford Street,<br /> Philadelphia, PA<br />19121<br /></li>
 	<li>Michael Allan<br /> 1227 W 10th Ave<br />Eugene, OR<br /> 97402<br /></li>
 </ul>
 
