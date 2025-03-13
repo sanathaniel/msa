@@ -40,7 +40,7 @@ layout: home
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Nominate a new publication for one of this year's MSA Prizes</figcaption>
+				<figcaption  class="archive__item-title">Nominate a new publication for one of this year's MSA Prizes.</figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
 		</div>	
 

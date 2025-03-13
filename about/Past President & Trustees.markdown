@@ -36,7 +36,7 @@ sidebar:
 <h1>Archive of MSA Executive Committees</h1>
 <hr />
 <br />
-<h2>MSA Executive Committee 2022-2023</h2>
+<h2>MSA Executive Committee 2023-2024</h2>
 <p><b>President</b>: Louise Hornby, UCLA</p>
 <p><b>First Vice President</b>: Octavio González, Wellesley College</p>
 <p><b>Second Vice President</b>: Melissa Bradshaw, Loyala University Chicago</p>
@@ -134,9 +134,9 @@ sidebar:
 	University of North Florida</p>
 <p><b>Chair, International Relations</b>: Marius Hentea, University of
 	Gothenburg</p>
-<p><b>Chair, Membership &amp; Elections</b>: Erin Kappeler,, Tulane
+<p><b>Chair, Membership &amp; Elections</b>: Erin Kappeler, Tulane
 	University<br />
-<p><b>Chair, Program</b>: Elizabeth Evans, ??? </p>
+<p><b>Chair, Program</b>: Elizabeth Evans</p>
 <p><b>Chair, Finance</b> (Treasurer): Lisa Mendelman, Menlo
 	College<br />
 <p><b>Chair, Technology and Infrastructure</b>: Nikolaus Wasmoen,
