@@ -16,7 +16,7 @@ sidebar:
   style="background-color: #000; color: 1e6cb6; background-image: url(/conference/MSA2025/assets/subway_2022.jpeg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-shadow: 4px 4px 4px black;">       
-		  <a href="/conference/MSA2025/CFP/">CFP for MSA '25: Infrastructure<br>Boston, October 9-12, 2025</a>      
+		  <a href="/conference/MSA2025/CFP/">CFP for MSA '25:<br>Infrastructure</a>      
 	  </h1> 
 	</div>
 </div>
