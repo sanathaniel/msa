@@ -15,18 +15,18 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE I - INTRODUCTION</summary>	
 	<div class="description">
 
-<strong>Definition of Bylaws</strong>
+<strong>Definition of Bylaws</strong><br />
 
 1.01 These Bylaws constitute the code of rules adopted by The
 	Modernist Studies Association for the regulation and management of
-	its affairs.
+	its affairs.<br />
 
-<strong>Purposes and Powers</strong>
+<strong>Purposes and Powers</strong><br />
 
 1.02 This Corporation will have the purposes or powers as stated in
 	its Articles of Incorporation, and whatever powers are or may be
 	granted by the Nonprofit Corporation Law of 1988 of the Commonwealth
-	of Pennsylvania or any successor legislation.
+	of Pennsylvania or any successor legislation.<br />
  The primary purposes of this Corporation are: (1) to hold annual
 	meetings for the purpose of advancing scholarship and the exchange
 	of ideas pertinent to the study of modernism and modernity; (2) to
@@ -42,8 +42,9 @@ Approved 2013; amended by vote of the membership 2021<br />
 	</div>
 </details>
 
-
-<h2>ARTICLE II - OFFICES AND AGENCY</h2>
+<details closed>
+<summary class="accordion-one">ARTICLE II - OFFICES AND AGENCY</summary>	
+	<div class="description">
 
 <strong>Principal and Branch Offices</strong>
 
@@ -51,7 +52,13 @@ Approved 2013; amended by vote of the membership 2021<br />
 	without the Commonwealth of Pennsylvania as its business
 	requires.<br />
 
-<h2>ARTICLE III – MEMBERSHIP</h2>
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">ARTICLE III – MEMBERSHIP</summary>	
+	<div class="description">
+
 
 <strong>Definition of Membership</strong>
 
@@ -129,7 +136,12 @@ Any person interested in the purposes of the MSA may be admitted to
 (4) For cause, inconsistent with membership, after notice and hearing
 	before the Board.<br />
 
-<h2>ARTICLE IV – DIRECTORS/EXECUTIVE COMMITTEE</h2>
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">ARTICLE IV – DIRECTORS/EXECUTIVE COMMITTEE</summary>	
+	<div class="description">
 
 <strong>Definition of Board of Directors</strong>
 
@@ -413,7 +425,13 @@ The Technology and Infrastructure Chair shall be selected in the
 	this slate by majority vote of the nine elected Executive Committee
 	members plus the present Technology and Infrastructure Chair, having
 	one vote each.<br />
-<h2>ARTICLE V – INFORMAL ACTION</h2>
+	
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">ARTICLE V – INFORMAL ACTION</summary>	
+	<div class="description">
 
 <strong>Waiver of Notice</strong>
 
@@ -438,7 +456,12 @@ The Technology and Infrastructure Chair shall be selected in the
 	or all Directors in office, and filed with the Secretary of the
 	Corporation.<br />
 
-<h2>ARTICLE VI – DISSOLUTION</h2>
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">ARTICLE VI – DISSOLUTION</summary>	
+	<div class="description">
 
 <strong>Distribution Upon Dissolution</strong>
 
@@ -450,7 +473,12 @@ The Technology and Infrastructure Chair shall be selected in the
 	Corporation shall receive any distribution from the Corporation upon
 	dissolution.<br />
 
-<h2>ARTICLE VII – OPERATIONS</h2>
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">ARTICLE VII – OPERATIONS</summary>	
+	<div class="description">
 
 <strong>Fiscal Year</strong>
 
@@ -509,7 +537,13 @@ The Technology and Infrastructure Chair shall be selected in the
 	Members, Officers, or Directors for services rendered.<br />
 
 &nbsp;
-<h2>ARTICLE VIII – AMENDMENT</h2>
+
+	</div>
+</details>
+
+<details closed>
+<summary class="accordion-one">ARTICLE VIII – AMENDMENT</summary>	
+	<div class="description">
 
 <strong>Modification of Bylaws</strong>
 
