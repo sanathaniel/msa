@@ -17,7 +17,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 
 <strong>Definition of Bylaws</strong><br />
 
-</p>1.01 These Bylaws constitute the code of rules adopted by The
+<p>1.01 These Bylaws constitute the code of rules adopted by The
 	Modernist Studies Association for the regulation and management of
 	its affairs.</p>
 
@@ -59,63 +59,62 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE III – MEMBERSHIP</summary>	
 	<div class="description">
 
+<strong>3.01 Definition of Membership</strong><br />
 
-<strong>Definition of Membership</strong><br />
-
-<p>3.01 The Members of this Corporation are those persons having
+<p>The Members of this Corporation are those persons having
 	membership rights in accordance with the provisions of these
 	Bylaws.</p>
 
-<strong>Class of Members</strong><br />
+<strong>3.02 Class of Members</strong><br />
 
-<p>3.02 This Corporation will have one class of Members that is
+<p>This Corporation will have one class of Members that is
 	designated as voting Members.</p>
 
-<strong>Qualifications of Members</strong><br />
+<strong>3.03 Qualifications of Members</strong><br />
 
-<p>3.03 The qualifications and rights of the Members of the membership
+<p>The qualifications and rights of the Members of the membership
 	class of this corporation are as follows:</p>
-<p>Any person interested in the purposes of the MSA may be admitted to
+<li>Any person interested in the purposes of the MSA may be admitted to
 	membership by payment of annual dues as established by the Executive
 	Committee and may be continued as a Member in good standing by such
-	payment.</p>
+	payment.</li>
 
-<strong>Members’ Dues</strong><br />
+<strong>3.04 Members’ Dues</strong><br />
 
-<p>3.04 The annual dues payable to the Corporation by Members will be in
+<p>The annual dues payable to the Corporation by Members will be in
 	the amount determined from time to time by resolution of the Board
 	of Directors.</p>
 
-<strong>Place of Members’ Meetings</strong><br />
+<strong>3.05 Place of Members’ Meetings</strong><br />
 
-<p>3.05 Meetings of Members will be held at such locations as designated
+<p>Meetings of Members will be held at such locations as designated
 	by the Board of Directors within or without the Commonwealth of
 	Pennsylvania.</p>
 
-<strong>Annual Members’ Meetings</strong><br />
+<strong>3.06 Annual Members’ Meetings</strong><br />
 
-<p>3.06 All Members shall be invited to attend the Business Meeting of
+<p>All Members shall be invited to attend the Business Meeting of
 	the annual conference.</p>
 
-<strong>Voting Rights of Members</strong><br />
+<strong>3.07 Voting Rights of Members</strong><br />
 
-<p>3.07 Each Member will be entitled to one (1) vote on each matter
+<p>Each Member will be entitled to one (1) vote on each matter
 	submitted to a vote of Members. These votes will typically be
 	tendered electronically, thereby obviating the need for proxy
 	voting.</p>
 
-<strong>Members’ Proxy Voting</strong><br />
+<strong>3.08 Members’ Proxy Voting</strong><br />
 
-<p>3.08 When matters are submitted to a vote of Members at the Business
+<p>When matters are submitted to a vote of Members at the Business
 	Meeting, a Member may vote either in person or by proxy executed in
 	writing by the Member or by his duly authorized attorney-in-fact. No
 	proxy will be recognized as valid after eleven (11) months from the
 	date of its execution unless expressly provided otherwise in the
 	proxy.</p>
 
-<strong>Quorum of Members</strong><br />
+<strong>3.09 Quorum of Members</strong><br />
 
-<p>3.09 Except as may be provided elsewhere (see, for example, 4.19, on
+<p>Except as may be provided elsewhere (see, for example, 4.19, on
 	the election of the Second Vice President and Subcommittee Chairs),
 	the casting of votes, in person or online, by twenty percent (20%)
 	of the eligible membership shall constitute a quorum. Provided a
@@ -123,11 +122,11 @@ Approved 2013; amended by vote of the membership 2021<br />
 	ballots is necessary for the adoption of any matter voted on by the
 	Members, unless a greater proportion is required by the Nonprofit
 	Corporation Law of 1988, as amended, the Articles of Incorporation
-	of this Corporation, or any provision of these Bylaws.<br />
+	of this Corporation, or any provision of these Bylaws.</p>
 	
-<strong>Termination of Membership</strong><br />
+<strong>3.10 Termination of Membership</strong><br />
 
-<p>3.10 Membership will terminate in this Corporation on any of the
+<p>Membership will terminate in this Corporation on any of the
 	following events, and for no other reason:</p>
 	<ol>
 		<li>Receipt by the Board of Directors of the written resignation of
@@ -147,28 +146,31 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE IV – DIRECTORS/EXECUTIVE COMMITTEE</summary>	
 	<div class="description">
 
-<strong>Definition of Board of Directors</strong><br />
+<strong>4.01 Definition of Board of Directors</strong><br />
 
-<p>4.01 The Board of Directors shall be the Executive Committee.</p>
+<p>The Board of Directors shall be the Executive Committee.</p>
 
-<strong>Qualifications of Directors</strong><br />
+<strong>4.02 Qualifications of Directors</strong><br />
 
-<p>4.02 The qualification for becoming and remaining a member of the
+<p>The qualification for becoming and remaining a member of the
 	Executive Committee of this Corporation are as follows:
  Executive Committee members must be Members of this Corporation.</p>
 
-<strong>Number of Directors</strong><br />
+<strong>4.03 Number of Directors</strong><br />
 
-<p>4.03 The number of Executive Committee members of this Corporation
+<p>The number of Executive Committee members of this Corporation
 	will be fourteen (13).</p>
-<p>4.04 The Executive Committee shall be comprised of the President, the
+	
+<strong>4.04 Executive Committee Composition</strong><br />	
+
+<p>The Executive Committee shall be comprised of the President, the
 	First Vice President, the Second Vice President, eight voting
 	Trustees, and two consulting Trustees.</p>
 
-<strong>Terms of Executive Committee Members</strong><br />
+<strong>4.05 Terms of Executive Committee Members</strong><br />
 
 <strong>
-		<em>4.05 Term of Office:</em>
+		<em>Term of Office:</em>
 	</strong>
 
  <p>The President shall serve a term of one year. The Past President
@@ -192,51 +194,52 @@ Approved 2013; amended by vote of the membership 2021<br />
 	year the final day of the conference precedes August 1, term of
 	office shall begin on October 1.</p>
 
-<strong>Vacancies on the Board</strong><br />
+<strong>4.06 Vacancies on the Board</strong><br />
 
-<p>4.06 Any vacancy occurring on the Executive Committee, and any
+<p>Any vacancy occurring on the Executive Committee, and any
 	position to be filled by reason of an increase in the number of
 	Executive Committee members, will be filled by vote of a majority of
 	the remaining Executive Committee. The new Executive Committee
 	member appointed to fill the vacancy will serve for the unexpired
 	term of the predecessor in office.</p>
 
-<strong>Location of Executive Committee Meetings</strong><br />
+<strong>4.07 Location of Executive Committee Meetings</strong><br />
 
-<p>4.07 Meetings of the Executive Committee, regular or special, will be
+<p>Meetings of the Executive Committee, regular or special, will be
 	held at such place or places as the Executive Committee designates
 	by resolution duly adopted.</p>
 
-<strong>Regular Executive Committee Meetings</strong><br />
+<strong>4.08 Regular Executive Committee Meetings</strong><br />
 
-<p>4.08 Regular meetings of the Executive Committee will be held
+<p>Regular meetings of the Executive Committee will be held
 	annually or otherwise as designated by the Executive Committee.</p>
 
-<strong>Notice of Special Meetings</strong><br />
+<strong>4.09 Notice of Special Meetings</strong><br />
 
-<p>4.09 Notice stating the place, day, and hours of any special meeting
+<p>Notice stating the place, day, and hours of any special meeting
 	of the Executive Committee will be delivered to each Executive
 	Committee member by appropriate means of communication and with
 	reasonable notice. The notice need not state the business to be
 	transacted at or the purpose of the meeting.</p>
 
-<strong>Call of Special Meetings</strong><br />
+<strong>4.10 Call of Special Meetings</strong><br />
 
-<p>4.10 A special meeting of the Executive Committee may be called by
+<p>A special meeting of the Executive Committee may be called by
 	either:</p>
 	<ol>
 		<li>The President.</li>
 		<li>Five (5) or more Executive Committee members.</li>
 	</ol>
 
-<strong>Waiver of Notice</strong><br />
+<strong>4.11 Waiver of Notice</strong><br />
 
-<p>4.11 Attendance of an Executive Committee member at any meeting of
+<p>Attendance of an Executive Committee member at any meeting of
 	the Executive Committee will constitute a waiver of notice of that
 	meeting, except when the Executive Committee member attends a
 	meeting for the express purpose of objecting, at the beginning of
 	the meeting, to the transaction of any business because the meeting
-	is not lawfully called or convened.</p> Executive Committee
+	is not lawfully called or convened.</p>
+
 <strong>
 		<em>4.12 Powers:</em>
 	</strong>
@@ -245,6 +248,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	annual meeting of the MSA and shall report on its actions at the
 	Business Meeting of the annual conference, where its activities are
 	subject to review by the membership.</p>
+	
 <strong>
 		<em>4.13 Conduct of Business:</em>
 	</strong><br />
@@ -258,6 +262,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	Incorporation of this Corporation, or any provisions of these
 	Bylaws. A tie vote shall be understood as a failure to pass the
 	proposed measure.</p>
+	
 <strong>
 		<em>4.14 Officers:</em>
 	</strong><br />
@@ -267,6 +272,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	President’s one-year term, the First Vice President shall become
 	President and the Second Vice President shall become First Vice
 	President. The President shall become Past President.</p>
+	
 <strong>
 		<em>4.15 Duties of Officers:</em>
 	</strong><br />
@@ -281,6 +287,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	President. The Second Vice President shall assist the other officers
 	as they require and shall keep minutes of Executive Committee
 	meetings.</p>
+	
 <strong>
 		<em>4.16 Trustees:</em>
 	</strong><br />
@@ -319,22 +326,26 @@ Approved 2013; amended by vote of the membership 2021<br />
 	Executive Committee and may appoint Subcommittee members in the
 	numbers and with the duties determined by the Executive Committee.
 	Basic duties shall include the following: </p>
-<p>Programs – Planning of program for annual meeting </p>
-<p>Finance – Collecting dues; maintaining complete and accurate
-	financial records; overseeing expenditure of MSA funds. The chair of
-	the Subcommittee shall act as official Treasurer of the MSA </p>
-<p>Membership and Elections –Recruiting a diverse membership;
-	coordinating publicity and educational materials; nominating
-	Officers and Trustees and conducting elections </p>
-<p>International Relations – Planning conferences to be held outside the
-	USA and recruiting members from outside the USA </p>
-<p>Interdisciplinary Approaches – Fostering interactions among
-	disciplines relevant to the study of modernism. When the
-	subcommittee has members in addition to the Chair, at least one
-	member shall be from a discipline other than English. </p>
-<p>Graduate Student Representative – Working to maintain, expand and
-	support the MSA’s student community through networking, professional
-	development, and liaising with other organizations. </p>
+
+<ul>
+	<li>Programs – Planning of program for annual meeting </li>
+	<li>Finance – Collecting dues; maintaining complete and accurate
+		financial records; overseeing expenditure of MSA funds. The chair of
+		the Subcommittee shall act as official Treasurer of the MSA </li>
+	<li>Membership and Elections –Recruiting a diverse membership;
+		coordinating publicity and educational materials; nominating
+		Officers and Trustees and conducting elections </li>
+	<li>International Relations – Planning conferences to be held outside the
+		USA and recruiting members from outside the USA </li>
+	<li>Interdisciplinary Approaches – Fostering interactions among
+		disciplines relevant to the study of modernism. When the
+		subcommittee has members in addition to the Chair, at least one
+		member shall be from a discipline other than English. </li>
+	<li>Graduate Student Representative – Working to maintain, expand and
+		support the MSA’s student community through networking, professional
+		development, and liaising with other organizations. </li>
+</ul>
+		
 <strong>
 		<em>4.18 Compensation:</em>
 	</strong><br />
@@ -343,6 +354,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	they may render to the MSA. However, Officers and Trustees may be
 	reimbursed for expenses incurred in the performance of their
 	duties.</p>
+	
 <strong>
 		<em>4.19 Nomination and Election of Officers and Voting
 			Trustees:</em>
@@ -381,6 +393,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 <p>If any Officer or Trustee resigns or is otherwise unable to complete
 	his or her term, the vacancy shall be filled by a majority vote of
 	the remaining members of the Executive Committee.</p>
+	
 <strong>
 		<em>4.20 Election of Consulting Trustees:</em>
 	</strong><br />
@@ -429,9 +442,9 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE V – INFORMAL ACTION</summary>	
 	<div class="description">
 
-<strong>Waiver of Notice</strong><br />
+<strong>5.01 Waiver of Notice</strong><br />
 
-<p>5.01 Whenever any notice is required to be given under the provisions
+<p>Whenever any notice is required to be given under the provisions
 	of the Nonprofit Corporation Law of 1988, as amended, the Articles
 	of Incorporation of this Corporation, or these Bylaws, a waiver of
 	the notice in writing signed by the person or persons entitled to
@@ -440,9 +453,9 @@ Approved 2013; amended by vote of the membership 2021<br />
 	in the case of a special meeting of Members, specify the general
 	nature of the business to be transacted.</p>
 
-<strong>Action by Consent</strong><br />
+<strong>5.02 Action by Consent</strong><br />
 
-<p>5.02 Any action required by law or under the Articles of
+<p>Any action required by law or under the Articles of
 	Incorporation of this Corporation or these Bylaws, or any action
 	that otherwise may be taken at a meeting of either the Members or
 	the Board of Directors, may be taken without a meeting, or without
@@ -455,13 +468,13 @@ Approved 2013; amended by vote of the membership 2021<br />
 	</div>
 </details>
 
-<details open>
+<details closed>
 <summary class="accordion-one">ARTICLE VI – DISSOLUTION</summary>	
 	<div class="description">
 
-<strong>Distribution Upon Dissolution</strong><br />
+<strong>6.01 Distribution Upon Dissolution</strong><br />
 
-<p>6.01 Upon termination or dissolution of the Corporation, the
+<p>Upon termination or dissolution of the Corporation, the
 	operations of the Corporation shall be wound up, all outstanding
 	debts and liabilities paid, and all accounts closed. Any assets
 	remaining at the time of dissolution shall be transferred to a
@@ -476,19 +489,19 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE VII – OPERATIONS</summary>	
 	<div class="description">
 
-<strong>Fiscal Year</strong><br />
+<strong>7.01 Fiscal Year</strong><br />
 
-<p>7.01 The fiscal year of this Corporation will be the calendar
+<p>The fiscal year of this Corporation will be the calendar
 	year.</p>
 
-<strong>MSA Administrator</strong><br />
+<strong>7.02 MSA Administrator</strong><br />
 
-<p>7.02 An MSA Administrator may be appointed to handle bank accounts
+<p>An MSA Administrator may be appointed to handle bank accounts
 	and membership rolls, acting as deputy to the Treasurer.</p>
 
-<strong>Execution of Documents</strong><br />
+<strong>7.03 Execution of Documents</strong><br />
 
-<p>7.03 Except as otherwise provided by law, checks, drafts, promissory
+<p>Except as otherwise provided by law, checks, drafts, promissory
 	notes, orders for the payment of money, and other evidences of
 	indebtedness of this Corporation may be signed only by the
 	President, the Treasurer, or the MSA Administrator. Contracts,
@@ -498,9 +511,9 @@ Approved 2013; amended by vote of the membership 2021<br />
 	Board of Directors certified by the Treasurer authorizing their
 	execution.</p>
 
-<strong>Books and Records</strong><br />
+<strong>7.04 Books and Records</strong><br />
 
-<p>7.04 This Corporation will keep correct and complete books and
+<p>This Corporation will keep correct and complete books and
 	records of account and will also keep minutes of the proceedings of
 	its Members and Executive Committees. The Corporation will also keep
 	at its principal place of business a membership register giving the
@@ -509,24 +522,24 @@ Approved 2013; amended by vote of the membership 2021<br />
 	amendments to date, certified by the Treasurer of the
 	Corporation.</p>
 
-<strong>Records of Account</strong><br />
+<strong>7.05 Records of Account</strong><br />
 
-<p>7.05 The Treasurer, with the assistance of the MSA Administrator,
+<p>The Treasurer, with the assistance of the MSA Administrator,
 	shall maintain complete and accurate records of account, be the
 	custodian of all financial records, provide copies to the President
 	as necessary and, upon request, report to the President and/or the
 	Executive Committee on the financial condition of the MSA.</p>
 
-<strong>Inspection of Books and Records</strong><br />
+<strong>7.06 Inspection of Books and Records</strong><br />
 
-<p>7.06 All books and records of this Corporation may be inspected by
+<p>All books and records of this Corporation may be inspected by
 	any Member, or the Member’s agent or attorney, for any proper
 	purpose at any reasonable time on written demand under oath stating
 	the purpose of the inspection.</p>
 
-<strong>Nonprofit Operations</strong><br />
+<strong>7.07 Nonprofit Operations</strong><br />
 
-<p>7.07 This Corporation will not have or issue shares of stock. No
+<p>This Corporation will not have or issue shares of stock. No
 	dividend will be paid, and no part of the income of this Corporation
 	will be distributed to its Members, Directors, or Officers. However,
 	the Corporation may pay compensation in a reasonable amount to
@@ -541,16 +554,16 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE VIII – AMENDMENT</summary>	
 	<div class="description">
 
-<strong>Modification of Bylaws</strong><br />
+<strong>8.01 Modification of Bylaws</strong><br />
 
-<p>8.01 Amendments to these Bylaws, or dissolution of the MSA, may be
+<p>Amendments to these Bylaws, or dissolution of the MSA, may be
 	proposed by the Executive Committee or by written petition signed by
 	at least twenty (20) Members in good standing. Such proposed
 	amendments, or proposed dissolution of the MSA, shall be submitted
 	to a ballot of the membership and shall become effective upon
 	approval of two-thirds (2/3) of those voting.</p>
 
-<strong>Adoption of Bylaws</strong><br />
+<strong>8.02 Adoption of Bylaws</strong><br />
 
-<p>8.02 Adopted by the incorporators by vote during the month of April,
+<p>Adopted by the incorporators by vote during the month of April,
 	2013.</p>
