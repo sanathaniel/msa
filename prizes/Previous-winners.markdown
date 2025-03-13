@@ -9,11 +9,6 @@ sidebar:
 <!-- #BeginEditable "content" -->
 
 <!-- 2024 Book Prize-->
-
-<details closed>
-<summary class="accordion-one">2023 Prizes</summary>	
-	<div class="description">
-
 <h1>MSA Book Prize (for a book published in 2022)</h1>
 
 <!-- FIRST NOMINEE -->
@@ -49,11 +44,6 @@ sidebar:
 	the naivété of ideological and social determinism in political
 	readings of de- and post-colonial writers now.</p>
 <!-- SECOND NOMINEE -->
-<p>
-	<img
-		src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226816678.jpg/jcr:content/9780226816678.jpg"
-		alt="" width="100" height="150" align="right" />
-</p> 
 <p>
 	<strong>HONORABLE MENTION: Michael Lucey, <em><a
 				href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo130500168.html"
@@ -106,7 +96,11 @@ sidebar:
 	remembering, challenging our continuing attachment to certain
 	posthumous memories at the expense of others. </p>
 <!-- THIRD NOMINEE -->
-
+<p>
+	<img
+		src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226816678.jpg/jcr:content/9780226816678.jpg"
+		alt="" width="100" height="150" align="right" />
+<p> 
 <!-- FOURTH NOMINEE -->
 <p>
 	<img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg"
@@ -570,12 +564,11 @@ sidebar:
 	Chair<br />Amy Tang (University of Fraser Valley)<br />Joan Lubin
 	(Durham University) </p>
 
-	</div>
-</details>	
+
 	
-<details closed>
-<summary class="accordion-one">2022 Prizes</summary>	
-	<div class="description">	
+	
+	
+
 
 <!-- 2022 Book Prize -->
 <h1>MSA Book Prize (for a book published in 2021)</h1>
@@ -1252,12 +1245,7 @@ sidebar:
 		(Florida State University)<br /> Amanda Golden (New York Tech)</p>
 	<hr />
 	
-	</div>
-</details>	
 	
-<details closed>
-<summary class="accordion-one">2021 Prizes</summary>	
-	<div class="description">		
 
 
 <!-- 2021 Book Prize -->
@@ -1655,14 +1643,6 @@ sidebar:
 	(Johns Hopkins University)<br /> Nicole Rizzuto (Georgetown
 	University)</p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2020 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2020 BOOK PRIZE -->
 <!-- Book Prize -->
 <h1>MSA Book Prize (for a book published in 2019)</h1>
@@ -2103,15 +2083,6 @@ sidebar:
 	<br /> Loren Glass, University of Iowa (chair)<br>
 </p>
 <hr />
-
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2019 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2019 BOOK PRIZE -->
 <h1>MSA Book Prize (for a book published in 2018)</h1>
 <!-- FIRST NOMINEE -->
@@ -2450,15 +2421,6 @@ sidebar:
 	<br /> Brian Glavey, chair (University of South Carolina)<br>
 </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2018 Prizes</summary>	
-	<div class="description">	
-
-
 <!-- 2018 BOOK PRIZE -->
 <!--WINNER-->
 <h1>MSA Book Prize Winner (for a book published in 2017)</h1>
@@ -3050,14 +3012,6 @@ sidebar:
 	University)<br>
 </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2017 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2017  BOOK WINNERS -->
 <h2>MSA Book Prize (for a book published in 2016)</h2>
 <!-- WINNER -->
@@ -3191,14 +3145,6 @@ sidebar:
 	Roger Rothman, Bucknell University<br>
 </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2016 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2016 WINNERS -->
 <h2>2016 MSA Book Prize</h2>
 <p>The Modernist Studies Association awards its 2016 Book Prize to
@@ -3495,14 +3441,6 @@ sidebar:
 	California–Berkeley<br>
 </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2015 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2015 WINNERS -->
 <h2>2015 MSA Book Prize</h2>
 <p>The Modernist Studies Association awards its 2015 Book Prize to
@@ -3860,14 +3798,6 @@ sidebar:
 	University<br>
 </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2014 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2014 WINNERS -->
 <h2>2014 MSA Book Prize</h2>
 <p>The Modernist Studies Association awards its 2014 Book Prize to
@@ -3966,14 +3896,6 @@ sidebar:
 	<br /> Susan McCabe, USC (chair)<br /> Cassandra Laity, Drew
 	University<br /> Marie Smart, Baylor University </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2013 Prizes</summary>	
-	<div class="description">	
-
 <!-- 2013 WINNERS -->
 <h2>2013 MSA Book Prize</h2>
 <p><img src="/prize/images/collectingMod.jpg" alt="Collecting Modernism"
@@ -4033,14 +3955,6 @@ sidebar:
 	State University (Chair) <br /> Thadious Davis, University of
 	Pennsylvania <br /> Paige Reynolds, College of the Holy Cross </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2012 Prizes</summary>	
-	<div class="description">	
-
 <h2>2012 MSA Book Prize</h2>
 <p>The Modernist Studies Association awards its 2012 Book Prize to
 		<strong>Christopher GoGwilt</strong>'s <em><a
@@ -4149,14 +4063,6 @@ sidebar:
 	University, Chicago (Chair)<br /> Holly Laird, The University of
 	Tulsa<br /> Stephen Ross, The University of Victoria </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2011 Prizes</summary>	
-	<div class="description">	
-
 <h2>2011 MSA Book Prize</h2>
 <p>The Modernist Studies Association awards its 2011 Book Prize to
 		<strong>Michael Rubenstein's</strong>, <strong><a
@@ -4234,14 +4140,6 @@ sidebar:
 	University (Chair)<br /> Enda Duffy, University of California, Santa
 	Barbara<br /> Justus Nieland, Michigan State University</p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2010 Prizes</summary>	
-	<div class="description">	
-	
 <h2>2010 MSA Book Prize</h2>
 <p>The Modernist Studies Association co-awards its 2010 Book Prize to
 		<strong>Enda Duffy's<em> The Speed Handbook: Velocity, Pleasure,
@@ -4308,14 +4206,6 @@ sidebar:
 	Blair, University of Michigan<br /> Debra Rae Cohen, University of
 	South Carolina </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2009 Prizes</summary>	
-	<div class="description">	
-
 <h2>2009 MSA Book Prize</h2>
 <img src="/images/2009_nocturne.jpg" alt="New York Nocturne" width="100"
 	height="146" class="right" />
@@ -4356,14 +4246,6 @@ sidebar:
 	Columbia<br /> Deborah Longworth, University of Birmingham</p>
 <hr />
 <h2></h2>
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2008 Prizes</summary>	
-	<div class="description">	
-
 <h2>2008 MSA Book Prize</h2>
 <img src="images/clip_image002.jpg" alt="cover of book" width="100"
 	height="166" class="right" />
@@ -4399,14 +4281,6 @@ sidebar:
 <p><strong>MSA Prize Committee:</strong><br /> Gail McDonald
 	(Chair)<br /> Laura Marcus<br /> Steven Yao </p>
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2007 Prizes</summary>	
-	<div class="description">	
-
 <h2>2007 MSA Book Prize</h2>
 <p>The winner of the 2007 MSA Book Prize is, among other things, the
 	volume that out of our fifty entrants was the most innovative in its
@@ -4447,14 +4321,6 @@ sidebar:
 <strong>MSA Prize Committee:</strong><br /> Doug Mao (Chair) <br /> Rita
 Felski<br /> Jordana Mendelson <br />
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2006 Prizes</summary>	
-	<div class="description">	
-
 <h2>2006 MSA Book Prize</h2>
 <p>The Book Prize Committee is delighted to speak publicly of the
 	virtues of Victoria Rosner's <em>Modernism and the Architecture of
@@ -4545,14 +4411,6 @@ Felski<br /> Jordana Mendelson <br />
 <strong>MSA Prize Committee:</strong><br /> Mark Wollaeger (Chair)<br />
 Jessica Burstein<br /> Rebecca Walkowitz <br />
 <hr />
-
-	</div>
-</details>	
-	
-<details closed>
-<summary class="accordion-one">2005 Prizes</summary>	
-	<div class="description">	
-
 <h2>2005 MSA Book Prize</h2>
 <p>At the <a href="http://www.luc.edu/msachicago/">2005 MSA Conference
 		in Chicago</a>, the first annual MSA Book Prize was awarded to
@@ -4586,10 +4444,5 @@ Jessica Burstein<br /> Rebecca Walkowitz <br />
 	the manifold optical lenses of Leja&rsquo;s own kaleidoscopic
 	approach.</p>
 <strong>MSA Prize Committee</strong>:<br /> Kevin Dettmar (Chair)<br />
-Melba Cuddy-Keane<br /> Jesse Matz 
-
-	</div>
-</details>	
-
-<!-- #EndEditable -->
+Melba Cuddy-Keane<br /> Jesse Matz <!-- #EndEditable -->
 </div>
