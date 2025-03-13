@@ -74,10 +74,12 @@ Approved 2013; amended by vote of the membership 2021<br />
 
 <p>The qualifications and rights of the Members of the membership
 	class of this corporation are as follows:</p>
-<li>Any person interested in the purposes of the MSA may be admitted to
-	membership by payment of annual dues as established by the Executive
-	Committee and may be continued as a Member in good standing by such
-	payment.</li>
+	<ul>
+		<li>Any person interested in the purposes of the MSA may be admitted to
+		membership by payment of annual dues as established by the Executive
+		Committee and may be continued as a Member in good standing by such
+		payment.</li>
+	</ul>
 
 <strong>3.04 Members’ Dues</strong><br />
 
@@ -168,10 +170,6 @@ Approved 2013; amended by vote of the membership 2021<br />
 	Trustees, and two consulting Trustees.</p>
 
 <strong>4.05 Terms of Executive Committee Members</strong><br />
-
-<strong>
-		<em>Term of Office:</em>
-	</strong>
 
  <p>The President shall serve a term of one year. The Past President
 	shall serve as a Voting Trustee for a term of one year.</p>
@@ -468,7 +466,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	</div>
 </details>
 
-<details closed>
+<details open>
 <summary class="accordion-one">ARTICLE VI – DISSOLUTION</summary>	
 	<div class="description">
 
