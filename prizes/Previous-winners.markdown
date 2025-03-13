@@ -44,6 +44,13 @@ sidebar:
 	the naivété of ideological and social determinism in political
 	readings of de- and post-colonial writers now.</p>
 <!-- SECOND NOMINEE -->
+
+<p>
+	<img
+		src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226816678.jpg/jcr:content/9780226816678.jpg"
+		alt="" width="100" height="150" align="right" />
+<p> 
+
 <p>
 	<strong>HONORABLE MENTION: Michael Lucey, <em><a
 				href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo130500168.html"
@@ -96,11 +103,7 @@ sidebar:
 	remembering, challenging our continuing attachment to certain
 	posthumous memories at the expense of others. </p>
 <!-- THIRD NOMINEE -->
-<p>
-	<img
-		src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226816678.jpg/jcr:content/9780226816678.jpg"
-		alt="" width="100" height="150" align="right" />
-<p> 
+
 <!-- FOURTH NOMINEE -->
 <p>
 	<img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg"
