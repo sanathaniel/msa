@@ -10,7 +10,10 @@ sidebar:
 (A NONPROFIT CORPORATION)
 Approved 2013; amended by vote of the membership 2021<br />
 
-ARTICLE I - INTRODUCTION
+
+<details closed>
+<summary class="accordion-one">ARTICLE I - INTRODUCTION</summary>	
+	<div class="description">
 
 <strong>Definition of Bylaws</strong>
 
@@ -35,6 +38,10 @@ ARTICLE I - INTRODUCTION
 	operate and maintain the MSA exclusively for educational purposes so
 	that from its operation none of its Members, Trustees, or Officers
 	shall enjoy any pecuniary profits.<br />
+
+	</div>
+</details>
+
 
 <h2>ARTICLE II - OFFICES AND AGENCY</h2>
 
