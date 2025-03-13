@@ -15,15 +15,15 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE I - INTRODUCTION</summary>	
 	<div class="description">
 
-<strong>Definition of Bylaws</strong><br />
+<strong>1.01 Definition of Bylaws</strong><br />
 
-<p>1.01 These Bylaws constitute the code of rules adopted by The
+<p>These Bylaws constitute the code of rules adopted by The
 	Modernist Studies Association for the regulation and management of
 	its affairs.</p>
 
-<strong>Purposes and Powers</strong><br />
+<strong>1.02 Purposes and Powers</strong><br />
 
-<p>1.02 This Corporation will have the purposes or powers as stated in
+<p>This Corporation will have the purposes or powers as stated in
 	its Articles of Incorporation, and whatever powers are or may be
 	granted by the Nonprofit Corporation Law of 1988 of the Commonwealth
 	of Pennsylvania or any successor legislation.</p>
@@ -46,9 +46,9 @@ Approved 2013; amended by vote of the membership 2021<br />
 <summary class="accordion-one">ARTICLE II - OFFICES AND AGENCY</summary>	
 	<div class="description">
 
-<strong>Principal and Branch Offices</strong><br />
+<strong>2.01 Principal and Branch Offices</strong><br />
 
-<p>2.01 The Corporation may maintain such offices either within or
+<p>The Corporation may maintain such offices either within or
 	without the Commonwealth of Pennsylvania as its business
 	requires.</p>
 
