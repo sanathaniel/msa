@@ -46,7 +46,9 @@ classes:
 <h1>
 <p>Boston, October 9-12, 2025</p>
 </h1>
-
+<h2>
+<p><i>Submission Deadline Extended to April 15</i></p>
+</h2>
 <hr>
 
 <p>As Modernist Studies returns to Boston in 2025, we have centered on the theme of “Infrastructure” for our annual conference. Infrastructure highlights the organizational systems and resources—whether material, cultural, or affective—that underpin, connect, and define the places we live, the work we do, and the texts we study. We invite participants to understand infrastructure as a capacious term, breaking new ground for conversations about the construction and constructions of modernism’s literature, drama, music, art, architecture, design, and even its own periodicity. Papers on topics or issues outside this conceptual framework are also welcome.</p>
@@ -68,13 +70,13 @@ classes:
 		<a href="#p2">Workshops (due March 15, 2025)</a>
 	</li>
 	<li>
-		<a href="#p3">Panels (due April 5, 2025)</a>
+		<a href="#p3">Panels (due April 15, 2025)</a>
 	</li>
 	<li>
-		<a href="#p4">Roundtables (due April 5, 2025)</a>
+		<a href="#p4">Roundtables (due April 15, 2025)</a>
 	</li>
 		<li>
-		<a href="#p5">Individual Papers (due April 5, 2025) </a>
+		<a href="#p5">Individual Papers (due April 15, 2025) </a>
 	</li>
 </strong>
 
@@ -127,7 +129,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Saturday April 5, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Saturday April 15, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -160,7 +162,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<li>Roundtable organizers should identify a chair and include this information with their proposals.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Saturday April 5, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Saturday April 15, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
 		</div>
 </details>
 <hr>
@@ -168,7 +170,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<summary class="CFP-summary" id="p5">Call for Individual Paper Proposals for MSA Panel Streams</summary>
 		<div class="description">
 <p>Individual paper proposals must speak directly to one of this year’s streams, described below. The MSA program committee and MSA Special Interest Groups in charge of the streams will compose panels and roundtables from the individual papers.</p>
-<p><a href="https://msa2025.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by April 5, 
+<p><a href="https://msa2025.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by April 15, 
 2025. Please include a 300-word abstract of the paper. Author bios are limited to
  100 words. </p>
  
