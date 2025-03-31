@@ -30,7 +30,7 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA2025 CFP</h3>
+				<h3>*Extended Deadline*</h3>
 				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
 			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
 		</div>
@@ -59,7 +59,7 @@ layout: home
 				</div>
 				<h3>Board Nominations</h3>
 				<figcaption  class="archive__item-title">Calling candidates for the MSA board!</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Nominations</a>
+			<a href="/about/board-nominations" class="btn btn--primary">Call</a>
 		</div>
 		
 		<div class ="feature__item">
