@@ -129,7 +129,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Saturday April 15, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Tuesday April 15, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -162,7 +162,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<li>Roundtable organizers should identify a chair and include this information with their proposals.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Saturday April 15, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
+<p><a href="https://msa2025.exordo.com/">Click here to submit Roundtable Proposals</a> by Tuesday April 15, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
 		</div>
 </details>
 <hr>
