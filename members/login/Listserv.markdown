@@ -22,7 +22,7 @@ sidebar:
 
 <hr>
 
-<p>To sign up for the Caucus for Contingent and Indpendent Scholars mailing list, complete the
+<p>To sign up for the Caucus for Contingent and Independent Scholars mailing list, complete the
 	following steps:</p>
 <ul>
 	<li>Contact <a href="mailto:MSA_CCIS@googlegroups.com"
