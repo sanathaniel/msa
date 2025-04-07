@@ -92,10 +92,10 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
+					<img src="assets/switchboard.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Digital Programs</h3>
-				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>
+				<h3>MSA Listservs</h3>
+				<figcaption  class="archive__item-title">Join one of MSA's listservs.</figcaption>
 			<a href="/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
 		
@@ -108,7 +108,17 @@ layout: home
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 
-<!--			
+<!--
+
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Digital Programs</h3>
+				<figcaption  class="archive__item-title">Plan for this year's digital events.</figcaption>
+			<a href="/conference/digital/" class="btn btn--primary">Connect</a>
+		</div>
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>

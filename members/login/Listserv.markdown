@@ -14,9 +14,19 @@ sidebar:
 <p>To sign up for the mailing list, complete the
 	following steps:</p>
 <ul>
+	<li><a href="https://www.press.jhu.edu/journals/cart/register">Register</a> as an MSA member.</li>
 	<li>Visit <a href="https://groups.google.com/g/msa-members-list"
 			>https://groups.google.com/g/msa-members-list</a>.</li>
 	<li>Click on the "Ask to join group" option.</li>
+</ul>
+
+<hr>
+
+<p>To sign up for the Caucus for Contingent and Indpendent Scholars mailing list, complete the
+	following steps:</p>
+<ul>
+	<li>Contact <a href="mailto:MSA_CCIS@googlegroups.com"
+			>MSA_CCIS@googlegroups.com</a>.</li>
 </ul>
 
 <hr>
@@ -25,7 +35,7 @@ sidebar:
 	following steps:</p>
 <ul>
 	<li>Visit <a href="https://groups.google.com/g/msa-graduate-students"
-			>https://groups.google.com/g/msa-members-list</a>.</li>
+			>https://groups.google.com/g/msa-graduate-students</a>.</li>
 	<li>Click on the "Ask to join group" option.</li>
 </ul>
 
