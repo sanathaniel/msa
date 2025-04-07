@@ -96,7 +96,7 @@ layout: home
 				</div>
 				<h3>MSA Listservs</h3>
 				<figcaption  class="archive__item-title">Join one of MSA's listservs.</figcaption>
-			<a href="/conference/digital/" class="btn btn--primary">Connect</a>
+			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
