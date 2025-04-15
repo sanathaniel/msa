@@ -76,5 +76,5 @@ process. </p>
 </body> -->
 
 <p>
-Workshops coming, September 2025.
+Workshops coming September 2025.
 </p>

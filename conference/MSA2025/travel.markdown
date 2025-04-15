@@ -130,5 +130,5 @@ from Midway to the Drake should run $30–$40 (not including tip).</p>
 </body> --> 
 
 <p>
-Travel and Accomodations coming, September 2025.
+Travel and Accomodations coming September 2025.
 </p>

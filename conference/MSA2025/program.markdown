@@ -31,5 +31,5 @@ footer: false
 </div>
 
 <p>
-Program coming, September 2025.
+Program coming September 2025.
 </p>

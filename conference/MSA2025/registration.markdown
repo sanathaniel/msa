@@ -102,7 +102,7 @@ Please note that your membership in the MSA must be current in order for you to 
 
 
 <p>
-Registration coming, September 2025.
+Registration coming September 2025.
 </p>
 
 

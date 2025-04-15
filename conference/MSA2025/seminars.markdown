@@ -468,7 +468,7 @@ The following topics, among others, are welcome:
 	</details>	 -->
 
 <p>
-Seminars coming, September 2025.
+Seminars coming September 2025.
 </p>
 	
 <!--
