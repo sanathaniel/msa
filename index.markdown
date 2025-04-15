@@ -30,7 +30,7 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>*Extended Deadline*</h3>
+				<h3>*Proposals Due 4/15*</h3>
 				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
 			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
 		</div>
