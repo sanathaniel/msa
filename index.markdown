@@ -26,15 +26,16 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
-		<div class ="feature__item" style="border:20px;">
+			
+		<div class ="feature__item">
 				<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>*Proposals Due 4/15*</h3>
-				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
-			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
+				<h3>Board Nominations</h3>
+				<figcaption  class="archive__item-title">Calling candidates for the MSA board!</figcaption>
+			<a href="/about/board-nominations" class="btn btn--primary">Call</a>
 		</div>
-		
+
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
@@ -53,14 +54,14 @@ layout: home
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
 		
-		<div class ="feature__item">
+		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Board Nominations</h3>
-				<figcaption  class="archive__item-title">Calling candidates for the MSA board!</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Call</a>
-		</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
+			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
+		</div>		
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
