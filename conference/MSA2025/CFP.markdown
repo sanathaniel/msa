@@ -46,9 +46,7 @@ classes:
 <h1>
 <p>Boston, October 9-12, 2025</p>
 </h1>
-<h2>
-<p><i>Submission Deadline Extended to April 15</i></p>
-</h2>
+
 <hr>
 
 <p>As Modernist Studies returns to Boston in 2025, we have centered on the theme of “Infrastructure” for our annual conference. Infrastructure highlights the organizational systems and resources—whether material, cultural, or affective—that underpin, connect, and define the places we live, the work we do, and the texts we study. We invite participants to understand infrastructure as a capacious term, breaking new ground for conversations about the construction and constructions of modernism’s literature, drama, music, art, architecture, design, and even its own periodicity. Papers on topics or issues outside this conceptual framework are also welcome.</p>
