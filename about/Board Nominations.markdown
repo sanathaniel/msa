@@ -57,7 +57,7 @@ sidebar:
 				href="https://drive.google.com/file/d/16WEl4o2osn87K1NQk0vYhM0SZxBKJLwc/view?usp=sharing">CV</a> | <a
 				href="https://drive.google.com/file/d/1yHONzLbD56swtHZtYfSKhBYrrk3HmitY/view?usp=sharing"
 			>Statement</a></li>
-		<li>Candidate 2: John Hoffman <a
+		<li>Candidate 2: John Hoffmann <a
 				href="https://drive.google.com/file/d/1PtpWjOuxQRxr4IcLRxO2so8tj0XFBonZ/view?usp=sharing">CV</a> | <a
 				href="https://drive.google.com/file/d/1_jJx3SIoZKu9873f7lZ3ESk-GJ7nt_uD/view?usp=sharing"
 				>Statement</a></li>
