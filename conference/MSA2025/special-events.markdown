@@ -122,7 +122,7 @@ We expect to walk approximately two miles, <strong>rain or shine</strong>. Meet 
  -->
 
 <p>
-Special-events coming September 2025.
+Special events coming September 2025.
 </p>
 
 

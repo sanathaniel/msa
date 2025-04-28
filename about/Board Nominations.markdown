@@ -6,6 +6,102 @@ sidebar:
   nav: about_nav
 ---
 
+
+<h2>2025 MSA Elections Now Open!</h2>
+
+<p>The 2025 election is now open and will run through 11:59 PM EST on Wednesday, May 28, 2025. This year we are electing a new 2nd VP, Vice Program Chair, Treasurer, and Contingent Faculty Representative.We have a superb slate of candidates. Please do take a moment to vote at our election website, linked here: <a href="https://vote.press.jhu.edu/msa/elections">Election | MSA Elections</a></p>
+
+<p>Please use your MSA membership username and password  to log in and submit your ballot choices.</p>
+
+<p>To vote, please click on the link above where you will find candidate statements to help you choose among highly qualified candidates for each position. These statements can be viewed below or by clicking on the position title once you are on the landing page.</p>
+
+<p>If you encounter any difficulties using the online voting form, please contact technical support at jrnlcirc@jh.edu.</p>		
+
+<h3>MSA Board Elections 2025 Ballot</h3>
+<p>&nbsp;</p>
+<ul>
+<li>
+	<strong>Position: 2nd Vice President</strong>
+	<ul>
+		<li>Candidate 1: Robert Higney<a
+				href="https://drive.google.com/file/d/1UwyFf9nnuNGummeN8fn8A6k7xCWP1Daf/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1yrtGGnGYfecUgN-dDAV9ANyNMQlYfN_l/view?usp=sharing"
+				>Statement</a></li>
+		<li>Candidate 2: Jesse Wolfe <a
+				href="https://drive.google.com/file/d/1lkNbLwOtaRAeZoVtte5tpXJ9_CtikwbQ/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1m5e3J4U9UQio14e0xywO1uum8Vm_QnNa/view?usp=sharing"
+			>Statement</a></li>
+
+	</ul>
+</li>
+</ul>
+<ul>
+<li>
+	<strong>Position: Vice Program Chair</strong>
+	<ul>
+		<li>Candidate 1: Sarah Cornish <a
+				href="https://drive.google.com/file/d/11RTwNS_Cc25DGjWOgGVfUQqOH0dIv5OG/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1LHiIYb-9FTGjfkKXqpo2ph6n68rgSacp/view?usp=sharing"
+			>Statement</a></li>
+		<li>Candidate 2: Sookyoung Lee<a
+				href="https://drive.google.com/file/d/1b6oiV5CyzuK6dsO6oaiTkj2m9fkmHZ_c/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1NNQsuXIJlOsJs5ExbE7l1eShOXWBoebV/view?usp=sharing"
+				>Statement</a></li>
+	</ul>
+</li>
+</ul>
+<ul>
+<li>
+	<strong>Position: Treasurer</strong>
+	<ul>
+		<li>Candidate 1: Jordan Brower<a
+				href="https://drive.google.com/file/d/16WEl4o2osn87K1NQk0vYhM0SZxBKJLwc/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1yHONzLbD56swtHZtYfSKhBYrrk3HmitY/view?usp=sharing"
+			>Statement</a></li>
+		<li>Candidate 2: John Hoffman<a
+				href="https://drive.google.com/file/d/1PtpWjOuxQRxr4IcLRxO2so8tj0XFBonZ/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1_jJx3SIoZKu9873f7lZ3ESk-GJ7nt_uD/view?usp=sharing"
+				>Statement</a></li>
+		<li>Candidate 3:  Stephanie Tavera <a
+				href="https://drive.google.com/file/d/1pTJXjLIHAUfRFyN5KykKrCo2wBWLniAl/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1KHr1sEjac4v99lmg-DhGX-95ZraM8Mug/view?usp=sharing"
+			>Statement</a></li>
+	</ul>
+</li>
+</ul>
+<ul>
+<li>
+	<strong>Position: Contingent Faculty Representative</strong>
+	<ul>
+		<li>Candidate 1: Elysia Balavage<a
+				href="https://drive.google.com/file/d/1B7mDfynC05ut3vSnVTZRTbjqYPM3Zqls/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/18bMLa1HuiSSWPE5M-GgwtA1-AnFVDphE/view?usp=sharing"
+				>Statement</a></li>
+		<li>Candidate 2: Nissa Cannon <a
+				href="https://drive.google.com/file/d/1DmcXN_vI0Ww40kvECTKgF4fxDGoyrOhq/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/10KVKB9pxvUD4nK7idvtzimfuwvwsu1jd/view?usp=sharing"
+			>Statement</a></li>
+		<li>Candidate 3: Sean Weidman<a
+				href="https://drive.google.com/file/d/1GdlM2ZyY5ugiTm-TF1in4AseyuROmmao/view?usp=sharing">CV</a> | <a
+				href="https://drive.google.com/file/d/1BLoPcGltDLjvDB1rk-fak55UlPwlha-8/view?usp=sharing"
+			>Statement</a></li>
+	</ul>
+</li>
+</ul>                     
+<p>&nbsp;</p>
+
+<h3>Bylaw Change Proposals</h3>
+<p>&nbsp;</p>
+
+
+<p>The MSA Board proposes a number of changes to the MSA Bylaws to better support the Program Chairs, correct existing errors in the bylaws, and create a process for removing a board member. Proposed changes to the bylaws are <a href="https://docs.google.com/document/d/1AS6vg5-5Eh4RJ37q3edeckTTyXDpGwxfPrqEhYvosvE/edit?usp=sharing">highlighted in red here.</a></p>
+
+<p>Current bylaws can be <a href="https://www.moderniststudies.org/about/constitution/">found here.</a></p>
+
+
+
+<!--
+
 <p>
 The MSA Board is seeking nominations for four Executive Board positions by <strong>April 21, 2025:</strong></p>
 
