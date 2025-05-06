@@ -8,6 +8,16 @@ sidebar:
 
 <!-- #BeginEditable "content"
 -->
+
+<h1>MSA Book Prizes</h1>
+
+<p><strong>Submissions for this year’s awards are now closed.</strong> The shortlist and winners will be announced in the fall of 2025. We will celebrate the winning and shortlisted titles at the opening reception and annual conference.</p>
+
+<p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. Every other year (odd years, such as this), we seek nominations for the Edition, Anthology, or Essay Collection Prize, awarded to a work published in the previous two years.</p> 
+
+<p>General queries about the prizes can be emailed to <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, MSA Second-Vice President.</p>
+
+<!--
 						
 <h1>Call for MSA Book Prize Nominations</h1>
 							
