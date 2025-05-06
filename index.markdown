@@ -38,12 +38,13 @@ layout: home
 
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
-					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Nominate a new publication for one of this year's MSA Prizes.</figcaption>
-			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
-		</div>	
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
+			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
+		</div>		
+		
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -53,16 +54,7 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-		
-		<div class ="feature__item" style="border:20px;">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
-			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
-		</div>		
-		
+			
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
@@ -109,7 +101,25 @@ layout: home
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>2023 Book Prizes</h3>
+				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
+			<a href="/prizes/previous-winners" class="btn btn--primary">Review</a>
+		</div>
+
 <!--
+
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Prize Nominations</h3>
+				<figcaption  class="archive__item-title">Nominate a new publication for one of this year's MSA Prizes.</figcaption>
+			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
+		</div>	
 
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -120,14 +130,7 @@ layout: home
 			<a href="/conference/digital/" class="btn btn--primary">Connect</a>
 		</div>
 		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>2023 Book Prizes</h3>
-				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
-			<a href="/prizes/previous-winners" class="btn btn--primary">Review</a>
-		</div>
+
 -->
 		
 		<!--
