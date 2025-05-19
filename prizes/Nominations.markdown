@@ -11,7 +11,7 @@ sidebar:
 
 <h1>MSA Book Prizes</h1>
 
-<p><strong>Submissions for this year’s awards are now closed.</strong> The shortlist and winners will be announced in the fall of 2025. We will celebrate the winning and shortlisted titles at the opening reception and annual conference.</p>
+<p><strong>Submissions for this year’s awards are now closed.</strong> The shortlist and winners will be announced in the fall of 2025. We will celebrate the winning and shortlisted titles at the opening reception of our annual conference.</p>
 
 <p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. Every other year (odd years, such as this), we seek nominations for the Edition, Anthology, or Essay Collection Prize, awarded to a work published in the previous two years.</p> 
 
