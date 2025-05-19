@@ -6,6 +6,24 @@ sidebar:
   nav: about_nav
 ---
 
+<h2>MSA Ombuds: Sara Wasserman<h2/>
+<p><Contact: <a href="mailto:Sarah.Wasserman@dartmouth.edu">Sarah.Wasserman@dartmouth.edu</a></p>
+
+<p>As the inaugural assistant dean of faculty affairs at Dartmouth, I serve as an impartial resource for the more than 600 faculty (tenure-track and teaching) in Arts and Sciences. In this role, I support faculty in a range of areas, including mentoring and conflict resolution. Drawing on my experience as a faculty member and my training in coaching and communication, I offer faculty a safe space to address their concerns and act as an advocate, bringing systemic concerns to the attention of senior leadership. At Dartmouth, I serve as a liaison to other offices, including the Office of Equal Opportunity, Accessibility, and Title IX, the Office of Institutional Diversity and Equity, the Office of General Counsel, and Human Resources to ensure a holistic approach to faculty support. I am excited to support the MSA by serving as a completely confidential, independent resource for all its members, and as an advisor to the MSA board.</p> 
+
+<h2>The Role of the Ombuds:</h2>
+
+ <p>The ombudsperson will be an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the <a href="/about/ombuds">anti-harassment policy or the code of conduct</a>.</p>
+ 
+<p>The ombudsperson operates outside of the regular organizational hierarchy and chain of command. The ombuds listens actively and objectively to individual concerns or complaints but does not take sides or serve as a spokesperson for individuals. However, the ombuds is a strong advocate for social justice and fairly applied policies and processes.</p>
+
+<p>The ombuds position offers unique behind-the-scenes resources for MSA members to express their concerns in a low-risk manner that encourages creative problem-solving. The MSA ombuds may also communicate privately and directly with the President and members of the MSA Executive Committee or Board, during or between Board meetings if inappropriate behavior and communication breakdowns are observed, or if the ombuds notices trends in the complaints they receive. The identity of all complainants will remain anonymous unless the ombuds is given express permission otherwise.</p>
+
+<p>The MSA’s inaugural ombuds program is an off-the-record service that is not the place to file formal complaints or grievances against the organization. That process is outlined in the Code of Conduct and Anti-Harassment Policy cited above. Rather, the ombuds is meant to serve as a clearinghouse to consult with members, and to advise members as to the options available to them. The member may then choose how they will proceed, and that process might involve filing a formal complaint with the MSA.</p>
+
+<p>The ombuds protects the privacy of individual consultations except when there is an imminent risk of physical harm to self or others. The ombuds does not reveal information that identifies individuals without the express permission of all parties involved.</p>
+
+<!--
 <p>Please see below the call for nominations for the inaugural Ombudsperson for the Modernist Studies Association. You may nominate someone outside of the MSA membership, provided that they are familiar with academic organizations like the MSA, and are members in good standing of their professional organizations. Please note that we are not taking self-nominations at this time. Those interested in nominating someone for this position can do so by emailing the nominee’s full name and contact information, as well as a brief statement of explanation for your choice of nominee. <strong>Please send your nomination to Karen Weingarten <a href="mailto:kweingarten@qc.cuny.edu">(kweingarten@qc.cuny.edu)</a>, Membership & Elections Chair, by February 28, 2025.</strong> </p>
  
 <p>This call is organized by Aimee Wilson, Kate Schnur, and Octavio González, who together agreed to serve on the Ad-Hoc Committee convened to update the <a href="https://www.moderniststudies.org/about/mission/">revised MSA Code of Conduct and the Anti-Harassment Policy</a>. These revisions included the creation of an ombuds role for the MSA. The Ad-hoc Committee will convene a committee to review and interview nominees as part of the selection process. 
@@ -50,3 +68,4 @@ sidebar:
 	<li>Observational skills are important to identify and report ongoing and emerging organizational problem themes and trends in both virtual and in-person settings, while protecting the identity of the specific individuals involved.</li>
 
 </ul>
+-->

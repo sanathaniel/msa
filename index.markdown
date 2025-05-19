@@ -79,7 +79,7 @@ layout: home
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>ModNets</h3>
-				<figcaption  class="archive__item-title">A digital federation of modernist studies.</figcaption>
+				<figcaption  class="archive__item-title">Explore the digital federation of modernist studies.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
