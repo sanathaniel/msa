@@ -36,15 +36,14 @@ layout: home
 			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
 		</div>
 
-		<div class ="feature__item" style="border:20px;">
+		<div class ="feature__item">
 				<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
-			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
-		</div>		
-		
+				<h3>Ombuds</h3>
+				<figcaption  class="archive__item-title">Join us in welcoming our new MSA Ombuds</figcaption>
+			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
+		</div>
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -54,7 +53,16 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-			
+		
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
+			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
+		</div>		
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
@@ -101,6 +109,8 @@ layout: home
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 
+<!--
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/Aesthetic_Cold_War.jpg" min-width="150" min-height="150"/>
@@ -109,8 +119,6 @@ layout: home
 				<figcaption  class="archive__item-title">Catch up on the 2023 prize shortlists.</figcaption>
 			<a href="/prizes/previous-winners" class="btn btn--primary">Review</a>
 		</div>
-
-<!--
 
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
