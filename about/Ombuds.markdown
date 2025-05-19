@@ -1,19 +1,18 @@
 ---
 layout: single
-title: Ombudsperson Nomination
+title: MSA Ombuds
 permalink: /about/ombuds/
 sidebar:
   nav: about_nav
 ---
 
-<h2>MSA Ombuds: Sara Wasserman<h2/>
-<p><Contact: <a href="mailto:Sarah.Wasserman@dartmouth.edu">Sarah.Wasserman@dartmouth.edu</a></p>
+<p><strong>Sara Wasserman, <a href="mailto:Sarah.Wasserman@dartmouth.edu">Sarah.Wasserman@dartmouth.edu</a></p>
 
 <p>As the inaugural assistant dean of faculty affairs at Dartmouth, I serve as an impartial resource for the more than 600 faculty (tenure-track and teaching) in Arts and Sciences. In this role, I support faculty in a range of areas, including mentoring and conflict resolution. Drawing on my experience as a faculty member and my training in coaching and communication, I offer faculty a safe space to address their concerns and act as an advocate, bringing systemic concerns to the attention of senior leadership. At Dartmouth, I serve as a liaison to other offices, including the Office of Equal Opportunity, Accessibility, and Title IX, the Office of Institutional Diversity and Equity, the Office of General Counsel, and Human Resources to ensure a holistic approach to faculty support. I am excited to support the MSA by serving as a completely confidential, independent resource for all its members, and as an advisor to the MSA board.</p> 
 
 <h2>The Role of the Ombuds:</h2>
 
- <p>The ombudsperson will be an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the <a href="/about/ombuds">anti-harassment policy or the code of conduct</a>.</p>
+ <p>The ombudsperson is an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the <a href="/about/ombuds">anti-harassment policy or the code of conduct</a>.</p>
  
 <p>The ombudsperson operates outside of the regular organizational hierarchy and chain of command. The ombuds listens actively and objectively to individual concerns or complaints but does not take sides or serve as a spokesperson for individuals. However, the ombuds is a strong advocate for social justice and fairly applied policies and processes.</p>
 
