@@ -41,7 +41,7 @@ layout: home
 					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Ombuds</h3>
-				<figcaption  class="archive__item-title">Join us in welcoming our new MSA Ombuds</figcaption>
+				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombuds.</figcaption>
 			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
 		</div>
 
