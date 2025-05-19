@@ -41,7 +41,7 @@ layout: home
 					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Ombuds</h3>
-				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombuds.</figcaption>
+				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombudsperson.</figcaption>
 			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
 		</div>
 
@@ -87,7 +87,7 @@ layout: home
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>ModNets</h3>
-				<figcaption  class="archive__item-title">Explore the digital federation of modernist studies.</figcaption>
+				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
