@@ -12,7 +12,7 @@ sidebar:
 
 <h2>The Role of the Ombuds:</h2>
 
- <p>The ombudsperson is an independent and impartial resource to members and guide them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the <a href="/about/mission">anti-harassment policy or the code of conduct</a>.</p>
+ <p>The ombudsperson is an independent and impartial resource to members and guides them through their options should they seek support. This support will be confidential. Please note that the ombudsperson will not adjudicate complaints about infractions of the <a href="/about/mission">anti-harassment policy or the code of conduct</a>.</p>
  
 <p>The ombudsperson operates outside of the regular organizational hierarchy and chain of command. The ombuds listens actively and objectively to individual concerns or complaints but does not take sides or serve as a spokesperson for individuals. However, the ombuds is a strong advocate for social justice and fairly applied policies and processes.</p>
 
