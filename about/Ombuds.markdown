@@ -6,7 +6,7 @@ sidebar:
   nav: about_nav
 ---
 
-<p><strong>Sara Wasserman, <a href="mailto:Sarah.Wasserman@dartmouth.edu">Sarah.Wasserman@dartmouth.edu</a></strong>
+<p><strong>Sarah Wasserman, <a href="mailto:Sarah.Wasserman@dartmouth.edu">Sarah.Wasserman@dartmouth.edu</a></strong>
 
 <p>As the inaugural assistant dean of faculty affairs at Dartmouth, I serve as an impartial resource for the more than 600 faculty (tenure-track and teaching) in Arts and Sciences. In this role, I support faculty in a range of areas, including mentoring and conflict resolution. Drawing on my experience as a faculty member and my training in coaching and communication, I offer faculty a safe space to address their concerns and act as an advocate, bringing systemic concerns to the attention of senior leadership. At Dartmouth, I serve as a liaison to other offices, including the Office of Equal Opportunity, Accessibility, and Title IX, the Office of Institutional Diversity and Equity, the Office of General Counsel, and Human Resources to ensure a holistic approach to faculty support. I am excited to support the MSA by serving as a completely confidential, independent resource for all its members, and as an advisor to the MSA board.</p> 
 
