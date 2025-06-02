@@ -55,7 +55,7 @@ footer: false
 <h1><strong>PRE-CONFERENCE GUIDELINES</strong></h1>
 
 <p>Seminar leaders should set firm guidelines for each seminar from their first or second contact with seminar participants. These should include, <strong>at a minimum:</strong></p>
-<blockquote display="list-item">
+<ul>
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
@@ -66,31 +66,31 @@ footer: false
 
 <p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
 
-			<p>Following the usual seminar model, participants will be asked to submit brief position papers (5-7 pages) that speak to the issues outlined above. These papers may be standalone essays or contextualized excerpts from longer works. Paper topics include but are not limited to:
-			</p>
-			<p>
-				<blockquote display="list-item">
-					<li>the culture and history of diagnostic categories within modern medicine
-					</li>
-					<li>the social, material, and technological infrastructures of diagnosis
-					</li>
-					<li>the representation of diagnostic categories at the turn of the century and afterward
-					</li>
-					<li>diagnosis as a narrative structure and/or element of plot
-					</li>
-					<li>the lived experiences surrounding diagnosis within life writing and/or memoir
-					</li>
-					<li>past and present efforts to diagnose artists and authors from the modernist period
-					</li>
-					<li>practices of diagnostic reading from psychoanalysis to the medical humanities
-					</li>
-					<li>the status of diagnosis within feminist, queer, and disability studies and/or theories
-					</li>
-				</ul>
-			</p>
-			<p>Prior to the conference, the seminar leaders will then circulate these papers, along with notes and questions for discussion, to all participants. 
-			</p>
-		</div>
+<p>Following the usual seminar model, participants will be asked to submit brief position papers (5-7 pages) that speak to the issues outlined above. These papers may be standalone essays or contextualized excerpts from longer works. Paper topics include but are not limited to:
+</p>
+<p>
+	<ul>
+		<li>the culture and history of diagnostic categories within modern medicine
+		</li>
+		<li>the social, material, and technological infrastructures of diagnosis
+		</li>
+		<li>the representation of diagnostic categories at the turn of the century and afterward
+		</li>
+		<li>diagnosis as a narrative structure and/or element of plot
+		</li>
+		<li>the lived experiences surrounding diagnosis within life writing and/or memoir
+		</li>
+		<li>past and present efforts to diagnose artists and authors from the modernist period
+		</li>
+		<li>practices of diagnostic reading from psychoanalysis to the medical humanities
+		</li>
+		<li>the status of diagnosis within feminist, queer, and disability studies and/or theories
+		</li>
+	</ul>
+</p>
+<p>Prior to the conference, the seminar leaders will then circulate these papers, along with notes and questions for discussion, to all participants. 
+</p>
+</div>
 </details>	
 <details closed>
 	<summary class="seminar-title" id="p8">Ecologizing Modernist Infrastructures: Forms and Methods for Regenerative Futures</summary>
@@ -101,10 +101,10 @@ footer: false
 			</p>
 			<p>This Modernism & Environment SIG-sponsored seminar invites participants to share works in progress of any kind--position papers or notes from the field, personal or methodological reflections, teaching ideas or plans for community engagement projects, or anything else that connects modernist studies with environmental justice or climate action. Like the hands-on workshop our SIG is also sponsoring, the seminar will encourage participants to think about how the principles of slowness, fluidity, and plurality inherent to modernist reading, writing, and media production offer alternatives to modern infrastructural models that generate both human disposability and ecological waste. Our goal is to open a space for collaborative discussion, brainstorming, resource-sharing, and community-building around how modernist studies can contribute to broader efforts to renovate, resist, defend, repair, critically reinhabit, or propose alternatives to the infrastructures we’ve inherited.
 			</p>
-			<p>PSuggested reading:
+			<p>Suggested reading:
 			</p>
 			<p>
-				<blockquote display="list-item">
+				<ul>
 					<li>Johnson, Adriana Michele Campos, and Daniel Nemser, “Introduction: Reading for Infrastructure.” <i>Social Text</i>, vol. 40, no. 4, Dec. 2022, pp. 1–16.
 					</li>
 					<li>Rubenstein, Michael, Bruce Robbins and Sophia Beal. “Infrastructuralism: An Introduction.” <i>Modern Fiction Studies</i>, vol. 61, no. 4, Winter 2015, pp. 575–86.
@@ -152,7 +152,7 @@ footer: false
 			<p>In “An Encounter” Robert Frost selects an unlikely interlocutor when he asks of a telephone pole, “what’s the news you carry—if you know?” The question foregrounds the provocation of modernist media infrastructure as it infiltrated even the least urbane literary camps, but it also merges two familiar interpretations of the period. Modernism was not only an accumulation of electronic signals and an aggregate of technological materials, but carried news. Operating from an appropriately capacious definition of infrastructure as extending to the undergirding systems, frameworks, and protocols that underlie the cultural institutions and productions of modernism, we invite papers that speak to the architectures, technologies, and habitus of media:
 			</p>
 			<p>
-				<blockquote display="list-item">
+				<ul>
 					<li>broadcasting facilities, sound stages, studio backlots, printing plants
 					</li>
 					<li>circuitry, cables, hubs, towers
@@ -206,7 +206,7 @@ Invited participant: Ravit Reichman (Brown University)
 			<p>Potential areas of inquiry might include:
 			</p>
 			<p>
-				<blockquote display="list-item">
+				<ul>
 					<li>How modernist novels map, contest, or redefine legally demarcated spaces
 					</li>
 					<li>Narrative techniques that parallel or subvert legal spatial logics
@@ -242,7 +242,7 @@ Invited participant: Sonita Sarker (Macalester College)
 			</p>
 			
 			<p>
-				<blockquote display="list-item">
+				<ul>
 					<li>How do modernism’s infrastructures depend upon, produce, highlight, and/or obscure certain racial formations?
 					</li>
 					<li>How can theory and methodologies from ethnic, Black, and Indigenous studies help us read modernist texts anew?
@@ -367,7 +367,7 @@ Invited participant: Sonita Sarker (Macalester College)
 			</p>
 			
 			<p>
-				<blockquote display="list-item">
+				<ul>
 					<li>Object relations theory
 					</li>
 					<li>Relatability and unrelatability
@@ -420,7 +420,7 @@ Invited participant: Sonita Sarker (Macalester College)
 			</p>
 			<p>Topics may include but are not limited to:</p>
 			<p>
-				<blockquote display="list-item">
+				<ul>
 					<li>transnational feminisms; decolonial and liberation movements
 					</li>
 					<li>national or international (geo)politics; women and war; women and fascism
