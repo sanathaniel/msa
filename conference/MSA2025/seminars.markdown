@@ -59,7 +59,7 @@ footer: false
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
-</blockquote>
+</ul>
 <p><strong>Other guidelines</strong>  are up to individual leaders and can lend seminars their unique styles. In the past, some leaders have provided a list of recommended readings and/or a list of questions the group should consider. Some have assigned participants to generate detailed critiques of each other’s work in pairs or small groups, in addition to all of the participants reading each other’s work. Leaders have also given specific paper guidelines guiding content (encouraging or discouraging textual, theoretical, or methodological analysis, e.g.).</p>
 
 <h1><strong>CONFERENCE GUIDELINES</strong></h1>
@@ -90,8 +90,6 @@ footer: false
 </p>
 <p>Prior to the conference, the seminar leaders will then circulate these papers, along with notes and questions for discussion, to all participants. 
 </p>
-</div>
-</details>	
 <details closed>
 	<summary class="seminar-title" id="p8">Ecologizing Modernist Infrastructures: Forms and Methods for Regenerative Futures</summary>
 		<div class="description">
