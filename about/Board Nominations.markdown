@@ -5,9 +5,9 @@ permalink: /about/board-nominations/
 sidebar:
   nav: about_nav
 ---
+<hr>
 
-
-<h2>Congratulations to our recently elected MSA Board members!</h2>
+<h3>Congratulations to our recently elected MSA Board members!</h3>
 <ul>
 	<li>
 		2nd Vice President: Robert Higney
@@ -27,7 +27,7 @@ sidebar:
 
 <p>Proposed bylaw changes have passed with overwhelming support. These changes better support the Program Chairs, correct existing errors in the bylaws, and create a process for removing a board member. Accepted changes to the bylaws are <a href="https://docs.google.com/document/d/1AS6vg5-5Eh4RJ37q3edeckTTyXDpGwxfPrqEhYvosvE/edit?usp=sharing">highlighted in red here.</a></p>
 
-<br/>
+<hr>
 
 <h3>Calls for Nominations</h3>
 
@@ -35,13 +35,12 @@ sidebar:
 	the MSA Board. Check this page again soon for information about
 	upcoming nominations and elections. You may also contact <a href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a> (kweingarten@qc.cuny.edu), Chair, Membership and Elections, with any
 	questions.</p>
-
-<br/>
+	
+<hr>
 
 <h3>About the MSA Board</h3>
 
 <p>Since the inception of the MSA, membership has grown to almost 1000. Most of the organization’s work is done by volunteers on the MSA Board and their committees, with the assistance of an MSA administrator. Therefore, those deciding to run for election should be prepared to make a substantial time commitment to MSA. Board members also work individually and collectively to build the membership base, and to communicate with members and the larger academy concerning the Modernist Studies Association. The MSA Board is responsible for planning and executing the annual meeting in conjunction with representatives of the host institution; we believe that the liveliest and most provocative conferences result from attention to diversity of representation on the fronts of discipline, nation, race, and gender on the Board, among the membership, and on the annual program. Our most recent conferences in Portland, OR (2022), Brooklyn (2023), Chicago (2024) have further diversified our membership and increased interdisciplinary and multicultural panel offerings. We expect no less of our future conferences.</p> 
-
 
 
 <!--
