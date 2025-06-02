@@ -318,7 +318,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Peripheral Modernism as Worldly Infrastructure</summary>
 		<div class="description">
-			<p><strong>Leaders: Pavel Andrade (Texas Tech University); Ericka Beckman (University of Pennsylvania)
+			<p><strong>Leaders: Pavel Andrade (Texas Tech University); Ericka Beckman (University of Pennsylvania)</strong></p>
 			<p><strong>Invited participants: Emilio Sauri (University of Massachusetts, Boston); Tavid Mulder (Emerson College)</strong>
 			</p>
 			<p>What would it mean to think peripheral modernism infrastructurally? How do peripheral artworks distribute the infrastructural arrangements of the world system? What kinds of roadways, canals, and bridges does peripheral literature build? How does peripheral aesthetics operate the industrial and natural landscapes of the world economy? This seminar invites papers that delve into the worldly infrastructures of peripheral literatures, that is, how peripheral literatures register, model, and think the historical and material configurations of the world system. From environmental technology to environmental disaster, this seminar will consider how peripheral modernism engages with the ecologies of capitalist modernity. We welcome papers that explore the worldly orientations of peripheral literatures and that reimagine modernist praxis across the Global South as world-building activity. This seminar aims to bring into focus the contribution of peripheral aesthetics to a world history of infrastructure, in particular, we aim to highlight the infrastructural dimensions of peripheral literary works, their registration, both at the level of content and form, of the communication systems, public services, and economic networks that have shaped capitalist modernity and its industrial and environmental cycles. We invite submissions that explore these topics from different peripheral positions and time periods.
@@ -330,7 +330,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Public-Facing Modernism</summary>
 		<div class="description">
-			<p><strong>Leader: Charles Andrews (Whitworth University)
+			<p><strong>Leader: Charles Andrews (Whitworth University)</strong></p>
 			<p><strong>Invited participant: Patrick R. Query (United States Military Academy, West Point)</strong>
 			</p>
 			<p>Modernist studies has something special to offer beyond our guild during this current time of division, turmoil, hostility, and crisis. The global crises of the previous century—authoritarianism, economic calamity, and violence—were faced with astonishing artistic and political creativity by many of the people we study. How might modernist scholars bring this creativity and the resources of our field to broader publics through our writing, teaching, and speaking? What kinds of presses, magazines, journals, and online or in-person venues exist for doing meaningful public-facing scholarship? How might we invite and encourage audiences who can benefit from our field? How might our work be more activist? In this seminar we will explore ways to do public-facing scholarship, welcoming experienced public scholars and anyone interested in developing this kind of work.
@@ -340,7 +340,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Reimagining the Feminist Modernist Publishing Infrastructure: Values and Ethics</summary>
 		<div class="description">
-			<p><strong>Leaders: Erica Delsandro (Bucknell University); Laurel Harris (Rider University); Catherine Hollis (University of California, Berkeley)
+			<p><strong>Leaders: Erica Delsandro (Bucknell University); Laurel Harris (Rider University); Catherine Hollis (University of California, Berkeley)</strong></p>
 
 			<p>Feminist infrastructure–intellectual, professional, political, practical–does exist within modernist studies. But as feminist scholars know, this infrastructure is not supported or maintained by the dominant academic culture and, thus, is constantly in a state of disrepair, if not outright collapse, requiring additional labor from marginalized and under-represented scholars. Like deteriorating roads, bridges, and power lines, academic infrastructure, too, necessitates regular maintenance, even demolition and rebuilding.
 			</p>
@@ -387,7 +387,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Religion and Empire in Transnational Modernisms</summary>
 		<div class="description">
-			<p><strong>Leaders: Suzanne Hobson (Queen Mary University of London); Apala Das (Bilkent University)
+			<p><strong>Leaders: Suzanne Hobson (Queen Mary University of London); Apala Das (Bilkent University)</strong>
 			</p>
 			<p>There have been several important contributions to the topic of modernism and religion in the past decade. However, as noted by contributors to MSA 2024’s seminar on “Religion and the Global Turn” these studies have been comparatively slow to incorporate and adopt global religious lexicons and transnational frameworks. At the same time, although several scholars have fundamentally reconfigured modernism’s relation to empire over the past few decades, they have often done so without challenging perceptions of its “secular” character. This seminar aims to address these gaps in modernist scholarship by opening up new conversations at the intersection of religion, empire, and transnational modernisms.
 			</p>
@@ -399,7 +399,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Surveillance modernity, surveillance modernisms</summary>
 		<div class="description">
-			<p><strong>Leader: Stephanie Brown (University of Arizona)
+			<p><strong>Leader: Stephanie Brown (University of Arizona)</strong>
 			</p>
 			<p>This seminar proposes to consider surveillance, broadly conceived, as a practice of modernity. In keeping with the theme of the conference, it encourages considerations of surveillance infrastructures as constitutive of, and responses to, modernity. It asks whether our definitions of modernity and modernism might reveal them to be coeval with surveillance as an increasingly institutional, corporate, transnational, and state-based mode of control.
 			</p>
@@ -410,7 +410,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Unruly Geographies: Modernist Women’s Transnational Writing</summary>
 		<div class="description">
-			<p><strong>Leaders: Eret Talviste (University of Tartu); Ruth Alison Clemens (Leiden University)
+			<p><strong>Leaders: Eret Talviste (University of Tartu); Ruth Alison Clemens (Leiden University)</strong>
 			</p>
 			<p>In her introduction to <i>Feminism as World Literature</i> (2022), Robin Truth Goodman writes that “the field of World Literature seems to skirt away from feminism” (1), noting how the genealogical trajectory of the field is as male as it is Eurocentric. Similarly, as feminist scholars note (Friedman 2011, 2015; Berman 2018; Fernald 2013; Laity 2018), debates in transnational and global modernist studies continue to draw their theories by focusing on models and infrastructures of mobility centred around male writers, institutions, and networks.se topics from different peripheral positions and time periods.
 			</p>
@@ -448,7 +448,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Utopian Infrastructures</summary>
 		<div class="description">
-			<p><strong>Leader: Kristin Bluemel (Monmouth University)
+			<p><strong>Leader: Kristin Bluemel (Monmouth University)</strong></p>
 			<p><strong>Invited participants: Maria Farland (Fordham University); Marty Cain (Cornell University)</strong>
 			</p>
 			<p>What can the infrastructures of modern utopias teach us about those idealizing arts, literatures, and lived experiments that brought form to the modernists’ dreams of the good place (“eutopia”), the bad place (“dystopia”), or to that best place of all, no place (“utopia”)?  The aim of this seminar is to identify and analyze diverse instances and outcomes of utopian thinking in modern and modernist constructions of real or fantastic places that aspired to a utopian (dystopian) infrastructural purpose and/or design. Participants in this seminar will contribute to an interdisciplinary conversation analyzing the most powerful ideals, myths, and delusions of modern infrastructure: the perfect electric system, the perfect postal system, the perfect medical system, the perfect education system, the perfect religion, the perfect army, the perfect navy, the perfect nation. The utopias inviting our infrastructural argument may range from communities like Roosevelt, New Jersey, to nations like the Soviet Union; from novels like Charlotte Perkins Gilman’s <i>Herland</i> to Katharine Burdekin’s <i>Swastika Night</i>; from paintings like Stanley Spencer’s <i>Resurrection, Cookham</i> to Le Corbusier’s architectural installation, Esprit Nouveau Pavilion; from Filippo Tommaso Marinetti’s <i>Manifesto of Futurism</i> to Frederick Winslow Taylor’s <i>Principles of Scientific Management</i>; the media, the materials, the motivations of utopian infrastructures are everywhere (and nowhere). Pursuing interdisciplinary, comparative analysis along utopian lines, we will follow wherever utopian infrastructures lead. To nature? To purity? To prosperity? To pleasure? To perdition? Sharing and discussing our utopian research in 5-7-page position papers, we can hope to discover new ways of approaching and knowing modernism and modernity.
@@ -458,8 +458,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Writing in Conversation: Infrastructures of Modernist Community</summary>
 		<div class="description">
-			<p><strong>Leaders: Matthew Kilbane (University of Notre Dame); Christopher Seiji Berardino (University of California, Riverside)
-			</p>
+			<p><strong>Leaders: Matthew Kilbane (University of Notre Dame); Christopher Seiji Berardino (University of California, Riverside)</strong></p>
 			<p>Workshops, clubs, groups, guilds, salons, retreats, forums, meetings—much of the work of literary modernism transpired in community, around specific tables in specific rooms. This seminar explores the forms of community-based organization that sustained and nurtured literary production in the first half of the twentieth century. We ask: what might it mean to cast these organizations as provisional infrastructures? We’re excited to commune over case studies of a wide range of literary assemblies, from recognized groups like Bloomsbury, Los Contemporáneos, the Southside Writer’s Workshop, John Reed Clubs, and the Harlem Writers’ Guild, to any number of less studied initiatives: publishing endeavors in the Japanese-American incarceration camps, for instance, or midcentury poetry workshops at public libraries across the United States. Together, we'll imagine how to draw from this diverse archive a new prehistory of the postwar Program Era, and we'll ask whether it’s possible to trace a modernist genealogy of the community-based and movement-affiliated writing workshops of the 1960s and 1970s.
 			</p>
 			<p>We are also keen to explore what new critical strategies are required for the study of community-based writing. Though it has long been the province of craft manuals, textbooks, author memoirs, and literary journalism, the practice of writing itself—and particularly those practices that do not issue in published books or magazines—has persistently eluded literary scholarship. The reason for this oversight is not hard to fathom. Our capacities for knowledge production rely on the existence of accessible texts, the products of writing. Scholars are less well-equipped to study historically specific and collaborative writing processes, largely because the habits, practices, and infrastructures responsible for fostering said writing tend to resist representation in the archive. What might the study of community writing contribute to modernist studies? How might this make room for a more collective understanding of Modernism? Let us gather then, you and I, to explore what was mutually made by the many!
