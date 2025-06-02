@@ -8,7 +8,6 @@ sidebar:
 
 
 <h2>Congratulations to our recently elected MSA Board members!</h2>
-<br/>
 <ul>
 	<li>
 		2nd Vice President: Robert Higney
@@ -28,12 +27,16 @@ sidebar:
 
 <p>Proposed bylaw changes have passed with overwhelming support. These changes better support the Program Chairs, correct existing errors in the bylaws, and create a process for removing a board member. Accepted changes to the bylaws are <a href="https://docs.google.com/document/d/1AS6vg5-5Eh4RJ37q3edeckTTyXDpGwxfPrqEhYvosvE/edit?usp=sharing">highlighted in red here.</a></p>
 
+<br/>
+
 <h3>Calls for Nominations</h3>
 
 <p>There are no current open calls for nominations or open elections for
 	the MSA Board. Check this page again soon for information about
 	upcoming nominations and elections. You may also contact <a href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a> (kweingarten@qc.cuny.edu), Chair, Membership and Elections, with any
 	questions.</p>
+
+<br/>
 
 <h3>About the MSA Board</h3>
 
