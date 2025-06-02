@@ -30,7 +30,7 @@ footer: false
 	</div>
 </div>
 
-<!-- <p></p>
+ <p></p>
 
 <p>During the registration process, you will have the opportunity to select a seminar should you wish to participate in one (seminar titles and descriptions are listed below). In advance of the seminar meeting at MSA, participants produce short papers in response to the seminar topic description and share them with the entire group through whatever mechanism the seminar leaders devise. All participants are to read all of the participants’ papers—a process that aims to ensure careful and significant dialogue on the topic. Seminars take place at MSA in blocks of two hours and thirty minutes. Typically, the first two hours are devoted to specific discussion of the topic by seminar participants and the final thirty minutes allow room for questions, general discussion, and/or participation of auditors, if relevant.
   </p>
@@ -54,9 +54,6 @@ footer: false
 
 <h1><strong>PRE-CONFERENCE GUIDELINES</strong></h1>
 
-<p>Seminar leaders should set firm guidelines for each seminar from their first or second contact with seminar participants. These should include, at a minimum:
-</p>
-	
 <p>Seminar leaders should set firm guidelines for each seminar from their first or second contact with seminar participants. These should include, <strong>at a minimum:</strong></p>
 
 	<blockquote display="list-item">
@@ -73,1911 +70,540 @@ footer: false
 
 
 	<details closed>
-		<summary class="seminar-title" id="p1">Making Creative Work Across Forms: Modernist Prompts and Provocations</summary>
+		<summary class="seminar-title" id="p1">Anthologies, Exhibitions, and Festivals</summary>
 			<div class="description">
-				<p><strong>Leaders: Claire Battershill, Amy Elkins, and Sheryda Warrener</strong>
+				<p><strong>Leaders: Jim Cocola (Worcester Polytechnic Institute); J.D. Porter (University of Pennsylvania)</strong></p>
+				<p><strong>Invited participant: Brendan Kredell (Oakland University)</strong>
 				</p>
-				<p>Oulipo language games, the literary parlour activities of the Bloomsbury group's "memoir club" and other momentary creative collaborative exercises show us the vibrant energy of constraint and play in a shared space. The "prompt" or "provocation" (to use the Black Mountain College term) offers us a chance to engage as contemporary creative practitioners and scholars with the kinds of creativity that is born of formal limitation and of transmedial engagements between and across the arts. When Yoko Ono tells us, for example, in Grapefruit to "break your mirror and scatter the pieces in different countries" she offers both a literal instruction and a sense of speculative poetic impossibility. In this seminar, we invite participants to think about the kinds of prompts, provocations, exercises, and games that modernist literature and artistic practice across media can offer contemporary scholars and creative practitioners. We seek to engage with transmedial praxis as both a conceptual apparatus for studying the period and as a scholarly method—a way of thinking more inclusively and dynamically about the work of scholarship itself. Therefore, this seminar will take an unconventional and deliberately procedural format: we will invite participants to share examples of their own creative/critical engagements with modernist procedural or provocative literature in advance; then, during the session itself, we will spend most of the time engaging in material prompts and provocations inspired by modernist works and will consider the ways in which modernist constructions of creative constraint can offer us new possibilities for making work in the present.
+				<p>The anthology, the exhibition, and the festival share in common a function as forms of collecting—for works of literature, visual art, and film, respectively—that offer a vital component in the infrastructural apparatus of modernism. In this seminar we aim to put the canon-making and canon-breaking infrastructures of the literary and visual arts into dialogue with one another. Thinking through the aesthetics and politics of these institutions in their censorious, gate-keeping, generation-defining, and movement-establishing manifestations, we encourage attention to anthologies including the various editions of Untermeyer's <i>Modern American Poetry</i> and the several associated volumes of the <i>Norton Anthology</i>, as well as exhibitions and festivals such as the Armory Show, the Cannes Film Festival, the Venice Biennale, and the Whitney Biennial.
+				</p>
+				<p>
+				Pre-circulated position papers of 5-7 pages might address the topics above, or might turn more specifically to the role of key modernist figures who have served as anthology editors, exhibition curators, and festival jurors, such as Alfred Stieglitz, James Weldon Johnson, Ezra Pound, Jean Cocteau, and Barbara Haskell. Emphases might also center on more recently emerging anthology, exhibition, and festival practices that have retrospectively and proactively shaped the currents, legacies, and afterlives of modernism. We welcome scholars from art history, film studies, literary studies, and beyond, seeking work committed to approaches and methods of various kinds, with particular interest in computational studies, digital humanities analyses, pedagogical reflections, reception histories, and textual criticism, as well as work inflected and informed by critical race theory, ethnic studies, feminist critique, reader-response criticism, and urban studies, among other lenses. Pre-circulated data sets and materials connected to digital humanities initiatives are also welcome.
 				</p>
 			</div>
 	</details>
 	<details closed>
-		<summary class="seminar-title" id="p2">Feminist Migrations in Publishing: Where Do We Go from Here?</summary>
+		<summary class="seminar-title" id="p2">F“Anywhere but the Harlem Renaissance”</summary>
 			<div class="description">
-				<p><strong>Leaders: Erica Delsandro and Laurel Harris</strong>
+			
+				<p><strong>Leaders: Adam McKible (CUNY, John Jay College of Criminal Justice); Eve Dunbar (Vassar College)</p>
+				<p><strong>Invited participant: Paul J. Edwards (New York University)</p>
+				
+				<p>Named the “Harlem Renaissance” well after the fact, the explosion of African American creativity and political activism of the interwar years was never confined only to the northern reaches of Manhattan. The Renaissance was, in fact, a global phenomenon with roots in the US and branches throughout the world. The “Anywhere but the Harlem Renaissance” seminar invites papers that explore New Negro creativity, experience, and/or politics outside of the United States and in other American locations.
 				</p>
-				<p>Even while feminist inquiry has established its importance in modernist studies, the borders between traditional and feminist scholarly practices remain. Feminist scholarship has prompted a questioning of scholarly audience, subject, and media that has been particularly responsive to radical institutional shifts in the humanities. At the same time, this scholarship has often been perceived as niche or eccentric in traditional academic contexts. In this seminar, participants will reflect on who they hope to reach and what they hope to do with their scholarship. Feminist publication is often migratory, seeking new venues and receptive communities. In this seminar, we will explore where and how we find, create, and shape these spaces.
+				<p>There is a long tradition of skepticism of the movement’s association with Harlem. The poet Sterling A. Brown – who wrote <i>Southern Road</i> (1932), a landmark collection that developed a vernacular modernism rooted in travel, folklore, labor, and migration in the US South – regarded Harlem as the “show-window, the cashier’s till, but no more Negro America than New York is America.” Since then, scholarship that de-centers Harlem has taken two main forms. First, it has focused on Black cultural expression and political activism in US urban centers outside New York—including Chicago and Washington D.C.—and cultural networks, such as the circle around the poet Anne Spencer in Lynchburg, Virginia. Secondly, it has mapped the transnational and diasporic contours of New Negro cultural expression and politics in places as far-flung as Mexico City, Havana, Kingston, Berlin, Paris, Moscow, Colón, and London.
 				</p>
-				<p>Seminar participants will not produce position papers for this seminar; rather, they will respond to a series of shared prompts, creating a collective text addressing the questions below. We welcome scholars who are or have been in editing roles–journal editors, series editors, guest editors, etc.--who can speak to feminist praxis as well as anyone interested in exploring forms of and venues for feminist scholarship.
+				<p>TThere is nothing new about the desire to “escape from New York,” as Davarian Baldwin and Minkah Makalani termed it in 2013, but the time is ripe for a reassessment of the Renaissance’s regional, national, and transnational dimensions. Indeed, recent years have seen unprecedented attention to New Negro creativity, activism, and cultural networks in the US South, a focus that sometimes also necessitates attention to the movement’s transnational and diasporic scope. We welcome papers that explore the Renaissance—in anywhere but Harlem.
 				</p>
-					<blockquote display="list-item">
-						<li>If you had the time and space to write whatever you liked, would the genres in which you write, the audience for whom you write, and/or the subjects on which you write shift?
-						</li>
-						<li>Is there anything important to you that you have started to write but stopped because you didn’t know where it would go?
-
-						</li>
-						<li>Which publication venues–if any–most fit the scholarship you do or would like to do, and why?
-						</li>
-						<li>To what extent do you think feminist scholarship should challenge traditional forms and genres and why?
-						</li>
-						<li>How would you describe an ideal publication venue for explicitly feminist work?
-						</li>How can we reimagine the academic peer review and publishing process to more closely align with contemporary (intersectional and anti-racist) feminist goals and ideals?
-						<li>How do we articulate and advocate for the value of work that is non-traditional in terms of genre, audience, and/or subjects?
-						</li>
-					</ul>
+					
 			</div>
 	</details>	
 	<details closed>
-		<summary class="seminar-title" id="p3">Intimate Methods
+		<summary class="seminar-title" id="p3">Asias in the Americas: Performances, Exhibitions, Archives, Repertoires
 </summary>
 			<div class="description">
-				<p><strong>Leaders: Jess Shollenberger and Laura Tscherry</strong>
+				<p><strong>Leaders: Christopher Bush (Northwestern University); Carrie Preston (Boston University)</strong>
 				</p>
-				<p><strong>Invited participant: Melanie Micir</strong>
+				<p>Works such as Amir Mufti’s <i>Forget English!</i> (2016) have demonstrated the powerful and persistent links between philology and Orientalism, highlighting the myriad ways in which textual interpretation—however critical in intent—builds on and remains indebted to the institutions and infrastructures of empire. This is most obviously the case when the object of knowledge is colonized and the forms of knowing committed to the use of a hegemonic language, perhaps the hegemonic language, English.
 				</p>
-				<p>Intimacy is both a feeling and a spatial or formal arrangement. As a method for modernist studies, intimacy enables a range of approaches to difficult, unruly objects—those resistant to repair and, as often, integration into field formations, political frameworks, histories, and canons. For example: the “terrible we” of maladjusted, backward figures trans studies has had to disavow to gain legitimacy as a field (Awkward-Rich, The Terrible We); the Black and sometimes queer “minor figures” who, in the afterlife of slavery and as a matter of survival, transformed gender, sexuality, and domestic and intimate life (Hartman, Wayward Lives); and the biographical “passion projects” of modernist women writers bent on crafting alternative histories that would include their lovers and friends (Micir, The Passion Projects).
-
+				<p>As a counterexample, we might consider the wealth of recent scholarship in Latin American studies on that region’s long-term relationship to Asia, particularly East Asia and the Pacific. Here the objects of knowledge relate to very different colonial histories, and the forms of knowing are not in English, but in languages with their own complex inter-imperial histories. More broadly, much of this scholarship has emphasized the relationship between textual interpretation and para- or extra-textual forms of cultural circulation, from material culture and music to foodways and gestures. In a recent review essay, Laura J. Torres-Rodríguez uses the concept of “critical infrastructure” to bring into dialogue scholarship on topics as diverse as Latin American Maoism and the politics of disability in the Philippines.
 				</p>
-				<p>In this seminar, we seek to explore how intimate practices of research, reading, and writing have been useful and remain crucial to minoritarian studies and specifically Black, queer, trans, feminist, and disability studies approaches to the study of modernism. What does it mean to fall in love with a text, to cathect to or (mis)recognize its latent or overt queer/trans/crip/BIPOC possibilities? Alongside love, investment, fantasy, and the legitimizing power of proximity and attention, what might intimacy enable us to unlearn and disrupt about our objects and our disciplines?
-				</p>
-				<p>We welcome papers that probe the intellectual roots of intimate scholarship (in Benjamin’s The Arcades Project or Barthes’s S/Z, for example) and/or chart pathways for its future in and beyond modernist studies. We acknowledge the work being done to “deidealize” objects of study in minoritarian fields, yet we remain curious about the potentials and potential failures of intimacy configured as a mode of critical practice (Amin, Disturbing Attachments).
+				<p>WThe richness of these counterexamples suggests the possibility of revisiting even the most seemingly paradigmatic examples of “Orientalism” as a regime of knowledge production and control elsewhere. Keeping in mind the prominence of Asian art in Boston museums and the historical centrality of “the China Trade” to nearby Salem, our seminar will explore some of the diverse ways in which knowledge of Asia has been embodied in the Americas. While not leaving behind philology and its critics, we will focus on alternative histories and alternative models of knowing.
 				</p>
 			</div>
 	</details>	
 	<details closed>
-		<summary class="seminar-title" id="p4">Modernism & Photography</summary>
+		<summary class="seminar-title" id="p4">Bureaucratic Infrastructures</summary>
 			<div class="description">
-				<p><strong>Leaders: Christine Fouirnaies and Christos Hadjiyiannis </strong>
+				<p><strong>Leaders: Caroline Z. Krzakowski (Northern Michigan University); Nissa Ren Cannon (Stanford University)</strong>
 				</p>
-				<p><strong>Invited responders: Alejandra Uslenghi and Emily Setina</strong>
+				<p>If infrastructure has often been characterized as “boring,” its close-relation, bureaucracy, has a reputation for being even more so. Yet, at the moment, the stakes could not be higher for either of these structures, both nationally and globally. From the dismantling of the central infrastructures of governments, to the destruction of the archival records that undergird, in Marlene Manoff’s words, “the existence of democratic society,” we are living in a world where these topics have assumed a new urgency, dominating our news cycles and threatening our everyday lives.
 				</p>
-				<p>From its origins in the nineteenth century through to its many developments and reconfigurations over the twentieth and twenty-first centuries, photography has intrigued and invigorated literary practice, providing writers with fresh and different opportunities for expression. At the same time, the coming together of writing and photography (a link made obvious by the term’s etymology: writing with light) became a lens through which literary and media theorists sought to see the world – and engage with it.
+				<p>TThis seminar examines the social and cultural productions that are made possible by modernist bureaucratic infrastructures, as well as the conditions that call for new bureaucratic systems. Both infrastructure and bureaucracy become visible by producing vast amounts of tangible records, documents, and paperwork. Although bureaucracy has its roots in the nineteenth century, modernism comes of age as both governmental and non-governmental institutions and infrastructures—cultural agencies, publishers, insurance companies, funding bodies, and migration controls— adapt and respond to a new set of conditions created by the advent of new technologies, globalization, war, and human migration.
 				</p>
-				<p>This seminar would consider the coming together of literature and photography during the broad modernist era and across different geographies, genres, and languages. What has photography afforded modernist literature? What new things did photography make possible to say? What radical new ways of seeing, representing, and constructing the world has photography presented for modernist writers and readers? What joins modernist writing and photography? What keeps them apart? How did modernist literature respond to advancements in photographic technology?
-				</p>
-				<p>This panel will be led by two scholars working within modernism and photography and who are at the early stages of editing a companion on the subject. For this seminar, we call for brief position papers (5-7 pages) on any work (including work in progress) that engages with modernism and photography. These papers will be pre-circulated, we will match participants, and ask each seminar attendee to respond to one paper on the day. We are also delighted to have with us two leaders in the field as invited participants who have been asked to share with us their most recent work and talk about the state of the field. 
-				</p>
-				<p>The discussion will be structured, congenial, and inclusive; the organisers are committed to ensuring that everyone gets the chance to speak and to be heard.
-				</p>
-				<p>It is the organisers' hope that many participants would be interested in being part of the edited companion the organisers are planning.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p5">Melodrama and Modernism
-</summary>
-			<div class="description">
-				<p><strong>Leader: Josh Epstein
-</strong>
-				</p>
-				<p>This seminar proposes to explore the modernist melodrama—and the relationship between “modernism” and “melodrama” as cultural categories—highlighting the performative dimensions of modernism and the avant-garde. Building on a resurgent critical interest in the melodrama—among them, Ben Singer on the “modernity thesis”; Carolyn Williams and Peter Kivy on melodrama and realist fiction; Ben Kohlmann on Auden and Isherwood; Linda Williams on race melodramas and “body genres”; Victoria Evans on Douglas Sirk—we will consider how melodramas stage the conflicted affects of modernity, and inform modernism even (especially?) at its most neoclassical. Questions we ask may include: How do melodramas of race (e.g. Micheaux, Griffith, Fleming/Selznick, Stahl, Sirk) capitalize on or critique the genre’s emotional excesses in thinking through historicity and national community; in what ways do these texts question the politics of sentiment? In what respects are avant-garde manifestos a rhetorical or typographical approximation of melodramatic performance? To what effect do modernist representations of labor, class, and consumer culture counterpoint images of the workplace with those of sentimentalized domesticity? How do modernist representations of sexuality, reproduction, and abortion complicate the melodrama’s domestic sensibilities (e.g. Lois Weber’s Where Are My Children; Jean Rhys’s Voyage in the Dark; Mina Loy’s The Sacred Prostitute); in what ways does modernist melodrama evoke a queer “aesthetics of impossibility” (Jonathan Goldberg)? How do opera, the stage or film musical, the Singspiel, the radio ballad, Joyce’s “Circe” episode, or Schoenberg’s serialist song cycle Pierrot lunaire reflect alternative approaches to the melos in melodrama? How do documentary and propaganda across media both resist and partake in melodramatic sentimentality? How do film representations of modernist texts highlight or distort their latent or explicit melodramatics? Papers on any genre, medium, or period are welcome; perspectives on late Victorian or postmodern melodrama would throw into relief the elasticity of our central terms.
-
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p6">Tracing Migrations through Commodities in Modernist Literature</summary>
-			<div class="description">
-				<p><strong>Leaders: Michelle Witen and Kiron Ward</strong>
-				</p>
-				<p>This seminar will address the relationships between migration, cultural production, and Modernist literature, reading them alongside the multinational production of popular commodities such as comestibles, textiles, fabrics, organic and inorganic materials.
-
-				</p>
-				<p>Building on our recent and ongoing work on cocoa and tea (i.e., the cultural impact of Cadbury’s activities in Britain, West Africa, and the Caribbean), we are looking to unite and expand a network of researchers who wish to revisit and reconsider the ways that the emergent logic of commodity culture at the fin de siècle have shaped what we have come to understand as global modernism. This seminar touches upon recent scholarship in areas such as the environmental humanities, plantation studies, object-oriented ontology, nonhuman studies, food studies, and critical labour studies.
-				</p>
-				<p>Some of our motivating questions could include, but are not limited to: how can tracing the migration patterns of people through commodity culture be read alongside Modernist literature? How can the archives of companies, like Rowntree’s, Tate & Lyle, Tetley, and others, can be used to recontextualise modernist cultural production from a global perspective? How does the tea-off between Barry’s and Lyons emerge in modernist advertisements and (Irish) literature? How can migration and trading patterns be read alongside piracy and what place does this have in the rise of pirate literature? Can tracking the movement of objects, materials, resources, specific foodstuffs, fabrics, minerals, etc. be read palimpsestually in literature? etc.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p7">The 1940s</summary>
-			<div class="description">
-				<p><strong>Leader: Marius Hentea</strong>
-				</p>
-				<p>In the long tradition of reading modernism through the framework of the decade (the decadent 1890s, the avant-garde 1920s, the politicized 1930s), the 1940s is a conspicuous absence. Was there such a thing as 1940s literature? What was it? Is it possible to think of 1940s literature when the decade was, in effect, cut in two by the end of the war (for some) in 1945? This seminar seeks to understand the varieties of artistic and literary production within the 1940s, a decade that oscillated between the extremes of war and peace, revolution and retreat, destruction and reconstruction. The seminar hopes to expand the ambit of significant 1940s literary production beyond the long shadow of war literature or the generic category of ‘late modernism’. While seminal works have been written on 1940s print culture stalwarts like Horizon or Partisan Review, this seminar would also be keen to consider what the 1940s meant outside the Atlantic metropolitan framework (literary value and production in the context of nascent anti-colonial movements, Partition, American military occupations, Stalinization in Eastern Europe, international law and international institutions, etc.). Contributions on such topics as 1940s film, the academic study of modernism within the academy, the GI bill, ethnic literatures in America and elsewhere, literary-critical reevaluations like New Criticism, and global circulation of texts within the decade would also be welcome. The aim of the seminar is to rethink what the 1940s can look like as a ‘literary decade’. Does it make sense to conceptualize a category like 1940s literature? Or was that decade simply too capacious, too varied in its move from war to peace to cold war, to be contained within a single frame?
-
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p8">Imagining Cinema</summary>
-			<div class="description">
-				<p><strong>Leaders: Hayley O’Malley and Jonathan Foltz</strong>
-				</p>
-				<p>In his book-length essay on film, The Devil Finds Work, James Baldwin recounts how going to the movies in the 1930s not only introduced him to the exhilarating (and mendacious) screen worlds of Hollywood cinema, but also opened up the wider possibilities of what he evocatively calls “the cinema of my mind”—the alternative aesthetics and narratives that he imagined could take place on screen. To explore those possibilities, Baldwin frequently turned to fiction, using literature to articulate and project new visions of film and film culture, from the highly interiorized scenes of film spectatorship in his novels Go Tell it On the Mountain and Another Country to his illustrated children’s book Little Man, Little Man, in which the young protagonist imagines his Harlem city block as a movie. In reclaiming the public act of spectatorship as a literary mode, Baldwin was not alone. Writers from the modernist period to the present have sought to rethink the formal and political possibilities of poetry and prose through acts of intermedial translation. From Gertrude Stein’s “films” and Federico García Lorca’s “screenplays” to the fiction of Kathleen Collins, writers have transformed the page into a “cinema of [the] mind,” recasting cinematic styles, repurposing cinematic practices, and proposing alternative systems of film production.
-
-				</p>
-				<p>This seminar looks to this rich history of imaginary cinema to ask a series of interlocking questions. What particular techniques, genres, and literary spaces have writers employed to imagine or reimagine the film medium, and what have been the aesthetic, social, and political stakes of those projects? If literary writers began writing with and against the movies as soon as they appeared, how might we periodize those practices, either in relation to the history of literary modernism or to the wider media histories in which it was embedded? In what ways have technological changes—from synch sound to the rise of television—impacted literary imaginations of cinema? And looking beyond the literary, what other imaginary cinemas can we find in mediums such as music, painting, and scrapbooking—practices that Pavle Levi calls “cinema by other means”—and how do those compare to their literary counterparts?
-
-				</p>
-				<p>Perhaps most importantly, this seminar asks participants to think methodologically about the utility of different approaches—e.g., historical, historicist, theoretical, materialist, speculative—for illuminating the ideas, practices, and stakes of imagined cinemas. Modernist studies has long been attuned to the dynamic interplay between literature and film (e.g., Laura Marcus, Susan McCabe, Charlene Regester, and Lara Fiegel), and new work in the field continues to make cross-arts entanglements a vital site for scholarly inquiry (e.g., Pardis Dabashi, Alix Beeston, and Sarah Gleeson-White). This seminar builds on that tradition within modernist studies by inviting collective dialogue about new sites for and approaches to thinking about literature and film together. Participants will be asked to write a short position paper (5-7 pages) or develop an alternative project (e.g., syllabus, video essay, digital mapping project).
-
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p9">Queer Kinship</summary>
-			<div class="description">
-				<p><strong>Leaders: Elizabeth Blake and Aimee Armande Wilson</strong>
-				</p>
-				<p>“Queer theory has always been a theory of kinship,” argue Teagan Bradway and Elizabeth Freeman in Queer Kinship: Race, Sex, Belonging, Form (2022), noting further that these entwined theories “have much to contribute to ongoing debates about formalism and the politics of aesthetics.” The political extremes of the early twentieth century and the formal and aesthetic ideals of modernism make these debates particularly salient to modernist studies, and the inclusion of Freud, with his temporal and ideological links to modernism, in Bradway and Freeman’s list of “foundational texts of queer studies” invites further reflection on the role of queer kinship in modernist literature, history, and theory. We are particularly interested in papers that challenge the white, heteronormative principles through which kinship in modernism is often understood, and invite papers that consider modernist queerness in relation to topics such as:
-
-				</p>
-					<blockquote display="list-item">
-						<li>Alternative forms of kinship, chosen family, and family abolition
-						</li>
-						<li>Interrupted kinship occasioned by birth control, abortion, miscarriage, infertility, impotence, murder, or warfare
-						</li>
-						<li>“Fictional kinship,” which refers to literary constructions of genealogy that rely on storytelling and the imagination to re-write biological kinship
-						</li>
-						<li>Kinship beyond the human
-						</li>
-						<li>The centrality of genealogical bloodlines to fascist, eugenicist, and white supremacist ideologies
-						</li>
-						<li>Marriage, divorce, and other domestic configurations, including Boston marriages, female husbands, and other queer and trans unions
-						</li>
-						<li>Representations of illegitimacy and bastardy
-						</li>
-						<li>Pregnancy, childbirth, the postpartum period, parenthood
-						</li>
-					</ul>
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p10">Modernism and its Neighborhoods</summary>
-			<div class="description">
-				<p><strong>Leaders: Ria Banerjee and Anushka Sen</strong>
-				</p>
-				<p>Chicago, the location of this conference, is frequently described as a city of neighborhoods. This phrase signals the distribution of the city’s material structures as well as its affective knots of pride, belonging, and anxiety. This seminar not only confronts the political importance of neighborhoods, but also takes up modernist tools to trouble the idea of the neighborhood as a self-contained and knowable entity. The twentieth-century marks a view of the village or countryside as a space in crisis, and indeed in tense relationship to the metropolitan city. Zora Neale Hurston’s lively depictions of Eatonville on the one hand, and New York on the other, suggest the visible antagonisms between village and city (Hurston chose the village) do not necessarily imply a separation of worlds; rather, they are materially connected by flows of migration that continue in both directions. While such analyses effectively texture the spaces of the village or city as dynamic entities co-constituting each other, the smaller unit of the neighborhood sometimes remains under-theorized in its relationship to migration. There is abundant scholarship on modernist neighborhoods as networks such as the Harlem literati and Bloomsbury. However, we are interested in theorizing neighborhoods through a wider range of terms and ideas, in the hope that it will illuminate neglected dimensions of modernist migration, such as authors' relationship to gentrification, or the movement of unhoused people and animals.
-				</p>
-				<p>What exactly are modernism’s neighborhoods beyond overfamiliar spatial markers, and how do they survive, enact, as well as stifle migratory movement? We know of modernism’s scrutiny of the domestic interior and its fascination with the teeming cosmopolitan city, but does it engage seriously with the neighborhood’s ambiguous status between walls and sprawl?  Can a neighborhood be a community in the sense that so many alienated individuals crave in neoliberal times, or is it fated to gentrification and policing? What might modernism tell us?
-The following topics, among others, are welcome:
+				<p>We welcome papers that approach modernist bureaucratic infrastructures from a broad geographic scope using examples, case studies, or theoretical approaches. Some topics for consideration could include, but are not limited to:
 				</p>
 				<p>
 					<blockquote display="list-item">
-						<li>“Authenticity,” cosmopolitanism, and gentrification
+						<li>The relationship between infrastructure and bureaucracy
 						</li>
-						<li>Housing, shelters, and neighborhood organizations
+						<li>Narratives made possible (or impossible) by new bureaucratic infrastructures
 						</li>
-						<li>Performing neighborhood politics
+						<li>Representations of bureaucratic structures and of bureaucrats
 						</li>
-						<li>Neighborhood tourism, voyeurism, and the exotic
+						<li>The cultural or political values inherent in infrastructures and institutions
 						</li>
-						<li>Neighborhoods in colonial or global south cities
+						<li>Causality and paperwork
 						</li>
-						<li>The ecology of neighborhoods
+						<li>Bureaucratic entanglements with extraction practices, environmental degradation, and colonial expansion.
 						</li>
-						<li>Neighborhood rumors, gossip, fugitivity, and policing
+						<li>Feminist and anti-racist approaches to studies of bureaucratic infrastructures
 						</li>
 					</ul>
 				</p>
-				<p>Format: Participants who sign up will be asked to first share their abstracts approximately a month before the conference, and then to submit a short paper by a deadline a week or two in advance of the conference dates. Everyone will be invited to read each other’s work ahead of time, but we will ask participants to focus on the papers in their particular group, which we will set up according to the abstracts.
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p5">The Business of Poetry</summary>
+			<div class="description">
+				<p><strong>Leaders: Melissa Girard (Loyola University, Maryland) and Karen Leick (University of Illinois at Chicago)</strong>
+				</p>
+				<p><strong>Invited participant: Melissa Bradshaw (Loyola University, Chicago)</strong>
+				</p>
+				<p>Taking our cue from Harriet Monroe’s observation that the average poet earned only $200 a year from their poetry, this seminar invites participants to showcase work and projects that investigate the economic and financial infrastructures of modernist poetry, broadly conceived. How did poets earn a living throughout the long modernist era and what can their careers teach us about the public life of poetry? Participants may wish to share work that addresses (but is by no means limited to) the following topics, many of which may intersect and overlap:
 				</p>
 				<p>
-				At the seminar itself, we plan to allot a few minutes for each group to present their experience of reading each other’s work. Once each group does so, we will collectively try to identify the patterns, stakes and most pressing questions that emerge from our projects, and collectively discuss them.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p11">The Return to Character</summary>
-			<div class="description">
-				<p><strong>Leaders: Robert Higney and Lisa Mendelman</strong>
-				</p>
-				<p><strong>Invited responders: Marta Filgerowicz and Swati Rana</strong>
-				</p>
-				<p>Modernism’s investments in character have a high-profile history, from E. M. Forster’s flat and round distinctions and Zora Neale Hurston’s analysis of the “characteristics” of Black art and expression, to Virginia Woolf’s transformation in human character “on or about December 1910.” Early twentieth-century culture featured a range of iconic figures, including the flapper, the dandy, the “it girl,” the New Negro and New Negro woman, the U.S. Filipino immigrant, the alcoholic, and the delinquent. Appropriately, character has become an increasingly salient term in modernist and twentieth-century scholarship, with a number of recent monographs and special issues on the topic (e.g. Amanda Anderson, Rita Felski, and Toril Moi’s Character [2019], Swati Rana’s Race Characters [2020], ASAP/J’s “The Character of Literary Criticism” [2021]). Our seminar extends these recent discussions, with a particular interest in the tensions that inhere in notions of both “modernism” and “character.”
-
-				</p>
-				<p>How does characterization work as a reading practice, a component of scholarly argument, and a key term in the history and theory of aesthetic forms? How does character engage with race, gender, sexuality, ability, and other aspects of embodied identity? How can literary critics attend to character’s valences across disciplines and media formats—from, say, film studies to literary studies to political theory? Where does character intersect with collective and nonhuman forms like networks, institutions, and infrastructure? What moral, ethical, and political traces does character retain in the contemporary academy, and what implicit and explicit roles has it played in ongoing critical debates?
-
-				</p>We invite position papers that consider these or other questions. We are especially interested in approaches that elucidate how character bridges the social and formal, the individual and the collective, embodiment and abstraction—and those that, in Woolf’s words, might help us “to live a single year of life without disaster.”
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p12">New Work in Old Mags</summary>
-			<div class="description">
-				<p><strong>Leaders: Adam McKible and Louise Kane</strong>
-				</p>
-				<p>Almost two decades since Sean Latham and Robert Scholes proclaimed the “rise of periodical studies,” a host of publications and collaborative initiatives have explored modernist magazines and periodicals through innovative approaches. From the use of digital humanities and computational methods, to international partnerships such as the Transnational Periodical Cultures (TPC) research group based at the University of Mainz, we find ourselves in a periodical renaissance in which plenty of projects continue to develop new ways of looking at old magazines.
-				</p>
-				<p>Tapping into the renewed energy of these efforts, this seminar invites participants to showcase work and projects that are performing ‘new work in old mags’. The scope of the seminar is broad and interdisciplinary. Participants may wish to share work that touches on (but is by no means limited to) the following questions, many of which may intersect and overlap:
-				</p>
-				<p><blockquote display="list-item">
-						<li>genre: what makes a magazine ‘little’, ‘modernist’, or ‘mass’? What happens when we play with these definitions and the temporal and/or cultural stratifications they connote?
-						</li>
-						<li>language: applying translation studies or linguistic approaches to the study of mags
-						</li>
-						<li>magazines and visual culture: transverbal approaches to periodicals
-						</li>
-						<li>cultural/ national boundaries: projects that approach magazines as borderless or transnational
-						</li>
-						<li>magazines and media: how can we approach magazines in relation to other media forms?
-						</li>
-						<li>magazines and interdisciplinarity: what sort of methodologies, borrowed from other disciplines, offer new ways of understanding old texts?
-						</li>
-						<li>materiality and print culture: magazines as circulating objects, physically produced constructions
-						</li>
-						<li>magazines and digitization/ archives: projects that create magazine repositories, the ‘magazine’ as etymological storehouse
-						</li>
-						<li>periodical studies and doubt: the ‘fall’ of periodical studies, how ‘old mags’ present biased/inaccurate accounts of historical events, problematic periodicals
-						</li>
-						<li>We particularly welcome participants who may be part of collaborative approaches to the study of magazines.
-						</li>
-					</ul>
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p13">Breakdown/breakthrough</summary>
-			<div class="description">
-				<p><strong>Leaders: Alexander Hartley, Gasira Timir, and Jesse McCarthy</strong>
-				</p>
-				<p><strong>Invited participant: Jesse McCarthy</strong>
-				</p>
-				<p>In the stories writers and critics tell about the forward motion of literary creativity, two terms have loomed large since the era of high modernism: the breakdown and the breakthrough. Breakdown has been a preferred term for the turn to the self, the exposition of shattered subjectivity, the Freudian excavation of the individual unconscious. Breakthrough, conversely, has been associated with the turn to the collective, the assertion of a political imperative, and the Marxian commitment to revealing and changing the fabric of social life.
-
-				</p>
-				<p>American lyric poetry at midcentury provides paradigmatic examples of both. A moment of breakdown is Robert Lowell’s ‘confessional’ turn in Life Studies (1959), culminating in his lyric speaker’s exclamation that “my mind’s not right”. A model of breakthrough, by contrast, is found in the newfound Black nationalism of Gwendolyn Brooks’s In the Mecca (1968), with its closing exhortation to “Conduct your blooming in the noise and whip of the whirlwind.”
-				</p>
-				<p>The relevance of these ‘breaks’ is not confined to any one period and has not ebbed. Contemporary theorists continue to rely on the idea of ‘breakdown’ to characterise racial capitalism today—take, for example, Anna Kornbluh’s discussion of the breakdown of mediation as a central feature of “too late” capitalist life in Immediacy (2024); or alternatively, Fred Moten’s characterisation of the aesthetics of the Black radical tradition in In the Break (2003).
-
-				</p>
-				<p>For this seminar, we invite short, propositional papers (5–7 pages) that engage “the breakdown” and/or “the breakthrough” as central topoi. Topics addressed might include any of the aforementioned, from American lyric poetry at midcentury to the Black Arts Movement, the Black Radical tradition, and/or the negation of mediation; alternatively, they might address topics such as: accelerationism and/or accelerationist anxieties; environmental degradation/activism; the psychoanalytic revival; or any other sites of breakdown/breakthrough.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p14">Global Modernism and the Religious Turn</summary>
-			<div class="description">
-				<p><strong>Leaders: Sarah Coogan and Romana Huk</strong>
-				</p>
-				<p>In her 2021 contribution to Douglas Mao’s edited volume addressing The New Modernist Studies, Susan Stanford Friedman asserts the need for new comparative and interdisciplinary methodologies in addressing the relationship between religion and global modernism. While, as Friedman notes, a robust conversation has emerged in recent years surrounding the role of religion in Anglo-American modernism—and in some cases engaging a broader geographical context—much work remains to be done at the intersection of postsecular and postcolonial readings of modernity and modernism(s).
-				</p>
-				<p>This panel proposes to foster conversation around that significant intersection. Papers might consider: what religion means in a modernist context; the roles narratives of secularization and postsecularism play in modernist studies; the relationship between religion and literary form; and the relationships between religion and colonialism in modernist writing, among many other subjects. We hope that participants will consider both how new methodological approaches to religion might refine our understanding of global modernism, and how modernist writing might illuminate developments in religious studies.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p15">Modernism and Wartime Migrations</summary>
-			<div class="description">
-				<p><strong>Leaders: Caroline Zoe Krzakowski and Paula Derdiger</strong>
-				</p>
-				<p>War generated some of the most legible migrations that characterize the modernist period. The First and Second World Wars, the Spanish Civil War, the second Sino-Japanese War, and the emerging Cold War involved large-scale movements of military personnel and diplomats, spies, prisoners of war, Holocaust victims, ghetto and internment camp victims, refugees, émigrés, and evacuees.
-				</p>
-				<p>War also changed the way culture and information traveled across borders and throughout expanding and shifting networks.. Many writers, artists, filmmakers, and journalists migrated as they responded to the exigencies of wartime life – as artists, workers, and citizens. The highly mobile, globalizing realities of modern warfare prompt special attention to the significance of borders and thresholds of all kinds within the modernist period, from the politically constituted borders defining nation states and empires to the physical and terrestrial boundaries within built, infrastructural, and natural environments.
-				</p>
-				<p>We invite participants who are eager to think through the significance of wartime migration and mobility for modernist studies across the geographic, formal, and disciplinary spectrum.
-
-				</p>
-				<p>Potential paper subjects include but are not limited to:
 					<blockquote display="list-item">
-						<li>Migrations across formal, disciplinary, or medial boundaries within particular texts or within a group of related texts that reckon with war;
+						<li>Cases of commercial, popular, and/or profitable poetry;
 						</li>
-						<li>Representations of migration or mobility related to warfare and wartime conditions in literature, visual art, film, performance, or radio;
-
+						<li>How books, periodicals, anthologies, and other media helped poets earn an income;
 						</li>
-						<li>Cultural artifacts and technologies that are central to the history of wartime migration, such as maps, trains, ships, airplanes, transportation networks, communication technologies, camps, bunkers, bomb shelters;
-
+						<li>What archival research reveals about financial negotiations between publishers, editors, and poets;
 						</li>
-						<li>Biographical, archival, social, or institutional contexts for migrating writers, visual artists, filmmakers, or journalists.
+						<li>The relation between commercial and prestige economies for poetry;
 						</li>
-					</ul>
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p16">Modernism and the Therapeutic Imaginary</summary>
-			<div class="description">
-				<p><strong>Leaders: Christian Gelder and Vidya Venkatesh</strong>
-				</p>
-				<p><strong>Invited Participants: Beth Blum and Kevin Duong</strong>
-				</p>
-				<p>The turn of the twentieth century witnessed the emergence of a diverse therapeutic imaginary. Alongside Freud’s well-known attempts to liberate desire, the early years of the century also saw the creation of a new set of psychopathologies, the proliferation of a series of therapeutic techniques, and the beginnings of several psychotherapeutic and psychiatric traditions. This period witnessed the explosion of discourses about doctoring, diagnosing and healing, which were accompanied by a range of medicalised accounts of the mind, its sicknesses and capacities for recovery. But the therapeutic imaginary also carried with it a host of often disturbing political questions about the relationship between private psychology and social organization, about mental health and race, and the politics of childhood, adulthood, partnership and procreation. As the rise of urban mass culture increasingly motivated large-scale statistical approaches to human life, the therapeutic imaginary, in all its guises, began to interrogate the possibility of a ‘healthy, happy and efficient’ population, to cite Adolf Meyer’s phrase – one both in keeping and in contradiction with capitalist modernity.
-
-				</p>
-				<p>The purpose of this seminar is to explore the connections between modernism and the therapeutic imaginary. How did modernist literature respond to the rise of therapy? How did literary narrative either confirm or resist psychotherapeutic diagnostics? How was the clinical encounter represented in literary writing, and how was literary writing represented in psychiatric and psychotherapeutic medicine? What is the relationship between literature and therapeutic advice? Looking beyond the well-established tendency in modernist literature to theorize consciousness and the mind, how might we read modernist authors as theorists of the (psycho)therapeutic in particular? And finally, what role did literature play in confirming or resisting the politics associated with this imaginary? This seminar invites contributors to respond to these questions or to examine other aspects of modernism’s engagement with therapy.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p17">Thinking Modernism After Queer Theory</summary>
-			<div class="description">
-				<p><strong>Leader: Agnes Malinowska</strong>
-				</p>
-				<p>In this seminar, we investigate how recent theoretical developments in queer and trans theory may impact the way we teach, write, and think about gender and sexuality in the cultural and social spaces of modernism and modernity (broadly and globally construed).
-				</p>
-				<p>Topics of interest include:
-					<blockquote display="list-item">
-						<li>How ideas and methods associated with the “temporal turn” in queer theory encourage us to reconsider well-known modernist investments around time, affect, identity, and style
+						<li>Institutional grants and fellowship support for poets and poetry;
 						</li>
-						<li>How queer of color critique can help us  analyze modernist social formations as situated at the intersection of race, gender, sexuality and class—and likewise evaluate how these formations track or diverge from hegemonic and oppressive nationalist ideals and practices
+						<li>Private patronage for poets and sources of private funding or partnerships for the art;
 						</li>
-						<li>How queer theoretical investments in the wayward, the sideways, the non-linear, non-identitarian, anti-social, and utopian invite us to reimagine modernist accounts of exile, migration, and displacement
+						<li>Poets’ varied careers and “side hustles” both within and outside the academy;
 						</li>
-						<li>How recent historical excavations of queer and trans sexuality and identity re-orient the locations and meanings of “modernity” in gender and sexuality studies. What, for instance, does “modernity” mean for the trans subject (in light of the history of trans medicine)? How might histories of sexual scientific thought ask us to reevaluate modernist sex and gender taxonomies?
+						<li>The incorporation of modernist poetry in the academy and/or the past and future influence of university teaching on modernist poetry;
 						</li>
-						<li>How work in biopolitical and necropolitical studies centered on gender and sexuality can help make sense of the modernist management of queer lives and populations
+						<li>Cases of poets who faced financial hardship, economic precarity, and poverty;
 						</li>
-						<li>How theories of queer performance and performativity encourage new narratives around the production of modernist identity formations, popular forms of gender display, the circulation of queer affect, and embodied social experience most broadly
+						<li>ow race, gender, and class affected the career prospects of individual poets and/or the financial viability of the art form;
 						</li>
-						<li>How cultural producers working in tandem with developments in gender and sexuality studies—for instance, Black filmmakers associated with the New Queer Cinema movement—have sought to imagine or in some sense recover “queer modernist” lives and scenes that are shrouded in archival silence or apparently lost to history
+						<li>How renewed assaults on funding for universities and public institutions are reorienting our perspectives on the business of modernist poetry.
 						</li>
 					</ul>
 				</p>
-				<p>The seminar welcomes participants invested in teaching, thinking, or writing about any aspect of modernist cultural, social, and aesthetic production or history. Participants interested in cultural objects and scenes that live on the global, political, racial, and economic margins of “queer modernism” are especially encouraged to join. This seminar seeks to include a diverse range of scholars across professional statuses and institutional affiliations.
-
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p6">Defensible Anthropocentrisms</summary>
+			<div class="description">
+				<p><strong>Leaders: Siân White (James Madison University); Paul Saint-Amour (University of Pennsylvania)</strong>
 				</p>
-				<p>Each participant will write a brief and informal position paper (~5 pages) that is pre-circulated and read by all participants prior to the conference. The seminar welcomes reflections on pedagogy, scholarship, or some combination of both.
+				<p><i>Anthropocentrism:</i> a ubiquitous keyword with a bewildering spectrum of meanings. In the earliest use of it recorded by the <i>OED</i>, in 1897, it was simply the masculine counterpart to <i>gynocentrism</i>. But in the early twentieth century, as species eclipsed gender as its centered term, the word’s meanings proliferated. For some, anthropocentrism came to be a normative term for the view that only humans were intrinsically valuable. For others, it was a descriptive term for concepts that centered the human but made no value statements about that centrality. For still others it was a perceptual term for paradigms grounded in human bodies and their sensoria. And a thousand more anthropocentrisms bloomed inside and beside these.
+				</p>
+				<p>In this seminar we’ll ask, first, what anthropocentrisms we find exhibited, articulated, and debated in modernist works, many of which wrestle with the parameters of the human and the geometry of its relation to its others. Second, we’ll ask which of these modernist anthropocentrisms we might consider <i>defensible</i>, whether normatively, descriptively, or perceptually. Today, the dominant sense of anthropocentrism is as a synonym for anthroposupremacy. It’s time to ask, are there are ways of centering the human that don’t participate in species chauvinism? If so, how do those weaker anthropocentrisms engage, in their turn, with other logics and categories of difference?
+				</p>
+				<p>We invite brief position papers (5-7 pages) on any work (including work in progress) that engages these questions. These papers will be pre-circulated and read by all participants prior to the conference.
 				</p>
 			</div>
 	</details>	
 	<details closed>
-		<summary class="seminar-title" id="p18">Essentializing Modernism: Period, Place, and Difference in Modernist Studies</summary>
+		<summary class="seminar-title" id="p7">Diagnosis and/as Modernist Practice</summary>
 			<div class="description">
-				<p><strong>Leaders: Joel Rhone and Chris Gortmaker</strong>
+				<p><strong>Leaders: Robert Volpicelli (Randolph Macon College); Emily Bloom (Sarah Lawrence College)</strong>
 				</p>
-				<p><strong>Invited participants: Peter Kalliney and Lisa Siraganian</strong>
+				<p>This seminar explores the cultures and histories of diagnostic practices, especially as they developed and changed around the institutionalization of modern medicine at the turn of the last century. What infrastructures emerged to identify and standardize forms of alterity and illness, and how do these forms influence modernist aesthetics and critical practices? We are eager to take up questions having to do with how diagnostic practices were used in shaping categories of human difference related to gender, sexual orientation, race, and disability. Such thinking will then inform discussions of the representation of diagnostic practices and/or categories within art and literature from the modernist period, broadly defined.
 				</p>
 				
-				<p>Literary modernism is a story of distinctions and linkages, exclusions and essences. From T.S. Eliot’s tradition of impersonality, Henry James’s “competition with life,” and Virginia Woolf’s “character in itself” to formalist engagements with race in Du Bois’s Souls of Black Folk, Jean Toomer’s Cane, and Ernest Hemingway’s The Sun Also Rises, modernism’s critical definitions and artistic creations stake out essences in terms of form, period, place, and ascriptive identity. To map and evaluate the role of essentialist argument in modernist studies, this seminar is organized around two interrelated questions: Should the study of modernism necessarily involve arguments about what counts as a modernist artwork or discourse? How do we balance the explanatory power of essentialist arguments with the exclusions they necessitate?
+				<p>Additionally, participants will be prompted to think about diagnosis as an interpretive framework applied to art and literature by readers and critics both inside and outside academia. On this last point, the seminar will ask questions along the following lines: What are the consequences of trying to diagnose characters within a text? What should we make of the urge to read aesthetic elements as symptoms? What are the practical and ethical limitations of such diagnostic exercises? What is the relationship between close reading and diagnostics? In putting forward such questions, the seminar hopes to distill something about the workings of diagnosis as a set of hermeneutic practices as well as to better understand how such practices sit alongside other theories and methodologies of interpretation.
 				</p>
-				<p>Further questions for thinking through research methods and pedagogical practices include: What essentialist or anti-essentialist arguments about modernism do you find to be an analytic aid or impediment in your research or, more broadly, in modernist studies as a field? How can historical periodization inform—or not inform—the ways we explain what modernism is? How should we relate the formal or thematic essence of a work—that which may or may not make it modernist—to the ascriptive identity of its author? How should we relate the historically variable politics of modernist artworks to the inclusive/exclusive politics of modernism as a canon?
+				<p>Following the usual seminar model, participants will be asked to submit brief position papers (5-7 pages) that speak to the issues outlined above. These papers may be standalone essays or contextualized excerpts from longer works. Paper topics include but are not limited to:
 				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p19">Data and/in Modernism</summary>
-			<div class="description">
-				<p><strong>Leaders: Mia Cecily Florin-Sefton and Naomi Michalowicz</strong>
+				<p>
+					<blockquote display="list-item">
+						<li>the culture and history of diagnostic categories within modern medicine
+						</li>
+						<li>the social, material, and technological infrastructures of diagnosis
+						</li>
+						<li>the representation of diagnostic categories at the turn of the century and afterward
+						</li>
+						<li>diagnosis as a narrative structure and/or element of plot
+						</li>
+						<li>the lived experiences surrounding diagnosis within life writing and/or memoir
+						</li>
+						<li>past and present efforts to diagnose artists and authors from the modernist period
+						</li>
+						<li>practices of diagnostic reading from psychoanalysis to the medical humanities
+						</li>
+						<li>the status of diagnosis within feminist, queer, and disability studies and/or theories
+						</li>
+					</ul>
 				</p>
-				<p>What does the study of modernism and modernist experimentation offer histories of data, data visualization, and information science? To date, literary histories of modernism have prioritized the particular, the unrepresentable, and the ineffable, in contrast to a preoccupation with “type” and statistical average in Victorian realism. Yet the historical period called modernism coincides directly with widespread innovation in methods of social quantification, and what Khalil Muhammad calls “a total revolution in racial data generating technologies.” Indeed, numerous Black and working-class “modernist” authors—George Schuyler, W. E. B. Du Bois, Upton Sinclair, Gertrude Stein, Ann Petry, Jean Toomer, among others—were entirely preoccupied with the relationship between “statistics and storytelling” (Du Bois). Moreover, the sudden emergence of new data regimes in the early 20th century gave rise to an existential crisis of representation which is, we propose, quintessentially modernist in nature. In light of this claim, we invite papers that explore the relationship between modernist aesthetic innovation and forms of data visualization, data science, data story-telling, modernist plot and data plotting, and the history of the “data” concept.
-				</p>
-			</div>
-	</details>	
-	<details closed>
-		<summary class="seminar-title" id="p20">Migrating Discourse Networks</summary>
-			<div class="description">
-				<p><strong>Leaders: Daniel Raschke and Edward P. Dallis Comentale</strong>
-				</p>
-				<p>This seminar invites participants to ponder on modernity's distinctive discourse networks as they start to migrate, morph, and malfunction during the modernist period and beyond.
-				</p>
-				<p>Friedrich Kittler's dictum, “Media determine our situation,” sets up a version of modernity continually reconfigured by cultural institutions, bodies of knowledge, transmission concerns, and technological a priori. Per Kittler, in 1800 discourse is shaped by a romantic-classical ethos of subjective intentionality and intimacy, while in 1900, it is produced by random generators, storage devices, and transmission networks with ever more minute and indiscriminate capacities. As a seminar, we hope to map and debate the trajectories of the discourse networks manifesting around the year 2000.
-				</p>
-				<p>Kittler was interested in dismantling hegemonic institutions and, like Walter Benjamin, he was particularly attentive to those breaks and disjunctures, historical offshoots, most often brought on by malfunctioning or radically misused technologies. Nietzsche wrote “Our writing tools shape our thoughts” finding joy experimenting with his typewriter in the face of disability. Derrida, fond of his Apple Macintosh, once reluctantly admitted that there could be no deconstruction without computers. However, as Balsamo famously observes, information technologies have veiled gendered and racialized undercurrents as both “typewriters” and “computers” were once synonymous with female clerical workers.
-				</p>
-				<p>Writers, artists, and thinkers from across the globe vehemently resist and meditate on hegemonic technological infrastructures. This seminar invites participants to explore and conceptualize the agents, circuits, and components of discourse networks disrupting and glitching media and information technologies. In particular, we invite participants to consider the mediation and processing of modernist concerns in terms of forms, interfaces, and agency.
-				</p>
-				<p>Potential inquiries include: What forms might novel discourse networks take? Will they be discerned on the printed page and in the overturning of various literary cults? Or within rectangular windows interfaces and the constant tapping of digital exchange?
+				<p>Prior to the conference, the seminar leaders will then circulate these papers, along with notes and questions for discussion, to all participants. 
 				</p>
 			</div>
 	</details>	
 	<details closed>
-		<summary class="seminar-title" id="p21">American Expats & European Sirens</summary>
+		<summary class="seminar-title" id="p8">Ecologizing Modernist Infrastructures: Forms and Methods for Regenerative Futures</summary>
 			<div class="description">
-				<p><strong>Leaders: Clément Oudart and Charlotte Estrade</strong>
+				<p><strong>Leaders: Anne Raine (University of Ottawa); William Kupinse (University of Puget Sound); Sookyoung Lee (St. Lawrence University)</strong>
 				</p>
-				<p>This seminar seeks to analyze a very specific mode of migration: expatriation. As opposed to the collective nature of migration, expatriation may be seen as an individual form of migration. Whether chosen or endured, for a short or a long span of time, expatriation has been chosen by many modernist writers and artists, from Gertrude Stein and Edith Wharton to T.S. Eliot and H.D., who settled permanently in France or in England. Relocation has shaped the life of countless modernists.
+				<p>If “to be modern is to live infrastructurally,” our current moment raises urgent questions about how to defend public infrastructures from neglect and privatization (Rubenstein et al. 578), while also mobilizing resistance against the invasive infrastructures of fossil capital and proposing “alternative visions of infrastructure” that recognize the world-making activities of nonhuman life (Johnson and Nemser 1; Krieg et al.). As the infrastructures of modern academic and social life crumble around us, under siege from neoliberal austerity and right-wing populism as well the worsening impacts of climate change, how can we renovate our research, teaching, and service work to resist oppressive and exclusionary infrastructures, defend and repair those that contribute to collective well-being and multispecies flourishing, or inhabit and repurpose the detritus of modernity’s “broken world,” “making use of fissures and flaws to build the conditions for other forms of life to emerge” (Johnson and Nemser 7)?
 				</p>
-				<p>To what extent does expatriation offer a decentered frame of analysis or a distanced perception of the US and American identity? How does the length of people’s stay overseas contribute to the shaping of their work, be it poetry, fiction, drama or other, more hybrid generic forms? Indeed, one should make a distinction between writers whose expatriation was definitive (T.S. Eliot or H.D. offer a case in point) and those for whom expatriation took multiple stages (e.g. Mina Loy, Claude McKay, Ezra Pound). For many, expatriation was a temporary yet memorable stage of their career: for Ernest Hemingway, John Dos Passos, ee cummings, Langston Hughes, or F. Scott Fitzgerald, expatriation(s) constituted formative moments, both personally and artistically. In contrast, one may also consider their choice in light of those Americans who notably resisted moving to Europe, such as William Carlos Williams (who had studied in Geneva and Paris) and William Faulkner.
+				<p>This Modernism & Environment SIG-sponsored seminar invites participants to share works in progress of any kind--position papers or notes from the field, personal or methodological reflections, teaching ideas or plans for community engagement projects, or anything else that connects modernist studies with environmental justice or climate action. Like the hands-on workshop our SIG is also sponsoring, the seminar will encourage participants to think about how the principles of slowness, fluidity, and plurality inherent to modernist reading, writing, and media production offer alternatives to modern infrastructural models that generate both human disposability and ecological waste. Our goal is to open a space for collaborative discussion, brainstorming, resource-sharing, and community-building around how modernist studies can contribute to broader efforts to renovate, resist, defend, repair, critically reinhabit, or propose alternatives to the infrastructures we’ve inherited.
 				</p>
-				<p>This seminar will explore the stakes of American transatlantic expatriation namely in relation with migration, exile, networks, communities, colonies, racism, xenophobia, homesickness, tourism, cosmopolitanism, international modernism, individual and collective transnational experience.
+				<p>PSuggested reading:
+				</p>
+				<p>
+					<blockquote display="list-item">
+						<li>Johnson, Adriana Michele Campos, and Daniel Nemser, “Introduction: Reading for Infrastructure.” <i>Social Text</i>, vol. 40, no. 4, Dec. 2022, pp. 1–16.
+						</li>
+						<li>Rubenstein, Michael, Bruce Robbins and Sophia Beal. “Infrastructuralism: An Introduction.” <i>Modern Fiction Studies</i>, vol. 61, no. 4, Winter 2015, pp. 575–86.
+						</li>
+						<li>Krieg, Lisa, Maan Barua and Josh Fisher. “Ecologizing Infrastructure: Infrastructural Ecologies.” <i>Society + Space</i>, Nov. 2020, https://www.societyandspace.org/forums/ecologizing-infrastructure-infrastructural-ecologies.
+						</li>
+						<li>LeMenager, Stephanie. “The Humanities After the Anthropocene.” The <i>Routledge Companion to the Environmental Humanities</i>, edited by Ursula K. Heise, Jon Christensen and Michelle Niemann, Routledge, 2017, pp. 489-97.
+						</li>
+						<li>Levine, Caroline. <i>The Activist Humanist: Form and Method in the Climate Crisis</i>. Princeton UP, 2023.
+						</li>
+					</ul>
+				</p>
+				
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p9">Fascisms Old and New—Remnant Infrastructures, New Irruptions</summary>
+			<div class="description">
+				<p><strong>Leaders: Madelyn Detloff (Miami University); Erin G. Carlston (University of Auckland)</strong>
+				</p>
+				<p>What is the infrastructure of fascism? How might understanding fascist infrastructures of the 20th century help us to negotiate 21st century political movements that repurpose remnants of modernist-era Fascism? What are the implications of either using the term fascism to describe 21st century political movements, or prohibiting its use? What tools does modernist studies provide for identifying fascist infrastructures? what lessons for resisting the lure of fascist ideology, for community building, for survival? Are there negative lessons from modernism(s) that might show us strategies, actions, or inactions to avoid or challenge?
+				</p>
+				<p>This seminar invites participants to contribute 5 to 7 - page (1200-2000 - word) essays prompted by these questions. As the conference description notes, infrastructures can be regarded capaciously as material, symbolic, affective, communal, historical, and/or ecological.</p>				
+				<p>Papers are encouraged to be speculative in tone and generative of a rich interchange of ideas with our seminar participants. The seminar will be an open discussion among participants, with the seminar leaders providing moderation to ensure equitable participation if necessary.</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p10">Feminism, Disability, and Modernist Accessibility</summary>
+			<div class="description">
+				<p><strong>Leaders: Karen Weingarten (Queens College, CUNY); Kate Schnur (Queens College, CUNY)</strong>
+				</p>
+				<p>In <i>Living a Feminist Life</i> (2017), Sara Ahmed coined the term “sweaty concept” to describe how we labor when confronted with difficulty. The metaphorical sweat she references comes from the work of describing “a body that is not at home in the world,” a body that has been marginalized, ostracized, or declared unworthy for any number of reasons, including gender, race, sexuality, and disability. This work is hard– strenuously hard–because putting these experiences into words challenges everything we know about ourselves, our environments, and our place in this world. Ahmed then tells us, “The task is to stay with the difficulty, to keep exploring and exposing this difficulty” (13). That same year, in <i>Academic Ableism</i> (2017), Jay Dolmage used a different analogy to describe difficulty. For Dolmage, “steep steps” works as a powerful symbol and concrete example of the ways universities “keep certain bodies and minds out.” Dolmage points out that “spaces convey information” about who is and is not welcome within them, which in turn shapes how scholars conceive of their work in academic spaces.
+				</p>
+				<p>Topics/ themes seminar papers might address are: the embodied demands of “difficulty” and how modernists depict and interrogate those demands; modernist difficulty at the intersection of gender and disability; modernist literature’s relationship to its audience; and re-imaginings of modernist criticism through the intersection of feminist and disability studies method/ politics/ activism.
+				</p>				
+				<p>We will ask participants to submit short (five pages or fewer) essays at least one week before the seminar’s meeting time.
 				</p>
 			</div>
-	</details>	 -->
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p11">Media Infrastructures</summary>
+			<div class="description">
+				<p><strong>Leaders: Steven Nathaniel (Grand Valley State University); Debra Rae Cohen (University of South Carolina)</strong>
+				</p>
+				<p>In “An Encounter” Robert Frost selects an unlikely interlocutor when he asks of a telephone pole, “what’s the news you carry—if you know?” The question foregrounds the provocation of modernist media infrastructure as it infiltrated even the least urbane literary camps, but it also merges two familiar interpretations of the period. Modernism was not only an accumulation of electronic signals and an aggregate of technological materials, but carried news. Operating from an appropriately capacious definition of infrastructure as extending to the undergirding systems, frameworks, and protocols that underlie the cultural institutions and productions of modernism, we invite papers that speak to the architectures, technologies, and habitus of media:
+				</p>
+				<p>
+					<blockquote display="list-item">
+						<li>broadcasting facilities, sound stages, studio backlots, printing plants
+						</li>
+						<li>circuitry, cables, hubs, towers
+						</li>
+						<li>mixing boards, microphones, newsprint, film stock
+						</li>
+						<li>schedules, formats, inventories, writers’ rooms, production hierarchies
+						</li>
+					</ul>
+				</p>
+				<p>Participants are encouraged to focus their attention on the aesthetics that arose from these expansive apparatuses, including those articulated at the levels of the individual and the collective. How did artists situate themselves near and amidst the work of recording, encoding, engineering, and reproducing media? Which forms of creativity emerged through intermedial artifacts or at sites of transduction? What communities arose around new modes of listening, affective techniques, mediaphilia, and fandom? Position papers may address media infrastructure from any of the dimensions outlined above, but in the interest of fostering a generative conversation, we ask that participants tie their research to the broader implications of infrastructural research.
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p12">Modernism, Colonization and the Classroom</summary>
+			<div class="description">
+				<p><strong>Leaders: Maebh Long (University of Otago); Matthew Hayward (University of the South Pacific)</strong>
+				</p>
+				<p>From the scheming of James Joyce’s Stephen Dedalus at Clongowes Wood College to the disillusionment of Ralph Ellison’s invisible man at Tuskegee University, from Ulli Beier’s extra-mural teaching at the University of Nigeria to Albert Wendt’s poetry-filled lectures at the University of the South Pacific, modernism and the classroom have an intimate history in the contest for control and emancipation. Educational spaces have long been the sites of colonial subjection and anticolonial resistance, and modernist literature has played a particularly prominent role, both in the programs of Empire and the playbooks of the insurgents.
+				</p>
+				<p>Building on the recent pedagogical turn in modernist studies, this seminar explores the relationship between modernism, colonial histories and institutions of learning, both in and outside of the text.We invite participants to consider the ways in which modernist writers, however so defined, represent the educational space as setting, theme or satirical target in their works. Outside of the text, we seek reflections on modernism as an object of study and as a mode of instruction in classrooms across the globe. How did colonial education systems wield modernism as an instrument of Empire? Alternatively, how was modernism utilized by teachers and lecturers committed to decolonization and political independence? And how did writers across settler colonial and decolonizing nations adapt the tools of literary modernism to write new modernities into being?
+				</p>
+				<p>
+				This seminar accepts a broad understanding of modernism’s periodization, location and form as we believe our conversation will be enriched by the many different ways in which modernism has been taught and translated across space and time. We welcome discussion of writers and movements understood conventionally as modernist as well as movements or situations, from any time or place, that drew on modernisms in any educational context.
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p13">Modernism’s Infrastructures of Failure</summary>
+			<div class="description">
+				<p><strong>Leader: Mary Wilson (University of Massachusetts, Dartmouth)</strong>
+				</p>
+				<p>Considering infrastructure requires confronting failure. This seminar invites papers that engage with failures in and of modernism. How have modernist visions—architectural, ideological, aesthetic—failed the test of time? How might our scholarly efforts to determine what or who “counts” as sufficiently modernist depend on unstated logics of success and failure? How do we balance disappointment with modernists’ personal failures (fascist sympathies, racist statements, abusive actions) with our appreciation of their artistic successes? How are visionary innovations crucial to modernist self-definition interwoven with equally crucial failures of imagination? How do we respond when we encounter representations of failure in literary texts or experience failures in modernity’s material world?
+				</p>
+				<p>Examining modernist failures, however, can also offer an opportunity to trace modernism’s infrastructures in new ways. Jack Halberstam contends that “under certain circumstances failing, losing, forgetting, unmaking, undoing, unbecoming, not knowing may in fact offer more creative, more cooperative, more surprising ways of being in the world” (<i>Queer Art of Failure</i> 2-3). In “Mr. Bennett and Mrs. Brown,” Virginia Woolf lays out a modernist manifesto that is shaped by and embraces failure. Woolf’s description of a modernist “season of failures and fragments” (117) anticipates Halberstam’s vision of a failure that leads to new creative forms and discoveries, and suggests that failure is at the core of modernist experimentation. How could centering failure revise our understanding of modernist infrastructures? How might modernist infrastructures be built on failure and yet not fail? How could a more thorough engagement with modernist failure enable us to reconstruct our scholarship and pedagogy to be more inclusive?
+				</p>
+				<p>From one perspective, failure in modernism might appear as an infrastructure problem; from another, it’s a feature. Both of these points of view—and more—are welcome in a seminar that will explore how failure marks, shapes, and enlivens modernism.
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p14">Modernism’s Lawscapes </summary>
+			<div class="description">
+				<p><strong>Leaders: Jack Quirk (Brown University); Raj Saikumar (New York University)
+Invited participant: Ravit Reichman (Brown University)
+</strong>
+				</p>
+				<p>We invite presentations for a seminar on "Modernism's Lawscapes." This seminar seeks to explore the dynamic intersections between modernist literary forms, law's configuration of space, and our conception of the environment, broadly conceived. We welcome papers that investigate how the modernist novel responds to, challenges, or reimagines the spatial dimensions of legal thought and practice globally. Of particular interest are analyses that consider formal resonances, analogies, metaphors, or allegories between literary structures and legal frameworks.
+				</p>
+				<p>Potential areas of inquiry might include:
+				</p>
+				<p>
+					<blockquote display="list-item">
+						<li>How modernist novels map, contest, or redefine legally demarcated spaces
+						</li>
+						<li>Narrative techniques that parallel or subvert legal spatial logics
+						</li>
+						<li>The modernist text as a lawscape where competing jurisdictional claims unfold
+						</li>
+						<li>Literary responses to law's attempts to order, categorize, and regulate space
+						</li>
+						<li>Postcolonial formal and aesthetic resistances to settler colonialism
+						</li>
+						<li>Formal innovations as reactions to emerging legal-spatial regimes
+						</li>
+					</ul>
+				</p>				
+				<p>For instance, one might examine how Woolf's stream-of-consciousness technique in Mrs. Dalloway functions as both formal analogue to and critique of law's parceling of urban space and experience; how Kafka's labyrinthine prose mirrors the bewildering architectures of legal power; or how Alexis Wright's style indexes a form of law and being outside the purview of settler colonialism.
+				</p>
+				<p>We are particularly interested in papers that move beyond thematic readings to consider how modernist literary form itself constitutes a response to law's spatial logic. How might modernist fragmentation reflect the compartmentalization of legal domains? How do experimental narrative structures challenge law's authority to define and delineate the boundaries of lived experience? This panel aims to contribute to modernist studies by illuminating how the period's literary innovations can be understood through legal-spatial frameworks, while also engaging with law and literature studies by demonstrating how literary form engages with legal structures.
+				</p>
 
-<p>
-Seminars coming September 2025.
-</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p15">Modernism’s Racialized Infrastructures</summary>
+			<div class="description">
+				<p><strong>Leaders: Dominique Townsend (University of Rochester); Sabrina Lee (Calvin University)
+Invited participant: Sonita Sarker (Macalester College)
+</strong>
+				</p>
+				<p>In <i>The Souls of Black Folk</i>, W.E.B. DuBois declared, “The problem of the twentieth century is the problem of the color-line,—the relation of the darker to the lighter races of men in Asia and Africa, in America and the islands of the sea.” Arguably, then, the “problem of the color-line” undergirds many (if not all) modernist infrastructures. Within modernist studies, global and transnational turns have pushed the field to interrogate modernism’s entanglements with imperialism and Anglo-American-centrism, but often questions of race and racialization have been latent rather than explicit within these conversations. This seminar will attend to the relationships between race/racialization and infrastructures within and beyond questions of imperialism and canonicity. Ultimately, our seminar asks: How do race and racialization affect <i>both</i> the objects we study and the ways we study them?
+				</p>
+				
+				<p>We invite papers that consider relationships among race; racialization; infrastructure; modernist art, literature, and culture; and current theories, methods, and practices in modernist studies.In papers of 5–7 pages, participants might reflect on questions like:
+				</p>
+				
+				<p>
+					<blockquote display="list-item">
+						<li>How do modernism’s infrastructures depend upon, produce, highlight, and/or obscure certain racial formations?
+						</li>
+						<li>How can theory and methodologies from ethnic, Black, and Indigenous studies help us read modernist texts anew?
+						</li>
+						<li>How do modernist aesthetics inaugurate, perpetuate, and/or resist racial formations?
+						</li>
+						<li>How are seemingly non-racialized modernist texts and art objects embedded in systems of racialization?
+						</li>
+						<li>How do infrastructures of race and racialization affect our work as literary studies scholars in a digital age?
+						</li>
+						<li>As modernist scholars, how might we respond to current attempts to reinforce racialized infrastructures?
+						</li>
+					</ul>
+				</p>			
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p16">Modernist Aesthetics and the Great Depression</summary>
+			<div class="description">
+				<p><strong>Leader: Robert Dale Parker (University of Illinois, Urbana-Champaign)</strong>
+				</p>
+				<p>In an age of extreme and widespread economic suffering, some writers and artists of the Great Depression feared that attention to aesthetics risked sacrificing attention to material suffering and the politics that they believed suffering demanded. “Listen! / All you beauty-makers,” Langston Hughes pleaded in the <i>New Masses</i> in 1931. “Give up beauty for a moment. / Look at hardness, look at pain.” How did modernist writers and artists of any kind, including but not limited to the verbal, visual, kinetic, and sonic arts, respond to the Great Depression? How has the field of modernist studies addressed the Great Depression—or dodged it? How do Depression aesthetics compare to other 1930s or modernist aesthetics? This seminar welcomes a sharp focus in one area or comparison across varying arts, geographies, or languages, across national, gendered, racialized, or class-based allegiances, patterns, and histories, and across styles and media, so long as the focus remains on modernist aesthetics and the Great Depression, rather than on the Depression era without attending to the Depression itself. Can the Depression offer a test case for discussions in modernist studies about, for example, the relation between formalism and historicism, popular and elite culture, national and international canons, indigeneity and race, spoken and unspoken categories of identity and their relation to aesthetic movements, high modernisms vs. “low” modernisms, modernist time, modernist space? In short, how can studying Depression aesthetics help us rethink modernism?
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p17">Modernist Censorship and Its Afterlives</summary>
+			<div class="description">
+				<p><strong>Leaders: Andrew Koenig (Harvard University); Jeffrey Careyva (Harvard University)</strong>
+				</p>
+				<p>This seminar takes as its starting point the emergent infrastructure of censorship in the twentieth century, and the changing landscape of censorship in the twenty-first.
+				</p>
+				<p>Modernism is closely associated with censorship bans and the fall of obscenity laws. Papers in this seminar might look at classic examples of censorship in the modernist era (<i>Ulysses, Lady Chatterley’s Lover, Tropic of Cancer</i>), but they might also ask how modernism censored or uncensored different kinds of content (the abject, the kitsch, the revolutionary) and persons (institutionalized figures such as Zelda Fitzgerald, Lucia Joyce, Camille Claudel, and Ezra Pound). Papers might explore theoretical frameworks of censorship and content, e.g., Freud’s “dream-censorship,” and cases of self-censorship like the delayed publication of <i>Maurice</i> or restricted access to archives like T. S. Eliot’s.
+				</p>
+				<p>We especially encourage work on alternative publishing infrastructures that work around censorship, e.g., independent booksellers, printers, little magazines, samizdat, and coteries. Papers might examine the infrastructures behind moments of modernist iconoclasm (such as the Armory Show or the premiere of <i>The Rite of Spring</i>), the suppression of “degenerate art,” and the regulation of Hollywood by the Hays Code and HUAC. Alternatively, they might explore the censorship of modernist successors, whether poets like Gwendolyn Brooks and Allen Ginsberg or graphic novelists like Alison Bechdel and Art Spiegelman, who have been subject to a new regime of extralegal censorship mediated by school boards.</p>
+				<p>Lastly, we invite provocations on recent developments in our field and in the university. How is censorship at work today, as funding cuts and freezes impact research across the humanities and sciences? The elimination of words like “gender,” “race” and "sexuality" from the lexicons of federal agencies has a direct bearing on our own work as critics of language and expression. How might our scholarship critically engage with these new realities? What lessons might modernism have for us in our moment?
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p18">Modernist Development and Underdevelopment</summary>
+			<div class="description">
+				<p><strong>Modernist Development and Underdevelopment</strong>
+				</p>	
+				<p>This seminar invites papers examining the various geographies, histories, and aesthetics of modernist development, underdevelopment, and their imbrication. Capitalist development is invariably seen as a defining characteristic of modernism: Marshall Berman elucidates the Janus-faced experience of capitalist modernity—embodied in Goethe’s <i>Dr. Faustus</i>—that oscillates between the dynamic “desire of development” as well as the darker consequences of such desires in the “tragedy of development.” Fredric Jameson locates the representational invisibility of empire in modernist literature as a repressed symptom of the world-system of uneven development. Yet the implicit reduction of development to the sweeping processes of global capital occludes its more historical and politically variegated configurations, evidenced in, for instance: the infrastructure works of the New Deal; the five-year plans of the Soviet Union; the envisioning of the postcolonial developmental state; or Truman’s 1949 “Point Four” program that inaugurated a postwar era of international aid.
+				</p>
+				<p>Furthermore, development as an idea was never restricted to just the economic sphere: originating, as Gilbert Rist has argued, from the field of natural biology and underpinned by assumptions of organic maturation, discourses of development oscillated between describing the material and the moral, between enacting changes on the exterior environment (land, agriculture, infrastructure, urban space) and interior subjectivity (education, psychology, labor, sex). Indeed, the 1986 UN Declaration on the Right to Development, which describes development as a “comprehensive economic, social, cultural, and political process” and links it to human rights, speaks to the definitional capaciousness of the term whose longer genealogy belongs to the modernist era
+				</p>
+				<p>How, then, did modernist cultural production engage with the histories and discourses of development and underdevelopment in its multiple domains? If Jed Esty has pointed to the “arrested <i>Bildungsroman</i>” as a genre that registers the presence of uneven development, and Michael Rubenstein has reflected on the “postcolonial comedy of development” that attends Irish independence, what other forms and genres emerge out of the developmental logics of the modernist era? And if underdevelopment is frequently the shadowy double of development—“the development of underdevelopment,” as Andre Gunder Frank has put it—what modes of racial, spatial, gendered, or class-based underdevelopment are explored by modernist works? We welcome broader theoretical papers reflecting on the intersections of modernism and development/underdevelopment in different domains, as well as readings of more specific histories, narratives, and representations of modernist development/underdevelopment and its legacies.
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p19">Modernist Reputation Building: Infrastructures of Promotion, Self-Promotion, and Publicity</summary>
+			<div class="description">
+				<p><strong>Leader: Dipanjan Maitra (Louisiana Tech University)</strong>
+				</p>
+				<p>Scholars of modernism have long complicated Andreas Huyssen’s (1986) claim that modernists viewed mass culture with an “an anxiety of contamination” and that “[m]odernism constituted itself through a conscious strategy of exclusion, an anxiety of contamination by its other: an increasingly consuming and engulfing mass culture.” In fact, as Lawrence Rainey (1998) and others have put it, the rise of institutions like the tabloid and the music hall ushered in “new strategies of reputation building– involving theatricality, spectacle, publicity, and novel modes of cultural marketing and media manipulation.” Similarly, Aaron Jaffe (2005) has shown that modernist reputations were built often with the help of “imprimaturs” and authorial endorsement (T.S. Eliot’s introductions for emerging writers for instance) or by forging literary networks with the help of anthologies. Mark S. Morrisson (2000) thus mentions the increased sophistication of commodity advertising techniques (e.g. of national brand-name products) with “new print technologies and graphic capabilities” in mass periodicals that inaugurated a shift from subscription models to advertisement techniques to garner profit. One can also engage fruitfully with individual strategies at self-promotion on the part of modernists: lecture tours or interviews. In the same vein, the popularity of the literary agents like James Pinker, who at one point represented the interests of H.G. Wells, James Joyce, Joseph Conrad and others to potential publishers can also be seen as useful intermediaries (to quote Pascale Casanova) to promote, regulate, and determine the reception of modernist authors. In other words, far from effacing themselves to the background paring their fingernails, we often see the modernist artist sullying their hands in active self-promotion, hiring professionals, and closely working with publishers and influential critics to market their wares in the literary marketplace. This seminar seeks brief 5–7-page position papers that address and unravel infrastructures and institutions that furthered careers of modernists and shaped their strategies of reputation building, self-promotion, and publicity. 
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p20">Neither Infrastructure nor Superstructure: Gramsci, Modernism, and the War of Position</summary>
+			<div class="description">
+				<p><strong>Leaders: Ken Hirschkop (University of Waterloo); Scott McCracken (Queen Mary, University of London)</strong>
+				</p>
+				<p>Antonio Gramsci was a Marxist who took culture seriously, making it an integral part of his critique of capitalist modernity. But how far do Gramsci’s analytic categories help us to understand what is modern about modern culture?
+				</p>
+				<p>Gramsci’s distinctive grasp of the modern state and modern civil society requires us to study every aspect of contemporary culture – including its popular, residual, ‘folkloric’ elements, religion, pedagogy, periodicals, and the popular press – in order to understand how multiple ‘conceptions of the world’ intersect in any given political conjuncture. Eschewing a Leninist ‘frontal assault’ on the state, he argues for a war of position fought among and within these forms, in the trenches of social and cultural institutions. His call for a ‘national-popular’ literature, his polemic with Futurism, his concepts of ‘common sense’, economism and voluntarism, and his critique of the popular Italian literature of his time (‘Father Bresciani’s progeny’) all point to a unique interpretative framework, which refuses to classify cultural forms according to class categories or to artificial divisions between ‘high’ and ‘low’, avant-garde and kitsch, popular and literary, modernism and mass culture.
+				</p>
+				<p>In this seminar, we ask how Gramsci’s concepts and methodology can help us to rethink early twentieth-century culture from the perspective of a dynamic present. We invite position papers of 5-7 pages that use either specific Gramscian concepts––e.g. the national-popular, the operatic style, folklore, the integral state, organic and traditional intellectuals, economism versus voluntarism, the Modern Prince––or a broader Gramscian framework to offer new interpretations of early twentieth-century cultural forms––such as writing, film, dance, the visual arts, music, and journalism. We are also interested in contributions that draw attention to the differences between Gramscian analysis and other comprehensive critiques of modernity, e.g., those of Durkheim, Weber, Lukács, the Frankfurt School.
+				</p>
+			</div>
+	</details>	
+	<details closed>
+		<summary class="seminar-title" id="p21">Peripheral Modernism as Worldly Infrastructure</summary>
+			<div class="description">
+				<p><strong>Leaders: Pavel Andrade (Texas Tech University); Ericka Beckman (University of Pennsylvania)
+				<p><strong>Invited participants: Emilio Sauri (University of Massachusetts, Boston); Tavid Mulder (Emerson College)</strong>
+				</p>
+				<p>What would it mean to think peripheral modernism infrastructurally? How do peripheral artworks distribute the infrastructural arrangements of the world system? What kinds of roadways, canals, and bridges does peripheral literature build? How does peripheral aesthetics operate the industrial and natural landscapes of the world economy? This seminar invites papers that delve into the worldly infrastructures of peripheral literatures, that is, how peripheral literatures register, model, and think the historical and material configurations of the world system. From environmental technology to environmental disaster, this seminar will consider how peripheral modernism engages with the ecologies of capitalist modernity. We welcome papers that explore the worldly orientations of peripheral literatures and that reimagine modernist praxis across the Global South as world-building activity. This seminar aims to bring into focus the contribution of peripheral aesthetics to a world history of infrastructure, in particular, we aim to highlight the infrastructural dimensions of peripheral literary works, their registration, both at the level of content and form, of the communication systems, public services, and economic networks that have shaped capitalist modernity and its industrial and environmental cycles. We invite submissions that explore these topics from different peripheral positions and time periods.
+				</p>
+				<p>Following the MSA seminar model, participants will pre-circulate short papers (these could be position papers, critical readings of single works, theoretical provocations, or portions of a larger project) that engage with the seminar’s topics. Ahead of the seminar, the organizers will devise a set of guiding questions that will serve as a starting point for our conversation. After a quick round of interventions where participants will introduce their papers and main arguments, we will devote the remainder of the session to collective dialogue and open conversation.
+				</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Public-Facing Modernism</summary>
+			<div class="description">
+				<p><strong>Leader: Charles Andrews (Whitworth University)
+				<p><strong>Invited participant: Patrick R. Query (United States Military Academy, West Point)</strong>
+				</p>
+				<p>Modernist studies has something special to offer beyond our guild during this current time of division, turmoil, hostility, and crisis. The global crises of the previous century—authoritarianism, economic calamity, and violence—were faced with astonishing artistic and political creativity by many of the people we study. How might modernist scholars bring this creativity and the resources of our field to broader publics through our writing, teaching, and speaking? What kinds of presses, magazines, journals, and online or in-person venues exist for doing meaningful public-facing scholarship? How might we invite and encourage audiences who can benefit from our field? How might our work be more activist? In this seminar we will explore ways to do public-facing scholarship, welcoming experienced public scholars and anyone interested in developing this kind of work.
+				</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Reimagining the Feminist Modernist Publishing Infrastructure: Values and Ethics</summary>
+			<div class="description">
+				<p><strong>Leaders: Erica Delsandro (Bucknell University); Laurel Harris (Rider University); Catherine Hollis (University of California, Berkeley)
+
+				<p>Feminist infrastructure–intellectual, professional, political, practical–does exist within modernist studies. But as feminist scholars know, this infrastructure is not supported or maintained by the dominant academic culture and, thus, is constantly in a state of disrepair, if not outright collapse, requiring additional labor from marginalized and under-represented scholars. Like deteriorating roads, bridges, and power lines, academic infrastructure, too, necessitates regular maintenance, even demolition and rebuilding.
+				</p>
+				<p>The monograph has long been the gold standard for academic success, especially for scholars on the tenure track. But the tenure-track model as the sole metric for defining academic success is outdated and inadequate. Moreover, with the adjunctification of the professoriate and increasing competition for jobs, even traditional journal publishing processes should be reassessed for both their practical and ethical value–for authors, for editors, and for the field broadly.
+				</p>
+				<p>
+				This seminar will examine the feminist modernist publishing infrastructure: How and where do feminist modernist scholars publish? What are the affordances and drawbacks of both academic publishing and new venues–podcasts, Substacks, cultural magazines–for feminist modernist scholars? How and where are feminist scholars mentored, supported, and celebrated? What obstacles do feminist modernist scholars encounter in the process of publication? How can a feminist ethics of care transform the publishing process to be more equitable, transparent, and generative?
+				</p>
+				<p>
+				Building upon the Feminist Migrations in Publishing seminar (MSA 2024), we will continue expanding the seminar format: rather than sharing individual work, this seminar will center the collaborative production of a Feminist Publishing Manifesto to be disseminated broadly and presented to the boards of MSA and CELJ. Seminar participants will contribute to the conversation before meeting in Boston through a shared Google document in service of a working session during the conference.
+				</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Relational Uncertainty</summary>
+			<div class="description">
+				<p><strong>Leaders: Kristin Grogan (Rutgers University, New Brunswick); Brian Glavey (University of South Carolina)</strong>
+				</p>
+				<p>This seminar explores the productive nature of relational uncertainty—that is, we want to explore social relations in a way that highlights and sits with their uncertainties and ambiguities, rather than tries to resolve them. Relational modes of theorizing are often characterized by an optimism about the legibility and benevolence of the relation as a unit of sociality. But anyone who has ever been related to someone else knows that relationality is a mess. We are interested in Lauren Berlant’s account of the irreducible “inconvenience” of coexistence, and the usefulness of recognizing an “ambivalent relationality that induces elbow room, breathing space, and patience with the contradictory demand we make of our objects–to be known but not too much, to know without presumptions.” Uncertainty in social relations is ubiquitous, often frustrating–or inconvenient–but also productive and ethically necessary. Being known but not too much also releases the individual from the demand of total self-knowledge. Writing about Sylvia Plath and the problems of biography, Jacqueline Rose poses this as a question of individual rights: “To what forms of uncertainty,” she writes, “do you have the right?” If we begin from the point of the right to uncertainty, what theory of social life emerges? Can attending to uncertainty help us navigate away between negativity and utopianism–or between alienation and a fantasy of the commons of seamless social relation? What do social relations in the Marxist sense have to do with problems of uncertainty in coexistence? And what is the role of aesthetics and the work of art in uncertain social relations–as mediation, useful irritant, shared object, as a model of forms of complicated attachment?
+				</p>
+				<p>Topics to be addressed might include:
+				</p>
+				
+				<p>
+					<blockquote display="list-item">
+						<li>Object relations theory
+						</li>
+						<li>Relatability and unrelatability
+						</li>
+						<li>Affect and attachment theory
+						</li>
+						<li>Solidarity, organizing, mutual aid, and collective worldmaking
+						</li>
+						<li>Aesthetic theory and relationality
+						</li>
+						<li>Modernism and social alienation
+						</li>
+						<li>Utopianism/heterotopianism
+						</li>
+					</ul>
+				</p>				
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Religion and Empire in Transnational Modernisms</summary>
+			<div class="description">
+				<p><strong>Leaders: Suzanne Hobson (Queen Mary University of London); Apala Das (Bilkent University)
+				</p>
+				<p>There have been several important contributions to the topic of modernism and religion in the past decade. However, as noted by contributors to MSA 2024’s seminar on “Religion and the Global Turn” these studies have been comparatively slow to incorporate and adopt global religious lexicons and transnational frameworks. At the same time, although several scholars have fundamentally reconfigured modernism’s relation to empire over the past few decades, they have often done so without challenging perceptions of its “secular” character. This seminar aims to address these gaps in modernist scholarship by opening up new conversations at the intersection of religion, empire, and transnational modernisms.
+				</p>
+				<p>We invite transnational approaches to modernism’s relationship with religion and spirituality. We would aim to show how religion(s) feed into and cut across literary “worldmaking” (Adom Getachew) in ways responsive and resistant to imperial and national imaginaries in this period. Alongside the categories of religion, spirituality, and secularity, we emphasize “empire” because, following scholars such as Laura Doyle and Neil Lazarus, we see the “constitution and reconstitution of world-structures,” especially those of empire (and its combined and uneven late capitalist neoliberal neo-imperial legacies) as enabling and conditioning the cultural exchanges, hierarchies, and inequalities that characterize global modernism.
+				</p>
+				<p>We approach modernism’s multicentricity both conceptually and methodologically, using not only a cross-cultural framework but also an interdisciplinary one. This approach allows us to invite critical insights about religion and empire from other fields such as postcolonial studies, critical secular studies, and religious studies to the study of modernist texts. In this seminar, we also aim to take account of new directions in religious studies, especially those that link the development of comparative religious studies as an academic discipline with the power dynamics and histories of empire.</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Surveillance modernity, surveillance modernisms</summary>
+			<div class="description">
+				<p><strong>Leader: Stephanie Brown (University of Arizona)
+				</p>
+				<p>This seminar proposes to consider surveillance, broadly conceived, as a practice of modernity. In keeping with the theme of the conference, it encourages considerations of surveillance infrastructures as constitutive of, and responses to, modernity. It asks whether our definitions of modernity and modernism might reveal them to be coeval with surveillance as an increasingly institutional, corporate, transnational, and state-based mode of control.
+				</p>
+				<p>The late 19th and early 20th centuries saw the expansion of surveillance-based state power at the level of nations and empires (including emergent US imperial ambitions in the Caribbean, Latin America, and the Pacific). However, the seminar will not limit its consideration of the entanglement of modernity and surveillance to these decades, and may include work that takes up surveillance modernity outside a strictly delineated historical modern<i>ism</i>. Similarly, work that considers non-state infrastructures (of e.g. the factory, the ship, the corporation, the university) are welcome. The seminar will query how different media forms, working at scales that vary from the compactness of the passport, the poem, and the case file up to the expansiveness of the census, the sociological study, the epic, and the ordinance survey, registered emerging surveillance culture. It will ask, broadly, how surveillance practices and the institutions from which they emerged shaped modernist aesthetic practice? Similarly, it encourages participants consider the affordances of modernism to reveal the dynamics, desires, impulses, and demands that underlay various surveillance infrastructures as they evolved.
+				</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Unruly Geographies: Modernist Women’s Transnational Writing</summary>
+			<div class="description">
+				<p><strong>Leaders: Eret Talviste (University of Tartu); Ruth Alison Clemens (Leiden University)
+				</p>
+				<p>In her introduction to <i>Feminism as World Literature</i> (2022), Robin Truth Goodman writes that “the field of World Literature seems to skirt away from feminism” (1), noting how the genealogical trajectory of the field is as male as it is Eurocentric. Similarly, as feminist scholars note (Friedman 2011, 2015; Berman 2018; Fernald 2013; Laity 2018), debates in transnational and global modernist studies continue to draw their theories by focusing on models and infrastructures of mobility centred around male writers, institutions, and networks.se topics from different peripheral positions and time periods.
+				</p>
+				<p>This seminar seeks to complicate the usual geographical divisions, infrastructures, and networks by emphasising ‘weak’ (Saint-Amour 2018) and affective connections between women writers across nations, cultures, times and languages. Following recent interventions in global, transnational, and planetary modernist studies (Mao and Walkowitz 2008; James and Seshagiri 2014) and translational epistemologies (Schögler 2022; Bennett 2024), the seminar has two wider purposes. First, to create dialogues between minor, forgotten, or little-known modernist women across the globe. Second, to build a network of scholars from different backgrounds to generate literary and epistemic translations. 
+				</p>
+				<p>Topics may include but are not limited to:</p>
+				<p>
+					<blockquote display="list-item">
+						<li>transnational feminisms; decolonial and liberation movements
+						</li>
+						<li>national or international (geo)politics; women and war; women and fascism
+						</li>
+						<li>reproductive politics and justice
+						</li>
+						<li>women and transnational infrastructures (investment; citizenship; patronage; networks; marriage etc.)
+						</li>
+						<li>women writers whose works or lives complicate regional borders e.g of Europe
+						</li>
+						<li>belonging and non-belonging; home and homelessness
+						</li>
+						<li>indigeneity, empire, and settler colonialism
+						</li>
+						<li>translational knowledge: moving knowledges from one language, culture and time to another
+						</li>
+						<li>translingual tensions: vernaculars and modernism; regional and global avant-gardes
+						</li>
+						<li>teaching translated and world literature today
+						</li>
+					</ul>
+				</p>
+				<p>‘Women’ includes cis, trans, non-binary women, and otherwise significantly female-identified lives. As this seminar aims to build scholarly infrastructure, we encourage papers that introduce previously untranslated writers into English. Non-traditional papers are also welcome (creative-critical; collaborative; transmedial).
+				</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Utopian Infrastructures</summary>
+			<div class="description">
+				<p><strong>Leader: Kristin Bluemel (Monmouth University)
+				<p><strong>Invited participants: Maria Farland (Fordham University); Marty Cain (Cornell University)</strong>
+				</p>
+				<p>What can the infrastructures of modern utopias teach us about those idealizing arts, literatures, and lived experiments that brought form to the modernists’ dreams of the good place (“eutopia”), the bad place (“dystopia”), or to that best place of all, no place (“utopia”)?  The aim of this seminar is to identify and analyze diverse instances and outcomes of utopian thinking in modern and modernist constructions of real or fantastic places that aspired to a utopian (dystopian) infrastructural purpose and/or design. Participants in this seminar will contribute to an interdisciplinary conversation analyzing the most powerful ideals, myths, and delusions of modern infrastructure: the perfect electric system, the perfect postal system, the perfect medical system, the perfect education system, the perfect religion, the perfect army, the perfect navy, the perfect nation. The utopias inviting our infrastructural argument may range from communities like Roosevelt, New Jersey, to nations like the Soviet Union; from novels like Charlotte Perkins Gilman’s <i>Herland</i> to Katharine Burdekin’s <i>Swastika Night</i>; from paintings like Stanley Spencer’s <i>Resurrection, Cookham</i> to Le Corbusier’s architectural installation, Esprit Nouveau Pavilion; from Filippo Tommaso Marinetti’s <i>Manifesto of Futurism</i> to Frederick Winslow Taylor’s <i>Principles of Scientific Management</i>; the media, the materials, the motivations of utopian infrastructures are everywhere (and nowhere). Pursuing interdisciplinary, comparative analysis along utopian lines, we will follow wherever utopian infrastructures lead. To nature? To purity? To prosperity? To pleasure? To perdition? Sharing and discussing our utopian research in 5-7-page position papers, we can hope to discover new ways of approaching and knowing modernism and modernity.
+				</p>
+			</div>
+	</details>	 
+	<details closed>
+		<summary class="seminar-title" id="p21">Writing in Conversation: Infrastructures of Modernist Community</summary>
+			<div class="description">
+				<p><strong>Leaders: Matthew Kilbane (University of Notre Dame); Christopher Seiji Berardino (University of California, Riverside)
+				</p>
+				<p>Workshops, clubs, groups, guilds, salons, retreats, forums, meetings—much of the work of literary modernism transpired in community, around specific tables in specific rooms. This seminar explores the forms of community-based organization that sustained and nurtured literary production in the first half of the twentieth century. We ask: what might it mean to cast these organizations as provisional infrastructures? We’re excited to commune over case studies of a wide range of literary assemblies, from recognized groups like Bloomsbury, Los Contemporáneos, the Southside Writer’s Workshop, John Reed Clubs, and the Harlem Writers’ Guild, to any number of less studied initiatives: publishing endeavors in the Japanese-American incarceration camps, for instance, or midcentury poetry workshops at public libraries across the United States. Together, we'll imagine how to draw from this diverse archive a new prehistory of the postwar Program Era, and we'll ask whether it’s possible to trace a modernist genealogy of the community-based and movement-affiliated writing workshops of the 1960s and 1970s.
+				</p>
+				<p>We are also keen to explore what new critical strategies are required for the study of community-based writing. Though it has long been the province of craft manuals, textbooks, author memoirs, and literary journalism, the practice of writing itself—and particularly those practices that do not issue in published books or magazines—has persistently eluded literary scholarship. The reason for this oversight is not hard to fathom. Our capacities for knowledge production rely on the existence of accessible texts, the products of writing. Scholars are less well-equipped to study historically specific and collaborative writing processes, largely because the habits, practices, and infrastructures responsible for fostering said writing tend to resist representation in the archive. What might the study of community writing contribute to modernist studies? How might this make room for a more collective understanding of Modernism? Let us gather then, you and I, to explore what was mutually made by the many!
+				</p>
+			</div>
+	</details>	 	
 	
-<!--
-<h1><strong>In-Person</strong></h1>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Modernist Historiographies</strong></h2>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Emily Hyde, Rowan University</p>
-
-<p style='margin-left:.2in'>Claire Seiler, Dickinson College</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
-
-<p style='margin-left:.2in'>Jed Esty, University of Pennsylvania</p>
-
-<p></p>
-
-<p>How and why do we write histories of modernism, today?</p>
-
-<p></p>
-
-<p>The expansive energies of modernist studies increasingly
-inspire scholars to become cultural historiographers of events, phenomena,
-institutions, and durations beyond the field’s privileged frames. Scholars of
-modernism write interdisciplinary histories of global networks and markets;
-diverse readerships and publics; political movements and resistances;
-environmental crises and imagined futures; specific localities, vast
-geographical expanses, and the many modes of moving around and between them.
-Though far from exhaustive, this list both speaks to the wide reach of
-modernist historiography and prompts urgent questions about its methods,
-motivations, and persistent exclusions. This seminar accordingly asks: how does
-or can modernist studies open onto neglected or lost histories? How can new
-models of creative, reparative, or speculative engagement with archival materials
-and traces push the field in new and critically inclusive directions? What are
-the lingering effects of the historiographic forms—e.g., Euro-American,
-hierarchical, militaristic—that shaped the field as it was institutionalized in
-the mid-twentieth century? What are the historiographic forms of global or
-plural modernisms, now?</p>
-
-<p></p>
-
-<p>This seminar invites papers that address—at any scale—the
-historiographic dimensions or potentialities of modernist studies. We welcome
-papers grappling with the process of writing or recovering modernist histories
-alongside conceptual papers about the writing of histories of, and outside of,
-modernism.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Unruly Movement</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>John Alba Cutler, Northwestern University</p>
-
-<p style='margin-left:.2in'>Harris Feinsod, Northwestern University</p>
-
-<p></p>
-
-<p>This seminar will consider patterns and instances of human
-movement that do not fit the familiar narrative parameters of migration,
-particularly liberal narratives of migration that understand it as a response
-to opportunity and an essential feature of the putatively multicultural, modern
-nation state. In and around the Great Migration, for example, were many forced
-movements, including the drift of Native Americans to urban centers during the
-Allotment Era; the displacement of Filipinos after the Philippine-American War;
-the forced repatriation of Mexicans (and Mexican Americans) in the 1930s; the
-post-WWI statelessness of a variety of European refugees; and Japanese
-internment in the United States, to name only a few. These forms of human
-movement pressure narratives of migration in at least two ways. First, they
-foreclose the temptation to equate movement simply with disruption, and hence,
-political resistance. When does abiding become a form of unruly response to the
-state? What vocabulary do we have to describe movement initiated by state
-violence? Second, they invite us to find ways that individuals and groups have
-adapted, innovated, and creatively reimagined the significance of forced
-movements. What aesthetic resources have marginalized and minoritized groups had
-recourse to in repurposing or taking control of the significance of their
-movement, even (or especially) when that movement is forced? We welcome papers
-that consider particular examples of human movement as well as papers that
-theorize political, social, and aesthetic features of unruly movement.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Trans Modernisms: Approaches, Problems, New Directions</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Aaron Stone, University of Michigan</p>
-
-<p style='margin-left:.2in'>Mat Fournier, Ithaca College</p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Jules Gill-Peterson, University of Pittsburgh</p>
-
-<p style='margin-left:.2in'>Grace Lavery, University of California, Berkeley</p>
-
-<p></p>
-
-<p>Amongst the migrants shaping modernist landscapes were
-individuals moving across the borders of gender. While the histories, cultural
-productions, and representations of such communities are often addressed under
-the rubric of “queer modernism,” others have argued that a transgender analytic
-is necessary to apprehend the role of gender nonconformity in modernism and
-modernity. Some have asserted that fictional trans figures—e.g., Woolf’s
-Orlando—played a central role in establishing modernist aesthetics and
-dismantling conventional notions of gender. Others, like Emma Heaney, assert
-that such readings rely too heavily on queer theory’s tendency to erase trans
-materiality, allegorizing the trans subject as an overdetermined symbol of
-transgression. In <i>The New Woman,</i> Heaney argues for distinguishing
-between “expert” definitions of trans femininity and “vernacular” notions that
-emerge from the cultural practices and productions of “fairies, mollies, and
-Maryannes” (9). Others, following Jessica Berman, have examined the conceptual
-resonances that exist between the “trans” in transgender and the “trans” in
-transnational. Additionally, scholars such as Chris Coffman have used
-transgender theory to reconsider the gender expressions of queer modernist
-figures such as Gertrude Stein.</p>
-
-<p></p>
-
-<p>This seminar invites scholars to reflect on extant
-approaches to trans topics within modernist studies, investigate methodological
-conundrums, and propose paths forward. Seminar participants will submit
-position papers of 5-7 pages, which will be circulated in advance. The two-hour
-seminar will be broken into thirds. In the first block, participants will
-assess the current state of trans approaches to modernist studies. The middle
-third will be devoted to addressing potential problems in considering modernist
-objects from a trans perspective, with special consideration to frictions that
-exist between trans studies and queer studies. In the remaining third,
-participants will propose possible futures for trans modernist studies. This
-seminar aims to foster thoughtful new contributions to the study of trans
-modernisms.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>What Is Antifascism? Politicizing Art in the Twentieth
-and Twenty-First Centuries</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Brandon Truett, University of Chicago</p>
-
-<p style='margin-left:.2in'>Miguel Caballero, Northwestern University</p>
-
-<p></p>
-
-<p>In recent years, fascism has reemerged as the site of
-widespread discussion due in part to the circulation and influence of rightwing
-ideologies across the world (Trumpism, Brexit, Duterte in the Philippines,
-Bolsonaro in Brazil, Le Pen in France, Vox in Spain, etc.). In contrast, as the
-historian Michael Seidman argued in his 2017 book <i>Transatlantic
-Antifascisms,</i> “antifascism has received little attention,” despite being “perhaps
-the most powerful Western ideology of the twentieth century.” As Seidman and
-many other scholars have pointed out, the Spanish Civil War (1936-39) was the
-moment in which antifascism crystallized as an international concern. In 1972,
-Michel Foucault framed Deleuze and Guattari’s <i>Anti-Oedipus</i> as “an
-Introduction to the Non-Fascist Life … an art of living counter to all forms of
-fascism.” Indeed, antifascism or nonfascism has seemed to signify any political
-movement that resists what is perceived as fascist, thus amplifying uses of
-both terms while risking their historical specificity.</p>
-
-<p></p>
-
-<p>This seminar invites papers from scholars working on
-antifascism and its relationship to art and literature in any national or
-cultural context. Following Emilio Gentile’s debate on the scope of fascism, we
-seek to discuss whether antifascism is an ideology constrained to a specific
-historical period and/or a political disposition transcending time.
-Specifically, we are interested in exploring how these definitions affect our
-understanding of the works of art and literature that have been animated by, or
-presented through, antifascism. We ask that participants also address the
-following conceptual questions: What does it mean to describe a work of
-artistic expression as antifacist? What is the relationship between artmaking
-and antifascist activism? How has the concept of antifascism migrated across a
-global range of contexts in which people use art to resist myriad forms of
-fascist aggression (racism, settler colonialism, nativism, sexism, homophobia,
-transphobia)?</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Transracial Circuits, Transnational Modernism</strong></h2>
-
-<p></p>
-
-<p><strong>Leader:</strong></p>
-
-<p style='margin-left:.2in'>Zoë Henry, Indiana University </p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Jennifer Fleissner, Indiana University</p>
-
-<p style='margin-left:.2in'>Kevin Quashie, Brown University</p>
-
-<p></p>
-
-<p>Nella Larsen saw Gertrude Stein’s <i>Three Lives</i> as a
-powerful meditation on Black experiences, and had “Melanctha” in mind as she
-wrote <i>Quicksand.</i> Langston Hughes revisits Poundian imagism in poems such
-as “Chord” and “Subway Rush Hour”—the latter a direct response to “In a Station
-of the Metro,” pushing the principle of condensation further than ever, and
-assigning races—and racial connections—to Pound’s “faces.” Wallace Thurman and
-Richard Bruce Nugent found themselves moved by James Joyce’s <i>Ulysses,</i>
-which offered a compelling connection between the Celtic Revival and the New
-Negro movement, as well as their own ambivalence to Harlem’s
-institutionalization. Like Stein, Pound, and Joyce, these authors were unafraid
-to critique the very terms of their work’s legibility. What could be more
-avant-garde?</p>
-
-<p></p>
-
-<p>This seminar takes its cue from Jahan Ramazani, who has
-argued that disciplinary boundaries tend to obscure the complex networks and
-cultural overlap of a transnational poetics. This is particularly true for
-modernism’s Black writers. The problematic appropriation of Blackness as “primitivism”
-by largely white European and American artists has been well documented. What
-has yet to be fully explored, however, is the extent to which Black modernist
-writers saw themselves reflected in, and contributed to, the larger currents of
-the period: questions of shock and rupture, alienation and homelessness, the
-fragmentation of consciousness, the disparity between the seen and the felt.
-Participants will consider how formal experimentation migrated in both
-directions across national and racial borders—as foundational in <i>Passing</i>
-as in <i>To the Lighthouse,</i> in <i>Infants of the Spring</i> as in <i>Finnegans
-Wake</i>—in order to become what we know it as today. As our world grapples
-with widespread anti-Black racism, modernist studies must consider how Black artists
-of the period have suffered from the move to adjectival pigeonholing,
-preventing a fuller appreciation of their rich contributions to modernist
-aesthetics. </p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Poetics Without Modernism</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Ben Glaser, Yale University</p>
-
-<p style='margin-left:.2in'>Erin Kappeler, Tulane University </p>
-
-<p></p>
-
-<p>This seminar asks how we might re-theorize poetry and
-poetics from the late-nineteenth century through the present by deprioritizing
-modernism, the modern, and modernist form as conceptual categories. We invite
-papers that explore the following (and related) questions: To what extent do
-narratives of formal innovation and rupture continue to structure studies of
-poetry? How might these narratives foreclose other histories and other
-paradigms for the study of poetry and poetics? How are recent conversations
-about the new lyric studies, historical poetics, new formalisms, and
-transnational modernisms changing the way we talk about poetic form? We invite
-papers that take up the many possible approaches to poetry and poetics that
-bracket concepts of “modern poetry” and “modern form” in the pursuit of
-literary historical knowledge.</p>
-
-<p></p>
-
-<p>We are interested in exploring the complexities of thinking
-without or around modernism right now, in 2021, in light of modernist studies’
-increasing recognition of Indigenous and transnational perspectives as they
-challenge standard literary historical and geopolitical periodization. We
-propose this discussion, furthermore, in response to the near-total absence of
-open tenure-line positions in modernist studies in the United States academy.
-If there are pressing historical, theoretical, ethical, and institutional
-reasons to reimagine modernist studies again, what can poetry and poetics teach
-us about what the new new modernist studies might look like?</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Modernism and Its Environments</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Michael Rubenstein, Stony Brook University </p>
-
-<p style='margin-left:.2in'>Justin Neuman, The New School</p>
-
-<p></p>
-
-<p>How does thinking about modernism through the concept of
-environment expand, critique, and reconfigure what we’ve come to know as the
-modernist canon? What are the key differences between modernist understandings
-of the environment and those of their predecessors and inheritors? What can we
-learn from the moderns about the environment that may be obscured by our own
-thinking about the concept and the realities it attempts to describe? What does
-it mean to rethink modernism under the banner of environmentalism and/or
-ecocriticism? </p>
-
-<p></p>
-
-<p>In the spirit of their recent book, <i>Modernism and Its
-Environments</i> (Bloomsbury, 2020), the seminar conveners seek new research on
-a wide range of modernist environments, including wild spaces, industrial
-wastelands, urban ecologies, and colonial extraction sites, from scholars
-interested in both the green and the gritty manifestations of the modernist
-environmental imagination.</p>
-
-<p></p>
-
-<p>We solicit papers that explore the ecological, social,
-scientific, technological, and political transformations that marked the
-beginning, middle, and end of the modernist period, and that may even suggest a
-redefinition of modernism itself.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Misfits, Perverts, and Other Modernist Sexualities</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Michael Lucey, University of California, Berkeley  </p>
-
-<p style='margin-left:.2in'>Benjamin Kahan, Louisiana State University</p>
-
-<p></p>
-
-<p>Scholarship in queer modernist studies has recently turned
-its attention to misfits, perverts, eccentrics, and other forms of sexuality
-that fall outside available categories. Examining these defunct, inchoate,
-vestigial, and other non-normative organizations of eros and sexuality, this
-seminar strives to understand the encounter between individual modernist
-subjects and the increasing calcification of the hetero/homo binary. We’re
-interested in exploring the archives of these non-fitting lives, the
-vocabularies, affects, texts, sites, and practices through which individuals
-construct misfit sexualities. How do misfits negotiate, dispute, dodge, and
-experience historical shifts in sexuality? What existing discourses or older
-styles of subjectivity provide resources for fashioning nonce sexualities and
-their erotic repertoires? Do modernist aesthetic practices and literary forms
-provide affordances for the construction of these alternative sexualities? How
-do modes of eccentricity illuminate dominant categories and help us to
-understand sexuality’s taxonomic construction and also its imbrication with the
-colonial and racial taxonomic projects of the era? What attention is needed to
-what happens at discursive interstices, to palimpsestic effects, to effects of
-translation and poly-languaging, to willful or unwilled silences? Building on a
-wave of scholarship in queer of color critique, we will explore the relation
-between these sexually inchoate or unyarded subjects and processes of
-racialization to ask how sexuality is reconfigured when flesh rather than
-subjectivity becomes its anchor. How might these subjectivities record or
-engage historical events or how might they themselves be historical? Are these
-sexual subjectivities or erotic practitioners unique or do they coagulate into
-sexual subcultures or affective sodalities? In what ways are they constructed
-through logics of gender, class, age, religion, and other axes of difference?
-We will open by having the discussion leaders trace themes and intellectual
-through lines among the papers for 10 minutes each and then move to a general
-discussion.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Surrealism on the Move</strong></h2>
-
-<p></p>
-
-<p><strong>Leader:</strong></p>
-
-<p style='margin-left:.2in'>Chris Townsend, Royal Holloway, University of London</p>
-
-<p></p>
-
-<p>This seminar explores the significance of migration and
-exile upon the creativity of surrealist artists and especially upon the
-evolution of the movement in the 1930s and ’40s away from the conceptual
-premises established in Paris under the aegis of André Breton. If surrealism
-begins as a relatively staid affair in the salons of Paris in the 1920s, with
-its movement limited to the urban dérive, by the 1930s it is an art of
-continental and global wanderers. Whether it is in the trans-Atlantic movement
-of European artists such as Leonora Carrington, South Americans such as Leonor
-Fini, or Breton himself, under the pressure of war, to the USA and Mexico; the
-permanent, yet unstable European settlement of an American artist such as Lee
-Miller; or the trans-European journeys of the British poet and painter Roland
-Penrose, “wandering” and resettlement will be crucial for the long-term
-development of surrealism.</p>
-
-<p></p>
-
-<p>This seminar seeks contributions that map these movements
-and explore their impact, with particular attention to artists already on the
-margins of surrealism because of gender and/or ethnicity, who redefine their
-practice as a consequence of trans-national and continental migration. What are
-the implications of new languages and social practices? Of new networks of
-friendship, and the transformation of old ones by distance? Of new sites and
-modes of publication and exhibition? Do these changed conditions allow us to
-re-map Surrealism as a whole?</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>In These Times: Activism, Labor, Modernism</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Debra Rae Cohen, University of South Carolina</p>
-
-<p style='margin-left:.2in'>Jennie Lightweis-Goff, University of Mississippi</p>
-
-<p></p>
-
-<p>The <i>Modernism/modernity </i>Print Plus blog series “In
-These Times” is rooted in Chicago; it takes its name from the progressive
-monthly founded there as a broadsheet in 1976. In its celebration of Chicago’s
-modernist vibrancy, the MSA conference CFP leaves out the city’s radical
-tradition, its identification with the struggles of labor, its identity as “‘Hog
-Butcher … Tool Maker, Stacker of Wheat.” How might similar occlusions and their
-redress, this seminar asks, inform our own activisms in the present, inside the
-classroom and out? How do conditions of precarity, contingency, and alienation
-blunt solidarity within and beyond the institutional silos of the contemporary
-university? In the spirit of the “In These Times” column, we invite position
-papers that respond to its initial prompt, now even more urgent in these times
-of academic disaster capitalism: “How can we insert the urgency of activism
-into our models of composition? We know how, if we didn’t earlier, to express
-this urgency as private citizens—march, volunteer, protest, get local,
-organize, call, write, share information, support each other, engage, engage,
-engage. But how do we as <i>scholars of modernism and modernity </i>do so?” </p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>War &amp; Interiority</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Sara Crangle, University of Sussex</p>
-
-<p style='margin-left:.2in'>Maud Ellmann, University of Chicago</p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Adam Piette, University of Sheffield</p>
-
-<p style='margin-left:.2in'>Paul Saint-Amour, University of Pennsylvania</p>
-
-<p></p>
-
-<p>The violence of war is
-outward-facing, directed against other factions or nations. But this aggression
-emerges from within individual subjects, and is a manifestation of deeply held
-values, pervasive emotions, and foundational memories. This interiority drives
-all participants, from the reticent to reviled warmongers: in <i>Mein Kampf</i>,
-Hitler recounts how his childhood experience of reading his father’s histories
-of the Franco-Prussian War ensured that the “heroic struggle” for German identity
-would “become [his] greatest inner experience.”</p>
-
-<p>In the aftermath of war, internalized processes and
-ideologies make sense of loss. In <i>The Great War and Modern Memory</i>, Paul
-Fussell describes how one D-Day veteran focused “‘the inner recording eye … on
-phenomena that the mind would be able to live with in the future.’” In the
-aftermath of World War I, modernist poets turned that inner recording eye on
-the grief-stricken subject: in “Paris,” Hope Mirrlees’s <i>flâneuse</i> wanders
-through a city in mourning as the Treaty of Versailles is negotiated. At the
-same time, traversing the same streets, Vicente Huidobro embarks upon <i>Altazor</i>,
-an epic poem lamenting the post-war “painful grammar walk[ing] through [the]
-brain.”</p>
-
-<p>For Sarah Cole, modernist literary violence is either
-broadly representative or “private, subjective, and personal.” Focusing on
-these latter manifestations, this seminar will engage with the blurring of
-these two categories, as in Eliot’s “[u]ndisciplined squads of emotion.”
-Similarly, we might consider how wartime fiction of the 1930s and 1940s turns
-away from Freudian inwardness toward surface and detachment, as explored in
-Maud Ellmann’s current research. Collective interiorities could prove another
-preoccupation, as in the affective aims of propaganda. War might trigger
-recollections of past trauma, or, as in Amy Lowell’s “September, 1918,” it may
-foster utopian visions of a warless future when there will be no need “to
-balance” the self-conscious self “Upon a broken world.”</p>
-
-<p>Should this conversation prove generative, organizers will
-consider collecting contributions for a journal special issue. </p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Literature and Action</strong></h2>
-
-<p></p>
-
-<p><strong>Leader:</strong></p>
-
-<p style='margin-left:.2in'>Sarah Cole, Columbia University</p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Michaela Bronstein, Stanford University</p>
-
-<p style='margin-left:.2in'>Frances Negrón-Muntaner, Columbia University</p>
-
-<p></p>
-
-<p>This seminar asks of modernism: how did it attempt to
-intervene in the world? In “Mr. Bennett and Mrs. Brown,” Virginia Woolf notes
-that a work of great literature should be complete in itself, and should not
-make a reader feel she needs to <i>do </i>something after reading it, such as
-join a society or write a check. But what if the point of literature is,
-specifically, to activate the reader to do something, including taking
-political action? Can we discern, either in modernism, adjacent to it, or as a
-separate literary ideal altogether, the project of activating and intervening,
-making changes in the present, and reshaping the direction of the future? Or,
-to take another tack, how might literature be put into action by other forces,
-perhaps beyond the author’s intention? For this seminar, I invite papers—feel
-free to think of them as provocations and thought experiments—that take up the
-prospect of an activist literary project. Participants might consider writers
-who aim for their work to propel some larger goal, even to the place of utopia,
-or might look in a less author-focused way at how literature can be enlisted to
-broader purposes, or may consider more collective models of literary action.
-Any genre of literature from anywhere in the world is welcome for
-consideration, and topics might include gender, race, geopolitics, empire,
-ecology/climate, economics, war, migration (the conference theme), or other
-areas where literary culture might be imagined, or even asked, to provoke
-change. </p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Innovative Approaches to Teaching About the First World
-War</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Stacy Carson Hubbard, University of Buffalo</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
 	
-<p style='margin-left:.2in'>Mark Whalan, University of Oregon</p>
-<p style='margin-left:.2in'>Elizabeth Outka, University of Richmond</p>	
-
-<p></p>
-
-<p>This seminar considers
-innovative approaches to teaching about the First World War and its continued
-historical relevance in the context of never-ending wars, technologies of
-destruction, pandemics, collective trauma, and militaristic masculinities.
-Participants are invited to share ideas for designing and teaching courses that
-put diverse materials into conversation and encourage students to participate
-in rethinking the war’s historical and contemporary import. Particular
-attention will be given to expanding WWI studies beyond the familiar texts,
-figures, myths, and tropes. Participants may want to share strategies for 1)
-crafting syllabi and assignments that challenge or expand familiar narratives
-about the war and include perspectives often excluded from history; 2)
-promoting critical thinking about historical and aesthetic issues surrounding
-violence and its representations; 3) or bringing theoretical perspectives from
-trauma theory, disability studies, queer studies, race theory, or postcolonial
-studies to bear on WWI literature, art, and history. In addition, participants’
-papers might illustrate how they teach a particular work or cluster of works;
-how they combine literary, visual, and historical material into units; how they
-engage students in archival research and/or digital projects; what sorts of
-successful assignments they have developed; and/or what sorts of resources they
-utilize. Ideas for making WWI courses fruitfully interdisciplinary—combining
-history, literature, art, film, and popular culture—will be discussed, as will
-innovative ways of relating WWI topics to contemporary culture and politics in
-order to help students understand the war’s continuing significance.
-Collaborative, disruptive, experiential, creative, online, and student-centered
-pedagogies will also be of interest. Both novice and experienced teachers are
-welcome.</p>
-
-<p>The format of the seminar will entail a short
-introduction to the topic by the organizer, followed by brief (10-12 minute)
-presentations by two invited participants who will detail specifics of how they
-approach teaching about WWI in their courses and how their research informs
-those courses. These introductory comments will be followed by feedback on
-submitted essays in groups of 3, and then a general exchange of ideas involving
-the whole seminar group.</p>
-
-<p></p>
-
-<h2><strong>The Migration of Forms</strong></h2>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Emilio Sauri, University of Massachusetts, Boston</p>
-
-<p style='margin-left:.2in'>Eugenio Di Stefano, University of Nebraska at Omaha</p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Ericka Beckman, University of Pennsylvania</p>
-
-<p style='margin-left:.2in'>Nicholas Brown, University of Illinois at Chicago</p>
-
-<p></p>
-
-<p>Reflecting on the migration of the novel to Brazil in the
-nineteenth century, Roberto Schwarz notes that “the unification of the
-novelistic sphere with that of reality comes about through their almost total
-separation, and the dialectic of the two work through their precise
-articulation, and not, as usually happens, through some kind of conflation.”
-Writing in the 1970s, Schwarz here revisited a problematic that proved just as
-central to modernism and its migration to the peripheries: namely the artwork’s
-relationship to the world and to its audience; or, more precisely, how the
-artwork’s form refuses its reducibility to either. This claim is a resolutely
-aesthetic concern, but one conceived as vital not just to efforts to understand
-how forms travel across cultures and time periods, but also to imagining and
-interpreting the unequal relations that have long characterized the development
-of the world system as a whole. More recently, criticism and theory associated
-with the new materialisms and the decolonial turn have extended discussions
-about center and periphery into new directions. How might these approaches
-rewrite the histories of modernism and its migration to the global south?
-Importantly, where the dialectical tradition to which Schwarz contributes
-insists on the separation between artwork and world, such approaches discover
-new possibilities—critical, political, and aesthetic—in the critique of that
-separation. This seminar considers what these recent turns in criticism and
-theory have meant for our understanding of modernism’s relationship to the
-global south, and what they might tell us about the artwork’s relationship to
-the inequalities of the world system more generally. What are the limits of
-these critical turns? And how might the Schwarzian insistence on separation
-offer a means to think beyond them?</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Rural Modernisms</strong></h2>
-
-<p></p>
-
-<p><strong>Leader:</strong></p>
-
-<p style='margin-left:.2in'>Zachary Rockwell Ludington, University of Maine</p>
-
-<p></p>
-
-<p>The industrial city is a key element in the story of
-modernism, but the modern city necessarily develops in contrast to other spaces
-and temporalities. Automobiles, aviation, rail, telegraph, telephone, and steam
-technology collapse distance and create new relationships between metropolitan
-centers; between cities and non-urban spaces; between individuals and the scope
-of their world. From the Baudelairean <i>flâneur</i>’s cultivated detachment to
-the revolutionary politics of Mexican <i>estridentismo</i>, the modern urbanite’s
-attitudes take shape in opposition to fading imaginaries of the old city and in
-dialog with non-urban spaces and the mythologies built around them, like the
-wilderness, the farm, the village, or colonial spaces. These spaces and
-temporal frames of mind are in flux at the beginning of the twentieth century,
-producing not a single urbanized modern consciousness but a multiplicity of ways
-of being modern: urban, rural, or otherwise. It follows, in Susan Stanford
-Friedman’s crisp formulation, that “multiple modernities create multiple
-modernisms. Multiple modernisms require respatializing and thus reperiodizing
-modernism.” Scholars have taken up this work in recent years, reading modernism
-in post-independence Cuba, rural England, or colonial India vis-à-vis modernity’s
-shifting notions of time and space. This seminar seeks to convene scholars
-working in various rural modernisms to find points of theoretical and aesthetic
-convergence and, indeed, divergence. The conversation will cross linguistic,
-political, and disciplinary boundaries, and highlight patterns of migration,
-communication, and transnational exchange evident in modernist work that
-engages with rural spaces.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Modernism and “the Whiteness problem”: Filling Gaps,
-Identifying Investments </strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Jennifer Nesbitt, Penn State University - York</p>
-
-<p style='margin-left:.2in'>Sonita Sarker, Macalester College</p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Kelly Walsh, Yonsei University</p>
-
-<p></p>
-
-<p>The phrase “the Whiteness problem” ironically invokes
-earlier designations “the woman problem” and “the Negro problem” to suggest
-both distinctions and relationships among attempts to source a social issue in
-a singular identity feature. And yet Anglophone literary modernist studies,
-despite scholarship redressing silences around race and colonialism, remains
-grounded in a largely unmarked norm designated “whiteness.” This is a problem.
-The 2021 MSA seminar on whiteness seeks participants engaged in revisiting
-modernist authors’ own self-representations, elisions, or sublimations of
-whiteness; it also invites self-reflexive considerations of scholarly method,
-pedagogy, and theory in modernist studies. </p>
-
-<p></p>
-
-<p>We invite participants to rearticulate modernist whitenesses
-considering the ample evidence that, first, white dominance has always already
-been a conversation in modernist communities: to name only US-based texts,
-think of Nella Larsen’s <i>Passing</i> and James Baldwin’s <i>The Fire Next
-Time</i>. In this context, to what extent do Nancy Cunard’s and Carl Van
-Vechten’s works, to take only two instances, implicitly inscribe a particular
-whiteness? In a larger frame, this seminar is informed by the vast field of
-Whiteness Studies in which seminal works are now at least 25 years old. </p>
-
-<p></p>
-
-<p>This seminar expands work on inclusion that MSA began in
-prior conferences and meshes with the themes of MSA 2021 such as “translation,
-transmission, transmediality, transnationalism, transgenderism, transraciality,
-and transference.” We look forward to a dialogue that carries across areas of
-the world as well as in diverse media and disciplines. As Matthew Frye Jacobson’s
-<i>Whiteness of a Different Color</i> indicates, whiteness itself migrates,
-changing shape depending on contexts, local or otherwise. When it comes to
-racialized passing, for instance, the lines between forced and voluntary
-migrations become blurred. </p>
-
-<p>Participants may examine whiteness intersectionally as a
-category produced dialectically with both its racialized and ethnicized “others,”
-gender (especially masculinity), language, age, dis/ability, class, and
-sexuality. We also encourage contributions that examine the heterogeneity of
-whiteness or systems that enable or constrain the recognition of whiteness.
-Comparatist approaches that decenter Anglophone cultural contexts, or analyses
-that center aboriginal Australian, mixed-race Brazilian, or creole Caribbean
-works are particularly welcome. </p>
-
-<p></p>
-
-<p>Participants may ask and respond to such questions as the
-following: By what means can whiteness as a structuring element be rendered
-(il)legible or (in)visible? When and why does whiteness disappear as a category
-of analysis? How does terminology disguise or telegraph investments in
-whiteness? By what processes are analyses of whiteness made theoretically,
-institutionally, or politically inert? From which positions and vantage points
-can “we” hear conversations about whiteness and how are these interventions
-listened to, heard, or addressed?</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Elemental Ecology in Modernism’s Time of Crisis</strong></h2>
-
-<p></p>
-
-<p><strong>Leader:</strong></p>
-
-<p style='margin-left:.2in'>Molly Volanth Hall, Rhode Island School of Design</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
-
-<p style='margin-left:.2in'>Laura Winkiel, University of Colorado at Boulder</p>
-
-<p></p>
-
-
-<p>The blasted landscapes of World
-War I are often described by writers and diarists as <i>atomized</i> and <i>primeval</i>.
-A focus on geologic reduction seems pervasive within Anglophone modernist works
-responding to this particular crisis: twisted metal, jagged rocks, rent soil,
-cracked earth, air aflame, thick suffocating muddy waters. How might we see
-this elemental ecology as a trope or register particular to war-time or
-large-scale socio-political crises of Modernism in general, beyond World War I?</p>
-
-<p>Does it appear in the early feminist literatures and
-political writings of suffragettes? What of those writing against the violence
-of empire in its many forms? The rise of the new “urban jungle”? Labor
-struggles, race riots, and their attendant political rhetorics and counter
-protest writings?</p>
-
-<p>This seminar seeks to interrogate exactly this matrix
-of crises and their potentially elemental rhetorics and images, asking what
-such tropologies make possible or legible, and what they foreclose and incite?
-Situating itself within the trajectory of such new materialist scholars as
-Jeffrey Cohen and Lowell Duckert, participants are invited to explore how
-writers have used the elements throughout this period of increasing violence,
-destruction, and catastrophe—social, military, and environmental—to mediate
-individuals’ experiences of crisis for themselves and the potential
-epistemological, ontological, and phenomenological crises they present for the
-individuals’ relationship to the social and material world.</p>
-
-<p>When we convene on the day, participants will be
-invited to speak to and query each other’s pre-circulated work, as guided and
-facilitated by the seminar leader. A small set of discussion questions focusing
-on points of intersection and through lines across the papers will be
-distributed for contemplation a few days before the seminar. Our aim will be to
-spend at least 5-10 minutes generally focused on each person’s contribution—though
-with much crosstalk encouraged, especially in the second hour.</p>
-
-<p></p>
-
-<h2><strong>Modernist Stress: Pressure, Production and Creation</strong></h2>
-
-<p><strong>British Association of Modernist Studies (BAMS)
-Reciprocal Session</strong></p>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Cécile Varry, Université de Paris, France</p>
-
-<p style='margin-left:.2in'>Polly Hember, Royal Holloway, University of London</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
-
-<p style='margin-left:.2in'>Janine Utell, Widener University</p>
-
-<p></p>
-
-<p>“The better work men do is always done under stress and at
-great personal cost”</p>
-
-<p>—  William Carlos Williams, <i>Spring and All</i> (1923) </p>
-
-<p></p>
-
-<p>According to Enda Duffy, “stress is assuredly a modernist
-invention, yet it has virtually never been mentioned, let alone theorized as a
-topic in culture, by modernist scholars” (2015). This seminar invites
-participants to look at the manifestations of physical and psychological
-pressures in modernist works. </p>
-
-<p></p>
-
-<p>Although the use of the word “stress” to refer to a
-psychological and physiological phenomenon only gained currency in the 1930s
-and ’40s, the concept of a stress-response appeared as early as 1915 in the
-research of Walter Cannon, in relation to fight-or-flight reactions. (The
-concept of stress had previously been confined to the field of physics and
-engineering.) Increasingly, the debate around the use of stress-induced energy
-has become focused on normal and abnormal reactions to work: in an age where
-energy is harnessed by machines and subjected to the demands of capitalist
-production, stress urges us to become more attuned to the pressures of
-productivity over minds and bodies. While Cannon focused on stress as an
-adaptive response enabling mankind to confront emergencies, stress-induced
-energy remains a disruption of emotional balance, which, if prolonged and left
-unchecked, can affect physical and mental health. </p>
-
-<p></p>
-
-<p>From Pound’s advocacy of concentration against dispersal and
-Eliot’s association of the artistic process with forms of “intensity” and “pressure,”
-to Woolf’s and Joyce’s attention to the minute changes in their characters’
-nervous states (to cite only a few all-to-canonical examples), modernist
-literature is deeply preoccupied with the spending and wasting of surplus
-energy, with the way bodies and minds react to various pressures, and with the
-role of these pressures in the facilitating or inhibiting of artistic creation.
-</p>
-
-<p></p>
-
-<p>Seminar participants will be asked to engage with one or
-more of the following questions:</p>
-
-<p></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>What
-are the roles of internal and external pressures in artistic creation; how do
-modernist energies get used or go to waste?</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In
-reading modernist texts through stress, and watching for its symptoms
-(shortness of breath, increased heartbeat, tension), can we glean any new
-insights into modernist bodies and their representations?</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>What
-is the place of stress, strain, and exhaustion in authors’ biographies,
-correspondences, or life-writing? </p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Can
-the writing of stress be seen as pathological, therapeutic, or both? How do
-modernist works make space for rest and release?</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>How
-does the influence of war feature in modernist depictions of stress in relation
-to trauma and (shell-)shock? How does stressfulness engage with the memory or
-anticipation of emotional and physical violence? </p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Is
-modernist stress a gendered issue? Do we read stress differently in women’s
-writing (e.g. nervousness, hysteria) and men’s writing (e.g. concentration,
-intensity)?</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>How
-does the current atmosphere of climate anxiety change the way we pay attention
-to the environmental pressures at play in modernist writing? </p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As
-scholars face increasing pressures of productivity, publication and employment,
-how do we relate to questions of productive and unproductive energy,
-concentration and dispersal? Does stress help or hinder our research culture;
-is there an element of productive pressure, and if so, what is the cost?</p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<h1><strong>Remote</strong></h1>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Modernist Editing Now</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Amanda Golden, New York Institute of Technology</p>
-
-<p style='margin-left:.2in'>Bryony Randall, University of Glasgow</p>
-
-<p></p>
-
-<p><strong>Invited participants:</strong></p>
-
-<p style='margin-left:.2in'>Adam Guy, University of Oxford</p>
-
-<p style='margin-left:.2in'>Jane Goldman, University of Glasgow</p>
-
-<p></p>
-
-<p>This seminar considers new approaches to print and digital
-scholarly editing in modernist studies. If, as David Greetham put it, “[t]he
-history of textual scholarship is the history of history,” how has scholarly
-editing shaped modernist studies, and how are new editions informing research
-and teaching? What questions have modernist texts presented, and how have
-editors addressed them? What editorial decisions have proved useful, and what
-kinds of editions would readers like to see?</p>
-
-<p></p>
-
-<p>We invite participants interested in the creation and use of
-scholarly editions, from those in the early stages of a project to those
-teaching with print or digital editions. For seminar members working on or
-having recently completed a project, what large- or small-scale issues have
-emerged and how have you or your collaborators responded to them? What
-questions remain, and what do they teach us about modernist studies? Other
-topics for discussion may include, but are not limited to, print and digital
-archives, working remotely, collaboration, locating and dating materials,
-annotation, and innovative pedagogies.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Networks, Infrastructures, and Other Modernist
-Passageways</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Lauren Rosenblum, Adelphi University</p>
-
-<p style='margin-left:.2in'>Laurel Harris, Rider University</p>
-
-<p></p>
-
-<p>For the past thirty years, the network model has been
-influential in modernist studies, especially as we seek a more inclusive
-narrative of modernism. Weak theoretical turns and Digital Humanities projects,
-especially those involving mapping, have recently renewed this model of
-networked connections. At the same time, an “infrastructuralist” approach to
-texts focusing on the often invisible material culture that undergirds modern
-life—transportation networks, electrical grids, sewer systems, corridors and
-passageways—has been developed through the work of Michael Rubenstein, Kate
-Marshall, and Bruce Robbins among many others.</p>
-
-<p></p>
-
-<p>This seminar asks what these critical explorations of
-networks and infrastructures afford us when put into conversation. Networks and
-infrastructures define at once analogous and opposed forms of modern
-connectivity. Paul Edwards, for example, maintains that networks are “decentralized
-and distributed” while infrastructures are “centralized and hierarchical”;
-Caroline Levine, on the other hand, claims that “conventional infrastructures
-are best described as networks” as both are “not repetitive but connective
-forms.” Other theorists like Sara Ahmed complicate both paradigms in asking us
-to consider “orientations” alongside connections. How can we conceive of
-modernist networks that might connect global modernisms, feminism, queer
-studies, and the many other approaches that have adopted a network model? Is
-the network model too limiting to do justice to the varied and multiplicitous
-migratory paths of modernism? Or is it so broad that such lived spatial
-patterns of connectivity become potentially meaningless? How does a materialist
-focus on infrastructure challenge or enhance these network narratives? We
-solicit response papers that either 1) consider the limits and unmet potential
-of modernist network narratives or infrastructures; or 2) consider how
-modernist texts reify or reimagine the networked and/or infrastructural
-connections of modernity.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>New Directions in Decadence Studies: Contexts,
-Geographies, Histories</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Robert Volpicelli, Randolph-Macon College</p>
-
-<p style='margin-left:.2in'>Robert Stilling, Florida State University </p>
-
-	<p></p>
-
-	<p><strong>Invited participants:</strong></p>
-
-	<p style='margin-left:.2in'>Vincent Sherry, Washington University in St. Louis</p>
-
-	<p style='margin-left:.2in'>Kate Hext, University of Exeter</p>
-
-	<p></p>
-
-<p>In their introduction to <i>Decadence in the Age of
-Modernism</i> (2019), Kate Hext and Alex Murray speak of the “dizzying
-multiplicity of decadence in the early twentieth century” and the difficulty of
-detecting, much less defining, decadence outside fin-de-siècle Europe. Rather
-than shy away from that difficulty, this seminar seeks to explore new locations
-for decadence, both in and beyond the modernist era, and across a more globally
-extensive framework. While the subject of decadence has been treated within
-modernist studies with some regularity since the mid-1990s, a new wave of
-scholarship has brought decadence squarely to the center of our field, often
-with the goal of re-evaluating its broader relationship to modernism and its
-related literary and social movements. Recent works by Matthew Potolsky,
-Vincent Sherry, Kristen Mahoney, Robert Stilling, Alex Murray, and Kate Hext,
-for example, have demonstrated the persistent interest in decadent art and
-writing, and the lasting influence of figures such as Wilde, Huysmans,
-Beardsley, and Pater well past the1890s while challenging long-held
-understandings of decadence as a characteristic set of traits. Indeed,
-decadence studies has expanded in recent years to include range of
-late-decadent, modernist, queer, and Harlem Renaissance texts, Hollywood films,
-and colonial and postcolonial poetry and art.</p>
-
-<p></p>
-
-<p>Nevertheless, the story of decadence as a modern aesthetic
-mode remains dominated by its origin story in nineteenth-century France, while
-the contributions of non-Western understandings of historical decline,
-degeneration, or aesthetic decadence remain under-examined. By the same token,
-how might decadence be understood as an aesthetic response, for example, to
-colonialism, neo-colonialism, globalization, secularization, climate change,
-global migration, rising illiberalism, and so forth? To support a conversation
-centering on this recent expansion of decadence studies and the future
-directions it might take, this seminar seeks papers that approach decadence
-from new theoretical angles, compare well-known decadent texts to less
-traditional ones, explore decadence’s relationship to and circulation through
-various social contexts, locate decadence in or across new cultural, national,
-geographic, and ecological spaces, or extend the temporal boundaries of
-decadence beyond the fin de siècle. We invite work that addresses the arts,
-film, and new media as well as literature, and we welcome both scholars with
-considerable experience in this area and those who may be approaching decadence
-for the first time.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Radical Domesticity</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Victoria Rosner, Columbia University</p>
-
-<p style='margin-left:.2in'>Mary McLeod, Columbia University</p>
-
-	<p></p>
-
-	<p><strong>Invited participants:</strong></p>
-
-	<p style='margin-left:.2in'>Susan Fraiman, University of Virginia</p>
-
-	<p style='margin-left:.2in'>Alice T. Friedman, Wellesley College</p>
-
-	<p></p>
-
-
-<p>&quot;Away with Coziness! Only where comfort ends, does
-humanity begin.&quot; (Adolf Behne)</p>
-
-<p></p>
-
-<p>The COVID-19 pandemic has brought both pressure and
-attention to domestic life, with homelessness and domestic violence on the
-rise, more people spending more time at home than ever before, and increased
-erosion of the separation between the spheres of home and work. Via Zoom and
-similar platforms, domesticity has become a spectacle as never before.</p>
-
-<p>The contemporary crisis in domestic life invites a
-reconsideration of a parallel historical moment 100 years ago, when another
-pandemic—in concert with other factors, such as the impact of WWI—led to a
-significant revaluation of the scope, meaning, and shape of domestic life.
-Modernism gave rise to many radical experiments in the domestic, despite its
-outspoken repudiation of the comfortable and cozy.</p>
-
-<p></p>
-
-<p>This seminar offers an opportunity for us to consider
-together about how radical domesticity helped set the agenda for modernism in
-literature, theater, architecture and design, urban planning, and beyond.
-Seminar contributors may want to think back as far as the mid-nineteenth
-century, when social theorists like Fourier and Saint-Simon promulgated
-experiments in group living that challenged the traditional family and gender
-roles, or as far forward as 1960s domestic countercultures, or anywhere in
-between. The seminar will look to foster and extend comparative discussions
-about modernism across diverse forms of cultural production.</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Pregnancy, Kinship, and Motion</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Aimee Wilson, University of Kansas</p>
-
-<p style='margin-left:.2in'>Megan Faragher, Wright State University, Lake Campus</p>
-
-<p></p>
-
-<p>Pregnancy and kinship are
-intimately bound up with notions of transmission, movement, and the “carrying
-across” referenced in the conference theme: carrying the fetus until
-parturition; the transmission of fluids between the fetus and the gestating
-person; the passage of genetic matter through a family line; racist and ableist
-laws designed to prevent transmission of “unfit” genetic matter into “fit”
-genetic stock (as Dorothy Roberts states, “Antimiscegenation laws were a
-eugenic measure”); the importance of quickening—the moment the pregnant person
-first senses fetal movement—as a marker of fetal viability; or the process that
-Erin Kingsley terms “gestational immigration,” which refers to the “physical
-and psychological movement” that occurs when one becomes a parent.
-Linguistically, too, reproductive processes are linked with the rhetoric of
-motion. <i>Hysteria</i>, for instance, stems from the Greek word for “uterus,”
-and early twentieth-century treatments for hysteria drew on ancient theories of
-the “wandering womb” as a source of women’s ailments. Moreover, the word <i>travel
-</i>stems from <i>travail</i>. Most frequently used today to refer to mental or
-physical work, at earlier times <i>travail</i> referred specifically to
-childbirth. As Joyce E. Kelley notes in her study of the ways modernist women
-conceptualized travel as a catalyst for exploring creativity, the “personal ‘geographies’
-of pregnancy” are underexplored.</p>
-
-<p>This seminar seeks papers on all aspects of
-reproduction as depicted in modernist literature. Papers that address
-reproduction in context with motion, transmission, travel, or migration are
-preferred. We invite work that considers queer reproduction, including
-depictions of pregnant men and androgynous people. Possible topics include but
-are not limited to:</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Kinship
-and/or the anti-social thesis</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Family
-lineage</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Eugenics</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Conception</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Gestation</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Parturition</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
-post-partum period</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Birth
-control and family planning</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Menstruation</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Fertility
-treatments</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'>●<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Womb
-transplants</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>The Modernist Scene</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Alix Beeston, Cardiff University</p>
-
-<p style='margin-left:.2in'>Pardis Dabashi, University of Nevada, Reno</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
-
-<p style='margin-left:.2in'>Cara L. Lewis, Indiana University Northwest</p>
-
-<p></p>
-
-<p>This seminar will explore the
-aesthetics and politics of modernism as they are expressed through scenes. Each
-participant will present a paper that focuses on one scene in a specific
-modernist text—whether film, theater, visual arts, literature, or other media.</p>
-
-<p>The purpose of the seminar is, first, to think through
-the various formal and social implications of the scene as a unit of aesthetic
-expression. How does modernism across different media negotiate the formal
-boundaries of a scene? How do we know when a scene has begun, when it has
-ended? How can we account for the dual nature of scenes in narrative theory, as
-both a suspension of diegetic movement and a site of narrative intrigue?
-Second, we will consider the scenic in (or as) modernism. How does the category
-of the scene, defined as it is by a logic of inclusion and exclusion, allow us
-to appraise the shape and limits of the modernist scene—particularly as it
-appears from the vantage of contemporary modernist studies? Finally, our
-discussion will accommodate the gendered and aged valences of the scene in
-modernism. As in the parlance of “making a scene,” the scene is associated with
-irrationality and excess, cast as the dominion of women and the young—the
-tantrum of a child, for example, or the theatrics of female hysteria.</p>
-
-<p>We invite papers that are anchored by the discussion of
-a specific modernist scene and that engage any or all of the above concerns.</p>
-
-<p></p>
-
-<h2><strong>Migration – Innovation – Labour</strong></h2>
-
-<p></p>
-
-<p><strong>Leader:</strong></p>
-
-<p style='margin-left:.2in'>Torin McLachlan, University of British Columbia</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
-
-<p style='margin-left:.2in'>Shalini Sengupta, University of Sussex</p>
-
-<p>No migration without labour.</p>
-
-<p>No “carrying across” without “carrying.” Whether we are
-discussing the “trans-” of translation, transnationalism, transgender
-identities, transference, or the coordinated movement of bodies through and
-across space, we cannot avoid considering the laborious elements of crossing
-through, changing over, passing beyond, or even going back. Can we “figure”
-migration without attending to labour?</p>
-
-<p>How does migration condition and affect the aesthetic
-labour of modernist innovation? As a principle, or even an injunction, Ezra
-Pound’s “make it new” still offers a helpful gloss on the political and
-aesthetic demands of modernist projects in various forms. In the context of
-this demand for newness, we might even see migration as the making modern of
-modernism itself, in the propensities of crossing through, changing over,
-passing beyond, or even going back to generate “new” material and metaphorical
-configurations. What indeed is the status of “newness” in migration? Does
-thinking of migration as a condition of modernist writing help us understand
-its complex mediation of tradition?</p>
-
-<p>In many ways, the “figuration” of labour can help us
-better understand the connections between migration and modernist innovation.
-As Gayatri Spivak notes in <i>An Aesthetic Education</i>: “Culture alive is
-always on the run.” Indeed, movement as critical method in Spivak’s work
-appropriates modernist themes for diverse purposes; see the “feminist shuttling”
-between “capitalism as modernity and reproductive heteronormativity,” for
-example. Or, consider Ishmael Reed’s 1972 novel <i>Mumbo Jumbo,</i> where the “Jes
-Grew” dance-virus—aesthetic-innovation-become-involuntary-affliction—transposes
-the aspirant formal and social freedoms of jazz into the discourse of racial
-contagion, prompting reflection on the racial and capitalist logics of “carrying,”
-and renewing thinking about the effortful dimension underlying the “virality”
-of culture.</p>
-
-<p>This seminar therefore promises an inter-disciplinary
-conversation about the effortful and productive nature of migrations,
-considered broadly. What are the intersections between the labour theory of
-value, biopolitics, and deconstructions of the subject/subjectivity in
-modernist writing, for example? How might a focus on the labour of migration
-help us understand anew modernist critiques and explorations of “the subject,” “sovereignty,”
-and “belonging,” in the context of political economy and the reproduction of
-global capital?</p>
-
-<p></p>
-
-<h2><strong>Modernist Emo</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Rivky Mondal, University of Chicago</p>
-
-<p style='margin-left:.2in'>Amy Tang, University of Victoria</p>
-
-<p></p>
-
-<p><strong>Invited participant:</strong></p>
-
-<p style='margin-left:.2in'>Jill Richards, Yale University</p>
-
-<p></p>
-
-<p>From W. H. Auden’s “the age of anxiety” to our age of doomscrolling,
-the global pandemic and various political protests compel us to examine
-emotions’ transformative power more closely. Grounded in the premise that “all
-politics is emotional” (Berlant), our seminar asks: how does modernism define
-the interplay between political and aesthetic emotion? Immanuel Kant’s “feeling
-of life,” Raymond Williams’s “structure of feeling,” Walter Benjamin’s “aura,”
-Clive Bell’s “significant form”: these various concepts attempt to encapsulate
-contemplative feelings about a work of art while also gesturing to a reflexive
-awareness of one’s mode of relating to the social. In many of these cases, the
-affective interaction between the work of art and the reader or viewer is not
-enclosed in the individual, but exists to animate transformative social and
-political action (see Jonathan Flatley, Sianne Ngai, Lauren Berlant, David
-Kurnick, Ben Highmore, etc.). Broadly calling these felt responses and
-interactions “aesthetic emotions,” this seminar invites participants to
-consider what kinds of aesthetic emotions modernism theorizes, represents,
-and/or embodies in relation to the political, the social, and the historical.
-We welcome work that explores how modernist experimentation contributes to
-alternative approaches to understanding aesthetic emotion (or inexpressibility
-or failure of such emotion), and how modernist artworks mobilize
-socio-political and materialist aspects of these vague yet specific feels
-connected to art. Participants are encouraged to respond to the following
-prompts, which will establish a shared set of concerns for our seminar:</p>
-
-<p></p>
-
-<p class=MsoNormal>●          How do we think and feel
-with the politics and ethics of aesthetic emotions produced or theorized by
-modernist artworks?</p>
-
-<p class=MsoNormal>●          Besides negative, weak,
-ambivalent emotions, does modernism also engage with affirmative, happy,
-aggressive, and other emotions?</p>
-
-<p class=MsoNormal>●          Does aesthetic emotion
-become associated specifically with formalism in modernism, e.g. “the formal
-relations between color and shapes that exist within the boundaries of the
-frame,” in the words of Brian Glavey? What do “formal relations” mean for
-different modernist media? Are aesthetic emotions medium specific?</p>
-
-<p class=MsoNormal>●          Despite their highly
-subjective nature, thinkers of aesthetic theory have suggested the
-universalizable qualities of aesthetic emotion and judgment. Is there a
-contemporary version of this, such as in the affective turn of literary
-studies?</p>
-
-<p class=MsoNormal>●          Does attuning ourselves
-to aesthetic emotion raise methodological questions (different modes of reading
-and looking)? For instance, does close reading produce different affective
-valences than surface or distant reading?</p>
-
-<p class=MsoNormal>●          How do we conceptualize
-aesthetic judgment when it comes to such a slippery notion as “aesthetic
-emotion”? Does the locus of aesthetic emotion move from the body to the brain
-with modernism? How do our interpretive practices account for felt modes of
-aesthetic judgment that are ineffable/difficult to explain and justify to
-others?</p>
-
-<p class=MsoNormal>●          How do we understand the
-relationship of aesthetic emotion to intellectual enjoyment and interpretative
-pleasure in modernist studies (reading and interpreting “difficult texts,” for
-example)?</p>
-
-<p class=MsoNormal>●          What other questions
-would emerge from our reorientation to aesthetic emotion? Does this
-reorientation further unsettle the already plural and muddy definitions of
-modernism?</p>
-
-<p></p>
-
-<p></p>
-
-<h2><strong>Fostering Activists: A Seminar for the Modernist Scholar-Activist</strong></h2>
-
-<p></p>
-
-<p><strong>Leaders:</strong></p>
-
-<p style='margin-left:.2in'>Laura Hartmann-Villalta, Georgetown University</p>
-
-<p style='margin-left:.2in'>J. Ashley Foster, California State University, Fresno</p>
-
-<p></p>
-
-<p>At the Annual International
-Conference on Virginia Woolf in 2014, Mark Hussey posed a number of questions
-to the opening plenary roundtable, one of the most poignant being: “Does
-[Virginia] Woolf’s ‘thinking is my fighting’ really make a difference now?” As
-many teacher-scholars consider themselves activists, following in the line of
-Jane Marcus’s statement that “Literary criticism is inescapably political,” and
-as the state of our profession goes deeper and deeper into crisis, the question
-arises as to how these two elements—activism and the state of the profession—converge.
-Celebrating the 20th anniversary of “The New Modernist Studies,” that panel at
-2019’s Modernist Studies Association Conference, this was heavy on many
-modernists' minds, as evidenced by challenges to the panelists by junior
-scholars focused on the state of the profession and its future. This
-conversation continued in the roundtables entitled “The Future of Modernist
-Studies in the Age of Precarity” and “New Feminist Modernist Manifestos,” that
-featured talks on “Angry Modernism,” Dark Modernism,” Sketchy Modernism,” and “Suffering
-Modernism.” Anxieties over how to pivot from traditional scholar-teachers to
-activists, both within the field and within the community, abound.</p>
-
-<p>This seminar aims to achieve the following: 1.) a space
-especially for graduate students, adjuncts, and community college modernist
-scholars—but welcoming of all—to share the challenges of maintaining
-scholarship and progressing through research in a waning hiring field; 2.) an
-exchange and examination of institutional differences and obstacles to activism
-and the development of strategies for organizing both inter and
-intra-institutions; 3.) links to modernist activism as a means of historical
-framing, inspiration, and fostering integration for young scholar-activists;
-and 4.) accounts from and about this subject position and her struggles—and
-triumphs—in the academy.</p>
-
-<p>Led by Laura Hartmann-Villalta and J. Ashley Foster and
-grounded in feminist approaches to networking, this seminar seeks to create an
-informal, non-hierarchal space where participants leave with concrete
-strategies that provide beacons of light for the precariat and establish
-communication networks that go beyond their institutions.</p>
-
-<p>“Fostering Activists: A Seminar for the Modernist
-Scholar-Activist” asks participants to share 5-7 pages of a potential variety
-of writing: reflective writing on their experiences or perceptions of union
-organizing, protest, activism; manifestoes on how their teaching links to their
-activism or scholarship; and scholarship on activism in modernist texts and
-figures that reveal coping strategies and lessons learned from past encounters
-in the modernist era. </p>
-
-<p>We seek to create a feminist collective of
-non-hierarchical voices, so no respondent or positions of prestige. Rather than
-attempt to posit alternative-academic careers and a means out of the precariat
-(although the seminar certainly encourages this route), this seminar wants
-participants to share strategies for making it work in this position, not
-burning out, keeping a scholarly agenda, and most importantly, organizing
-across institutions for effective change and resistance. Individuals will leave
-the seminar with next steps and an action plan that will be revisited in
-workshop form at MSA 2022 in Portland.</p>
-
-<p></p>
-
-</div>
--->
