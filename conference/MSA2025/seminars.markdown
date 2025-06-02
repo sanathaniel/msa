@@ -65,31 +65,166 @@ footer: false
 <h1><strong>CONFERENCE GUIDELINES</strong></h1>
 
 <p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
-
-<p>Following the usual seminar model, participants will be asked to submit brief position papers (5-7 pages) that speak to the issues outlined above. These papers may be standalone essays or contextualized excerpts from longer works. Paper topics include but are not limited to:
-</p>
-<p>
-	<ul>
-		<li>the culture and history of diagnostic categories within modern medicine
-		</li>
-		<li>the social, material, and technological infrastructures of diagnosis
-		</li>
-		<li>the representation of diagnostic categories at the turn of the century and afterward
-		</li>
-		<li>diagnosis as a narrative structure and/or element of plot
-		</li>
-		<li>the lived experiences surrounding diagnosis within life writing and/or memoir
-		</li>
-		<li>past and present efforts to diagnose artists and authors from the modernist period
-		</li>
-		<li>practices of diagnostic reading from psychoanalysis to the medical humanities
-		</li>
-		<li>the status of diagnosis within feminist, queer, and disability studies and/or theories
-		</li>
-	</ul>
-</p>
-<p>Prior to the conference, the seminar leaders will then circulate these papers, along with notes and questions for discussion, to all participants. 
-</p>
+<details closed>
+	<summary class="seminar-title" id="p1">Anthologies, Exhibitions, and Festivals</summary>
+		<div class="description">
+			<p><strong>Leaders: Jim Cocola (Worcester Polytechnic Institute); J.D. Porter (University of Pennsylvania)</strong></p>
+			<p><strong>Invited participant: Brendan Kredell (Oakland University)</strong>
+			</p>
+			<p>The anthology, the exhibition, and the festival share in common a function as forms of collecting—for works of literature, visual art, and film, respectively—that offer a vital component in the infrastructural apparatus of modernism. In this seminar we aim to put the canon-making and canon-breaking infrastructures of the literary and visual arts into dialogue with one another. Thinking through the aesthetics and politics of these institutions in their censorious, gate-keeping, generation-defining, and movement-establishing manifestations, we encourage attention to anthologies including the various editions of Untermeyer's <i>Modern American Poetry</i> and the several associated volumes of the <i>Norton Anthology</i>, as well as exhibitions and festivals such as the Armory Show, the Cannes Film Festival, the Venice Biennale, and the Whitney Biennial.
+			</p>
+			<p>
+			Pre-circulated position papers of 5-7 pages might address the topics above, or might turn more specifically to the role of key modernist figures who have served as anthology editors, exhibition curators, and festival jurors, such as Alfred Stieglitz, James Weldon Johnson, Ezra Pound, Jean Cocteau, and Barbara Haskell. Emphases might also center on more recently emerging anthology, exhibition, and festival practices that have retrospectively and proactively shaped the currents, legacies, and afterlives of modernism. We welcome scholars from art history, film studies, literary studies, and beyond, seeking work committed to approaches and methods of various kinds, with particular interest in computational studies, digital humanities analyses, pedagogical reflections, reception histories, and textual criticism, as well as work inflected and informed by critical race theory, ethnic studies, feminist critique, reader-response criticism, and urban studies, among other lenses. Pre-circulated data sets and materials connected to digital humanities initiatives are also welcome.
+			</p>
+		</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">F“Anywhere but the Harlem Renaissance”</summary>
+		<div class="description">
+		
+			<p><strong>Leaders: Adam McKible (CUNY, John Jay College of Criminal Justice); Eve Dunbar (Vassar College)</p>
+			<p><strong>Invited participant: Paul J. Edwards (New York University)</p>
+			
+			<p>Named the “Harlem Renaissance” well after the fact, the explosion of African American creativity and political activism of the interwar years was never confined only to the northern reaches of Manhattan. The Renaissance was, in fact, a global phenomenon with roots in the US and branches throughout the world. The “Anywhere but the Harlem Renaissance” seminar invites papers that explore New Negro creativity, experience, and/or politics outside of the United States and in other American locations.
+			</p>
+			<p>There is a long tradition of skepticism of the movement’s association with Harlem. The poet Sterling A. Brown – who wrote <i>Southern Road</i> (1932), a landmark collection that developed a vernacular modernism rooted in travel, folklore, labor, and migration in the US South – regarded Harlem as the “show-window, the cashier’s till, but no more Negro America than New York is America.” Since then, scholarship that de-centers Harlem has taken two main forms. First, it has focused on Black cultural expression and political activism in US urban centers outside New York—including Chicago and Washington D.C.—and cultural networks, such as the circle around the poet Anne Spencer in Lynchburg, Virginia. Secondly, it has mapped the transnational and diasporic contours of New Negro cultural expression and politics in places as far-flung as Mexico City, Havana, Kingston, Berlin, Paris, Moscow, Colón, and London.
+			</p>
+			<p>TThere is nothing new about the desire to “escape from New York,” as Davarian Baldwin and Minkah Makalani termed it in 2013, but the time is ripe for a reassessment of the Renaissance’s regional, national, and transnational dimensions. Indeed, recent years have seen unprecedented attention to New Negro creativity, activism, and cultural networks in the US South, a focus that sometimes also necessitates attention to the movement’s transnational and diasporic scope. We welcome papers that explore the Renaissance—in anywhere but Harlem.
+			</p>
+				
+		</div>
+</details>	
+<details closed>
+	<summary class="seminar-title" id="p3">Asias in the Americas: Performances, Exhibitions, Archives, Repertoires
+</summary>
+		<div class="description">
+			<p><strong>Leaders: Christopher Bush (Northwestern University); Carrie Preston (Boston University)</strong>
+			</p>
+			<p>Works such as Amir Mufti’s <i>Forget English!</i> (2016) have demonstrated the powerful and persistent links between philology and Orientalism, highlighting the myriad ways in which textual interpretation—however critical in intent—builds on and remains indebted to the institutions and infrastructures of empire. This is most obviously the case when the object of knowledge is colonized and the forms of knowing committed to the use of a hegemonic language, perhaps the hegemonic language, English.
+			</p>
+			<p>As a counterexample, we might consider the wealth of recent scholarship in Latin American studies on that region’s long-term relationship to Asia, particularly East Asia and the Pacific. Here the objects of knowledge relate to very different colonial histories, and the forms of knowing are not in English, but in languages with their own complex inter-imperial histories. More broadly, much of this scholarship has emphasized the relationship between textual interpretation and para- or extra-textual forms of cultural circulation, from material culture and music to foodways and gestures. In a recent review essay, Laura J. Torres-Rodríguez uses the concept of “critical infrastructure” to bring into dialogue scholarship on topics as diverse as Latin American Maoism and the politics of disability in the Philippines.
+			</p>
+			<p>WThe richness of these counterexamples suggests the possibility of revisiting even the most seemingly paradigmatic examples of “Orientalism” as a regime of knowledge production and control elsewhere. Keeping in mind the prominence of Asian art in Boston museums and the historical centrality of “the China Trade” to nearby Salem, our seminar will explore some of the diverse ways in which knowledge of Asia has been embodied in the Americas. While not leaving behind philology and its critics, we will focus on alternative histories and alternative models of knowing.
+			</p>
+		</div>
+</details>	
+<details closed>
+	<summary class="seminar-title" id="p4">Bureaucratic Infrastructures</summary>
+		<div class="description">
+			<p><strong>Leaders: Caroline Z. Krzakowski (Northern Michigan University); Nissa Ren Cannon (Stanford University)</strong>
+			</p>
+			<p>If infrastructure has often been characterized as “boring,” its close-relation, bureaucracy, has a reputation for being even more so. Yet, at the moment, the stakes could not be higher for either of these structures, both nationally and globally. From the dismantling of the central infrastructures of governments, to the destruction of the archival records that undergird, in Marlene Manoff’s words, “the existence of democratic society,” we are living in a world where these topics have assumed a new urgency, dominating our news cycles and threatening our everyday lives.
+			</p>
+			<p>TThis seminar examines the social and cultural productions that are made possible by modernist bureaucratic infrastructures, as well as the conditions that call for new bureaucratic systems. Both infrastructure and bureaucracy become visible by producing vast amounts of tangible records, documents, and paperwork. Although bureaucracy has its roots in the nineteenth century, modernism comes of age as both governmental and non-governmental institutions and infrastructures—cultural agencies, publishers, insurance companies, funding bodies, and migration controls— adapt and respond to a new set of conditions created by the advent of new technologies, globalization, war, and human migration.
+			</p>
+			<p>We welcome papers that approach modernist bureaucratic infrastructures from a broad geographic scope using examples, case studies, or theoretical approaches. Some topics for consideration could include, but are not limited to:
+			</p>
+			<p>
+				<ul>
+					<li>The relationship between infrastructure and bureaucracy
+					</li>
+					<li>Narratives made possible (or impossible) by new bureaucratic infrastructures
+					</li>
+					<li>Representations of bureaucratic structures and of bureaucrats
+					</li>
+					<li>The cultural or political values inherent in infrastructures and institutions
+					</li>
+					<li>Causality and paperwork
+					</li>
+					<li>Bureaucratic entanglements with extraction practices, environmental degradation, and colonial expansion.
+					</li>
+					<li>Feminist and anti-racist approaches to studies of bureaucratic infrastructures
+					</li>
+				</ul>
+			</p>
+		</div>
+</details>	
+<details closed>
+	<summary class="seminar-title" id="p5">The Business of Poetry</summary>
+		<div class="description">
+			<p><strong>Leaders: Melissa Girard (Loyola University, Maryland) and Karen Leick (University of Illinois at Chicago)</strong>
+			</p>
+			<p><strong>Invited participant: Melissa Bradshaw (Loyola University, Chicago)</strong>
+			</p>
+			<p>Taking our cue from Harriet Monroe’s observation that the average poet earned only $200 a year from their poetry, this seminar invites participants to showcase work and projects that investigate the economic and financial infrastructures of modernist poetry, broadly conceived. How did poets earn a living throughout the long modernist era and what can their careers teach us about the public life of poetry? Participants may wish to share work that addresses (but is by no means limited to) the following topics, many of which may intersect and overlap:
+			</p>
+			<p>
+				<ul>
+					<li>Cases of commercial, popular, and/or profitable poetry;
+					</li>
+					<li>How books, periodicals, anthologies, and other media helped poets earn an income;
+					</li>
+					<li>What archival research reveals about financial negotiations between publishers, editors, and poets;
+					</li>
+					<li>The relation between commercial and prestige economies for poetry;
+					</li>
+					<li>Institutional grants and fellowship support for poets and poetry;
+					</li>
+					<li>Private patronage for poets and sources of private funding or partnerships for the art;
+					</li>
+					<li>Poets’ varied careers and “side hustles” both within and outside the academy;
+					</li>
+					<li>The incorporation of modernist poetry in the academy and/or the past and future influence of university teaching on modernist poetry;
+					</li>
+					<li>Cases of poets who faced financial hardship, economic precarity, and poverty;
+					</li>
+					<li>ow race, gender, and class affected the career prospects of individual poets and/or the financial viability of the art form;
+					</li>
+					<li>How renewed assaults on funding for universities and public institutions are reorienting our perspectives on the business of modernist poetry.
+					</li>
+				</ul>
+			</p>
+		</div>
+</details>	
+<details closed>
+	<summary class="seminar-title" id="p6">Defensible Anthropocentrisms</summary>
+		<div class="description">
+			<p><strong>Leaders: Siân White (James Madison University); Paul Saint-Amour (University of Pennsylvania)</strong>
+			</p>
+			<p><i>Anthropocentrism:</i> a ubiquitous keyword with a bewildering spectrum of meanings. In the earliest use of it recorded by the <i>OED</i>, in 1897, it was simply the masculine counterpart to <i>gynocentrism</i>. But in the early twentieth century, as species eclipsed gender as its centered term, the word’s meanings proliferated. For some, anthropocentrism came to be a normative term for the view that only humans were intrinsically valuable. For others, it was a descriptive term for concepts that centered the human but made no value statements about that centrality. For still others it was a perceptual term for paradigms grounded in human bodies and their sensoria. And a thousand more anthropocentrisms bloomed inside and beside these.
+			</p>
+			<p>In this seminar we’ll ask, first, what anthropocentrisms we find exhibited, articulated, and debated in modernist works, many of which wrestle with the parameters of the human and the geometry of its relation to its others. Second, we’ll ask which of these modernist anthropocentrisms we might consider <i>defensible</i>, whether normatively, descriptively, or perceptually. Today, the dominant sense of anthropocentrism is as a synonym for anthroposupremacy. It’s time to ask, are there are ways of centering the human that don’t participate in species chauvinism? If so, how do those weaker anthropocentrisms engage, in their turn, with other logics and categories of difference?
+			</p>
+			<p>We invite brief position papers (5-7 pages) on any work (including work in progress) that engages these questions. These papers will be pre-circulated and read by all participants prior to the conference.
+			</p>
+		</div>
+</details>	
+<details closed>
+	<summary class="seminar-title" id="p7">Diagnosis and/as Modernist Practice</summary>
+		<div class="description">
+			<p><strong>Leaders: Robert Volpicelli (Randolph Macon College); Emily Bloom (Sarah Lawrence College)</strong>
+			</p>
+			<p>This seminar explores the cultures and histories of diagnostic practices, especially as they developed and changed around the institutionalization of modern medicine at the turn of the last century. What infrastructures emerged to identify and standardize forms of alterity and illness, and how do these forms influence modernist aesthetics and critical practices? We are eager to take up questions having to do with how diagnostic practices were used in shaping categories of human difference related to gender, sexual orientation, race, and disability. Such thinking will then inform discussions of the representation of diagnostic practices and/or categories within art and literature from the modernist period, broadly defined.
+			</p>
+			
+			<p>Additionally, participants will be prompted to think about diagnosis as an interpretive framework applied to art and literature by readers and critics both inside and outside academia. On this last point, the seminar will ask questions along the following lines: What are the consequences of trying to diagnose characters within a text? What should we make of the urge to read aesthetic elements as symptoms? What are the practical and ethical limitations of such diagnostic exercises? What is the relationship between close reading and diagnostics? In putting forward such questions, the seminar hopes to distill something about the workings of diagnosis as a set of hermeneutic practices as well as to better understand how such practices sit alongside other theories and methodologies of interpretation.
+			</p>
+			<p>Following the usual seminar model, participants will be asked to submit brief position papers (5-7 pages) that speak to the issues outlined above. These papers may be standalone essays or contextualized excerpts from longer works. Paper topics include but are not limited to:
+			</p>
+			<p>
+				<ul>
+					<li>the culture and history of diagnostic categories within modern medicine
+					</li>
+					<li>the social, material, and technological infrastructures of diagnosis
+					</li>
+					<li>the representation of diagnostic categories at the turn of the century and afterward
+					</li>
+					<li>diagnosis as a narrative structure and/or element of plot
+					</li>
+					<li>the lived experiences surrounding diagnosis within life writing and/or memoir
+					</li>
+					<li>past and present efforts to diagnose artists and authors from the modernist period
+					</li>
+					<li>practices of diagnostic reading from psychoanalysis to the medical humanities
+					</li>
+					<li>the status of diagnosis within feminist, queer, and disability studies and/or theories
+					</li>
+				</ul>
+			</p>
+			<p>Prior to the conference, the seminar leaders will then circulate these papers, along with notes and questions for discussion, to all participants. 
+			</p>
+		</div>
+</details>	
 <details closed>
 	<summary class="seminar-title" id="p8">Ecologizing Modernist Infrastructures: Forms and Methods for Regenerative Futures</summary>
 		<div class="description">
@@ -99,7 +234,7 @@ footer: false
 			</p>
 			<p>This Modernism & Environment SIG-sponsored seminar invites participants to share works in progress of any kind--position papers or notes from the field, personal or methodological reflections, teaching ideas or plans for community engagement projects, or anything else that connects modernist studies with environmental justice or climate action. Like the hands-on workshop our SIG is also sponsoring, the seminar will encourage participants to think about how the principles of slowness, fluidity, and plurality inherent to modernist reading, writing, and media production offer alternatives to modern infrastructural models that generate both human disposability and ecological waste. Our goal is to open a space for collaborative discussion, brainstorming, resource-sharing, and community-building around how modernist studies can contribute to broader efforts to renovate, resist, defend, repair, critically reinhabit, or propose alternatives to the infrastructures we’ve inherited.
 			</p>
-			<p>Suggested reading:
+			<p>PSuggested reading:
 			</p>
 			<p>
 				<ul>
@@ -387,8 +522,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Religion and Empire in Transnational Modernisms</summary>
 		<div class="description">
-			<p><strong>Leaders: Suzanne Hobson (Queen Mary University of London); Apala Das (Bilkent University)</strong>
-			</p>
+			<p><strong>Leaders: Suzanne Hobson (Queen Mary University of London); Apala Das (Bilkent University)</strong></p>
 			<p>There have been several important contributions to the topic of modernism and religion in the past decade. However, as noted by contributors to MSA 2024’s seminar on “Religion and the Global Turn” these studies have been comparatively slow to incorporate and adopt global religious lexicons and transnational frameworks. At the same time, although several scholars have fundamentally reconfigured modernism’s relation to empire over the past few decades, they have often done so without challenging perceptions of its “secular” character. This seminar aims to address these gaps in modernist scholarship by opening up new conversations at the intersection of religion, empire, and transnational modernisms.
 			</p>
 			<p>We invite transnational approaches to modernism’s relationship with religion and spirituality. We would aim to show how religion(s) feed into and cut across literary “worldmaking” (Adom Getachew) in ways responsive and resistant to imperial and national imaginaries in this period. Alongside the categories of religion, spirituality, and secularity, we emphasize “empire” because, following scholars such as Laura Doyle and Neil Lazarus, we see the “constitution and reconstitution of world-structures,” especially those of empire (and its combined and uneven late capitalist neoliberal neo-imperial legacies) as enabling and conditioning the cultural exchanges, hierarchies, and inequalities that characterize global modernism.
@@ -399,8 +533,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Surveillance modernity, surveillance modernisms</summary>
 		<div class="description">
-			<p><strong>Leader: Stephanie Brown (University of Arizona)</strong>
-			</p>
+			<p><strong>Leader: Stephanie Brown (University of Arizona)</strong></p>
 			<p>This seminar proposes to consider surveillance, broadly conceived, as a practice of modernity. In keeping with the theme of the conference, it encourages considerations of surveillance infrastructures as constitutive of, and responses to, modernity. It asks whether our definitions of modernity and modernism might reveal them to be coeval with surveillance as an increasingly institutional, corporate, transnational, and state-based mode of control.
 			</p>
 			<p>The late 19th and early 20th centuries saw the expansion of surveillance-based state power at the level of nations and empires (including emergent US imperial ambitions in the Caribbean, Latin America, and the Pacific). However, the seminar will not limit its consideration of the entanglement of modernity and surveillance to these decades, and may include work that takes up surveillance modernity outside a strictly delineated historical modern<i>ism</i>. Similarly, work that considers non-state infrastructures (of e.g. the factory, the ship, the corporation, the university) are welcome. The seminar will query how different media forms, working at scales that vary from the compactness of the passport, the poem, and the case file up to the expansiveness of the census, the sociological study, the epic, and the ordinance survey, registered emerging surveillance culture. It will ask, broadly, how surveillance practices and the institutions from which they emerged shaped modernist aesthetic practice? Similarly, it encourages participants consider the affordances of modernism to reveal the dynamics, desires, impulses, and demands that underlay various surveillance infrastructures as they evolved.
@@ -410,7 +543,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p21">Unruly Geographies: Modernist Women’s Transnational Writing</summary>
 		<div class="description">
-			<p><strong>Leaders: Eret Talviste (University of Tartu); Ruth Alison Clemens (Leiden University)</strong>
+			<p><strong>Leaders: Eret Talviste (University of Tartu); Ruth Alison Clemens (Leiden University)</strong></p>
 			</p>
 			<p>In her introduction to <i>Feminism as World Literature</i> (2022), Robin Truth Goodman writes that “the field of World Literature seems to skirt away from feminism” (1), noting how the genealogical trajectory of the field is as male as it is Eurocentric. Similarly, as feminist scholars note (Friedman 2011, 2015; Berman 2018; Fernald 2013; Laity 2018), debates in transnational and global modernist studies continue to draw their theories by focusing on models and infrastructures of mobility centred around male writers, institutions, and networks.se topics from different peripheral positions and time periods.
 			</p>
@@ -465,5 +598,5 @@ Invited participant: Sonita Sarker (Macalester College)
 			</p>
 		</div>
 </details>	 	
-	
-	
+
+
