@@ -8,7 +8,7 @@ sidebar:
 
 <h1>CONSTITUTION AND BY-LAWS OF THE MODERNIST STUDIES ASSOCIATION </h1>
 (A NONPROFIT CORPORATION)
-Approved 2013; amended by vote of the membership 2021<br />
+Approved 2013; amended by vote of the membership 2025<br />
 
 
 <details open>
@@ -161,20 +161,30 @@ Approved 2013; amended by vote of the membership 2021<br />
 <strong>4.03 Number of Directors</strong><br />
 
 <p>The number of Executive Committee members of this Corporation
-	will be fourteen (13).</p>
+	will be fourteen (14).</p>
 	
 <strong>4.04 Executive Committee Composition</strong><br />	
 
-<p>The Executive Committee shall be comprised of the President, the
-	First Vice President, the Second Vice President, eight voting
+<p>The Executive Committee shall be comprised of the three Officers (President, the
+	First Vice President, the Second Vice President), nine voting
 	Trustees, and two consulting Trustees.</p>
 
 <strong>4.05 Terms of Executive Committee Members</strong><br />
 
- <p>The President shall serve a term of one year. The Past President
-	shall serve as a Voting Trustee for a term of one year.</p>
+ <p>The President, First Vice-President, Second Vice President shall each serve a term as Officer for one year. On expiration of the President’s one-year term, the First Vice President shall become President, the Second Vice President shall become First Vice President, and the President shall become Past President.
+</p>
+
+<p>The Past President shall serve as a voting Trustee for a term of one year.
+
+<p>The Program Committee Chair, Vice Chair, and Past Chair shall each serve as a voting Trustee for a term of one year. On expiration of the Program Chair’s one-year term, the Vice Chair shall become Chair, and the Program Chair shall become Past Program Chair.
+The Finance Chair, Members and Elections Chair, International Chair, and Interdisciplinary Approaches Chair shall each serve as a voting Trustee for a term of 3 years. </p>
+
+<p>The Contingent Faculty Representative and Graduate Student Representative shall each serve as a voting Trustee for a terms of two years.</p> 
+
+<p>The Technology and Infrastructure Chair shall serve as a consulting Trustee for a term of three years (renewable by vote of the Executive Committee). </p>
+
 <p>The Co-editor or Co-editors of <i>Modernism/modernity</i> shall
-	normally serve a term of four years (renewable by vote of the
+	normally serve as a consulting Trustee for a term of four years (renewable by vote of the
 	Executive Committee, who, when there are multiple Co-editors, may
 	also vary the length of appointments in order to achieve staggered
 	terms).The Program Chair shall serve a term of three years, the
@@ -185,8 +195,8 @@ Approved 2013; amended by vote of the membership 2021<br />
 	Technology and Infrastructure Chair shall serve a term of three
 	years (renewable by vote of the Executive Committee). The Contingent
 	Faculty Representative and Graduate Student Representative shall
-	serve terms of two years. Trustees who chair Subcommittees shall
-	serve terms of three years.</p>
+	serve terms of two years.</p>
+	
  <p>Term of office normally begins on the final day of the annual
 	conference, which is usually held in the fall; however, if in any
 	year the final day of the conference precedes August 1, term of
@@ -227,6 +237,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	<ol>
 		<li>The President.</li>
 		<li>Five (5) or more Executive Committee members.</li>
+		<li>One (1) or more Executive Committee members in the event of a petition to terminate the membership of a Board Member.</li>
 	</ol>
 
 <strong>4.11 Waiver of Notice</strong><br />
@@ -265,11 +276,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 		<em>4.14 Officers:</em>
 	</strong><br />
 
-<p>The officers of the MSA shall be the President, the First Vice
-	President, and the Second Vice President. On expiration of the
-	President’s one-year term, the First Vice President shall become
-	President and the Second Vice President shall become First Vice
-	President. The President shall become Past President.</p>
+<p>The officers of the MSA shall be the President, the First Vice President, and the Second Vice President. </p>
 	
 <strong>
 		<em>4.15 Duties of Officers:</em>
@@ -290,14 +297,8 @@ Approved 2013; amended by vote of the membership 2021<br />
 		<em>4.16 Trustees:</em>
 	</strong><br />
 
-<p>There shall be eight Voting Trustees: the Past President, the
-	Contingent Faculty Representative, the Graduate Student
-	Representative, and the five Subcommittee Chairs of the Executive
-	Committee. The Subcommittees shall be as follows: Programs, Finance,
-	Membership and Elections, International Relations, and
-	Interdisciplinary Approaches. The Membership and Elections
-	Subcommittee shall consist of the Membership and Elections Chair,
-	the President, and the First Vice President.</p>
+<p>There shall be ten Voting Trustees: the Past President, the Finance Chair, the Members and Elections Chair, the Program Chair, the Program Vice Chair, the Program Past Chair, the International Relations Chair, the Interdisciplinary Approaches Chair, the Contingent Faculty Representative, the Graduate Student Representative.</p>
+
 <p>There shall typically be two Consulting Trustees: the MSA Co-editor
 	of <em>Modernism/modernity</em> and the Technology and
 	Infrastructure Chair. Should there be more than one MSA Co-editor of
@@ -317,16 +318,17 @@ Approved 2013; amended by vote of the membership 2021<br />
 		<em>Modernism/modernity</em> shall edit one or more numbers of
 	the journal annually and exercise other duties consequent to the
 	position. The Technology and Infrastructure Chair shall maintain the
-	website of the organization and assist the Nominations and Elections
+	website of the organization and assist the Membership and Elections
 	Chair in running online elections.</p>
-<p>The five Trustees who chair Subcommittees are responsible for
+<p>The  Trustees who chair Subcommittees are responsible for
 	carrying out the charge of their Subcommittees as determined by the
 	Executive Committee and may appoint Subcommittee members in the
 	numbers and with the duties determined by the Executive Committee.
 	Basic duties shall include the following: </p>
 
 <ul>
-	<li>Programs – Planning of program for annual meeting </li>
+	<li>Programs – Planning of program for annual meeting. Program Vice Chair collaborates with Program Chair. Past Program Chair serves in an informal advisory role to the incumbent Program Chair.
+</li>
 	<li>Finance – Collecting dues; maintaining complete and accurate
 		financial records; overseeing expenditure of MSA funds. The chair of
 		the Subcommittee shall act as official Treasurer of the MSA </li>
@@ -342,6 +344,7 @@ Approved 2013; amended by vote of the membership 2021<br />
 	<li>Graduate Student Representative – Working to maintain, expand and
 		support the MSA’s student community through networking, professional
 		development, and liaising with other organizations. </li>
+	<li>Contingent Faculty Representative – Working to support the MSA’s contingent and independent scholar community.</li>
 </ul>
 		
 <strong>
@@ -432,6 +435,19 @@ Approved 2013; amended by vote of the membership 2021<br />
 	this slate by majority vote of the nine elected Executive Committee
 	members plus the present Technology and Infrastructure Chair, having
 	one vote each.</p>
+
+<strong>
+		<em>4.21 Termination of Board Membership</em>
+	</strong><br />
+	
+<p>A Board Member may be removed for cause, including failure to fulfill fiduciary or organizational duties, repeated unexcused absences, breach of ethical standards, or actions inconsistent with the mission and values of the organization.</p>
+
+<p>A removal process may be initiated by any member(s) of the Board through a written petition to all Board Members stating the grounds for removal and calling for a special meeting to vote on the matter. </p>
+
+<p>The Board Member in question will receive at least 10 days’ written notice prior to the meeting, including the reason for removal and has the right to respond, either in writing or in person, before a vote is taken.</p>
+
+<p>Removal requires a two-thirds (2/3) vote of the remaining Board Members. Once removed, the position is considered vacant and will be filled per the vacancy procedures in these bylaws.</p>
+
 	
 	</div>
 </details>

@@ -32,8 +32,8 @@ layout: home
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Board Election</h3>
-				<figcaption  class="archive__item-title">Vote on our 2025 nominees for the MSA Board.</figcaption>
-			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
+				<figcaption  class="archive__item-title">MSA is excited to announce the board election results.</figcaption>
+			<a href="/about/board-nominations" class="btn btn--primary">Results</a>
 		</div>
 
 		<div class ="feature__item">
