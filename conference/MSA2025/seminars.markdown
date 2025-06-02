@@ -79,19 +79,16 @@ footer: false
 		</div>
 </details>
 <details closed>
-	<summary class="seminar-title" id="p2">F“Anywhere but the Harlem Renaissance”</summary>
-		<div class="description">
-		
-			<p><strong>Leaders: Adam McKible (CUNY, John Jay College of Criminal Justice); Eve Dunbar (Vassar College)</p>
-			<p><strong>Invited participant: Paul J. Edwards (New York University)</p>
-			
+	<summary class="seminar-title" id="p2">"Anywhere but the Harlem Renaissance”</summary>
+		<div class="description">	
+			<p><strong>Leaders: Adam McKible (CUNY, John Jay College of Criminal Justice); Eve Dunbar (Vassar College)</strong></p>
+			<p><strong>Invited participant: Paul J. Edwards (New York University)</strong></p>		
 			<p>Named the “Harlem Renaissance” well after the fact, the explosion of African American creativity and political activism of the interwar years was never confined only to the northern reaches of Manhattan. The Renaissance was, in fact, a global phenomenon with roots in the US and branches throughout the world. The “Anywhere but the Harlem Renaissance” seminar invites papers that explore New Negro creativity, experience, and/or politics outside of the United States and in other American locations.
 			</p>
 			<p>There is a long tradition of skepticism of the movement’s association with Harlem. The poet Sterling A. Brown – who wrote <i>Southern Road</i> (1932), a landmark collection that developed a vernacular modernism rooted in travel, folklore, labor, and migration in the US South – regarded Harlem as the “show-window, the cashier’s till, but no more Negro America than New York is America.” Since then, scholarship that de-centers Harlem has taken two main forms. First, it has focused on Black cultural expression and political activism in US urban centers outside New York—including Chicago and Washington D.C.—and cultural networks, such as the circle around the poet Anne Spencer in Lynchburg, Virginia. Secondly, it has mapped the transnational and diasporic contours of New Negro cultural expression and politics in places as far-flung as Mexico City, Havana, Kingston, Berlin, Paris, Moscow, Colón, and London.
 			</p>
 			<p>TThere is nothing new about the desire to “escape from New York,” as Davarian Baldwin and Minkah Makalani termed it in 2013, but the time is ripe for a reassessment of the Renaissance’s regional, national, and transnational dimensions. Indeed, recent years have seen unprecedented attention to New Negro creativity, activism, and cultural networks in the US South, a focus that sometimes also necessitates attention to the movement’s transnational and diasporic scope. We welcome papers that explore the Renaissance—in anywhere but Harlem.
-			</p>
-				
+			</p>			
 		</div>
 </details>	
 <details closed>
