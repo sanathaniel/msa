@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Call for Nominations: MSA Ombudsperson
-permalink: /about/ombuds/
+permalink: /about/call/
 sidebar:
   nav: about_nav
 ---
