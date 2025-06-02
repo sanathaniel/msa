@@ -10,7 +10,7 @@ conf_nav:
   - title: "Seminars"
     url: /conference/MSA2025/seminars/
   - title: "Workshops"
-#    url: /conference/MSA2025/workshops/
+    url: /conference/MSA2025/workshops/
 #  - title: "Events"
 #    url: /conference/MSA2025/special-events/
 #  - title: "Accomodations"
