@@ -7,7 +7,7 @@ sidebar:
 ---
 
 
-<h2>Congratulations to our recently elected MSA Board members!</h3>
+<h2>Congratulations to our recently elected MSA Board members!</h2>
 <br/>
 <ul>
 	<li>
