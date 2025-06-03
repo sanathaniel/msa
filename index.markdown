@@ -27,6 +27,15 @@ layout: home
 
 	<div class="feature__wrapper">
 			
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston</figcaption>
+			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Book</a>
+		</div>	
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
@@ -53,15 +62,6 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-		
-		<div class ="feature__item" style="border:20px;">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">CFP for MSA '25: Infrastructure, October 9-12, Boston.</figcaption>
-			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Meet</a>
-		</div>		
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
