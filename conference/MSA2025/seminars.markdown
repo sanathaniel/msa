@@ -231,7 +231,7 @@ footer: false
 			</p>
 			<p>This Modernism & Environment SIG-sponsored seminar invites participants to share works in progress of any kind--position papers or notes from the field, personal or methodological reflections, teaching ideas or plans for community engagement projects, or anything else that connects modernist studies with environmental justice or climate action. Like the hands-on workshop our SIG is also sponsoring, the seminar will encourage participants to think about how the principles of slowness, fluidity, and plurality inherent to modernist reading, writing, and media production offer alternatives to modern infrastructural models that generate both human disposability and ecological waste. Our goal is to open a space for collaborative discussion, brainstorming, resource-sharing, and community-building around how modernist studies can contribute to broader efforts to renovate, resist, defend, repair, critically reinhabit, or propose alternatives to the infrastructures we’ve inherited.
 			</p>
-			<p>PSuggested reading:
+			<p>Suggested reading:
 			</p>
 			<p>
 				<ul>
@@ -415,7 +415,7 @@ Invited participant: Sonita Sarker (Macalester College)
 <details closed>
 	<summary class="seminar-title" id="p18">Modernist Development and Underdevelopment</summary>
 		<div class="description">
-			<p><strong>Modernist Development and Underdevelopment</strong>
+			<p><strong>Leaders: Janice Ho (University of British Columbia); Kelly Rich (Wellesley College)</strong>
 			</p>	
 			<p>This seminar invites papers examining the various geographies, histories, and aesthetics of modernist development, underdevelopment, and their imbrication. Capitalist development is invariably seen as a defining characteristic of modernism: Marshall Berman elucidates the Janus-faced experience of capitalist modernity—embodied in Goethe’s <i>Dr. Faustus</i>—that oscillates between the dynamic “desire of development” as well as the darker consequences of such desires in the “tragedy of development.” Fredric Jameson locates the representational invisibility of empire in modernist literature as a repressed symptom of the world-system of uneven development. Yet the implicit reduction of development to the sweeping processes of global capital occludes its more historical and politically variegated configurations, evidenced in, for instance: the infrastructure works of the New Deal; the five-year plans of the Soviet Union; the envisioning of the postcolonial developmental state; or Truman’s 1949 “Point Four” program that inaugurated a postwar era of international aid.
 			</p>
@@ -541,7 +541,6 @@ Invited participant: Sonita Sarker (Macalester College)
 	<summary class="seminar-title" id="p21">Unruly Geographies: Modernist Women’s Transnational Writing</summary>
 		<div class="description">
 			<p><strong>Leaders: Eret Talviste (University of Tartu); Ruth Alison Clemens (Leiden University)</strong></p>
-			</p>
 			<p>In her introduction to <i>Feminism as World Literature</i> (2022), Robin Truth Goodman writes that “the field of World Literature seems to skirt away from feminism” (1), noting how the genealogical trajectory of the field is as male as it is Eurocentric. Similarly, as feminist scholars note (Friedman 2011, 2015; Berman 2018; Fernald 2013; Laity 2018), debates in transnational and global modernist studies continue to draw their theories by focusing on models and infrastructures of mobility centred around male writers, institutions, and networks.se topics from different peripheral positions and time periods.
 			</p>
 			<p>This seminar seeks to complicate the usual geographical divisions, infrastructures, and networks by emphasising ‘weak’ (Saint-Amour 2018) and affective connections between women writers across nations, cultures, times and languages. Following recent interventions in global, transnational, and planetary modernist studies (Mao and Walkowitz 2008; James and Seshagiri 2014) and translational epistemologies (Schögler 2022; Bennett 2024), the seminar has two wider purposes. First, to create dialogues between minor, forgotten, or little-known modernist women across the globe. Second, to build a network of scholars from different backgrounds to generate literary and epistemic translations. 
