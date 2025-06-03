@@ -33,7 +33,7 @@ layout: home
 				</div>
 				<h3>MSA 2025</h3>
 				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston</figcaption>
-			<a href="/conference/MSA2025/CFP" class="btn btn--primary">Book</a>
+			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
 		</div>	
 		
 		<div class ="feature__item">
