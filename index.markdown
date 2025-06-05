@@ -47,21 +47,21 @@ layout: home
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
-					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Ombuds</h3>
-				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombudsperson.</figcaption>
-			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
-		</div>
-
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
 					<img src="assets/MSAlogo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>Membership</h3>
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Ombuds</h3>
+				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombudsperson.</figcaption>
+			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
+		</div>
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">

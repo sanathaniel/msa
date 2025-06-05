@@ -65,6 +65,9 @@ footer: false
 <h1><strong>CONFERENCE GUIDELINES</strong></h1>
 
 <p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
+
+<h1><strong>SEMINARS</strong></h1>
+
 <details closed>
 	<summary class="seminar-title" id="p1">Anthologies, Exhibitions, and Festivals</summary>
 		<div class="description">
