@@ -40,7 +40,9 @@ opportunity to sign up for these workshops during the online registration
 process. </p>
         <p></p>
         
-    	<h2><strong>Publishing in Modernist Journals</strong></h2>
+<details closed>
+	<summary class="seminar-title" id="p1">Publishing in Modernist Journals</summary>
+		<div class="description">
     
         <p><strong>Leaders: Erica Delsandro (Bucknell University), Faye Hammill (University of Glasgow), Matthew Levay (Idaho State University), Jean Mills (John Jay College of Criminal Justice), Dan Moore (University of Birmingham), Anjali Nerlekar (Rutgers University, New Brunswick), Jennifer P. Nesbitt (Pennsylvania State University, Brandywine)
 </strong></p>
@@ -49,7 +51,10 @@ process. </p>
 		<p>In this workshop, editors representing a wide range of modernist journals will attempt to answer these questions. We begin by giving participants a detailed overview of how our journals approach the field, what recent developments have helped establish that approach, and where we see the field heading based on the submissions we’re receiving. Editors will also discuss what makes for a successful submission to their journal, and how participants can tailor their work effectively without sacrificing their larger aims. After the editors’ remarks, the session will break out into small groups, and participants will have an opportunity to talk with editors about their own work in progress, how it might speak to particular journals and why, and how to make the most of the submission process.</p>
 		<p>This workshop is open to all conference attendees regardless of their career stage or institutional affiliation, or the content of their scholarship. Participants should feel free to discuss article-length publication ideas at any stage of development.</p>
 
-    	<h2><strong>“What do People Do All Day (off the tenure track)?”: Organizing and Advocacy Across Contingencies</strong></h2>
+    	</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">“What do People Do All Day (off the tenure track)?”: Organizing and Advocacy Across Contingencies</strong></h2>
     
         <p><strong>Leaders: Kate Schnur (CUNY Queens College), Nissa Cannon (Stanford University), Dennis Hogan (Harvard University), Sean Weidman (University of Wisconsin–Eau Claire)</strong></p>
         
@@ -58,32 +63,44 @@ process. </p>
 		<p>Whether through knowing how to identify a “good” job or what demands to bring to the bargaining table, we are the strongest advocates for ourselves if we know what to ask for! Building on last year’s Caucus of Contingent and Independent Scholars workshop, “Stories from Off the Tenure Track,"" this CCIS-sponsored workshop will provide a space for conversation amongst contingent scholars striving to build solidarity and demand better conditions by understanding what’s possible; graduate students imagining their futures; and tenure-track faculty and administrators looking to support their non-TT colleagues. As the number of tenure-track positions decreases–and these, too, become more precarious–now more than ever is a time to envision and advocate for the best possible version of contingency for ourselves.
 		</p>
  
-		<h2><strong>Modernism's Embodied Knowledge: Text, Textile, and Learning by Doing in the Classroom</strong></h2>
+		</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">Modernism's Embodied Knowledge: Text, Textile, and Learning by Doing in the Classroom</strong></h2>
     
-        <p><strong>Leaders: Kathleen Quaintance (Yale University)</strong></p>
+        <p><strong>Leader: Kathleen Quaintance (Yale University)</strong></p>
         
         <p>This workshop will serve as a space to discuss the role of craft and hands-on experiences in teaching modernist topics. Drawing upon the modernist history of progressive education and its emphasis on “learning by doing,” the workshop will engage teachers at all levels of expertise and in all disciplines in a participatory demonstration of stitching on paper.</p>
 		<p>With low-cost materials and no special equipment needed, the act of embroidering on photography enacts the modernist technique of montage, while bringing students closer to what Anni Albers called the “event of a thread,” an act of attentional practice applicable to studies of text and textile alike, and serves as a critical response to the inherent gendering of form.</p>
 		<p>In addition to learning a skill, participants will have a space to discuss how hand craft and artisanal experience bolster and/or work against the grain of modernist studies in our present, past and future iterations. Given the rising use of AI tools in the classroom, hands-on work is increasingly welcomed by students; but its role as a pedagogical tool is frequently left critically unexamined. The use of one’s hands in concert with the mind has nuanced history bears further discussion, especially with reference to alienation, its inevitability as a condition of modernity, and the history of attention and its institutional armatures.</p>   
 		
-		   	<h2><strong>Transformative Texts: Teaching Literature Through Adaptation Assignments
-</strong></h2>
+		   	</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">Transformative Texts: Teaching Literature Through Adaptation Assignments</summary>
+		<div class="description">
     
-        <p><strong>Leaders: Adriana Fischetti (CCNY)</strong></p>
+        <p><strong>Leader: Adriana Fischetti (CCNY)</strong></p>
         
         <p>This workshop explores how literary adaptation can be used as a dynamic pedagogical tool to foster deeper student engagement and critical analysis. From stage and film reinterpretations to visual art, multimedia, and digital storytelling, adaptation assignments invite students to creatively reimagine texts while exploring narrative, context, and theme. Participants will explore practical strategies, sample assignments, and assessment approaches for integrating adaptation into literature courses. The session will include hands-on activities in which participants will experiment with creating their own brief adaptation or art-based interpretation of a literary work, and it will encourage discussion on how adaptation supports interpretative flexibility, creative thinking, and multimodal literacy.
 		</p>
 		
-		   	<h2><strong>Feminist Publishing Across Platforms: A Workshop for Writers, Editors, and Reviewers</strong></h2>
+</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">Feminist Publishing Across Platforms: A Workshop for Writers, Editors, and Reviewers</summary>
+		<div class="description">
     
-        <p><strong>Leaders: Lauren Rosenblum (Adelphi University)</strong></p>
+        <p><strong>Leader: Lauren Rosenblum (Adelphi University)</strong></p>
         
         <p>Created by MSA's Intersectional Feminist and Queer Praxis SIG. Feminist publishing is more than writing about, reexamining, or centering women’s scholarly and creative work. It requires a commitment to cultivating practices of  inclusion,   editing that eliminates hierarchies, and the facilitation of an unprecedented environment of mentorship and support. We need to take over old media and envision new media. More than ever, we are compelled to leave the archives and storm the metaphorical streets of writers, editors, and publishers. We seek to destroy old infrastructures that keep us down and build new structures that inspire, promote, and invent new possibilities for feminist work. In this workshop, we will discuss the way academic publishing meets and fails to meet our feminist ethos. On one hand, there are fewer and fewer traditional publications for academics, particularly for those who focus on marginalized and underrepresented topics. On the other hand, the opportunities for self-publishing and social media engagement are manifold, but don’t necessarily result in access to relevant readers, professional legitimacy, or feminist progress. Perhaps the issue is intention: What are our intentions as feminist writers?Are we looking to express ourselves, to get tenure, acquire professional accolades, or build a community? Since we, as feminist scholars, must exist within the academy even as we critique and reimagine it, what are the stakes of our various feminist writing projects?  How can we be activists in writing, editing, and publishing, while still meeting our career benchmarks, attending to our teaching, and being caregivers? In this workshop, we will first outline a list of feminist goals for writing, editing, reviewing, and publishing. Then, we will explore practical strategies for activating our priorities. What do we aim to accomplish as individuals and as a community? What are steps to meeting those goals? Who are the stakeholders and who can we invite to join us? Finally, we will also address individual goals. Attendees will leave the workshop with an abstract and plan for publication. Come with a project or an open mind for brainstorming.  
 
 		</p>
-		
-		
-		   	<h2><strong>"Is Anyone Going to Read This?" Publishing After the Dissertation</strong></h2>
+</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">"Is Anyone Going to Read This?" Publishing After the Dissertation</summary>
+		<div class="description">
     
         <p><strong>Leaders: Jessica Masters (University of Sydney), Caroline Heafey (University of Massachusetts Amherst), Philip Leventhal (Columbia University Press), Elizabeth Sheehan (The Ohio State University), Paul Saint-Amour (University of Pennsylvania), Karen Weingarten (CUNY Queens College), Rebecca Colesworthy (SUNY Press)</strong></p>
         
@@ -94,7 +111,11 @@ process. </p>
 		</p>
 		
 		
-		   	<h2><strong>Infrastructures of Reuse: A Hands-On Workshop in Modernist (Re)Making</strong></h2>
+</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">Infrastructures of Reuse: A Hands-On Workshop in Modernist (Re)Making</summary>
+		<div class="description">
     
         <p><strong>Leaders: Molly Volanth Hall (Rhode Island School of Design), Diana Proenza (University of Maryland)</strong></p>
         
@@ -103,25 +124,31 @@ process. </p>
 		</p>
 		
 		
-		   	<h2><strong>Film Studies SIG Workshop</strong></h2>
+</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">Film Studies SIG Workshop</summary>
+		<div class="description">
     
-        <p><strong>Leaders: John Hoffmann (Chapman University)</strong></p>
+        <p><strong>Leader: John Hoffmann (Chapman University)</strong></p>
         
         <p>The Film Studies Workshop is devoted to discussing works in progress by scholars interested in a range of topics in the history and theory of cinema. Small breakout groups consisting of two presenters and respondents will consider essays solicited and distributed in advance by the SIG organizers. This format is intended to give attendees the opportunity to participate in sustained conversations about scholarship at various stages of completion: from rough drafts of book chapters to articles nearing publication.	</p>
 		
 		
-		   	<h2><strong>Pedagogy Workshop: Teaching Close Reading with Close Reading for the Twenty-First Century</strong></h2>
+</div>
+</details>
+<details closed>
+	<summary class="seminar-title" id="p2">Pedagogy Workshop: Teaching Close Reading with Close Reading for the Twenty-First Century</summary>
+		<div class="description">
     
-        <p><strong>Leaders: Johanna Winant (Reed College)</strong></p>
+        <p><strong>Leader: Johanna Winant (Reed College)</strong></p>
         
         <p>This workshop offers participants the framework for teaching close reading that Dan Sinykin and I lay out in our forthcoming book, Close Reading for the Twenty-First Century. (It’s a sneak peek, of sorts: the book will not be published by Princeton University Press until the end of October.) </p>
 		<p>I’ll go over the way we map close reading in the book’s introduction—the five steps that most close readings take in the same order—and I will also offer attendees the plug-and-play classroom activities and prompts in the book. In our test-driving of the materials of this book, we’ve found that its pedagogical framework and activities work at a variety of levels of student expertise and at different kinds of institutions. </p>
 		<p>Close Reading for the Twenty-First Century is a book designed for the classroom. It includes an introduction that establishes the steps of close reading, makes a case for what close reading can do, and provides a history of the practice from I. A. Richards through Kevin Quashie. Then there are twenty-one short chapters by contributors in which they take up a close reading to demonstrate how its author accomplishes one of what we identify as close reading’s five steps. Finally, the book includes teaching materials, including worksheets and writing prompts. </p>
 		<p>Close reading, our fundamental practice in literary studies, is more important than ever as higher education finds itself in the crosshairs of the federal government’s attacks and genAI is touted by our own administrations. It’s thriving anyway, and indeed, close reading is having a moment; but although Jonathan Kramnick describes close reading as craft, and John Guillory as a cultural technique, neither provide practical pedagogical support for instructors on how to teach it. Dan and I do.</p>
 		<p>The MSA is the ideal conference for this workshop, with participants from a wide swath of institutions and a tradition of conversations about teaching. Indeed, close reading is one of the legacies bequeathed by modernism. I am happy to share this book with the conference that I consider my intellectual home. </p>
-
-		
-		
+	
     </div>
 
 
