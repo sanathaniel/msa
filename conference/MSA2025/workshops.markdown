@@ -82,7 +82,7 @@ process. </p>
 	<summary class="seminar-title" id="p2">Transformative Texts: Teaching Literature Through Adaptation Assignments</summary>
 		<div class="description">
     
-        <p><strong>Leader: Adriana Fischetti (CCNY)</strong></p>
+        <p><strong>Leader: Adriana Fischetti (CCNY), Emily James (University of St. Thomas)</strong></p>
         
         <p>This workshop explores how literary adaptation can be used as a dynamic pedagogical tool to foster deeper student engagement and critical analysis. From stage and film reinterpretations to visual art, multimedia, and digital storytelling, adaptation assignments invite students to creatively reimagine texts while exploring narrative, context, and theme. Participants will explore practical strategies, sample assignments, and assessment approaches for integrating adaptation into literature courses. The session will include hands-on activities in which participants will experiment with creating their own brief adaptation or art-based interpretation of a literary work, and it will encourage discussion on how adaptation supports interpretative flexibility, creative thinking, and multimodal literacy.
 		</p>
