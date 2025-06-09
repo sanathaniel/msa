@@ -67,7 +67,8 @@ process. </p>
 		</div>
 </details>
 <details closed>
-	<summary class="seminar-title" id="p2">Modernism's Embodied Knowledge: Text, Textile, and Learning by Doing in the Classroom</strong></h2>
+	<summary class="seminar-title" id="p2">Modernism's Embodied Knowledge: Text, Textile, and Learning by Doing in the Classroom</summary>
+		<div class="description">
     
         <p><strong>Leader: Kathleen Quaintance (Yale University)</strong></p>
         
