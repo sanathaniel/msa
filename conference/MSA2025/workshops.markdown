@@ -54,7 +54,8 @@ process. </p>
     	</div>
 </details>
 <details closed>
-	<summary class="seminar-title" id="p2">“What do People Do All Day (off the tenure track)?”: Organizing and Advocacy Across Contingencies</strong></h2>
+	<summary class="seminar-title" id="p2">“What do People Do All Day (off the tenure track)?”: Organizing and Advocacy Across Contingencies</summary>
+		<div class="description">
     
         <p><strong>Leaders: Kate Schnur (CUNY Queens College), Nissa Cannon (Stanford University), Dennis Hogan (Harvard University), Sean Weidman (University of Wisconsin–Eau Claire)</strong></p>
         
