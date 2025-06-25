@@ -48,19 +48,19 @@ Please note that your membership in the MSA must be current in order for you to 
 
 <h2>OPTIONAL BUSINESS LUNCH: $25</h2>
 
-	<p>We encourage all members to sign up to attend the MSA business lunch. Future conferences and other MSA programs are up for discussion, departing Board members are recognized for their service, and new Board members are introduced. Please join us!</p>
+<p>We encourage all members to sign up to attend the MSA business lunch. Future conferences and other MSA programs are up for discussion, departing Board members are recognized for their service, and new Board members are introduced. Please join us!</p>
 
 <h2>SPECIAL EVENTS</h2>
 
-	<p>When you register for the conference, you can sign up for special events or workshops organized by the local organizing committee. For event descriptions see the <a href="Special-Events">Special Events</a> page. For workshop descriptions see the <a href="Workshops">Workshops</a> page.</p>
+<p>When you register for the conference, you can sign up for special events or workshops organized by the local organizing committee. For event descriptions see the <a href="Special-Events">Special Events</a> page. For workshop descriptions see the <a href="Workshops">Workshops</a> page.</p>
 
 <h2>SEMINAR REGISTRATION</h2>
 
-	<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/Seminars">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
+<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/Seminars">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
 
 <h2>CANCELLATIONS AND REFUNDS</h2>
 
-	<p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="kyoung36@jh.edu">Kathy Young</a>.</p>
+<p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="kyoung36@jh.edu">Kathy Young</a>.</p>
 
 <p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
 
@@ -95,11 +95,3 @@ Please note that your membership in the MSA must be current in order for you to 
 
 </div> <!-- .post -->
 
-
-
-<p>
-Registration coming September 2025.
-</p>
-
-
-</body>

@@ -5,18 +5,18 @@ conf_nav:
     url: /conference/MSA2025/
   - title: "CFP"
     url: /conference/MSA2025/CFP/
-#  - title: "Registration"
-#    url: /conference/MSA2025/registration/
+  - title: "Registration"
+    url: /conference/MSA2025/registration/
   - title: "Seminars"
     url: /conference/MSA2025/seminars/
   - title: "Workshops"
     url: /conference/MSA2025/workshops/
-#  - title: "Events"
-#    url: /conference/MSA2025/special-events/
-#  - title: "Accomodations"
-#    url: /conference/MSA2025/travel/
-#  - title: "Program"
-#    url: /conference/MSA2025/program/
+  - title: "Events"
+    url: /conference/MSA2025/special-events/
+  - title: "Accomodations"
+    url: /conference/MSA2025/travel/
+  - title: "Program"
+    url: /conference/MSA2025/program/
 
 about_nav:
   - title: "About"

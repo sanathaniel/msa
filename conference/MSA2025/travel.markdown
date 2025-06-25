@@ -38,7 +38,7 @@ footer: false
 -->
 
 <p>Located in the Back Bay neighborhood near the Charles River, 
-<a target="_blank" href="https://www.thedrakehotel.com/">the Sheraton Boston hotel</a>
+<a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/">the Sheraton Boston hotel</a>
  is surrounded by restaurants and tourist destinations in downtown Boston.</p>
 
 <!--
@@ -76,7 +76,7 @@ the Drake.</p>
 <p>The return to Logan costs $3. Buy tickets in advance, and be sure to take advantage of the “Ticket to Skip” (see link above) which allows you to jump to the front of the security line at the airport. Buses run 5AM-9PM.
 </p>
 
-<p><i>Logan Express Back Bay: Cheapest Option</i></p>
+<p><i>Subway: After Hours Option</i></p>
 
 <p>If you arrive after 10PM, the subway runs until 12AM. Use a credit card or phone to “Tap and Ride” or purchase a CharlieCard at a fare vending machine. 
 </p>
