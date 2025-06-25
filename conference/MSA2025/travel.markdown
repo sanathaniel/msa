@@ -30,22 +30,18 @@ footer: false
 	</div>
 </div>
 
-<!-- <body>
-<div class="post">
 
-<p></p>
-
-<h2><strong>The Drake Hotel</strong></h2>
+<h2><strong>THE BOSTON SHERATON HOTEL</strong></h2>
 
 <!--
 <a target="_blank" href="https://www.thedrakehotel.com/"><img src="https://img.travelpass.com/hotel/5ff55f4/52542938/0/x700" style="width:100%"/></a>
 -->
 
-<!--        <p>Located in the Gold Coast neighborhood, on the lake side of Michigan Avenue, the <a target="_blank" href="https://www.thedrakehotel.com/">Drake Hotel</a>
-is surrounded by restaurants and tourist destinations, including many of
-Chicago’s most prominent cultural institutions.</p>
+<p>Located in the Back Bay neighborhood near the Charles River, 
+<a target="_blank" href="https://www.thedrakehotel.com/">the Sheraton Boston hotel</a>
+ is surrounded by restaurants and tourist destinations in downtown Boston.</p>
 
-
+<!--
 <p>The Drake will offer MSA 2024 participants discounted rates for all rooms (including doubles, triples, and quadruples for those seeking to share expenses).</p>
 
 <p>Click <a href="https://book.passkey.com/event/50735053/owner/2879/home">HERE</a> to book rooms at the Regular Rate ($229/night) </p>
@@ -66,69 +62,58 @@ efforts will help ensure that the MSA can meet its contractual obligations with
 the Drake.</p>
 -->
 
-<!--        <p></p>
 
-<h2><strong>Getting to Chicago</strong></h2>
+<h2><strong>GETTING TO BOSTON</strong></h2>
 
-<p></p>
+<p>Boston is served by Boston Logan International Airport as well as three Amtrak stations, including the Back Bay Station, which is a 15 minute walk to the Boston Sheraton.</p>
 
-<p>Chicago is serviced by two international airports, O’Hare International Airport (ORD) and Midway International Airport (MDW).</p>
+<p><h3>Boston Logan to Boston Sheraton (and back)</h3></p>
 
-<p>Most visitors will fly into O’Hare International Airport (ORD), which has many quick and affordable transit options to the Gold Coast.</p>
+<p><i>Logan Express Back Bay: Cheapest Option</i></p>
 
-<p>Midway International Airport (MDW) is actually closer to our venue, and a bit easier to navigate than O’Hare, but also services fewer flight routes. It may be a particularly good option for those using regional airlines.</p>
+<p>It is free to travel from Boston Logan to the Boston Sheraton via the <a href="https://www.massport.com/logan-airport/getting-to-logan/logan-express/back-bay"> Logan Express Back Bay</a>, available at all airport terminals, 6AM-10PM. Exit the bus at 800 Boylston Street in front of the Prudential Center. It is a 30 minute ride followed by a 5-minute walk to the hotel. These buses are wheelchair accessible. </p>
 
-<p></p>
-
-<p><strong>By “L” Train</strong></p>
-
-<p></p>
-
-<p>The cheapest option for traveling from either airport to the Drake is the CTA.</p>
-
-<p></p>
-
-<p>From O’Hare The Blue Line provides direct transit from the airport to the Loop (downtown Chicago). In the Loop, you can either transfer to the northbound Red Line at Washington Station, disembark at the Chicago stop, and then walk 5–10 minutes northeast; or transfer to a bus (146 or 151) at Monroe Station, which will take you directly to the hotel. L-Train fare from O’Hare is $5. </p>
-
-<p></p>
-
-<p>The CTA’s Orange Line will get you from Midway to the Loop in about 45 minutes. You can either transfer to the northbound Red Line at Roosevelt Station, disembark at the Chicago stop, and then walk 5–10 minutes northeast; or transfer to a bus (146 or 151) at Washington/Wabash Station, which will take you directly to the hotel. L-Train fare from Midway is $2.50. </p>
-
-<p></p>
-
-<p>You cannot use cash to pay CTA
-train fares, but most transit stations (including O’Hare) have transit card
-vending machines. Bus fares can be paid using cash or a Ventra card. The train
-and bus also accept Apple Pay, Google Pay, and Samsung Pay.  A Ventra card is
-required for transfers.  For more information visit the <a target="_blank" href="https://www.ventrachicago.com/how-to/mobile-wallet-apps/">Ventra card</a> website. </p>
-
-<p></p>
-
-<p><strong>Shuttle Services</strong></p>
-
-<p></p>
-
-<p>From O’Hare, The Drake provides a
-10% discount to guests who book <a href="https://airportexpress.hudsonltd.net/res?USERIDENTRY=DRAKE&LOGON=GO" target="_blank">through this link</a>. Shuttle services from Midway are also
-available, and can be <a href="https://airportexpress.com/midway-airport-transportation/" target="_blank">booked here</a>.</p>
-
-<p></p>
-
-<p><strong>Taxi and Ride Share</strong></p>
-
-<p></p>
-
-<p>A cab or ride share (Uber/Lyft) 
-from O’Hare to the Drake should run $40–$50 (not including tip). Fares
-from Midway to the Drake should run $30–$40 (not including tip).</p>
-
-<p></p>
-
-</div>
-
-
-</body> --> 
-
-<p>
-Travel and Accomodations coming September 2025.
+<p>The return to Logan costs $3. Buy tickets in advance, and be sure to take advantage of the “Ticket to Skip” (see link above) which allows you to jump to the front of the security line at the airport. Buses run 5AM-9PM.
 </p>
+
+<p><i>Logan Express Back Bay: Cheapest Option</i></p>
+
+<p>If you arrive after 10PM, the subway runs until 12AM. Use a credit card or phone to “Tap and Ride” or purchase a CharlieCard at a fare vending machine. 
+</p>
+
+<p>Logan Airport is served by the Blue Line and the Silver Line (a bus that operates like a subway by using dedicated lanes and tunnels). 
+</p>
+
+<p>Blue Line: Take the Route 88 shuttle from the terminal to Airport Station. Take the Blue Line to Government Center. Transfer to the Green Line. Exit at Hynes Convention Center or Prudential.</p>
+
+<p>Silver Line: Take SL1 to South Station. Transfer to Red Line and ride to Park Street. Transfer to Green Line and exit at Hynes Convention Center or Prudential. 
+</p>
+
+<p>To locate a route with wheelchair accessibility, use the <a href="https://www.mbta.com/trip-planner?plan=hsQVX3VudXNlZF9kYXRldGltZV90eXBlxADECGRhdGV0aW1lxCAyMDI1LTA2LTIxVDE1OjMwOjIwLjg1MzgyMi0wNDowMMQEZnJvbYTECGxhdGl0dWRlxADECWxvbmdpdHVkZcQAxARuYW1lxADEB3N0b3BfaWTEAMQFbW9kZXOJxANCVVPEBHRydWXEBUZFUlJZxAR0cnVlxARSQUlMxAR0cnVlxAZTVUJXQVnEBHRydWXEDl9wZXJzaXN0ZW50X2lkxAEwxAtfdW51c2VkX0JVU8QAxA1fdW51c2VkX0ZFUlJZxADEDF91bnVzZWRfUkFJTMQAxA5fdW51c2VkX1NVQldBWcQAxAJ0b4TECGxhdGl0dWRlxADECWxvbmdpdHVkZcQAxARuYW1lxADEB3N0b3BfaWTEAMQKd2hlZWxjaGFpcsQEdHJ1ZQ==">MBTA Trip Planner</a> and check the “Prefer Accessible Routes” option.</p>
+
+<p><i>Water Ferry: Scenic Option</i></p>
+
+<p>If you’re looking for a scenic route, have time to spare, and don’t mind some complexity and cost, consider taking the Water Ferry. Download the MBTA mTicket app and purchase a ticket from Logan to Long Wharf in advance.The fare is $9.75. Take the Route 66 shuttle from any terminal to the Water Transportation Dock. Get off at Long Wharf. Walk 5 minutes to the subway station. Take the Blue Line to Government. Transfer to the Green Line and take it to Hynes Convention Center or Prudential. Walk 5 minutes to the hotel. The ferry ride itself is about 10 minutes, but allow at least 60-90 minutes to complete this journey. </p>
+
+<p><i>Taxi and Ride Share: Late Night Option</i></p>
+
+<p>Taxi or Uber/Lyft fares from Logan to downtown run between $25 and $50.</p>
+
+<h2><strong>GETTING AROUND BOSTON</strong></h2>
+
+<p><a href="https://www.mbta.com/guides/subway-guide">MBTA</a></p>
+
+<p>The cheapest way to get around Boston is via the “T” (aka the subway), the Silver Line, and buses. The Silver Line is a bus that travels more like a subway by using dedicated lanes and tunnels.</p>
+
+<p> 
+A single ride is $2.40. Tap a credit card or phone to pay. To use cash, purchase and load a CharlieCard at a fare vending machine in any station. There are day ($11) and week ($22.50) passes available at the vending machines.</p>
+
+<p> 
+The Sheraton is served by the Green Line, which can be accessed via Hynes Convention Center Station (B, C, D) or Prudential Station (E). Pay attention to whether you are on a B, C, D, or E train on the Green Line. Each has a different route.</p>
+
+<p> 
+Hours are generally 5AM-12AM depending on the station. Check the <a href="https://www.mbta.com/schedules/subway">route schedules</a> for exact times.</p>
+
+<p> 
+To locate routes with wheelchair accessibility, use the <a href="https://www.mbta.com/trip-planner?plan=hsQVX3VudXNlZF9kYXRldGltZV90eXBlxADECGRhdGV0aW1lxCAyMDI1LTA2LTIxVDE1OjMwOjIwLjg1MzgyMi0wNDowMMQEZnJvbYTECGxhdGl0dWRlxADECWxvbmdpdHVkZcQAxARuYW1lxADEB3N0b3BfaWTEAMQFbW9kZXOJxANCVVPEBHRydWXEBUZFUlJZxAR0cnVlxARSQUlMxAR0cnVlxAZTVUJXQVnEBHRydWXEDl9wZXJzaXN0ZW50X2lkxAEwxAtfdW51c2VkX0JVU8QAxA1fdW51c2VkX0ZFUlJZxADEDF91bnVzZWRfUkFJTMQAxA5fdW51c2VkX1NVQldBWcQAxAJ0b4TECGxhdGl0dWRlxADECWxvbmdpdHVkZcQAxARuYW1lxADEB3N0b3BfaWTEAMQKd2hlZWxjaGFpcsQEdHJ1ZQ==">MBTA Trip Planner</a> and check the “Prefer Accessible Routes” option.</p>
+
