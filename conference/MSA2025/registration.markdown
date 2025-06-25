@@ -34,7 +34,7 @@ footer: false
 <p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
 
 <p>
-Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="https://www.moderniststudies.org/members/login//members/login/">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
+Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="https://www.moderniststudies.org/members/login/">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
 </p>
 
 <h2>Registration Rates</h2>
@@ -52,11 +52,11 @@ Please note that your membership in the MSA must be current in order for you to 
 
 <h2>SPECIAL EVENTS</h2>
 
-<p>When you register for the conference, you can sign up for special events or workshops organized by the local organizing committee. For event descriptions see the <a href="/conference/MSA2025/special-events">Special Events</a> page. For workshop descriptions see the <a href="/conference/MSA2025/Workshops">Workshops</a> page.</p>
+<p>When you register for the conference, you can sign up for special events or workshops organized by the local organizing committee. For event descriptions see the <a href="/conference/MSA2025/special-events/">Special Events</a> page. For workshop descriptions see the <a href="/conference/MSA2025/workshops/">Workshops</a> page.</p>
 
 <h2>SEMINAR REGISTRATION</h2>
 
-<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/seminars">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
+<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/seminars/">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
 
 <h2>CANCELLATIONS AND REFUNDS</h2>
 
