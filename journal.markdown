@@ -48,7 +48,7 @@ sidebar:
 <ul>
 	<li>
 	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>, Rutgers University<br/></li>
-    <li><a href="mailto:stephen.ross@concordia.ca">Stephen J. Ross</a>, Concordia University</li>
+    <a href="mailto:Faye.Hammill@glasgow.ac.uk>">Faye Hammill</a>, University of Glasgow</li>
 </ul>
 <hr />
       
