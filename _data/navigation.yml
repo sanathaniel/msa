@@ -1,5 +1,23 @@
 # main links
 
+conf_nav_26:
+  - title: "Loughborough"
+    url: /conference/MSA2026/
+  - title: "CFP"
+    url: /conference/MSA2026/CFP/
+  - title: "Registration"
+    url: /conference/MSA2026/registration/
+  - title: "Seminars"
+    url: /conference/MSA2026/seminars/
+  - title: "Workshops"
+    url: /conference/MSA2026/workshops/
+  - title: "Events"
+    url: /conference/MSA2026/special-events/
+  - title: "Accomodations"
+    url: /conference/MSA2026/travel/
+  - title: "Program"
+    url: /conference/MSA2026/program/
+    
 conf_nav:
   - title: "Ⓣ Boston Ⓣ"
     url: /conference/MSA2025/
