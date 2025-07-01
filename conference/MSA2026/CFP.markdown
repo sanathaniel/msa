@@ -3,10 +3,6 @@ layout: 26conference
 permalink: /conference/MSA2026/CFP/
 masthead: false
 footer: false
-sidebar:
-  - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
-  - nav: conf_nav_26
 minimal_mistakes_skin: "dark"
 classes:
   - dark-theme
@@ -33,7 +29,7 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image.png);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #b8cede inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; ">       
           MSA '26<br>CFP   
