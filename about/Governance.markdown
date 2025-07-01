@@ -62,8 +62,7 @@ sidebar:
 	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>,
 	Rutgers University<br />
 	
-	<a href="mailto:stephen.ross@concordia.ca>">Stephen J. Ross</a>, Concordia
-	University </p>
+	<a href="mailto:Faye.Hammill@glasgow.ac.uk>">Fate Hammill</a>, University of Glasgow</p>
 	
 <p><b>Book Review Editors of <em>Modernism/modernity</em></b>: <br/>
 
