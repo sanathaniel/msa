@@ -46,9 +46,8 @@ sidebar:
 
 <p><em>Modernism/modernity</em>’s editors are elected to a five-year term by the MSA board. The current editors are:</p>
 <ul>
-	<li>
-	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>, Rutgers University<br/></li>
-    <a href="mailto:Faye.Hammill@glasgow.ac.uk>">Faye Hammill</a>, University of Glasgow</li>
+	<li><a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>, Rutgers University<br/></li>
+    <li><a href="mailto:Faye.Hammill@glasgow.ac.uk>">Faye Hammill</a>, University of Glasgow</li>
 </ul>
 <hr />
       
