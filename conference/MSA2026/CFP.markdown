@@ -11,11 +11,11 @@ classes:
 <style>
 
  a {
-    color: #2db8e3;
+    color: #689c4b;
   }
   
   a:visited {
-    color: #2db8e3;
+    color: #689c4b;
   }
   
 </style>
@@ -29,9 +29,9 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #b8cede inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #d2d8c2 inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; ">       
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #b8cede;">       
           MSA '26<br>CFP   
       </h1>     
     </div>
