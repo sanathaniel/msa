@@ -62,7 +62,7 @@ sidebar:
 	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>,
 	Rutgers University<br />
 	
-	<a href="mailto:Faye.Hammill@glasgow.ac.uk>">Fate Hammill</a>, University of Glasgow</p>
+	<a href="mailto:Faye.Hammill@glasgow.ac.uk>">Faye Hammill</a>, University of Glasgow</p>
 	
 <p><b>Book Review Editors of <em>Modernism/modernity</em></b>: <br/>
 

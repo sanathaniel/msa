@@ -32,7 +32,7 @@ classes:
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image.png);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; ">       
-          MSA '25<br>CFP   
+          MSA '26<br>CFP   
       </h1>     
     </div>
 </div>
