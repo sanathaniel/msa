@@ -1,10 +1,10 @@
 ---
 layout: 26conference
-permalink: /conference/MSA2025/program/
+permalink: /conference/MSA2026/program/
 sidebar:
   - title: ""
     image: conference/MSA2025/assets/subway_logo.jpg
-  - nav: conf_nav
+  - nav: conf_nav_26
 masthead: false
 footer: false
 ---
