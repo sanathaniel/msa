@@ -1,12 +1,26 @@
 ---
 layout: single
-title: Research Travel Grants
+title: Grants
 permalink: /members/travel-grants/
 sidebar:
   nav: members_nav
 ---
 
 <!-- #BeginEditable "content" -->
+
+
+<h2>Conference Travel Grants</h2>
+
+<p>Applications are now open for travel grants to the 2025 MSA conference, October 9-12 in Boston, MA. Thanks to the fundraising efforts of the local conference organizing committee, this year we will be able to distribute about 20 grants of up to $500 each to provide partial reimbursement for travel, lodging, and other conference-related expenses. All conference participants may apply, but preference will be given to advanced graduate students, contingent faculty, and members with little or no institutional support.</p>
+
+<p>The deadline for applications is Friday, August 15th, with notifications to follow shortly thereafter. Please note that recipients of travel grants must pick up their awards at the conference; funds are not distributed in advance.</p>
+
+<p>The short application can be found here. 
+
+<For questions regarding travel grants, please contact MSA 2nd Vice President, <a href="mailto:agolde01@nyit.edu">Amanda Golden (agolde01@nyit.edu)</a>.</p> 
+
+<hr>
+
 <h2>Research Grants</h2>
 <p>The MSA research grant program is currently suspended. Next year's
 	round of research grants will be announced at a future date.
