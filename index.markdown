@@ -26,7 +26,16 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
-			
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Travel Grants</h3>
+				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
+			<a href="/about/ombuds" class="btn btn--primary">Apply</a>
+		</div>
+		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
@@ -53,15 +62,6 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Ombuds</h3>
-				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombudsperson.</figcaption>
-			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
-		</div>
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -110,6 +110,15 @@ layout: home
 		</div>
 
 <!--
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Ombuds</h3>
+				<figcaption  class="archive__item-title">Join us in welcoming our inaugural MSA Ombudsperson.</figcaption>
+			<a href="/about/ombuds" class="btn btn--primary">Welcome</a>
+		</div>
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">

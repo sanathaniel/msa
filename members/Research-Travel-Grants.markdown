@@ -8,6 +8,7 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
+<hr>
 
 <h2>Conference Travel Grants</h2>
 
@@ -15,13 +16,13 @@ sidebar:
 
 <p>The deadline for applications is Friday, August 15th, with notifications to follow shortly thereafter. Please note that recipients of travel grants must pick up their awards at the conference; funds are not distributed in advance.</p>
 
-<p>The short application can be found here. 
+<p>The <a href="https://docs.google.com/forms/d/11JiXDUYcf1S37OEHIDf1drrzG0uO8dzBZFcxIxCplyI/edit">short application can be found here</a>. 
 
-<For questions regarding travel grants, please contact MSA 2nd Vice President, <a href="mailto:agolde01@nyit.edu">Amanda Golden (agolde01@nyit.edu)</a>.</p> 
+<p>For questions regarding travel grants, please contact MSA 2nd Vice President, <a href="mailto:agolde01@nyit.edu">Amanda Golden (agolde01@nyit.edu)</a>.</p> 
 
-<hr>
 
 <h2>Research Grants</h2>
+
 <p>The MSA research grant program is currently suspended. Next year's
 	round of research grants will be announced at a future date.
 	Questions? Email <a href="mailto:ogonzale@wellesley.edu"
