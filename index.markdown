@@ -33,7 +33,7 @@ layout: home
 				</div>
 				<h3>Travel Grants</h3>
 				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
-			<a href="/about/ombuds" class="btn btn--primary">Apply</a>
+			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
 		</div>
 		
 		<div class ="feature__item" style="border:20px;">
