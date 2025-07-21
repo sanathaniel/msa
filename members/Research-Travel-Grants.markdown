@@ -28,7 +28,7 @@ sidebar:
 	Questions? Email <a href="mailto:ogonzale@wellesley.edu"
 	>Octavio González</a>, President, or <a
 		href="mailto:matthew.eatough@baruch.cuny.edu">Matthew
-		Eatough</a>, Treasurer </p>
+		Eatough</a>, Treasurer.</p>
 
 <h1>2020-2021 Research Reports</h1>
 <hr>

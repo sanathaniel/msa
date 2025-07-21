@@ -31,7 +31,7 @@ footer: false
 </div>
 
 
-<p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
+<p><strong><a target="_blank" href="https://msa.press.jhu.edu/membership/conference">Register for MSA Boston 2025</a></strong></p>
 
 <p>
 Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="https://www.moderniststudies.org/members/login/">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
@@ -62,7 +62,7 @@ Please note that your membership in the MSA must be current in order for you to 
 
 <p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="mailto:lhill21@jh.edu>">Lakeisha Hill</a>.</p>
 
-<p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
+<p><strong><a target="_blank" href="https://msa.press.jhu.edu/membership/conference">Register for MSA Boston 2025</a></strong></p>
 
 			
 <!--	  
