@@ -34,33 +34,21 @@ footer: false
 <h2><strong>THE BOSTON SHERATON HOTEL</strong></h2>
 
 <!--
-<a target="_blank" href="https://www.thedrakehotel.com/"><img src="https://img.travelpass.com/hotel/5ff55f4/52542938/0/x700" style="width:100%"/></a>
+<a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/"><img src="https://cache.marriott.com/is/image/marriotts7prod/bosbo-attraction-skyline-0087:Pano-Hor?wid=1920&fit=constrain" style="width:100%"/></a>
 -->
 
 <p>Located in the Back Bay neighborhood near the Charles River, 
 <a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/">the Sheraton Boston hotel</a>
  is surrounded by restaurants and tourist destinations in downtown Boston.</p>
 
-<!--
-<p>The Drake will offer MSA 2024 participants discounted rates for all rooms (including doubles, triples, and quadruples for those seeking to share expenses).</p>
+<p>The Sheraton will offer MSA 2025 participants discounted rates for all rooms (including doubles, triples, and quadruples for those seeking to share expenses).</p>
 
-<p>Click <a href="https://book.passkey.com/event/50735053/owner/2879/home">HERE</a> to book rooms at the Regular Rate ($229/night) </p>
-
-<p>Click <a href="https://book.passkey.com/event/50749738/owner/2879/home">HERE</a> to book rooms at the Student Rate ($171.75/night)
-</p>
-
-<p>Alternatively, you may call 1-800-55-DRAKE and refer to group code MSA to receive the conference rate. They can also answer any questions you may have regarding room and hotel amenities.</p>
- -->
-
-<!--
-<p>Check back on this page for hotel booking and conference discount information in 2024.</p>
-
+<p>Click <a href="https://book.passkey.com/event/51019376/owner/250/home">HERE</a> to book rooms at the Regular Rate ($299/night) </p>
 
 <p>We urge all registrants who can
 afford to do so to book their accommodations at the conference hotel—your
 efforts will help ensure that the MSA can meet its contractual obligations with
-the Drake.</p>
--->
+the Sheraton.</p>
 
 
 <h2><strong>GETTING TO BOSTON</strong></h2>

@@ -40,9 +40,9 @@ Please note that your membership in the MSA must be current in order for you to 
 <h2>Registration Rates</h2>
 
 <ul style="font-size: 18px;">
-<li><strong>Regular Member Rate:</strong> $260 before September 20 $ | $290 after September 20<br/></li>
-<li><strong>Reduced Rate*:</strong> $130 before September 20 | $160 after September 20<br/></li>
-<li><strong>Undergraduate Rate:</strong> $50 before September 20 | $60 after September 20<br/></li>
+<li><strong>Regular Member Rate:</strong> $260 before August 31 $ | $290 after August 31<br/></li>
+<li><strong>Reduced Rate*:</strong> $130 before August 31 | $160 after August 31<br/></li>
+<li><strong>Undergraduate Rate:</strong> $50 before August 31 | $60 after August 31<br/></li>
 <li>*The reduced registration rate is available to graduate students, scholars with contingent appointments, non-affiliated scholars, and retired scholars.<br/></li>
 </ul>
 

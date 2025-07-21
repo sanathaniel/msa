@@ -51,7 +51,7 @@ layout: home
 				</div>
 				<h3>Board Election</h3>
 				<figcaption  class="archive__item-title">MSA is excited to announce the board election results.</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Results</a>
+			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
 		</div>
 
 		<div class ="feature__item">
