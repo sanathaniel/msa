@@ -43,7 +43,7 @@ footer: false
 
 <p>The Sheraton will offer MSA 2025 participants discounted rates for all rooms (including doubles, triples, and quadruples for those seeking to share expenses).</p>
 
-<p>Click <a href="https://book.passkey.com/event/51019376/owner/250/home">HERE</a> to book rooms at the Regular Rate ($299/night) </p>
+<p>Click <a href="https://book.passkey.com/event/51019376/owner/250/home">HERE</a> to book rooms at the Conference Rate ($299/night) </p>
 
 <p>We urge all registrants who can
 afford to do so to book their accommodations at the conference hotel—your
