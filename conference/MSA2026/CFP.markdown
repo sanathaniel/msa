@@ -11,11 +11,11 @@ classes:
 <style>
 
  a {
-    color: #689c4b;
+    color: #d0463c;
   }
   
   a:visited {
-    color: #689c4b;
+    color: #d0463c;
   }
   
 </style>
@@ -29,33 +29,45 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #d2d8c2 inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #ffbd2e inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/empress.jpg);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #689c4b;">       
-          MSA '26<br>CFP   
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: black;">       
+          Weird Modernisms   
       </h1>     
     </div>
+</div>
+
+<div style="font-size: .5rem;"
+	Pamela Coleman Smith, <i>The Empress</i>
 </div>
 
 <p>
 </p>
 
 
-<h1>Weird Modernisms </h1>
+
 
 <h1>
-<p>Loughborough, July 1-4, 2026</p>
+Loughborough, July 1-4, 2026<br>BAMS/MSA<br>1-4 July 2026<br>Loughborough University, UK
 </h1>
 
 <hr>
 
 <p>The MSA and BAMS joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes.  </p>
 
-<p>In addition to the idea of ‘making strange’, we invite participants to consider Weird Modernism a making of <i>the</i> strange through, for example, the writing and transmission of weird tales and a deliberate exoticizing of non-Western cultures to revive and unsettle. Such appropriation is necessarily associated with the inherently weird concept of Othering. It has its counterpart, too, in the resurgence of highly localised narratives that distrust the rational in favour of the folk, and which embrace the unexplainable as a way of telling marginalised and forgotten histories. Weird Modernism is also fertile ground for considering the ethical potential and pitfalls of estrangement, and we welcome papers which interrogate the weird as a framework for reading. </p>
+<p>In addition to the idea of ‘making strange’, we invite participants to consider Weird Modernism a making of the strange through, for example, the writing and transmission of weird tales and a deliberate exoticizing of non-Western cultures to revive and unsettle. Such appropriation is necessarily associated with the inherently weird concept of Othering. It has its counterpart, too, in the resurgence of highly localised narratives that distrust the rational in favour of the folk, and which embrace the unexplainable as a way of telling marginalised and forgotten histories. Weird Modernism is also fertile ground for considering the ethical potential and pitfalls of estrangement, and we welcome papers which interrogate the weird as a framework for reading. 
+</p>
  
-<p>In recent years, elements of folk culture and the weird have been selectively adopted by nationalist movements, which obscures their more complex, diverse, and subversive histories. This conference invites participants to engage critically with these traditions, exploring how they can be reinterpreted through inclusive, intersectional approaches. The New Weird genre further provides an expanded literary framework for engaging with the more-than-human and for navigating, or even transcending, some of the paradoxes that emerge within human-centred thought (Marshall, 2016). Like Patricia MacCormack’s readings of H. P. Lovecraft as “anti-anthropocentric, even anti-humanist” (MacCormack 2019), the weird nudges our critical explorations across species lines. </p>
+<p>In recent years, elements of folk culture and the weird have been selectively adopted by nationalist movements, which obscures their more complex, diverse, and subversive histories. This conference invites participants to engage critically with these traditions, exploring how they can be reinterpreted through inclusive, intersectional approaches.  
+ </p>
  
-<p>While the weird has often been cast as a genre of interiority, one interested in the psychological effects of difference for both character and reader, more recent theorisations of the weird can expose the affective forces and embodied subjects of Modernist texts. As Sianne Ngai has suggested, emotions, feelings, and affect make strange the social and cultural landscapes that surround us – from the zany, cute and interesting (2012) to horror, envy, and paranoia (2005). We hope that papers exploring such affects will challenge ideas about where and how the weird is registered in Modernist culture. </p> 
+<p>The New Weird genre further provides an expanded literary framework for engaging with the more-than-human and for navigating, or even transcending, some of the paradoxes that emerge within human-centred thought (Marshall, 2016). Like Patricia MacCormack’s readings of H. P. Lovecraft as “anti-anthropocentric, even anti-humanist” (MacCormack 2019), the weird nudges our critical explorations across species lines. 
+</p> 
+
+<p>
+While the weird has often been cast as a genre of interiority, one interested in the psychological effects of difference for both character and reader, more recent theorisations of the weird can expose the affective forces and embodied subjects of Modernist texts. As Sianne Ngai has suggested, emotions, feelings, and affect make strange the social and cultural landscapes that surround us – from the zany, cute and interesting (2012) to horror, envy, and paranoia (2005). We hope that papers exploring such affects will challenge ideas about where and how the weird is registered in Modernist culture. 
+
+</p>
 
 <p>Participants may therefore wish to consider the following aspects of Weird Modernisms:</p>
 
@@ -100,10 +112,10 @@ classes:
 
 <strong>
 	<li>
-		<a href="#p1">Seminars (due December 15, 2025)</a>
+		<a href="#p1">Seminars (due January 15, 2025)</a>
 	</li>
 	<li>
-		<a href="#p2">Workshops (due December 15, 2025)</a>
+		<a href="#p2">Workshops (due January 15, 2025)</a>
 	</li>
 	<li>
 		<a href="#p3">Panels (due January 15, 2026)</a>
@@ -139,7 +151,7 @@ classes:
 Workshops are participatory in format and can be either 90 or 120 minutes in length. They may be led by one person or by a panel of experts. Participants will register for workshops at the same time as conference registration.
 </p>
 
-<p><a href="https://msa2026.exordo.com/">Click here to submit Workshop Proposals</a> by Saturday December 15, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Workshop Proposals</a> by Saturday January 15, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
