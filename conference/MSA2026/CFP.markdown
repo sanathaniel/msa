@@ -29,29 +29,30 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #ffbd2e inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/empress.jpg);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #fffe8b4 inset; background-image: url(/conference/MSA2026/assets/empress.jpg);">
     <div class="wrapper">
+<!--
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: black;">       
-          Weird Modernisms   
-      </h1>     
+          Weird<br>Modernisms   
+      </h1> 
+-->	  
     </div>
 </div>
 
-<div style="font-size: .5rem;"
+<div style="font-size: .5rem;">
 	Pamela Coleman Smith, <i>The Empress</i>
 </div>
 
 <p>
 </p>
 
-
-
-
 <h1>
-Loughborough, July 1-4, 2026<br>BAMS/MSA<br>1-4 July 2026<br>Loughborough University, UK
+Weird Modernism 
 </h1>
+<h2>
+Loughborough, July 1-4, 2026<br>BAMS/MSA<br>1-4 July 2026<br>Loughborough University, UK
+</h2>
 
-<hr>
 
 <p>The MSA and BAMS joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes.  </p>
 
