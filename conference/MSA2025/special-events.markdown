@@ -30,22 +30,111 @@ footer: false
 	</div>
 </div>
 
-<!-- <body>
-    <div class="post">
-		
-		<h2>Conference Excursions</h2>
-        
-        <p>
-		<h3>Thursday</h3>
-		</p>
-		
-		<p><strong>Newberry Library Archival Objects Presentation (for Graduate Students): </strong>
-		 November 7, 3:00-4:00 p.m. Registration information: capped at 25. <a href="https://www.google.com/url?q=https://www.newberry.org/about&sa=D&source=docs&ust=1715627729190975&usg=AOvVaw1bn3-OywO2P__3R39CSNK-">The Newberry Library</a> is a private research library just a few blocks from the Drake Hotel. Founded in 1887, its <a href="https://www.google.com/url?q=https://www.newberry.org/collection/subjects/modern-manuscripts-and-archives&sa=D&source=docs&ust=1715627780794055&usg=AOvVaw2bLkysji3uOQOPXS_fi2DZ">Modern Manuscripts</a> collection includes manuscripts and papers from modernist figures in literature, journalism and the performing arts, including Sherwood Anderson, Gwendolyn Brooks, Willa Cather, Malcolm Cowley, Floyd Dell, Ben Hecht, Ernest Hemingway, Ruth Page, Eunice Tietjens, and Ida B. Wells. Melissa Bradshaw will curate an exhibit of objects based on registrants’ collective research interests, and introduce them to research and fellowship opportunities at the library. We will meet in the lobby of the Drake at 2:40 to walk over to the Newberry (60 W. Walton St.).
-		</p>
-		
-        <p>
-		<strong>Bronzeville Tour:  </strong>
-		 November 7,  2:30-4:30 p.m. Registration information: capped at 20-25.
+<h2>Conference Events</h2>
+     
+<h3>Thursday</h3>
+
+<p><strong>City Walk (with John Plotz)</strong>
+</p>
+<p>Thurs, late afternoon.</p>
+
+<hr>
+
+<p><strong>Reception and MSA book awards</strong></p>
+<p>Thur, 6:45</p>
+    
+<hr>
+    
+<h3>Friday</h3>
+
+<p><strong>Athenaeum Visit</strong></p>
+<p>Fri, mid-morning</p>
+
+<hr>
+
+<p><strong>One Poem: Community Close Readings</strong>
+</p>
+<p>Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one short poem.</strong> This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we ask our students to do, but so rarely get to do together. There is no advance warning of what the poem will be, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Fri, 12:00-12:50.
+</p>
+
+<hr>
+
+<p><strong>A conversation with Jamie Hood</strong>, author of <i>The Trauma Plot<i> (moderated by Laura Hartmann-Villalta). Fri, 2:45 - 4:15.</p>
+
+<hr>
+
+<p>Informal Meet-up for Graduate Students!</p>
+<p>Fri, 6:45-7:30 PM.
+</p>
+
+<hr>
+
+<h3>Saturday</h3>
+
+<p><strong>One Page: Community Close Readings</strong>
+</p>
+<p>
+Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one page—just one page—from a work of fiction</p>. This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we so often ask our students to do, but so rarely get to do together. No advance warning of what the page will be from, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Sat, 12:00-12:50.
+</p>
+
+<hr>
+
+<p><strong>CCIS Informal Meet-up!</strong></p>
+<p>Sat, 6:30 - 7:30 PM
+</p>
+
+<hr>
+
+<h3>Sunday</h3>
+
+<p><strong>Just Book-ish Visit</strong>
+</p>
+
+<p>(post-conference)
+</p>
+
+<hr> 
+
+<h2>Keynote Speakers</h2>
+
+<p><strong>Plenary Infrastructure Roundtable</strong>: an Academic keynote/ infrastructure discussion with Mike Rubenstein</p>
+<p>Fri, 4:30-5:30.
+</p>
+
+<hr>
+
+<p><strong>Plenary Reading: Poet Porsha Olayiwola</strong></p>
+<p>Fri, 5:45-6:45.
+</p>
+
+<hr>
+
+ <p><strong>Plenary: Kevin Quashie and Evie Shockley</strong></p>
+<p>Sat, 4:30-5:45</p>
+
+
+<h2>Featured Exhibits</h2>
+
+<p>Harvard University’s Houghton Library is another good resource for archival research while in the Boston area. <a href="https://library.harvard.edu/libraries/houghton#collections">The Houghton’s Modern Books and Manuscripts collections</a> feature letters, manuscripts, photographs, ephemera, and other historical objects that will be of interest to MSA members, in areas such as <a href="https://library.harvard.edu/collections/modern-american-culture-collections">Modern American Culture</a>, <a href="https://library.harvard.edu/collections/modern-british-and-irish-culture-collections">Modern British and Irish Culture</a>, <a href="https://library.harvard.edu/collections/modern-french-culture-collections">Modern French Culture</a>, and the <a href="https://library.harvard.edu/collections/russian-revolution-0">Russian Revolution</a>. The Harvard Theatre Collection will also a great resource for modernist scholars, with rare books, manuscripts, ephemera, and audio-visual materials related to the performing arts. Of special interest to members might be the records of <a href="https://library.harvard.edu/collections/paul-robesons-othello">Paul Robeson’s Othello</a>, the <a href="https://library.harvard.edu/collections/tennessee-williams-collection">Tennessee Williams Collection</a>, and the <a href="https://library.harvard.edu/collections/russian-theatrical-designs">Russian Theatrical Designs collection</a>, which features set and costume designs from the Ballet Russes. Click through their digital collections, such as <a href="https://curiosity.lib.harvard.edu/anna-may-wong?utm_source=library.harvard">Anna May Wong Abroad, 1928-1936</a> and <a href="https://curiosity.lib.harvard.edu/photographs-of-black-theater-by-alix-jeffry?utm_source=library.harvard">In Black and White: Photographs of Black Theatre by Alix Jeffrey</a> to get a sense of how their collections may be accessed and used in research and teaching.</p>
+
+<p><a href="https://library.harvard.edu/libraries/poetryroom">The Woodberry Poetry Room</a> in the Lamont Library is another outstanding resource, with 6,000 literary recordings, 8,000 browsable poetry collections and 150 open-shelf poetry magazines.</p>
+
+<p>To access these materials in the Houghton Reading Room you will need to register as a library user in <a href="https://library.harvard.edu/services-tools/hollis-special-request">HOLLIS Special Request</a> and reserve materials. Materials stored on-site must be requested by 4pm one business day before your visit; materials stored off-site must be requested by 2pm two business days before your visit. <a href="https://library.harvard.edu/how-to/access-materials-houghton-library">Complete instructions here</a>. The week of MSA the Houghton Library is open T-F, 10am-4:45pm.</p> 
+
+<p>Getting there: the Houghton Library is located on Harvard University’s campus, and is best accessed from Quincy Street. <a href="https://maps.app.goo.gl/33bVT39pJvtJLe4J7">Map here</a>. The quickest way to get there on public transit from the conference site (Sheraton Back Bay) is the 1 bus to Mass Ave. at Bow St.</p>
+
+<hr>
+
+
+
+<!--		
+<p><strong>Newberry Library Archival Objects Presentation (for Graduate Students): </strong>
+ November 7, 3:00-4:00 p.m. Registration information: capped at 25. <a href="https://www.google.com/url?q=https://www.newberry.org/about&sa=D&source=docs&ust=1715627729190975&usg=AOvVaw1bn3-OywO2P__3R39CSNK-">The Newberry Library</a> is a private research library just a few blocks from the Drake Hotel. Founded in 1887, its <a href="https://www.google.com/url?q=https://www.newberry.org/collection/subjects/modern-manuscripts-and-archives&sa=D&source=docs&ust=1715627780794055&usg=AOvVaw2bLkysji3uOQOPXS_fi2DZ">Modern Manuscripts</a> collection includes manuscripts and papers from modernist figures in literature, journalism and the performing arts, including Sherwood Anderson, Gwendolyn Brooks, Willa Cather, Malcolm Cowley, Floyd Dell, Ben Hecht, Ernest Hemingway, Ruth Page, Eunice Tietjens, and Ida B. Wells. Melissa Bradshaw will curate an exhibit of objects based on registrants’ collective research interests, and introduce them to research and fellowship opportunities at the library. We will meet in the lobby of the Drake at 2:40 to walk over to the Newberry (60 W. Walton St.).
+</p>
+
+<p>
+<strong>Bronzeville Tour:  </strong>
+ November 7,  2:30-4:30 p.m. Registration information: capped at 20-25.
 This is a private motorcoach tour of Bronzeville (Chicago’s South Side) with special emphasis on the Great Migration, which, between the years of 1910 and 1970, brought 6-7 million African-Americans (of whom approximately 500,000 settled in Chicago) from the rural South to the urban north in search of a better future. Pickup and dropoff will be at the Drake Hotel, location TBD. The tour is led by Bronzeville native Shermann ‘Dilla’ Thomas, who was recently interviewed on NPR/WBEZ. Here is an excerpt from the tour website: 
 		</p>
 		
@@ -119,12 +208,13 @@ We expect to walk approximately two miles, <strong>rain or shine</strong>. Meet 
 		<p>
 		<strong>Chaz Ebert –</strong>Chicago luminary, CEO of rogerebert.com, and Executive Producer of Passing –  will introduce the film. <strong>A roundtable discussion with Rafael Walker, Pardis Dabashi, and Cyraina Johnson-Roullier will follow the screening. </strong>
 		</p>
- -->
+ 
 
 <p>
 Special events coming September 2025.
 </p>
 
+-->
 
 <!--		
         <p>The Modernist Studies Association and the Chicago conference’s
