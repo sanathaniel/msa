@@ -31,20 +31,24 @@ classes:
 <div class="page__hero--overlay" 
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #ffbd2e inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/empress.jpg);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: black;">       
-          MSA '26<br>CFP   
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: black;">       
+          Weird Modernisms   
       </h1>     
     </div>
+</div>
+
+<div style="font-size: .5rem;"
+	Pamela Coleman Smith, <i>The Empress</i>
 </div>
 
 <p>
 </p>
 
 
-<h1>Weird Modernisms </h1>
+
 
 <h1>
-<p>Loughborough, July 1-4, 2026</p>
+Loughborough, July 1-4, 2026<br>BAMS/MSA<br>1-4 July 2026<br>Loughborough University, UK
 </h1>
 
 <hr>
