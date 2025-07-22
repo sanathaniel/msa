@@ -29,9 +29,9 @@ classes:
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #fffe8b4 inset; background-image: url(/conference/MSA2026/assets/empress.jpg);">
+  style="margin-bottom:.25em; background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #fffe8b4 inset; background-image: url(/conference/MSA2026/assets/empress.jpg);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: black;">       
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: #689c4b;">       
           <br>
 			=<br>		  
       </h1>
@@ -46,10 +46,10 @@ classes:
 </p>
 
 <h1>
-CFP: Weird Modernism 
+CFP: Weird Modernisms 
 </h1>
 <h2>
-Loughborough, July 1-4, 2026<br>BAMS/MSA<br>1-4 July 2026<br>Loughborough University, UK
+July 1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK
 </h2>
 
 
@@ -235,7 +235,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 <details closed>
 	<summary class="stream-title">Modernism and Film Stream</summary>
 		<div class="description">
-			<p>Description coming soon
+			<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Modernism and Film stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which the "weird" informs film productions, film cultures, and the very activity of cinematic thought. 
 			</p>
 		</div>
 </details>
