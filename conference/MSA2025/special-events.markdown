@@ -34,6 +34,8 @@ footer: false
      
 <h3>Thursday</h3>
 
+<hr>
+
 <p><strong>City Walk (with John Plotz)</strong>
 </p>
 <p>Thurs, late afternoon.</p>
@@ -47,6 +49,8 @@ footer: false
     
 <h3>Friday</h3>
 
+<hr>
+
 <p><strong>Athenaeum Visit</strong></p>
 <p>Fri, mid-morning</p>
 
@@ -59,7 +63,7 @@ footer: false
 
 <hr>
 
-<p><strong>A conversation with Jamie Hood</strong>, author of <i>The Trauma Plot<i> (moderated by Laura Hartmann-Villalta). Fri, 2:45 - 4:15.</p>
+<p><strong>A conversation with Jamie Hood</strong>, author of <i>The Trauma Plot</i> (moderated by Laura Hartmann-Villalta). Fri, 2:45 - 4:15.
 
 <hr>
 
@@ -70,6 +74,8 @@ footer: false
 <hr>
 
 <h3>Saturday</h3>
+
+<hr>
 
 <p><strong>One Page: Community Close Readings</strong>
 </p>
@@ -86,6 +92,8 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <hr>
 
 <h3>Sunday</h3>
+
+<hr>
 
 <p><strong>Just Book-ish Visit</strong>
 </p>
@@ -115,6 +123,10 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <h2>Featured Exhibits</h2>
 
+<hr>
+
+<p><strong>Houghton Library</strong>
+</p>
 <p>Harvard University’s Houghton Library is another good resource for archival research while in the Boston area. <a href="https://library.harvard.edu/libraries/houghton#collections">The Houghton’s Modern Books and Manuscripts collections</a> feature letters, manuscripts, photographs, ephemera, and other historical objects that will be of interest to MSA members, in areas such as <a href="https://library.harvard.edu/collections/modern-american-culture-collections">Modern American Culture</a>, <a href="https://library.harvard.edu/collections/modern-british-and-irish-culture-collections">Modern British and Irish Culture</a>, <a href="https://library.harvard.edu/collections/modern-french-culture-collections">Modern French Culture</a>, and the <a href="https://library.harvard.edu/collections/russian-revolution-0">Russian Revolution</a>. The Harvard Theatre Collection will also a great resource for modernist scholars, with rare books, manuscripts, ephemera, and audio-visual materials related to the performing arts. Of special interest to members might be the records of <a href="https://library.harvard.edu/collections/paul-robesons-othello">Paul Robeson’s Othello</a>, the <a href="https://library.harvard.edu/collections/tennessee-williams-collection">Tennessee Williams Collection</a>, and the <a href="https://library.harvard.edu/collections/russian-theatrical-designs">Russian Theatrical Designs collection</a>, which features set and costume designs from the Ballet Russes. Click through their digital collections, such as <a href="https://curiosity.lib.harvard.edu/anna-may-wong?utm_source=library.harvard">Anna May Wong Abroad, 1928-1936</a> and <a href="https://curiosity.lib.harvard.edu/photographs-of-black-theater-by-alix-jeffry?utm_source=library.harvard">In Black and White: Photographs of Black Theatre by Alix Jeffrey</a> to get a sense of how their collections may be accessed and used in research and teaching.</p>
 
 <p><a href="https://library.harvard.edu/libraries/poetryroom">The Woodberry Poetry Room</a> in the Lamont Library is another outstanding resource, with 6,000 literary recordings, 8,000 browsable poetry collections and 150 open-shelf poetry magazines.</p>
