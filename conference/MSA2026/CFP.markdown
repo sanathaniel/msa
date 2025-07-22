@@ -31,11 +31,10 @@ classes:
 <div class="page__hero--overlay" 
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px #fffe8b4 inset; background-image: url(/conference/MSA2026/assets/empress.jpg);">
     <div class="wrapper">
-<!--
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: black;">       
-          Weird<br>Modernisms   
-      </h1> 
--->	  
+          <br>
+			=<br>		  
+      </h1>
     </div>
 </div>
 
@@ -47,7 +46,7 @@ classes:
 </p>
 
 <h1>
-Weird Modernism 
+CFP: Weird Modernism 
 </h1>
 <h2>
 Loughborough, July 1-4, 2026<br>BAMS/MSA<br>1-4 July 2026<br>Loughborough University, UK
