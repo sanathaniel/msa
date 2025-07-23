@@ -114,9 +114,17 @@ footer: false
 	  position: absolute;
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
-	  width: 190px;
+	  background-color: #cba344;
+	  text-align: center;
+	  margin: 10px;
+	  width: 180px;
 	  height: auto;
 	  z-index: 1;
+	  box-shadow: 0px 0px 3px 3px gray;
+  
+	  &:hover {
+		  box-shadow: 0px 0px 6px 6px gray;
+		}
 	}
 	
 	.container {
@@ -158,13 +166,11 @@ Weird Modernisms
 <div class="container">
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
   <div id="hiddenimage">
-	<div class ="feature__item">
-		<div class="feature__item-teaser">
-			<img src="assets/loughborough_crest.png" min-width="150" min-height="150"/>
-		</div>
-		<figcaption  class="archive__item-title">July  1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK</figcaption>
-		<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
+	<div class="feature__item-teaser">
+		<img src="assets/loughborough_crest.png" width="150" min-height="150"/>
 	</div>
+	<figcaption  class="archive__item-title">July  1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK</figcaption>
+	<a href="/about/board-nominations" class="btn btn--primary" style= width: 160px; background-color: #b39974;"=>Welcome</a>
   </div>
 </div>
  
