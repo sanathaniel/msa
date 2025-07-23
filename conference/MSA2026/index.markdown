@@ -69,9 +69,9 @@ footer: false
       position: absolute;
 	  top: 0;
 	  left: 0;
-	  z-index: 1;
 	  width: 190px;
       height: auto;
+	  z-index: 2;
     }
 
 	#hiddenimage {
@@ -80,7 +80,7 @@ footer: false
 	  left: 0px;
 	  width: 190px;
 	  height: auto;
-	  z-index: 2;
+	  z-index: 1;
 	}
 	
 	
