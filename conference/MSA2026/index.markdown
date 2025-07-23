@@ -119,18 +119,17 @@ Weird Modernisms
 <img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut6()">	
 <img id="tarot7" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut7()">
 <img id="tarot8" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut8()">	
-<img id="tarot9" src="assets/tarot9.jpg" alt="Sample Image" onclick="fadeOut9()">
 
 <div class="container">
-  <img id="tarot9" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut9()">
+  <img id="tarot9" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut9()">
   <div id="hiddenimage">
   Hidden Stuff
   </div>
 </div>
 
 <div class="container">
-  <img id="tarot10" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut10()">
-  <img id="hiddenimage" src="assets/tarot10.jpg" alt="Image 2">
+  <img id="tarot10" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut10()">
+  <img id="hiddenimage" src="assets/tarot3.jpg" alt="Image 2">
 </div>
 	
 <!--
