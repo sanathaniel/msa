@@ -167,7 +167,7 @@ Weird Modernisms
 	</div>
   </div>
 </div>
-
+ 
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div id="hiddenimage">
