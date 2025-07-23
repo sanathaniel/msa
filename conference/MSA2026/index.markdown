@@ -198,8 +198,8 @@ Weird Modernisms
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
-	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;"><strong>Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</strong></figcaption>
-	<a href="conference/MSA2026/CFP/" class="click"><strong>CFP</strong></a>
+	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
+	<a href="conference/MSA2026/CFP/" class="click"><button>CFP</button></a>
   </div>
 </div>
  
