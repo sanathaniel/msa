@@ -50,16 +50,6 @@ footer: false
       height: auto;
     }
 	
-	#tarot7 {
-      width: 200px;
-      height: auto;
-    }
-	
-	.pagethumb {
-	  position: absolute;
-	  width: 200px;
-      height: auto;
-	
     .fade-out {
       animation: fadeOut 2s forwards;
     }
@@ -67,45 +57,12 @@ footer: false
 </head>
 
 <body>
-
 	<img id="tarot1" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut1()">
 	<img id="tarot2" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut2()">
 	<img id="tarot3" src="assets/tarot3.jpg" alt="Sample Image" onclick="fadeOut3()">
 	<img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut4()">
 	<img id="tarot5" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut5()">	
 	<img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut6()">	
-	
-<!--
-<div class="feature__wrapper">
-		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
-			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-		</div>	
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
-			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-		</div>	
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
-			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-		</div>	
-</div>		
-
--->
-
 	
   <script>
     function fadeOut1() {
