@@ -66,15 +66,24 @@ footer: false
     }
 
 	#tarot10 {
-      width: 190px;
+      position: absolute;
+	  top: 0;
+	  left: 0;
+	  z-index: 1;
+	  width: 190px;
       height: auto;
     }
 
-	#tarot11 {
-      width: 190px;
-      height: auto;
-    }
-		
+	#hiddenimage {
+	  position: absolute;
+	  top: 0px; /* Adjust position as needed */
+	  left: 0px;
+	  width: 190px;
+	  height: auto;
+	  z-index: 2;
+	}
+	
+	
 	.linkblock {
       width: 200px;
       height: 350px;
@@ -83,6 +92,15 @@ footer: false
     .fade-out {
       animation: fadeOut 2s forwards;
     }
+	
+	.container {
+		position: relative;
+		width: 200px;
+		height: 350px;
+	}
+	
+	
+
   </style>
 </head>
 
@@ -94,7 +112,7 @@ footer: false
 Weird Modernisms 
 </h1>
 
-<img id="tarot1" src="assets/empress_full.jpg.jpg" alt="Sample Image" onclick="fadeOut1()">
+<img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
 <img id="tarot2" src="assets/tarot10.jpg" alt="Sample Image" onclick="fadeOut2()">
 <img id="tarot3" src="assets/tarot11.jpg" alt="Sample Image" onclick="fadeOut3()">
 <img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut4()">
@@ -103,6 +121,11 @@ Weird Modernisms
 <img id="tarot7" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut7()">
 <img id="tarot8" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut8()">	
 <img id="tarot9" src="assets/tarot9.jpg" alt="Sample Image" onclick="fadeOut9()">
+
+<div class="container">
+  <img id="tarot10" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut10()">
+  <img id="hiddenimage" src="assets/tarot10.jpg" alt="Image 2">
+</div>
 	
 <!--
 <div linkblock>
