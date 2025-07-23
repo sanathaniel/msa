@@ -9,9 +9,9 @@ footer: false
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap" rel="stylesheet">
   <title>Image Disappear Animation</title>
   <style>
     @keyframes fadeOut {
@@ -27,6 +27,12 @@ footer: false
 		background-color: #fffe8b4;
 		font-style: 
 		color: black;
+		a:link {
+			color: black;
+		}
+		a:visited {
+			color: black;
+		}
 	}
 	  
     #tarot1 {
@@ -133,8 +139,9 @@ footer: false
 	  height: auto;
 	  z-index: 1;
 	  box-shadow: 0px 0px 3px 3px gray;
-	  font-family: "MedievalSharp", cursive;
-      font-weight: 400;
+	  font-family: "Sansita", sans-serif;
+	  font-weight: 700;
+	  font-style: normal;
 	  &:hover {
 		  box-shadow: 0px 0px 6px 6px gray;
 		}
@@ -191,8 +198,8 @@ Weird Modernisms
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
-	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: MedievalSharp, cursive;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
-	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
+	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;"><strong>Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</strong></figcaption>
+	<a href="conference/MSA2026/CFP/" class="click"><strong>CFP</strong></a>
   </div>
 </div>
  
