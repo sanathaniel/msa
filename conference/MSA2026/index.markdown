@@ -67,18 +67,15 @@ footer: false
 </head>
 
 <body>
-	<div>
-		<img id="tarot1" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut1()">
-		<img id="tarot7" src="assets/tarot7.jpg" alt="Sample Image" style="position: absolute;">
-	</div>
+
+	<img id="tarot1" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut1()">
 	<img id="tarot2" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut2()">
 	<img id="tarot3" src="assets/tarot3.jpg" alt="Sample Image" onclick="fadeOut3()">
 	<img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut4()">
 	<img id="tarot5" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut5()">	
 	<img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut6()">	
 	
-	<div class="pagethumb"
-	</div>
+<!--
 <div class="feature__wrapper">
 		
 		<div class ="feature__item">
@@ -107,7 +104,7 @@ footer: false
 		</div>	
 </div>		
 
-
+-->
 
 	
   <script>
