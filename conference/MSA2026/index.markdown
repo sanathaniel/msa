@@ -9,6 +9,9 @@ footer: false
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
   <title>Image Disappear Animation</title>
   <style>
     @keyframes fadeOut {
@@ -19,7 +22,13 @@ footer: false
         opacity: 0;
       }
     }
-
+ 
+	body {
+		background-color: #fffe8b4;
+		font-style: 
+		color: black;
+	}
+	  
     #tarot1 {
       position: absolute;
 	  top: 0;
@@ -123,7 +132,8 @@ footer: false
 	  height: auto;
 	  z-index: 1;
 	  box-shadow: 0px 0px 3px 3px gray;
-  
+	  font-family: "MedievalSharp", cursive;
+      font-weight: 400;
 	  &:hover {
 		  box-shadow: 0px 0px 6px 6px gray;
 		}
@@ -132,7 +142,7 @@ footer: false
 	.container {
 		display: inline-block;
 		position: relative;
-		width: 200px;
+		width: 195px;
 		height: 350px;
 	}
 		
@@ -181,10 +191,7 @@ Weird Modernisms
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
 	<figcaption  class="archive__item-title" style="font-size: 1rem;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
-	<a href="/conference/MSA2025/CFP/" class="click">Call for Papers</a>
-	<!--
-	<a href="/conference/MSA2025/CFP/" class="btn btn--primary" style="width: 160px; background-color: #b39974; border: 2px solid black;">CFP</a>
-	-->
+	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
   </div>
 </div>
  
