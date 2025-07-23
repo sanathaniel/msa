@@ -34,37 +34,47 @@ footer: false
      
 <div class="seminar-title">Thursday</div>
 
-<p><strong>City Walk (with John Plotz)</strong>
+<p><strong>Peripatetic Seminar on Speculative Fiction</strong>led by John Plotz
 </p>
-<p>Thurs, late afternoon.</p>
+<p>Thurs, 5-6:30pm; Registration required: capped at 25.</p>
+
+<p>Because some of us have our best ideas walking, please join the first annual MSA peripatetic seminar, Thursday October 9 at 5pm (meeting in the Sheraton lobby). We will exchange ideas about  speculative fiction informally as we perambulate. This is intended as an “all levels” conversational space, so you are heartily invited if you once worked on, are now working on or may be working on speculative fiction in the future: the barrier to entry is deliberately set very low. The walk will be informal and conversational (in fact, speculative!). It kicks off with each of us spending 30 seconds or a minute describing their interest in the area and naming a text they are working on.  Then we walk, doing our best to swap conversational partners periodically. 
+The peripatetic seminar will be fully open and accessible to all interested parties. Please rsvp throug conference registration, and when you do, let us know accessibility constraints so we can design accordingly. We will finish up around 6:30 at [bar or beer garden TBD]; feel free to invite your conference friends to join us there for our liquid cool-down.
+
+</p>
 
 <hr>
 
 <p><strong>Reception and MSA book awards</strong></p>
-<p>Thur, 6:45</p>
+<p>Thursday, 6:45pm</p>
     
 <hr>
     
 <div class="seminar-title">Friday</div>
 
-<p><strong>Athenaeum Visit</strong></p>
-<p>Fri, mid-morning</p>
+<p><strong>Boston Athenaeum Tour and Rare Books Viewing
+</strong></p>
+<p>Friday, October 10th, 9-10AM; Registration required: capped at 20; 5$ fee.</p>
+<p>Meeting place: Lobby of the Boston Athenaeum at 9am. </p>
+
+<p><a href="https://bostonathenaeum.org/">The Boston Athenaeum</p> is one of the country’s oldest independent libraries, founded in 1807 and forming a crucial part of the United State’s intellectual and artistic infrastructure during Boston’s formative years. It moved into its current building at 10 ½  Beacon Street in 1847, and writers ranging from Ralph Waldo Emerson, Nathanial Hawthorne, and Margaret Fuller to Amy Lowell (who wrote a <a href="https://poets.org/poem/boston-athenaeum">poem</p> about the Athenaeum). Registrants will get a guided tour of the beautiful Athenaeum building, which serves both as a library and a gallery for both historic and contemporary art. They will also be invited to choose a book, manuscript, or object from the <a href="https://bostonathenaeum.org/library-collections/special-collections/">Special Collections</p> to have on view, and there will be time to examine those objects at the end of the tour. 
+</p>
 
 <hr>
 
 <p><strong>One Poem: Community Close Readings</strong>
 </p>
-<p>Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one short poem.</strong> This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we ask our students to do, but so rarely get to do together. There is no advance warning of what the poem will be, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Fri, 12:00-12:50.
+<p>Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one short poem.</strong> This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we ask our students to do, but so rarely get to do together. There is no advance warning of what the poem will be, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Friday, 12:00-12:50.
 </p>
 
 <hr>
 
-<p><strong>A conversation with Jamie Hood</strong>, author of <i>The Trauma Plot</i> (moderated by Laura Hartmann-Villalta). Fri, 2:45 - 4:15.
+<p><strong>A conversation with Jamie Hood</strong>, author of <i>The Trauma Plot</i> (moderated by Laura Hartmann-Villalta). Friday, 2:45 - 4:15.
 
 <hr>
 
 <p>Informal Meet-up for Graduate Students!</p>
-<p>Fri, 6:45-7:30 PM.
+<p>Friday, 6:45-7:30 PM.
 </p>
 
 <hr>
@@ -80,7 +90,7 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <hr>
 
 <p><strong>CCIS Informal Meet-up!</strong></p>
-<p>Sat, 6:30 - 7:30 PM
+<p>Saturday, 6:30 - 7:30 PM
 </p>
 
 <hr>
@@ -98,19 +108,19 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <h1><strong>KEYNOTE SPEAKERS</strong></h1>
 
 <p><strong>Plenary Infrastructure Roundtable</strong>: an Academic keynote/ infrastructure discussion with Mike Rubenstein</p>
-<p>Fri, 4:30-5:30.
+<p>Friday, 4:30-5:30.
 </p>
 
 <hr>
 
 <p><strong>Plenary Reading: Poet Porsha Olayiwola</strong></p>
-<p>Fri, 5:45-6:45.
+<p>Friday, 5:45-6:45.
 </p>
 
 <hr>
 
  <p><strong>Plenary: Kevin Quashie and Evie Shockley</strong></p>
-<p>Sat, 4:30-5:45</p>
+<p>Saturday, 4:30-5:45</p>
 
 <hr>
 
