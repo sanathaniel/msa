@@ -167,8 +167,13 @@ footer: false
 		width: 100px; 
 		border: 2px solid black;"
 		color: black;
+    cursor: pointer;
 	}
-		
+	
+	.click:hover {
+    background-color: #a99277;
+	}
+  	
 
   </style>
 </head>
@@ -199,7 +204,7 @@ Weird Modernisms
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
 	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
-	<a href="conference/MSA2026/CFP/" class="click"><button>CFP</button></a>
+	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
   </div>
 </div>
  
