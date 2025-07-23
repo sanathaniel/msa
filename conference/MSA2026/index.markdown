@@ -158,7 +158,13 @@ Weird Modernisms
 <div class="container">
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
   <div id="hiddenimage">
-  Hidden Stuff 1
+	<div class ="feature__item">
+		<div class="feature__item-teaser">
+			<img src="assets/loughborough_crest.png" min-width="150" min-height="150"/>
+		</div>
+		<figcaption  class="archive__item-title">July  1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK</figcaption>
+		<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
+	</div>
   </div>
 </div>
 
