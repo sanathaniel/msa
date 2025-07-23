@@ -114,7 +114,7 @@ footer: false
 	  position: absolute;
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
-	  background-color: #cba344;
+	  background-color: #c7a759;
 	  border:5px #b39974;
 	  text-align: center;
 	  margin: 10px;
