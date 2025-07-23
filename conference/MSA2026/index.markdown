@@ -115,6 +115,7 @@ footer: false
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
 	  background-color: #cba344;
+	  border:5px #b39974;
 	  text-align: center;
 	  margin: 10px;
 	  padding: 10px;
@@ -139,8 +140,10 @@ footer: false
       animation: fadeOut 2s forwards;
     }
 	
-
-	
+	.click {
+		background-color: #b39974;
+		width: 160px; 
+		border: 2px solid black;"
 
   </style>
 </head>
@@ -168,10 +171,13 @@ Weird Modernisms
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
   <div id="hiddenimage">
 	<div class="feature__item-teaser">
-		<img src="assets/loughborough_crest.png" width="100" min-height="50"/>
+		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
 	<figcaption  class="archive__item-title">July  1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK</figcaption>
-	<a href="/conference/MSA2025/CFP/" class="btn btn--primary" style= width: 160px; background-color: #b39974; border: 2px solid black;">CFP</a>
+	<a href="/conference/MSA2025/CFP/" class="click">CFP</a>
+	<!--
+	<a href="/conference/MSA2025/CFP/" class="btn btn--primary" style="width: 160px; background-color: #b39974; border: 2px solid black;">CFP</a>
+	-->
   </div>
 </div>
  
