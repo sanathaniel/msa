@@ -33,7 +33,7 @@ classes:
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-align: right; color: #689c4b;">       
           <br>
-			=<br>		  
+		 <br>		  
       </h1>
     </div>
 </div>
