@@ -24,7 +24,12 @@ footer: false
       width: 200px;
       height: auto;
     }
-
+	
+	#image1 {
+      width: 200px;
+      height: auto;
+    }
+	
     .fade-out {
       animation: fadeOut 2s forwards;
     }
@@ -36,12 +41,16 @@ footer: false
 	<img id="image" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut()">
 	<img id="image" src="assets/tarot3.jpg" alt="Sample Image" onclick="fadeOut()">
 	<img id="image" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut()">
-	
-	
+	<img id="image" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut()">	
+	<img id="image1" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut()">	
 	
   <script>
     function fadeOut() {
       const image = document.getElementById('image');
+      image.classList.add('fade-out');
+    }
+	function fadeOut() {
+      const image = document.getElementById('image1');
       image.classList.add('fade-out');
     }
   </script>
