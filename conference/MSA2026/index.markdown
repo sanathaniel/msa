@@ -64,6 +64,22 @@ footer: false
       width: 190px;
       height: auto;
     }
+
+	#tarot10 {
+      top: 50%;
+	  left: 50%;
+	  max-width: 480px;
+	  width: 100%;
+	  height: auto;
+	  transform: translate(-50%, -50%);
+	  display: block; 
+	  
+    }
+	
+	.linkblock {
+      width: 200px;
+      height: 350px;
+	}	
 	
     .fade-out {
       animation: fadeOut 2s forwards;
@@ -71,15 +87,12 @@ footer: false
   </style>
 </head>
 
-	.linkblock {
-      width: 200px;
-      height: 350px;
-	}
+	
 
 <body>
 
 <h1>
-CFP: Weird Modernisms 
+Weird Modernisms 
 </h1>
 
 <img id="tarot1" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut1()">
