@@ -6,8 +6,6 @@ footer: false
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,8 +21,9 @@ footer: false
     }
   </style>
 </head>
+
 <body>
-  <img id="image" src="empress_full.jpg" alt="Sample Image">
+  <img id="image" src="/conference/MSA2026/assets/empress_full.jpg" alt="Sample Image">
   <button onclick="fadeOut()">Disappear</button>
 
   <script>
