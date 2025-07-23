@@ -134,8 +134,8 @@ footer: false
 	  text-align: center;
 	  align-content: center;
 	  margin: 10px;
-	  padding: 15px;
-	  width: 180px;
+	  padding: 15px 15px 0px 15px;
+	  width: 176px;
 	  height: auto;
 	  z-index: 1;
 	  box-shadow: 0px 0px 3px 3px gray;
@@ -150,6 +150,7 @@ footer: false
 	.container {
 		display: inline-block;
 		position: relative;
+		align-content: center;
 		width: 195px;
 		height: 350px;
 	}
@@ -160,11 +161,11 @@ footer: false
 	
 	.click {
 		display: inline-block;
-		padding: 5px;
-		border-radius: 5px;
+		padding: 2px;
+		border-radius: 2px;
 		text-align: center;
 		background-color: #b39974;
-		width: 100px; 
+		width: 160px; 
 		border: 2px solid black;"
 		color: black;
     cursor: pointer;
