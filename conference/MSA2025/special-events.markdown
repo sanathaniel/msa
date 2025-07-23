@@ -30,9 +30,9 @@ footer: false
 	</div>
 </div>
 
-<h2>Conference Events</h2>
+<h1><strong>CONFERENCE EVENTS</strong></h1>
      
-<h3>Thursday</h3>
+<div class="seminar-title">Thursday</div>
 
 <hr>
 
@@ -47,7 +47,7 @@ footer: false
     
 <hr>
     
-<h3>Friday</h3>
+<div class="seminar-title">Friday</div>
 
 <hr>
 
@@ -73,7 +73,7 @@ footer: false
 
 <hr>
 
-<h3>Saturday</h3>
+<div class="seminar-title">Saturday</div>
 
 <hr>
 
@@ -91,7 +91,7 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <hr>
 
-<h3>Sunday</h3>
+<div class="seminar-title">Sunday</div>
 
 <hr>
 
@@ -103,7 +103,7 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <hr> 
 
-<h2>Keynote Speakers</h2>
+<h1><strong>KEYNOTE SPEAKERS</strong></h1>
 
 <p><strong>Plenary Infrastructure Roundtable</strong>: an Academic keynote/ infrastructure discussion with Mike Rubenstein</p>
 <p>Fri, 4:30-5:30.
@@ -121,9 +121,8 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <p>Sat, 4:30-5:45</p>
 
 
-<h2>Featured Exhibits</h2>
+<h1><strong>FEATURED EXHIBITS</strong></h1>
 
-<hr>
 
 <p><strong>Houghton Library</strong>
 </p>
