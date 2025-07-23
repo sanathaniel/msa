@@ -26,13 +26,13 @@ footer: false
     }
 
     .fade-out {
-      animation: fadeOut 3s forwards;
+      animation: fadeOut 2s forwards;
     }
   </style>
 </head>
+
 <body>
-  <img id="image" src="assets/empress_full.jpg" alt="Sample Image">
-  <button onclick="fadeOut()">Disappear</button>
+  <img id="image" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut()">
 
   <script>
     function fadeOut() {
