@@ -115,7 +115,7 @@ footer: false
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
 	  background-color: #c7a759;
-	  border:5px #b39974;
+	  border:5px inset #b39974;
 	  text-align: center;
 	  margin: 10px;
 	  padding: 10px;
@@ -144,6 +144,9 @@ footer: false
 		background-color: #b39974;
 		width: 160px; 
 		border: 2px solid black;"
+		color: black;
+	}
+		
 
   </style>
 </head>
