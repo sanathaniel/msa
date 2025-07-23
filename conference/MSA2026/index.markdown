@@ -26,12 +26,12 @@ footer: false
 	body {
 		background-color: #fffe8b4;
 		font-style: Sansita;
-		color: #2f2609;
+		color: #41391f;
 		a:link {
-			color: #2f2609;
+			color: #41391f;
 		}
 		a:visited {
-			color: #2f2609;
+			color: #41391f;
 		}
 	}
 	  
@@ -134,7 +134,7 @@ footer: false
 	  text-align: center;
 	  align-content: center;
 	  margin: 10px;
-	  padding: 10px 10px 10px 10px;
+	  padding: 10px 0px 0px 0px;
 	  width: 176px;
 	  height: auto;
 	  z-index: 1;
@@ -167,9 +167,9 @@ footer: false
 		font-size: 20px;
 		line-height: 1.25;
 		background-color: #b39974;
-		width: 140px; 
-		border: 2px solid #2f2609;"
-		color: #2f2609;
+		width: 156px; 
+		border: 2px solid #41391f;"
+		color: #41391f;
     cursor: pointer;
 	}
 	
