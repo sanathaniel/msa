@@ -115,10 +115,10 @@ footer: false
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
 	  background-color: #c7a759;
-	  border:5px inset #b39974;
+	  border:10px inset #b39974;
 	  text-align: center;
 	  margin: 10px;
-	  padding: 10px;
+	  padding: 15px;
 	  width: 180px;
 	  height: auto;
 	  z-index: 1;
@@ -176,7 +176,7 @@ Weird Modernisms
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
-	<figcaption  class="archive__item-title">July  1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK</figcaption>
+	<figcaption  class="archive__item-title" style="font-size: 2rem;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
 	<a href="/conference/MSA2025/CFP/" class="click">CFP</a>
 	<!--
 	<a href="/conference/MSA2025/CFP/" class="btn btn--primary" style="width: 160px; background-color: #b39974; border: 2px solid black;">CFP</a>
