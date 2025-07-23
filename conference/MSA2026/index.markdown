@@ -42,6 +42,8 @@ footer: false
 	  width: 190px;
       height: auto;
 	  z-index: 2;
+	  transform: perspective(500px); /* Enables 3D perspective */
+      transition: transform 3s ease;
     }
 	
 	#tarot2 {
@@ -198,13 +200,14 @@ Weird Modernisms
 -->
 
 <div class="container">
-  <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
+  <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1() moveBackward()">
   <div id="hiddenimage">
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
 	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
 	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
+
   </div>
 </div>
  
@@ -281,6 +284,15 @@ Weird Modernisms
 -->
 	
 <script>
+
+ const tarot1 = document.getElementById('tarot1');
+    let zDistance = 0;
+
+    function moveBackward() {
+      zDistance -= 50; // Move farther
+      tarot1.style.transform = `perspective(500px) translateZ(${zDistance}px)`;
+    }
+
 function fadeOut1() {
   const tarot1 = document.getElementById('tarot1');
   tarot1.classList.add('fade-out');
