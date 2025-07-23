@@ -32,21 +32,16 @@ footer: false
 </head>
 
 <body>
-  <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut()">
-  <img id="tarot2" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut()">
-  <img id="tarot3" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut()">
-
+	<img id="image" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut()">
+	<img id="image" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut()">
+	<img id="image" src="assets/tarot3.jpg" alt="Sample Image" onclick="fadeOut()">
+	<img id="image" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut()">
+	
+	
+	
   <script>
     function fadeOut() {
-      const image = document.getElementById('tarot1');
-      image.classList.add('fade-out');
-    }
-	function fadeOut() {
-      const image = document.getElementById('tarot2');
-      image.classList.add('fade-out');
-    }
-	function fadeOut() {
-      const image = document.getElementById('tarot3');
+      const image = document.getElementById('image');
       image.classList.add('fade-out');
     }
   </script>
