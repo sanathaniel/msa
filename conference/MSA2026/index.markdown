@@ -37,35 +37,35 @@ footer: false
 </head>
 
 <body>
-	<img id="tarot1" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut()">
-	<img id="tarot2" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut()">
-	<img id="tarot3" src="assets/tarot3.jpg" alt="Sample Image" onclick="fadeOut()">
-	<img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut()">
-	<img id="tarot5" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut()">	
-	<img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut()">	
+	<img id="tarot1" src="assets/tarot1.jpg" alt="Sample Image" onclick="fadeOut1()">
+	<img id="tarot2" src="assets/tarot2.jpg" alt="Sample Image" onclick="fadeOut2()">
+	<img id="tarot3" src="assets/tarot3.jpg" alt="Sample Image" onclick="fadeOut3()">
+	<img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut4()">
+	<img id="tarot5" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut5()">	
+	<img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut6()">	
 	
   <script>
-    function fadeOut() {
+    function fadeOut1() {
       const tarot1 = document.getElementById('tarot1');
       tarot1.classList.add('fade-out');
     }
-	function fadeOut() {
+	function fadeOut2() {
       const tarot2 = document.getElementById('tarot2');
       tarot2.classList.add('fade-out');
     }
-	function fadeOut() {
+	function fadeOut3() {
       const tarot3 = document.getElementById('tarot3');
       tarot3.classList.add('fade-out');
     }
-	function fadeOut() {
+	function fadeOut4() {
       const tarot4 = document.getElementById('tarot4');
       tarot4.classList.add('fade-out');
     }
-	function fadeOut() {
+	function fadeOut5() {
       const tarot5 = document.getElementById('tarot5');
       tarot5.classList.add('fade-out');
     }
-	function fadeOut() {
+	function fadeOut6() {
       const tarot6 = document.getElementById('tarot6');
       tarot6.classList.add('fade-out');
     }
