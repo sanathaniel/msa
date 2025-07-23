@@ -25,7 +25,7 @@ footer: false
  
 	body {
 		background-color: #fffe8b4;
-		font-style: 
+		font-style: Sansita;
 		color: black;
 		a:link {
 			color: black;
