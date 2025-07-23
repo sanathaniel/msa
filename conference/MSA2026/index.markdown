@@ -21,32 +21,47 @@ footer: false
     }
 
     #tarot1 {
-      width: 200px;
+      width: 190px;
       height: auto;
     }
 	
 	#tarot2 {
-      width: 200px;
+      width: 190px;
       height: auto;
     }
 
 	#tarot3 {
-      width: 200px;
+      width: 190px;
       height: auto;
     }
 
 	#tarot4 {
-      width: 200px;
+      width: 190px;
       height: auto;
     }
 
 	#tarot5 {
-      width: 200px;
+      width: 190px;
       height: auto;
     }
 
 	#tarot6 {
-      width: 200px;
+      width: 190px;
+      height: auto;
+    }
+
+	#tarot7 {
+      width: 190px;
+      height: auto;
+    }
+
+	#tarot8 {
+      width: 190px;
+      height: auto;
+    }
+
+	#tarot9 {
+      width: 190px;
       height: auto;
     }
 	
@@ -55,6 +70,11 @@ footer: false
     }
   </style>
 </head>
+
+	.linkblock {
+      width: 200px;
+      height: 350px;
+	}
 
 <body>
 
@@ -68,9 +88,21 @@ CFP: Weird Modernisms
 <img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut4()">
 <img id="tarot5" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut5()">	
 <img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut6()">	
-<img id="tarot7" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut4()">
-<img id="tarot8" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut5()">	
-<img id="tarot9" src="assets/tarot9.jpg" alt="Sample Image" onclick="fadeOut6()">	
+<img id="tarot7" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut7()">
+<img id="tarot8" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut8()">	
+<img id="tarot9" src="assets/tarot9.jpg" alt="Sample Image" onclick="fadeOut9()">	
+
+<div linkblock>
+	<img id="tarot10" src="assets/tarot10.jpg" alt="Sample Image" onclick="fadeOut10()">
+	<div class ="feature__item">
+		<div class="feature__item-teaser">
+			<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
+		</div>
+		<h3>Travel Grants</h3>
+		<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
+		<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
+	</div>
+</div>
 	
 <script>
 function fadeOut1() {
@@ -97,7 +129,6 @@ function fadeOut6() {
   const tarot6 = document.getElementById('tarot6');
   tarot6.classList.add('fade-out');
 }
-}
 function fadeOut7() {
   const tarot7 = document.getElementById('tarot7');
   tarot7.classList.add('fade-out');
@@ -110,7 +141,10 @@ function fadeOut9() {
   const tarot9 = document.getElementById('tarot9');
   tarot9.classList.add('fade-out');
 }
-
+function fadeOut10() {
+  const tarot10 = document.getElementById('tarot10');
+  tarot10.classList.add('fade-out');
+}
 
 </script>
 
