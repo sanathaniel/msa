@@ -34,8 +34,6 @@ footer: false
      
 <div class="seminar-title">Thursday</div>
 
-<hr>
-
 <p><strong>City Walk (with John Plotz)</strong>
 </p>
 <p>Thurs, late afternoon.</p>
@@ -48,8 +46,6 @@ footer: false
 <hr>
     
 <div class="seminar-title">Friday</div>
-
-<hr>
 
 <p><strong>Athenaeum Visit</strong></p>
 <p>Fri, mid-morning</p>
@@ -75,8 +71,6 @@ footer: false
 
 <div class="seminar-title">Saturday</div>
 
-<hr>
-
 <p><strong>One Page: Community Close Readings</strong>
 </p>
 <p>
@@ -92,8 +86,6 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <hr>
 
 <div class="seminar-title">Sunday</div>
-
-<hr>
 
 <p><strong>Just Book-ish Visit</strong>
 </p>
