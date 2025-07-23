@@ -117,6 +117,7 @@ footer: false
 	  background-color: #cba344;
 	  text-align: center;
 	  margin: 10px;
+	  padding: 10px;
 	  width: 180px;
 	  height: auto;
 	  z-index: 1;
@@ -167,10 +168,10 @@ Weird Modernisms
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
   <div id="hiddenimage">
 	<div class="feature__item-teaser">
-		<img src="assets/loughborough_crest.png" width="150" min-height="150"/>
+		<img src="assets/loughborough_crest.png" width="100" min-height="50"/>
 	</div>
 	<figcaption  class="archive__item-title">July  1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK</figcaption>
-	<a href="/about/board-nominations" class="btn btn--primary" style= width: 160px; background-color: #b39974;"=>Welcome</a>
+	<a href="/conference/MSA2025/CFP/" class="btn btn--primary" style= width: 160px; background-color: #b39974; border: 2px solid black;">CFP</a>
   </div>
 </div>
  
