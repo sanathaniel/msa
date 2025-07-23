@@ -120,6 +120,7 @@ Return to what brought you to this profession, drop your expertise at the door, 
  <p><strong>Plenary: Kevin Quashie and Evie Shockley</strong></p>
 <p>Sat, 4:30-5:45</p>
 
+<hr>
 
 <h1><strong>FEATURED EXHIBITS</strong></h1>
 
