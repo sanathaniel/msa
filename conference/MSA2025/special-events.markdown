@@ -80,7 +80,7 @@ footer: false
 <p><strong>One Page: Community Close Readings</strong>
 </p>
 <p>
-Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one page—just one page—from a work of fiction</p>. This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we so often ask our students to do, but so rarely get to do together. No advance warning of what the page will be from, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Sat, 12:00-12:50.
+Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one page—just one page—from a work of fiction</strong>. This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we so often ask our students to do, but so rarely get to do together. No advance warning of what the page will be from, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Sat, 12:00-12:50.
 </p>
 
 <hr>

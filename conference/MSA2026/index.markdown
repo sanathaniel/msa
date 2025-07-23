@@ -87,17 +87,18 @@ footer: false
 	  z-index: 1;
 	}
 	
-    .fade-out {
-      animation: fadeOut 2s forwards;
-    }
-	
 	.container {
 		display: inline-block;
 		position: relative;
 		width: 200px;
 		height: 350px;
 	}
+		
+    .fade-out {
+      animation: fadeOut 2s forwards;
+    }
 	
+
 	
 
   </style>
