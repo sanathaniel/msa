@@ -130,7 +130,7 @@ footer: false
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
 	  background-color: #c7a759;
-	  border:10px inset #b39974;
+	  border:10px inset solid #b39974;
 	  text-align: center;
 	  align-content: center;
 	  margin: 10px;
@@ -189,24 +189,13 @@ footer: false
 Weird Modernisms 
 </h1>
 
-<!--
-<img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
-<img id="tarot2" src="assets/tarot10.jpg" alt="Sample Image" onclick="fadeOut2()">
-<img id="tarot3" src="assets/tarot11.jpg" alt="Sample Image" onclick="fadeOut3()">
-<img id="tarot4" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut4()">
-<img id="tarot5" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut5()">	
-<img id="tarot6" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut6()">	
-<img id="tarot7" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut7()">
-<img id="tarot8" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut8()">
--->
-
 <div class="container">
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
   <div id="hiddenimage">
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
-	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Hosted by BAMS and MSA</figcaption>
+	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA<br></figcaption>
 	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
 
   </div>
