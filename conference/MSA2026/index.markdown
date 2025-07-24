@@ -148,7 +148,7 @@ footer: false
 	  position: absolute;
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
-	  background-color: #c7a759;
+	  background-color: #b39974;
 	 /*  border:10px inset #b39974; */
 	  text-align: center;
 	  align-content: center;
@@ -192,7 +192,7 @@ footer: false
 	.hidtext {
 		position: absolute;
 		width: 90%;
-		top: 10px;
+		top: 15px;
 	}
 	
 	.hidlink {
@@ -229,7 +229,7 @@ Weird Modernisms
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div class="hiddenimage">
-	<img src="assets/loughborough.jpg">
+	<img src="assets/loughborough.jpg" style="border: 2px #fffe8b4;">
 	<div class="hidtext">Loughborough University, UK</div>
 	<div class="hidlink">July 1-4, 2026,Co-hosted by BAMS and MSA</div>
   </div>
