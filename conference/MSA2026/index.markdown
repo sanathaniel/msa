@@ -142,6 +142,7 @@ footer: false
 	  font-family: "Sansita", sans-serif;
 	  font-weight: 700;
 	  font-style: normal;
+	  line-height: 1.4;
 	  &:hover {
 		  box-shadow: 0px 0px 6px 6px gray;
 		}
@@ -195,7 +196,7 @@ Weird Modernisms
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
-	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA<br></figcaption>
+	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA<p></p></figcaption>
 	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
 
   </div>
