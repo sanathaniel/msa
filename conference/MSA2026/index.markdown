@@ -179,25 +179,15 @@ footer: false
 	}
 	
 	.hidlink {
-		position: relative;
-		bottom: 0px;
-	}
-	
-	.hidtext {
-		position: relative;
+		position: absolute;
 		top: 0px;
 	}
 	
-	.hidimg {
-	  margin: 10px;
-	  padding: 10px 0px 0px 0px;
-	  width: 176px;
-	  height: auto;
-	  font-family: "Sansita", sans-serif;
-	  font-weight: 700;
-	  font-style: normal;
-	  line-height: 1.4;
-	}  	
+	.hidtext {
+		position: absolute;
+		top: 0px;
+	}
+  	
 
   </style>
 </head>
@@ -224,11 +214,12 @@ Weird Modernisms
  
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
-	<div class="hidimg" style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/loughborough.jpg);">
-		<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
-		<a href="/members/travel-grants" class="hidlink">CFP</a>
+  <div id="hiddenimage">
+	<img src="assets/loughborough.jpg">
+	<div id="hidlink">CFP
 	</div>
-	</a>
+	<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
+  </div>
 </div>
 
 <div class="container">
