@@ -144,7 +144,7 @@ footer: false
 	  text-align: center;
 	  align-content: center;
 	  /* margin: 10px; */
-	 /*  padding: 10px 0px 0px 0px; */
+	  padding: 5px 5px 5px 5px;
 	  width: 176px;
 	  height: auto;
 	  z-index: 1;
@@ -162,6 +162,7 @@ footer: false
 		display: inline-block;
 		position: relative;
 		align-content: center;
+		padding: 5px 0px 0px 0px;
 		width: 195px;
 		height: 350px;
 	}
@@ -195,9 +196,10 @@ footer: false
 	
 	.hidlink {
 		position: absolute;
+		width: 100%;
 		top: 80%;
 		left: 50%;
-		transform: translate (-50%, -50%);
+		transform: translate(-50%, 0%);
 	}  	
 
   </style>
@@ -227,8 +229,8 @@ Weird Modernisms
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div class="hiddenimage">
 	<img src="assets/loughborough.jpg">
-	<div class="hidlink">July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
 	<div class="hidtext">Loughborough University, UK</div>
+	<div class="hidlink">July 1-4, 2026,Co-hosted by BAMS and MSA</div>
   </div>
 </div>
 
