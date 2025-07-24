@@ -188,16 +188,17 @@ footer: false
     background-color: #a99277;
 	}
 	
-	.hidlink {
-		position: absolute;
-		top: 275px;
-	}
-	
 	.hidtext {
 		position: absolute;
 		top: 10px;
 	}
-  	
+	
+	.hidlink {
+		position: absolute;
+		top: 80%;
+		left: 50%;
+		transform: translate (-50%, -50%);
+	}  	
 
   </style>
 </head>
