@@ -191,13 +191,14 @@ footer: false
 	
 	.hidtext {
 		position: absolute;
+		width: 90%;
 		top: 10px;
 	}
 	
 	.hidlink {
 		position: absolute;
-		width: 100%;
-		top: 80%;
+		width: 90%;
+		top: 75%;
 		left: 50%;
 		transform: translate(-50%, 0%);
 	}  	
