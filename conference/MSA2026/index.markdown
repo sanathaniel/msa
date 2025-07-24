@@ -130,7 +130,7 @@ footer: false
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
 	  background-color: #c7a759;
-	  border:10px inset solid #b39974;
+	  border:10px inset #b39974;
 	  text-align: center;
 	  align-content: center;
 	  margin: 10px;
