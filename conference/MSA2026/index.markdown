@@ -140,11 +140,11 @@ footer: false
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
 	  background-color: #c7a759;
-	  border:10px inset #b39974;
+	 /*  border:10px inset #b39974; */
 	  text-align: center;
 	  align-content: center;
-	  margin: 10px;
-	  padding: 10px 0px 0px 0px;
+	  /* margin: 10px; */
+	 /*  padding: 10px 0px 0px 0px; */
 	  width: 176px;
 	  height: auto;
 	  z-index: 1;
@@ -152,7 +152,7 @@ footer: false
 	  font-family: "Sansita", sans-serif;
 	  font-weight: 700;
 	  font-style: normal;
-	  line-height: 1.4;
+	  line-height: 1.2;
 	  &:hover {
 		  box-shadow: 0px 0px 6px 6px gray;
 		}
@@ -190,7 +190,7 @@ footer: false
 	
 	.hidlink {
 		position: absolute;
-		bottom: 10px;
+		top: 275px;
 	}
 	
 	.hidtext {
