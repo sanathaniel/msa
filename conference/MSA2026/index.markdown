@@ -62,7 +62,9 @@ footer: false
 	  left: 0;
 	  width: 190px;
       height: auto;
-	  z-index: 2;
+	  transform: translateZ(0);
+      transition: transform 0.5s ease;
+      perspective: 500px; /* Required for 3D effects */
     }
 
 	#tarot4 {
@@ -142,6 +144,7 @@ footer: false
 		padding: 5px 0px 0px 0px;
 		width: 190px;
 		height: 335px;
+		perspective: 500px; /* Adds depth for 3D transformations */
 	}
 	
 	.hiddenimage {
@@ -228,17 +231,16 @@ Weird Modernisms
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div class="hiddenimage">
-	<img src="assets/loughborough.jpg" style="border: 2px solid #black;">
+	<img src="assets/loughborough.jpg" style="border: 2px solid black;">
 	<div class="hidtext">Loughborough University, UK</div>
 	<div class="hidlink">July 1-4, 2026,Co-hosted by BAMS and MSA</div>
   </div>
 </div>
 
 <div class="container">
-  <img id="tarot3" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut3()">
   <div class="hiddenimage">
-  Hidden Stuff 3
   </div>
+  <img id="tarot3" src="assets/tarot5.jpg" alt="Sample Image" onclick="moveZ()">
 </div>
 
 <div class="container">
@@ -300,6 +302,18 @@ Weird Modernisms
 -->
 	
 <script>
+
+let moved = false;
+function moveZ() {
+  const tarot3 = document.getElementById("tarot3");
+  if (!moved) {
+	tarot3.style.transform = "translateZ(-500px)";
+  } else {
+	tarot3.style.transform = "translateZ(0)";
+  }
+  moved = !moved;
+}
+
 
 function fadeOut1() {
   const tarot1 = document.getElementById('tarot1');
