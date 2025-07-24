@@ -179,16 +179,24 @@ footer: false
 	}
 	
 	.hidlink {
-		position: absolute;
+		position: relative;
 		bottom: 0px;
 	}
 	
 	.hidtext {
-		position: absolute;
+		position: relative;
 		top: 0px;
 	}
 	
 	.hidimg {
+	  margin: 10px;
+	  padding: 10px 0px 0px 0px;
+	  width: 176px;
+	  height: auto;
+	  font-family: "Sansita", sans-serif;
+	  font-weight: 700;
+	  font-style: normal;
+	  line-height: 1.4;
 	}  	
 
   </style>
