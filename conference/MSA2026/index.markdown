@@ -177,6 +177,16 @@ footer: false
 	.click:hover {
     background-color: #a99277;
 	}
+	
+	.hidlink {
+		position: absolute;
+		bottom: 0px;
+	}
+	
+	.hidtext {
+		position: absolute;
+		top: 0px;
+	}
   	
 
   </style>
@@ -205,7 +215,10 @@ Weird Modernisms
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div id="hiddenimage">
-  Hidden Stuff 2
+	<img src="assets/loughborough.jpg">
+	<div id="hidlink">CFP
+	</div>
+	<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
   </div>
 </div>
 
