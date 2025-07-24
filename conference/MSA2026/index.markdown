@@ -134,7 +134,16 @@ footer: false
       height: auto;
 	  z-index: 2;
     }
-
+	
+	.container {
+		display: inline-block;
+		position: relative;
+		align-content: center;
+		padding: 5px 0px 0px 0px;
+		width: 190px;
+		height: 335px;
+	}
+	
 	.hiddenimage {
 	  position: absolute;
 	  top: 0px; /* Adjust position as needed */
@@ -145,8 +154,8 @@ footer: false
 	  align-content: center;
 	  /* margin: 10px; */
 	  padding: 5px 5px 5px 5px;
-	  width: 176px;
-	  height: auto;
+	  width: 180px;
+	  height: 325px;
 	  z-index: 1;
 	  box-shadow: 0px 0px 3px 3px gray;
 	  font-family: "Sansita", sans-serif;
@@ -156,15 +165,6 @@ footer: false
 	  &:hover {
 		  box-shadow: 0px 0px 6px 6px gray;
 		}
-	}
-	
-	.container {
-		display: inline-block;
-		position: relative;
-		align-content: center;
-		padding: 5px 0px 0px 0px;
-		width: 195px;
-		height: 350px;
 	}
 		
     .fade-out {
