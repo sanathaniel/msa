@@ -214,12 +214,12 @@ Weird Modernisms
  
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
-  <div id="hiddenimage">
-	<img src="assets/loughborough.jpg">
-	<div id="hidlink">CFP
-	</div>
-	<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
-  </div>
+	<a href="conference/MSA2026/CFP/">
+		<img src="assets/loughborough.jpg">
+		<div id="hidlink">CFP
+		</div>
+		<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
+	</a>
 </div>
 
 <div class="container">
