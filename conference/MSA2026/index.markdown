@@ -125,7 +125,7 @@ footer: false
 	  z-index: 2;
     }
 
-	#hiddenimage {
+	.hiddenimage {
 	  position: absolute;
 	  top: 0px; /* Adjust position as needed */
 	  left: 0px;
@@ -180,12 +180,12 @@ footer: false
 	
 	.hidlink {
 		position: absolute;
-		top: 0px;
+		bottom: 10px;
 	}
 	
 	.hidtext {
 		position: absolute;
-		top: 0px;
+		top: 10px;
 	}
   	
 
@@ -202,7 +202,7 @@ Weird Modernisms
 
 <div class="container">
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
@@ -214,59 +214,58 @@ Weird Modernisms
  
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
 	<img src="assets/loughborough.jpg">
-	<div id="hidlink">CFP
-	</div>
-	<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
+	<div class="hidlink">CFP</div>
+	<div class="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
   </div>
 </div>
 
 <div class="container">
   <img id="tarot3" src="assets/tarot5.jpg" alt="Sample Image" onclick="fadeOut3()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 3
   </div>
 </div>
 
 <div class="container">
   <img id="tarot4" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut4()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 4
   </div>
 </div>
 
 <div class="container">
   <img id="tarot5" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut5()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 5
   </div>
 </div>
 
 <div class="container">
   <img id="tarot6" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut6()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 6
   </div>
 </div>
 
 <div class="container">
   <img id="tarot7" src="assets/tarot9.jpg" alt="Sample Image" onclick="fadeOut7()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 7
   </div>
 </div>
 
 <div class="container">
   <img id="tarot8" src="assets/tarot10.jpg" alt="Sample Image" onclick="fadeOut8()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 8
   </div>
 </div>
 
 <div class="container">
   <img id="tarot9" src="assets/tarot11.jpg" alt="Sample Image" onclick="fadeOut9()">
-  <div id="hiddenimage">
+  <div class="hiddenimage">
   Hidden Stuff 9
   </div>
 </div>
