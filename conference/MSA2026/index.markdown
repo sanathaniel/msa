@@ -187,7 +187,9 @@ footer: false
 		position: absolute;
 		top: 0px;
 	}
-  	
+	
+	.hidimg {
+	}  	
 
   </style>
 </head>
@@ -214,11 +216,10 @@ Weird Modernisms
  
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
-	<a href="conference/MSA2026/CFP/">
-		<img src="assets/loughborough.jpg">
-		<div id="hidlink">CFP
-		</div>
+	<div class="hidimg" style="background-color: #000; background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/loughborough.jpg);">
 		<div id="hidtext">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA</div>
+		<a href="/members/travel-grants" class="hidlink">CFP</a>
+	</div>
 	</a>
 </div>
 
