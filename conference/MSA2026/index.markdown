@@ -222,14 +222,13 @@ Weird Modernisms
 	</div>
 	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA<p></p></figcaption>
 	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
-
   </div>
 </div>
  
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div class="hiddenimage">
-	<img src="assets/loughborough.jpg" style="border: 2px #fffe8b4;">
+	<img src="assets/loughborough.jpg" style="border: 2px solid #black;">
 	<div class="hidtext">Loughborough University, UK</div>
 	<div class="hidlink">July 1-4, 2026,Co-hosted by BAMS and MSA</div>
   </div>
