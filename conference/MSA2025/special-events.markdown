@@ -46,7 +46,7 @@ The peripatetic seminar will be fully open and accessible to all interested part
 <hr>
 
 <p><strong>Reception and MSA book awards</strong></p>
-<p>Thursday, 6:45pm</p>
+<p>Thursday, 6:45pm.</p>
     
 <hr>
     
@@ -64,6 +64,8 @@ The peripatetic seminar will be fully open and accessible to all interested part
 <hr>
 
 <p><strong>One Poem: Community Close Readings</strong>
+</p>
+<p>Friday, 12:00-12:50.
 </p>
 <p>Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one short poem.</strong> This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we ask our students to do, but so rarely get to do together. There is no advance warning of what the poem will be, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Friday, 12:00-12:50.
 </p>
@@ -85,7 +87,17 @@ The peripatetic seminar will be fully open and accessible to all interested part
 
 <hr>
 
+<p><strong>Business Lunch</strong>
+</p>
+<p>Saturday, 11:45-1:00.
+</p>
+<p>
+
+<hr>
+
 <p><strong>One Page: Community Close Readings</strong>
+</p>
+<p>Saturday, 12:00-12:50.
 </p>
 <p>
 Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one page—just one page—from a work of fiction</strong>. This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we so often ask our students to do, but so rarely get to do together. No advance warning of what the page will be from, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Sat, 12:00-12:50.
@@ -94,7 +106,7 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <hr>
 
 <p><strong>CCIS Informal Meet-up!</strong></p>
-<p>Saturday, 6:30 - 7:30 PM
+<p>Saturday, 6:00 - 7:00 PM
 </p>
 
 <hr>
@@ -106,7 +118,10 @@ Return to what brought you to this profession, drop your expertise at the door, 
 <p><strong>Just Book-ish Visit</strong>
 </p>
 
-<p>(post-conference)
+<p>Sunday, 10:00am.
+</p>
+
+<p>Visit to <a href="https://www.justbook-ish.com/">Just Book-Ish</a>, a literary gathering space and bookstore co-founded by Porsha Olayiwola. Just Book-Ish, which opened its doors in 2024, provides programming and events for creative communities in Dorchester. Culturally curated, radically influenced, and locally inspired, justBook-ish seeks to shift the narrative in the publishing world by housing a collection of books by writers whose work often challenges political paradigms. Partnering with numerous organizations and artists, it offers a centralized hub and networking space in a cozy and comfortable book-cafe setting. In addition to philanthropic support, revenue from books and beverages will help to offset the cost of operations and programming. This visit will include a presentation about the distinctive history and meaning of this cultural institution.
 </p>
 
 <hr> 

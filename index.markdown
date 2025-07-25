@@ -27,6 +27,24 @@ layout: home
 
 	<div class="feature__wrapper">
 		
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">Registration for MSA: Boston is now open!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
+		</div>	
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/sheraton.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Accomodations</h3>
+				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston</figcaption>
+			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
+		</div>	
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
@@ -34,24 +52,6 @@ layout: home
 				<h3>Travel Grants</h3>
 				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
 			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-		</div>
-		
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston</figcaption>
-			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
-		</div>	
-		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Board Election</h3>
-				<figcaption  class="archive__item-title">MSA is excited to announce the board election results.</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
 		</div>
 
 		<div class ="feature__item">
@@ -110,6 +110,16 @@ layout: home
 		</div>
 
 <!--
+
+			
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Board Election</h3>
+				<figcaption  class="archive__item-title">MSA is excited to announce the board election results.</figcaption>
+			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
+		</div>
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
