@@ -58,6 +58,15 @@ Please note that your membership in the MSA must be current in order for you to 
 
 <p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/seminars/">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
 
+<h2>MENTORSHIP REGISTRATION</h2>
+
+<p>The MSA is pleased to inaugurate a Graduate Mentoring program, which will offer graduate student members of the organization the opportunity to be paired with a more senior scholar for one-on-one mentoring conversations at the MSA Boston conference. When you register for the conference, you have the option of registering as a graduate mentor or mentee. Prior to the conference, mentor/mentee pairs will be put in touch and asked to schedule a time to speak at the conference that suits them both.</p>
+
+<p>Graduates may submit one document (no more than 5 pages, double spaced) to discuss with their mentor, such as a CV, teaching statement, cover letter, or other job application materials. Effort will be made to match pairs based on research interests as much as possible.</p>
+
+<p>MSA sincerely thanks all scholars and faculty willing to mentor graduates in conversation.
+Questions and/or queries can be sent to Jess Masters (MSA Grad Student Rep) at jessica.masters@sydney.edu.au</p>
+
 <h2>CANCELLATIONS AND REFUNDS</h2>
 
 <p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="mailto:lhill21@jh.edu>">Lakeisha Hill</a>.</p>
