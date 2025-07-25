@@ -62,8 +62,9 @@ footer: false
 	  left: 0;
 	  width: 190px;
       height: auto;
+	  z-index: 1;
 	  transform: translateZ(0);
-      transition: transform 0.5s ease;
+      transition: transform 3s ease;
       perspective: 500px; /* Required for 3D effects */
     }
 
@@ -239,6 +240,7 @@ Weird Modernisms
 
 <div class="container">
   <div class="hiddenimage">
+  Hidden Stuff
   </div>
   <img id="tarot3" src="assets/tarot5.jpg" alt="Sample Image" onclick="moveZ()">
 </div>
