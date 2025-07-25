@@ -65,7 +65,7 @@ Please note that your membership in the MSA must be current in order for you to 
 <p>Graduates may submit one document (no more than 5 pages, double spaced) to discuss with their mentor, such as a CV, teaching statement, cover letter, or other job application materials. Effort will be made to match pairs based on research interests as much as possible.</p>
 
 <p>MSA sincerely thanks all scholars and faculty willing to mentor graduates in conversation.
-Questions and/or queries can be sent to Jess Masters (MSA Grad Student Rep) at jessica.masters@sydney.edu.au</p>
+Questions and/or queries can be sent to Jess Masters (MSA Grad Student Rep) at jessica.masters@sydney.edu.au</p> 
 
 <h2>CANCELLATIONS AND REFUNDS</h2>
 
