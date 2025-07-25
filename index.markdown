@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">Registration for MSA: Boston is now open!</figcaption>
+				<figcaption  class="archive__item-title">Registration for MSA2025: Boston is now open!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
 		</div>	
 
