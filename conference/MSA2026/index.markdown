@@ -232,9 +232,9 @@ Weird Modernisms
 <div class="container">
   <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
   <div class="hiddenimage">
-	<img src="assets/loughborough.jpg" style="border: 2px solid black;">
+	<img src="assets/loughborough.jpg" style="border: 2px solid #464233;">
 	<div class="hidtext">Loughborough University, UK</div>
-	<div class="hidlink">July 1-4, 2026,Co-hosted by BAMS and MSA</div>
+	<div class="hidlink">July 1-4, 2026,<br>Co-hosted by<br>BAMS and MSA</div>
   </div>
 </div>
 

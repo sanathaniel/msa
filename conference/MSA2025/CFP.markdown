@@ -1,6 +1,10 @@
 ---
 layout: conference
 permalink: /conference/MSA2025/CFP/
+sidebar:
+  - title: ""
+    image: conference/MSA2025/assets/subway_logo.jpg
+  - nav: conf_nav
 masthead: false
 footer: false
 minimal_mistakes_skin: "dark"
