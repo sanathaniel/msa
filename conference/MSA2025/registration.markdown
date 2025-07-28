@@ -56,7 +56,7 @@ Please note that your membership in the MSA must be current in order for you to 
 
 <h2>SEMINAR REGISTRATION</h2>
 
-<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/seminars/">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
+<p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/seminars/">Seminars page</a>. Seminars are filled on a first-come, first-served basis. Participants must register by August 31 to provide seminar leaders time to facilitate a productive event.</p>
 
 <h2>MENTORSHIP REGISTRATION</h2>
 
