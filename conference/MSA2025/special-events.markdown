@@ -128,7 +128,7 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <h1><strong>KEYNOTE SPEAKERS</strong></h1>
 
-<p><strong>Plenary Infrastructure Roundtable</strong>: an Academic keynote/ infrastructure discussion with Mike Rubenstein</p>
+<p><strong>Plenary Roudtable: Kelly Rich and Jina Kim, moderated by Michael Rubenstein, Stony Brook University.</strong> </p>
 <p>Friday, 4:30-5:30.
 </p>
 
