@@ -39,7 +39,7 @@ footer: false
 <p>Thursday, 5-6:30pm; Registration required: capped at 25.</p>
 
 <p>Because some of us have our best ideas walking, please join the first annual MSA peripatetic seminar, Thursday October 9 at 5pm (meeting in the Sheraton lobby). We will exchange ideas about  speculative fiction informally as we perambulate. This is intended as an “all levels” conversational space, so you are heartily invited if you once worked on, are now working on or may be working on speculative fiction in the future: the barrier to entry is deliberately set very low. The walk will be informal and conversational (in fact, speculative!). It kicks off with each of us spending 30 seconds or a minute describing their interest in the area and naming a text they are working on.  Then we walk, doing our best to swap conversational partners periodically. 
-The peripatetic seminar will be fully open and accessible to all interested parties. Please rsvp throug conference registration, and when you do, let us know accessibility constraints so we can design accordingly. We will finish up around 6:30 at [bar or beer garden TBD]; feel free to invite your conference friends to join us there for our liquid cool-down.
+The peripatetic seminar will be fully open and accessible to all interested parties. Please rsvp throug conference registration, and when you do, let us know accessibility constraints so we can design accordingly. Weather permitting, we will make a loop that includes the Esplanade  finish up around 6:30 at <a href="https://www.raffles.com/boston/dining/speakeasy/">The Blind Duck</a> (40 Trinity Pl, Boston, MA 02116). feel free to invite your conference friends to join us there for our liquid cool-down..
 
 </p>
 
@@ -56,7 +56,7 @@ The peripatetic seminar will be fully open and accessible to all interested part
 
 <p><strong>Boston Athenaeum Tour and Rare Books Viewing
 </strong></p>
-<p>Friday, October 10th, 9-10AM; Registration required: capped at 20; 5$ fee. Meeting place: Lobby of the Boston Athenaeum at 9am. </p>
+<p>Friday, October 10th, 9-10AM; Registration required: capped at 25; 5$ fee. Meeting place: Lobby of the Boston Athenaeum at 9am. </p>
 
 <p><a href="https://bostonathenaeum.org/">The Boston Athenaeum</a> is one of the country’s oldest independent libraries, founded in 1807 and forming a crucial part of the United State’s intellectual and artistic infrastructure during Boston’s formative years. It moved into its current building at 10 ½  Beacon Street in 1847, and writers ranging from Ralph Waldo Emerson, Nathanial Hawthorne, and Margaret Fuller to Amy Lowell (who wrote a <a href="https://poets.org/poem/boston-athenaeum">poem</a> about the Athenaeum). Registrants will get a guided tour of the beautiful Athenaeum building, which serves both as a library and a gallery for both historic and contemporary art. They will also be invited to choose a book, manuscript, or object from the <a href="https://bostonathenaeum.org/library-collections/special-collections/">Special Collections</a> to have on view, and there will be time to examine those objects at the end of the tour. 
 </p>
@@ -147,9 +147,11 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <h1><strong>COMMUNITY GATHERINGS</strong></h1>
 
-<p><strong>Community Memorial</strong>
+<p><strong>MSA Collective Memorial</strong>
 
-<p>MSA 2025 will feature a memorial space to collectively recognize the fellow-travelers we have lost, including our teachers, students, colleagues, and friends in the modernist studies community. We invite you to contribute commemorative items for this space, including a photograph, one of their favorite literary or critical passages, a syllabus they created, an excerpt from their writing, or any other memento that speaks to their impact on you or the field, along with your short note of gratitude and affection. Writing materials will be available for you at the memorial. Thank you for considering sharing your memories of our community members with others. If there is someone whom you would like to commemorate, please email David Sherman (<a href="mailto:dsherman@brandeis.edu">dsherman@brandeis.edu</a>) and Eve Sorum (<a href="mailto:eve.sorum@umb.edu">eve.sorum@umb.edu</a>), memorial organizers."</p>
+<p>MSA 2025 will feature a memorial space to collectively recognize the fellow-travelers we have lost, including our teachers, students, colleagues, and friends in the modernist studies community. We invite you to contribute commemorative items for this space, including a photograph, one of their favorite literary or critical passages, a syllabus they created, an excerpt from their writing, or any other memento that speaks to their impact on you or the field, along with your short note of gratitude and affection. Writing materials will be available for you at the memorial. Thank you for considering sharing your memories of our community members with others.</p>
+
+<p>If there is someone whom you would like to commemorate, please email David Sherman (<a href="mailto:dsherman@brandeis.edu">dsherman@brandeis.edu</a>) and Eve Sorum (<a href="mailto:eve.sorum@umb.edu">eve.sorum@umb.edu</a>), memorial organizers."</p>
 
 <hr> 
 
