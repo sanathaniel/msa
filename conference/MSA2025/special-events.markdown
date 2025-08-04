@@ -145,6 +145,12 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <hr>
 
+<h1><strong>COMMUNITY GATHERINGS</strong></h1>
+
+<p>MSA 2025 will feature a memorial space to collectively recognize the fellow-travelers we have lost, including our teachers, students, colleagues, and friends in the modernist studies community. We invite you to contribute commemorative items for this space, including a photograph, one of their favorite literary or critical passages, a syllabus they created, an excerpt from their writing, or any other memento that speaks to their impact on you or the field, along with your short note of gratitude and affection. Writing materials will be available for you at the memorial. Thank you for considering sharing your memories of our community members with others. If there is someone whom you would like to commemorate, please email David Sherman (<a href="mailto:dsherman@brandeis.edu">dsherman@brandeis.edu</a>) and Eve Sorum (<a href="mailto:eve.sorum@umb.edu">eve.sorum@umb.edu</a>), memorial organizers."</p>
+
+<hr> 
+
 <h1><strong>FEATURED EXHIBITS</strong></h1>
 
 
