@@ -146,8 +146,10 @@ color: #689c4b;
 </p>
 
 <h1>
-CFP: Weird Modernisms 
+Weird Modernisms 
 </h1>
+
+<hr>
 
 <h2>CFP for the Modernist Studies Association 2026 Annual Conference, held in conjunction with the British Association of Modernist Studies</h2>
 <h2>Loughborough, UK, 1-4 July, 2026</h2>
