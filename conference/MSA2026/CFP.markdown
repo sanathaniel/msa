@@ -10,12 +10,112 @@ classes:
 
 <style>
 
- a {
-    color: #d0463c;
+
+background-color: #fffe8b4;
+font-style: Sansita;
+color: black;
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a {
+color: #d0463c;
+}
+
+a:visited {
+color: #d0463c;
+}
+
+h1 {
+color: #689c4b;
+}
+
+h2 {
+color: #689c4b;
+}
+
+h3 {
+color: #689c4b;
+}
+  
+  
+
+
+.CFP-summary {
+  padding: 4px;
+  width: 100%;
+  background-color: #689c4b;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.stream-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #da6c3a;
+  color: white; 
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.CFP-title {
+	background-color: #689c4b; 
+	}
+
+.CFP-summary:hover {
+  opacity: 0.7;
   }
   
-  a:visited {
-    color: #d0463c;
+.stream-title:hover {
+  opacity: 0.7;
+  }
+
+.CFP-body {
+	max-width: 1000px;
+	text-align:left;
+	font-size:1rem;
+	margin-left: 40px;
+}
+
+.seminar-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #689c4b;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  }
+  
+.seminar-title:hover {
+  opacity: 0.7;
+  }
+
+.workshop-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #689c4b;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+  
+.workshop-title:hover {
+  opacity: 0.7;
   }
   
 </style>
