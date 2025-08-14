@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">Registration for MSA2025: Boston is now open!</figcaption>
+				<figcaption  class="archive__item-title">Registration for MSA2025: Boston is now open.</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
 		</div>	
 
@@ -41,7 +41,7 @@ layout: home
 					<img src="assets/sheraton.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Accomodations</h3>
-				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston</figcaption>
+				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston.</figcaption>
 			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
 		</div>	
 
@@ -50,7 +50,7 @@ layout: home
 					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">Deadline for MSA '25 Travel Grants, August 15!</figcaption>
+				<figcaption  class="archive__item-title">The deadline for MSA '25 Travel Grants is August 15!</figcaption>
 			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
 		</div>
 
