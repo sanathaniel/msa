@@ -53,20 +53,19 @@ July 1-4, 2026<br>BAMS/MSA<br>Loughborough University, UK
 </h2>
 
 
-<p>The MSA and BAMS joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes.  </p>
+<p>The BAMS/MSA joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes. </p>
 
-<p>In addition to the idea of ‘making strange’, we invite participants to consider Weird Modernism a making of the strange through, for example, the writing and transmission of weird tales and a deliberate exoticizing of non-Western cultures to revive and unsettle. Such appropriation is necessarily associated with the inherently weird concept of Othering. It has its counterpart, too, in the resurgence of highly localised narratives that distrust the rational in favour of the folk, and which embrace the unexplainable as a way of telling marginalised and forgotten histories. Weird Modernism is also fertile ground for considering the ethical potential and pitfalls of estrangement, and we welcome papers which interrogate the weird as a framework for reading. 
+<p>In addition to the idea of ‘making strange’, we invite participants to consider Weird Modernism a making <i>of the</i> strange through, for example, the writing and transmission of weird tales and a deliberate exoticizing of non-Western cultures to revive and unsettle. Such appropriation is necessarily associated with the inherently weird concept of Othering. It has its counterpart, too, in the resurgence of highly localised narratives that distrust the rational in favour of the folk, and which embrace the unexplainable as a way of telling marginalised and forgotten histories. Weird Modernism is also fertile ground for considering the ethical potential and pitfalls of estrangement, and we welcome papers which interrogate the weird as a framework for reading. 
 </p>
  
-<p>In recent years, elements of folk culture and the weird have been selectively adopted by nationalist movements, which obscures their more complex, diverse, and subversive histories. This conference invites participants to engage critically with these traditions, exploring how they can be reinterpreted through inclusive, intersectional approaches.  
+<p>In recent years, elements of folk culture and the weird have been selectively adopted by nationalist movements, which obscures their more complex, diverse, and subversive histories. This conference invites participants to engage critically with these traditions, exploring how they can be reinterpreted through inclusive, intersectional approaches. 
  </p>
  
 <p>The New Weird genre further provides an expanded literary framework for engaging with the more-than-human and for navigating, or even transcending, some of the paradoxes that emerge within human-centred thought (Marshall, 2016). Like Patricia MacCormack’s readings of H. P. Lovecraft as “anti-anthropocentric, even anti-humanist” (MacCormack 2019), the weird nudges our critical explorations across species lines. 
 </p> 
 
 <p>
-While the weird has often been cast as a genre of interiority, one interested in the psychological effects of difference for both character and reader, more recent theorisations of the weird can expose the affective forces and embodied subjects of Modernist texts. As Sianne Ngai has suggested, emotions, feelings, and affect make strange the social and cultural landscapes that surround us – from the zany, cute and interesting (2012) to horror, envy, and paranoia (2005). We hope that papers exploring such affects will challenge ideas about where and how the weird is registered in Modernist culture. 
-
+While the weird has often been cast as a genre of interiority, one interested in the psychological effects of difference for both character and reader, more recent theorisations of the weird can expose the affective forces and embodied subjects of Modernist texts. As Sianne Ngai has suggested, emotions, feelings, and affect make strange the social and cultural landscapes that surround us – from the zany, cute and interesting (2012) to horror, envy, and paranoia (2005). We hope that papers exploring such affects will challenge ideas about where and how the weird is registered in Modernist culture.
 </p>
 
 <p>Participants may therefore wish to consider the following aspects of Weird Modernisms:</p>
@@ -105,6 +104,9 @@ While the weird has often been cast as a genre of interiority, one interested in
 </p>
 
 <p>The MSA and BAMS joint conference 2026 will feature keynote speakers, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organising committee. We look forward to welcoming participants to the Holywell Conference Centre in Loughborough, the site of a spring with fabled medicinal qualities.</p>
+
+<p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly.
+</p>
 
 <h1>Proposals</h1>
 
@@ -255,7 +257,14 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 		</div>
 	</details>
 </div>
-
+<details closed>
+		<summary class="stream-title">Weird Modernisms Stream</summary>
+			<div class="description">		
+				<p>We also welcome individual paper proposals focussed on Weird Modernisms that fall outside of these Special Interest Groups.
+				</p>
+		</div>
+	</details>
+</div>
 		<p>
 		</p>
 </details>
