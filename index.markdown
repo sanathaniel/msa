@@ -50,7 +50,7 @@ layout: home
 					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
+				<figcaption  class="archive__item-title">Deadline for MSA '25 Travel Grants, August 15!</figcaption>
 			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
 		</div>
 

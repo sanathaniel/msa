@@ -9,6 +9,15 @@ masthead: false
 footer: false
 ---
 
+<div class="page__hero--overlay" 
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2025/assets/subway_landing.jpeg);">
+    <div class="wrapper">
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; text-shadow: 4px 4px 4px rgb(0, 0, 0);">    
+		  <p></p>     
+	  </h1> 
+	</div>
+</div>
+
 <h1>Sharing Accessible Presentation Materials</h1>
 
 MSA 2025 presenters are asked to upload a digital copy of their remarks prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. 
