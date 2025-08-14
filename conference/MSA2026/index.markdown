@@ -218,6 +218,11 @@ footer: false
 Weird Modernisms 
 </h1>
 
+<p>Site coming January 2026.
+</p>
+
+<!--
+
 <div class="container">
   <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
   <div class="hiddenimage">

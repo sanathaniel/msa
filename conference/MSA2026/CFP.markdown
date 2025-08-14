@@ -364,7 +364,6 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 				</p>
 		</div>
 	</details>
-</div>
 		<p>
 		</p>
 </details>
