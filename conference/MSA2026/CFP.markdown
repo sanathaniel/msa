@@ -207,7 +207,7 @@ While the weird has often been cast as a genre of interiority, one interested in
 
 <p>The MSA and BAMS joint conference 2026 will feature keynote speakers, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organising committee. We look forward to welcoming participants to the Holywell Conference Centre in Loughborough, the site of a spring with fabled medicinal qualities.</p>
 
-<p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly.
+<p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options for panels, roundtables, and individual papers (but not seminars or workshops). Please note that panels and roundtables must be wholly in-person or wholly virtual; they may not be a hybrid of both. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly. 
 </p>
 
 <h1>Proposals</h1>
