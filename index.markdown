@@ -29,6 +29,15 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
+					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2026 CFP</h3>
+				<figcaption  class="archive__item-title">MSA2026 CFP: Weird Modernisms, Loughborough</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/" class="btn btn--primary">Call</a>
+		</div>	
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2025</h3>
@@ -45,14 +54,7 @@ layout: home
 			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
 		</div>	
 
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">The deadline for MSA '25 Travel Grants is August 15!</figcaption>
-			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-		</div>
+
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -111,7 +113,15 @@ layout: home
 
 <!--
 
-			
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Travel Grants</h3>
+				<figcaption  class="archive__item-title">The deadline for MSA '25 Travel Grants is August 15!</figcaption>
+			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
+		</div>
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
