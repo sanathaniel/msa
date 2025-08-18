@@ -77,6 +77,10 @@ The peripatetic seminar will be fully open and accessible to all interested part
 
 <hr>
 
+<p><strong>CCIS Informal Meet-up!</strong></p>
+<p>Friday, 6:45 - 7:45 PM, at Cornwall's at 644 Beacon St. 
+</p>
+
 <p>Informal Meet-up for Graduate Students!</p>
 <p>Friday, 6:45-7:30 PM.
 </p>
@@ -104,10 +108,6 @@ Return to what brought you to this profession, drop your expertise at the door, 
 </p>
 
 <hr>
-
-<p><strong>CCIS Informal Meet-up!</strong></p>
-<p>Saturday, 6:00 - 7:00 PM
-</p>
 
 <hr>
 
