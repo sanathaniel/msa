@@ -65,12 +65,11 @@ The peripatetic seminar will be fully open and accessible to all interested part
 
 <p><strong>One Poem: Community Close Readings</strong>
 </p>
+
 <p>Friday, 12:00-12:50.
 </p>
 <p>Return to what brought you to this profession, drop your expertise at the door, and come to this gathering <strong>to read together one short poem.</strong> This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we ask our students to do, but so rarely get to do together. There is no advance warning of what the poem will be, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome. Friday, 12:00-12:50.
 </p>
-
-<hr>
 
 <p><strong>A conversation with Jamie Hood</strong>, author of <i>The Trauma Plot</i> (moderated by Laura Hartmann-Villalta). 
 <p>Friday, 2:45 - 4:15.</p>
@@ -81,7 +80,9 @@ The peripatetic seminar will be fully open and accessible to all interested part
 <p>Friday, 6:45 - 7:45 PM, at Cornwall's at 644 Beacon St. 
 </p>
 
-<p>Informal Meet-up for Graduate Students!</p>
+<hr>
+
+<p><strong>Informal Meet-up for Graduate Students!</strong></p>
 <p>Friday, 6:45-7:30 PM.
 </p>
 
