@@ -151,7 +151,7 @@ Weird Modernisms
 
 <hr>
 
-<h2>CFP for the Modernist Studies Association 2026 Annual Conference, held in conjunction with the British Association of Modernist Studies</h2>
+<h2>CFP for the Modernist Studies Association 2026 Annual Conference, held in conjunction with the British Association for Modernist Studies</h2>
 <h2>Loughborough, UK, 1-4 July, 2026</h2>
 
 
