@@ -29,20 +29,20 @@ layout: home
 		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">For the reduced rate, register by August 31.</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
+		</div>	
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2026 CFP</h3>
 				<figcaption  class="archive__item-title">MSA2026 CFP: Weird Modernisms, Loughborough</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/" class="btn btn--primary">Call</a>
-		</div>	
-
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">Registration for MSA2025: Boston is now open.</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
 		</div>	
 
 		<div class ="feature__item" style="border:20px;">
