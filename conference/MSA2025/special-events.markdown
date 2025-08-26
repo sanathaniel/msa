@@ -88,6 +88,11 @@ The peripatetic seminar will be fully open and accessible to all interested part
 
 <hr>
 
+<p><strong>Modernism and Environment SIG: Reading Group:<strong></p>
+<p>Friday, 7:00 PM; Come join the M&E SIG for an informal discussion of infrastructure’s companion species: rats, cockroaches, and other vermin. We’ll discuss the introduction to Caroline Hovanec’s Notes on Vermin (2025). We anticipate a longer conversation on infrastructure’s companion creatures. <a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Frisd.edu%2Fmodernism-and-environment%2Fin-person-oct-10-hanovec&data=05%7C02%7Ceve.sorum%40umb.edu%7C1e68ffde8e3e457076a408dde4d55706%7Cb97188711ee94425953c1ace1373eb38%7C0%7C0%7C638918327149761403%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=spTamVFIPRi%2BL9BycF%2BHKY8Vf4sk7FD0ExU3hibUG3s%3D&reserved=0">Here’s the link</a> to the page we’re building with resources.</p>
+
+<hr>
+
 <div class="seminar-title">Saturday</div>
 
 <hr>
