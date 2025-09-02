@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">No panel? Check out the open seminars for MSA'25!</figcaption>
+				<figcaption  class="archive__item-title">Register for MSA'2025: Infrastructure, in Boston, MA.</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
 		</div>	
 
