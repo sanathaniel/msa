@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">For the reduced rate, register for MSA'25 by August 31.</figcaption>
+				<figcaption  class="archive__item-title">No panel? Check out the open seminars for MSA'25!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
 		</div>	
 
