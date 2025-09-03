@@ -327,6 +327,8 @@ footer: false
 			</p>
 		</div>
 </details>	
+
+<!--
 <details closed>
 	<summary class="seminar-title" id="p14">Modernism’s Lawscapes </summary>
 		<div class="description">
@@ -361,6 +363,8 @@ Invited participant: Ravit Reichman (Brown University)
 
 		</div>
 </details>	
+-->
+
 <details closed>
 	<summary class="seminar-title" id="p15">Modernism’s Racialized Infrastructures</summary>
 		<div class="description">
