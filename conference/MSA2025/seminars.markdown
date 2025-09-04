@@ -480,6 +480,9 @@ Invited participant: Sonita Sarker (Macalester College)
 	<summary class="seminar-title" id="p21">Reimagining the Feminist Modernist Publishing Infrastructure: Values and Ethics</summary>
 		<div class="description">
 			<p><strong>Leaders: Erica Delsandro (Bucknell University); Laurel Harris (Rider University); Catherine Hollis (University of California, Berkeley)</strong></p>
+			<p><strong>Invited participant: Stephanye Hunter (Editor-in-Chief at the University Press of Florida)</strong>
+
+
 
 			<p>Feminist infrastructure–intellectual, professional, political, practical–does exist within modernist studies. But as feminist scholars know, this infrastructure is not supported or maintained by the dominant academic culture and, thus, is constantly in a state of disrepair, if not outright collapse, requiring additional labor from marginalized and under-represented scholars. Like deteriorating roads, bridges, and power lines, academic infrastructure, too, necessitates regular maintenance, even demolition and rebuilding.
 			</p>
