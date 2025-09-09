@@ -115,6 +115,19 @@ Return to what brought you to this profession, drop your expertise at the door, 
 
 <hr>
 
+<p><strong>Modernism and Environment SIG: Reading Group</strong>
+</p>
+
+<p>Saturday, 7:00pm.
+</p>
+
+<p>Come join the M&E SIG in Boston for an informal discussion of infrastructure’s companion species: rats, cockroaches, and other vermin. We will begin with the introduction from a recent work on vermin by our colleague, Caroline Hovanec, but please read more if you would like, and bring your own favorite vermin (texts) to share! Meet us at the Sheraton hotel lobby on Friday October 10 at 7pm, and from there we will walk about 15 minutes to another location for a discussion over food and drink.</p>
+
+<p>We anticipate an ongoing, post-conference conversation, so please visit this page where we are building a rat’s nest of resources."</p>
+
+
+<hr>
+
 <div class="seminar-title">Sunday</div>
 
 <hr>
