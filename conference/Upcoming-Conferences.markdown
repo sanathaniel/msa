@@ -26,10 +26,10 @@ sidebar:
 <h2>MSA '26: Weird</h2>
 
 <div class="page__hero--overlay"
-  style="background-color: #000; color: 1e6cb6; background-image: url(/conference/MSA2025/assets/empress.jpg);">
+  style="background-color: #000; color: 1e6cb6; background-image: url(/assets/empress.jpg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-shadow: 4px 4px 4px black;">       
-		  <a href="/conference/MSA2026/CFP">Call for Papers<br>MSA'26:<br>Weird</a>      
+		  <a href="/conference/MSA2026/CFP">Call for Papers<br>MSA'26: Weird</a>      
 	  </h1> 
 	</div>
 </div>
