@@ -10,8 +10,6 @@ sidebar:
 
 <hr> 
 
-<h2>MSA '25: Infrastructure</h2>
-
 <div class="page__hero--overlay"
   style="background-color: #000; color: 1e6cb6; background-image: url(/conference/MSA2025/assets/subway_2022.jpeg);">
 	<div class="wrapper">
@@ -22,8 +20,6 @@ sidebar:
 </div>
 				
 <hr>
-
-<h2>MSA '26: Weird</h2>
 
 <div class="page__hero--overlay"
   style="background-color: #000; color: 1e6cb6; background-image: url(/assets/empress.jpg);">
@@ -41,6 +37,8 @@ sidebar:
 <p> 
 
 We are excited to announce that Loughborough University will host the 2026 MSA Conference, to be held in July. We look forward to collaborating with the <a href="https://bams.ac.uk/">British Association for Modernist Studies</a> on the event. 
+
+<hr> 
 
 <!--
 <p><strong>
