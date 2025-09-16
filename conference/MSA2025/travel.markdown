@@ -25,7 +25,7 @@ footer: false
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2025/assets/subway_landing.jpeg);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; text-shadow: 4px 4px 4px rgb(0, 0, 0);">    
-		  Travel &<br>Accomodations       
+		  Travel &<br>Accommodations       
 	  </h1> 
 	</div>
 </div>
