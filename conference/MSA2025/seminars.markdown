@@ -300,6 +300,8 @@ footer: false
 			</p>
 		</div>
 </details>	
+
+<!--
 <details closed>
 	<summary class="seminar-title" id="p12">Modernism, Colonization and the Classroom</summary>
 		<div class="description">
@@ -314,6 +316,8 @@ footer: false
 			</p>
 		</div>
 </details>	
+-->
+
 <details closed>
 	<summary class="seminar-title" id="p13">Modernism’s Infrastructures of Failure</summary>
 		<div class="description">
