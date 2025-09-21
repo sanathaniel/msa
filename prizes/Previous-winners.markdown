@@ -8,6 +8,262 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
+<h1>2024 MSA Book Shortlist (for books published in 2023)</h1>
+
+<!-- FIRST NOMINEE -->
+
+
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231197090.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>WINNER: Hannah Freed-Thall, <a href="https://cup.columbia.edu/book/modernism-at-the-beach/9780231197090">Modernism at the Beach: Queer Ecologies and the 
+Coastal Commons</a> (Columbia University Press, 2023)</p></strong>
+
+<p>
+We wouldn’t dare call it a beach read, but Hannah Freed-Thall’s gorgeously written, meticulously researched Modernism at the Beach is certainly a scholarly page-turner. In fresh readings of Marcel Proust, Virginia Woolf, Rachel Carson, Claude McKay, Samuel Beckett, and contemporary performance art, Freed-Thall traces the shifting possibilities of the beach across the twentieth century. The beach, the coast, the seashore – in Freed-Thall’s hands, it becomes more than a backdrop for wealthy leisure, and we learn to see it as at once a site of queer utopian possibility and a harbinger of impending ecological devastation. As she reminds us, beaches “are commons in the same way that artworks are—it’s a largely unrealized promise, but one worth taking seriously all the same.” Take this book seriously: it is essential reading for scholars and students of modernist studies, queer studies, and ecocriticism alike.
+</p>
+
+<!-- SECOND NOMINEE -->
+
+<p>
+	<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421444949.jpg?itok=UEf8oFeY"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Kimberly Quiogue Andrews, <a href="https://www.press.jhu.edu/books/title/12559/academic-avant-garde">The Academic Avant-Garde: Poetry and the 
+American University</a> (Johns Hopkins University Press, 2023)</p></strong>
+
+<p> 
+This extraordinary book demands that we recalibrate our understandings of the relationship between creative writing, literary studies, and the modern university. A poet-critic herself, Andrews attends to the impact of institutional forces on literary innovation, arguing that literary criticism is not only a response to poetry but a necessary part of its development. Grounded in an exploration of Wallace Stevens’ reflexive poetics, this study is organized around different categories of academic labor: reading (John Ashbery and Mei-mei Berseenbrugge), teaching (Jorie Graham), theorizing (John Keene and Claudia Rankine), and historicizing (Susan Howe), insisting throughout on the university as a primary—if not the primary—site of production of contemporary poetry and poetics. The result is a serious and timely defense of literary study, its historical power and future possibilities, and it should be required reading for us all.
+</p>
+
+
+<!-- THIRD NOMINEE -->
+
+<p>
+	<img src="https://www.sup.org/_next/image?url=https%3A%2F%2Fsupress.sites-pro.stanford.edu%2Fsites%2Fsupress%2Ffiles%2Fmedia%2Fcovers%2F35025_0.jpg&w=640&q=75"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Susannah Young-ah Gottlieb, <a href="https://www.sup.org/books/literary-studies-and-literature/auden-and-muse-history">Auden and the Muse of History</a> (Stanford 
+University Press, 2023)</p></strong>
+
+<p>
+This profound and nuanced study brings to light Auden’s troubled, perplexed, but ultimately generative struggle to tease out the increasingly estranged relationship between poetry and history after the horrific events of the twentieth century, highlighting his effort to distinguish poetic language from the lies told in the name of civilization. The book is informed throughout by Auden’s practice of revision and by significant archival evidence in his drafts and manuscripts. Roving with ease across philosophy, critical theory, and psychoanalysis, and with attention to touchstone figures such as Freud, Yeats, Baudelaire, and Eliot, Gottlieb demonstrates a deep understanding of Auden’s intellectual pursuits and the questions that drove subtle but significant shifts in Auden’s thinking even as she pays detailed attention to the formal elements of his craft. Finely attuned to the subtleties and shifts in Auden’s thought, as expressed in both poetry and prose in the later portion of his career, Gottlieb also highlights Auden’s silences, what he could but doesn’t say, or is reluctant to state too plainly or too propagandistically. In illustrating Auden’s persistent commitment to write poetry he felt to be responsible to or “true” to history, even when that relationship is at its most strained, this study provides readings that are no less responsible to Auden’s poetry, and no less committed to unraveling, and learning from, the intricacies of historical thought in Auden’s writing.
+</p>
+
+<!-- FOURTH NOMINEE -->
+
+<p>
+	<img src="https://global.oup.com/academic/covers/pdp/9780192872258"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>David Herd, <a href="https://global.oup.com/academic/product/writing-against-expulsion-in-the-post-war-world-9780192872258?cc=us&lang=en&">Writing Against Expulsion in the Post-War World: Making Space
+for the Human</a> (Oxford University Press, 2023)</p></strong>
+
+<p>
+<em>Writing against Expulsion in the Post-War World</em> is a timely and politically urgent study that connects postwar experiences of forced displacement and mass migration with our contemporary moment. He traces an important history of the “geopolitical non-person”—a dehumanized individual whose essential rights have been suspended. Reading poetic and philosophical works by Charles Olson, Hannah Arendt, and Frantz Fanon alongside first-hand accounts, government policies, and the Universal Declaration of Human Rights, Herd makes a powerful case for the relevance of literary analysis to real-life legal and political dilemmas. Blurring the boundaries between literary scholarship and activism, Herd delivers nothing less than a manifesto against the current political climate where detention, expulsion, and deportation have come to define the very conditions of civic life.
+</p>
+
+
+<!-- FIFTH NOMINEE -->
+
+<p>
+	<img src="https://www.ucpress.edu/_next/image?url=https%3A%2F%2Fwebfiles.ucpress.edu%2Fcoverimage%2Fisbn13%2F9780520391437.jpg&w=640&q=90"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Rielle Navitski, <a href="https://www.ucpress.edu/books/transatlantic-cinephilia/paper">Transatlantic Cinephilia: Film Culture between Latin 
+America and France, 1945–1965</a> (University of California Press, 2023)</p></strong>
+
+<p>
+<em>Transatlantic Cinephilia</em> is a wide-ranging study of how, in the two decades following the end of World War II, a growing number of institutions across Latin America sought to foster an audience for arthouse cinema in the face of mass culture and Cold War politics. In an impressive feat of archival recovery, Navitski explores a diverse array of film clubs, cinémathèques, film festivals, and film schools—many modelled on European, especially French, predecessors—that actively shaped the preferences and habits of cinemagoers, transforming them from passive consumers into devoted cinephiles. Interweaving a wealth of historical details and insights, Navitski tells a larger story with deep significance for modernist studies. She shows us how the cultivation of aesthetic taste is intertwined with institutional tensions and conflicts, and how we might address European influence without falling into Eurocentrism. <em>Transatlantic Cinephilia</em> is an essential book for modernist scholars, film historians, and cinephiles worldwide.
+</p>
+
+<hr />
+
+<p><strong>Nominating Committee:</strong> Melanie Micir, Washington University (Chair), Robert 
+Stilling, Florida State University, Philip Tsang, Colorado State University</p>
+
+<hr />
+
+
+<h1>2024 MSA First Book Prize</h1>
+
+<!-- FIRST NOMINEE -->
+
+<p>
+	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/82/9780226829258.jpg/jcr:content/9780226829258.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>CO-WINNER: Pardis Dabashi, <a href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo206924764.html">Losing the Plot: Film and Feeling in the Modern Novel</a> 
+(University of Chicago Press, 2023)</p></strong>
+
+<p>
+“The classical Hollywood movie tells us what to fantasize about,” writes Pardis Dabashi. “What if modernists did not overcome this danger entirely?” With its dazzlingly original and sophisticated analyses of both novels and films, <em>Losing the Plot</em> sets a new standard for interdisciplinarity. As modernist novels became more fragmentary and plotless, films became more straightforwardly narrative – and the comforting promises of the bourgeois realist plot to which film increasingly cleaves in the early twentieth century, Dabashi argues, become “an object of complicated longing: for both modernist novelists and their characters. They long for the “structures of consequence” that they sense “would deliver them from the groundlessness of paratactical experience.” With effortless, clear-eyed aplomb, this book shakes apart what one thinks one knows about modernist film, the modernist novel, and even the very nuts and bolts of plot.
+</p>
+
+<!-- SECOND NOMINEE -->
+
+
+<p>
+	<img src="https://yale-press-us.imgix.net/covers/9781913107369.jpg?auto=format&w=298&dpr=1&q=100"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>CO-WINNER: Kirsty Sinclar Dootson, <a href="https://yalebooks.yale.edu/book/9781913107369/the-rainbows-gravity/">The Rainbow’s Gravity: Colour, Materiality and 
+British Modernity</a> (Yale University Press/Paul Mellon Centre, 2023)</p></strong>
+
+<p>
+In remarkably vivid and clear prose, Dootson’s <em>The Rainbow’s Gravity</em> mines the messiness of color in British visual culture, starting with the synthesis of mauve from coal-tar in 1856. Zeroing in on case studies in five mediums (painting, print, photography, film, and television) across a “chromatic century,” Dootson reveals the significance of color’s materiality–and its critical, ideological, and political weight. Wide-ranging yet rich in compelling close readings, <em>The Rainbow’s Gravity</em> unfurls the mutual imbrications of empire, modernization, and color technology. A powerful reminder that, even in our increasingly digital world, “the meaning of color is inseparable from its making,” this book parses color’s protean associations without reducing its strangeness.
+</p>
+
+<!-- THIRD NOMINEE -->
+
+<p>
+	<img src="https://global.oup.com/academic/covers/pdp/9780197680919"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Elizabeth Sarah Coles, <a href="https://global.oup.com/academic/product/anne-carson-9780197680919?cc=us&lang=en&">Anne Carson: The Glass Essayist (Oxford University</a> 
+Press, 2023)</p></strong>
+
+<p>
+<em>Anne Carson: The Glass Essayist</em> is a rare achievement. Elizabeth Sarah Coles brings to Carson’s corpus a level of attention and imagination every bit as exacting and dynamic as Carson’s own. At once a dizzying examination of Carson’s formal methods and a timely meditation on the possibilities of close reading, <em>Anne Carson: The Glass Essayist</em> provides a moving tribute to what Coles terms the “unsanctioned emotional life of scholarship.” <em>The Glass Essayist</em>, like Carson’s work, offers abundant reminders that reading has its own voltage, opening a path to other modes of criticism – “transparent, prismatic, contourless, speculative, imitative, or mirroring” – ways of writing and thinking attuned to those special moments when “the unforeseen shows up in the mind.”          
+</p>
+
+
+
+<p>
+	<img src="https://global.oup.com/academic/covers/pdp/9780192867506"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Morgan Day Frank, <a href="https://global.oup.com/academic/product/schools-of-fiction-9780192867506?cc=us&lang=en&">Schools of Fiction: Literature and the Making of the 
+American Educational System</a> (Oxford University Press, 2023)</p></strong>
+
+<p>
+Morgan Day Frank’s witty and delightful book moves deftly between the small and the vertiginously large: from “the school’s evolving role in public life over the last two centuries,” to the phenomenology of a sausage. Day Frank investigates how a host of authors contrasted the excitement of “real life” to the boredom of education, and conversely how educational texts disparaged the study of literature; he suggests – surprisingly and convincingly – that this seeming antagonism was actually symbiosis. Literary culture and formal education, he argues, expressed hostility toward one another, in order for each to claim a greater role in US life. <em>Schools of Fiction</em> goes on to claim that the institutionalization of literature in the classroom “allowed the school system to neutralize public concerns about the relevance of formal education and establish itself as part of American life.” The scope of authors – Charles Chesnutt, Gertrude Stein, Henry James, Frank Norris, Upton Sinclair, and so many more – is impressively wide without feeling diffuse, and the conclusions make compelling reading for anyone anxious about the future of the contemporary university.
+</p>
+
+<!-- FOURTH NOMINEE -->
+
+
+<!-- FIFTH NOMINEE -->
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231208895.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Imani D. Owens, <a href="https://cup.columbia.edu/book/turn-the-world-upside-down/9780231208895">Turn the World Upside Down: Empire and Unruly Forms of 
+Black Folk Culture in the U.S. and Caribbean</a> (Columbia University Press, 
+2023)</p></strong>
+
+<p>
+An innovative, richly detailed and relentlessly nuanced work, <em>Turn the World Upside Down</em> explores the risk and reinvention involved in the use folk traditions across Black diasporic modernism. Refusing to dismiss such experiments as nostalgic expressions of racial or cultural authenticity, Imani D. Owens reveals how writers and performers across the Black diaspora discovered and self-consciously performed “new epistemologies of blackness” through folk-inspired forms of artistic upheaval and rupture. Elegantly written and rigorously comparative, <em>Turn the World Upside Down</em> is a work of inspiring archival scope, reminding us just how frequently gestures of indeterminacy, failure, interruption and refusal accompany the performance of folk cultural forms, opening up not fictions of identity but a “dynamic space in which blackness can move.”
+</p>
+
+<!-- SIXTH NOMINEE -->
+
+<p>
+	<img src="https://fordhampress-us.imgix.net/covers/9781531503185.jpg?auto=format&w=298"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Ameeth Vijay, <a href="https://www.fordhampress.com/9781531503185/topothesia/">Topothesia: Planning, Colonialism, and Places in Excess</a> 
+(Fordham University Press, 2023)		</p></strong>							
+
+<p>
+Traversing expansive chronological and spatial terrains, from the garden city movement in the British Empire to development in the Brexit era, Vijay’s <em>Topothesia</em> creatively bridges the domains of literature and urban planning. This ambitious and provocative study argues that urban planning is a form of “speculative fiction… compelled to produce elaborate fantasies of future places.” With the literary device of topothesia, or the vivid description of an imaginary place, as its theoretical anchor, the book reveals how city planning leveraged literary aesthetics to manage and discipline people and spaces perceived as “in excess” of proper modernity – and how new counter-imaginaries emerged, in turn. 
+</p>
+
+<hr />
+							
+<p><strong>Nominating Committee:</strong> Aglaya Glebova, University of California, Berkeley 
+(Co-chair), Noreen Masud, University of Bristol (Co-chair), Jonathan Foltz, 
+Boston University	</p>						
+
+<hr />
+
+	
+<h1>2024 Book Prize Shortlist: Translation</h1>
+
+<!-- FIRST NOMINEE -->
+
+<p>
+	<img src="https://images.squarespace-cdn.com/content/v1/5490c4c7e4b0518046d7a6c3/1671044953924-QH60QZNY0CRR5ONA06L9/A+Book+Untitled+Cover.png?format=500w"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>WINNER: Shushan Avagyan, <a href="https://awst-press.com/shop/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
+Cachoian-Schanz</a> (AWST Press, 2023)</p></strong>
+
+<p>
+Written as a literary experiment, <em>A Book, Untitled</em> puts Armenian modernist writers in a world beyond their native literary landscape, populated by such contemporaries as Marina Tsvetaeva, Gertrude Stein, and Virginia Woolf. As the reader navigates 26.5 chapters of seemingly unrelated vignettes in disparate and unidentified voices, they discover that Avagyan, while writing the novel as a translator’s diary, is also mapping out a larger archival or archaeological site: an imagined encounter between two literary giants of the twentieth century, Shushanik Kurghinian and Zabel Yesayan, whose legacies had been censored by the Tsarist and Stalinist regimes. The imagined encounter between these two authors in 1926 is juxtaposed with a contemporary conversation between the novel’s unnamed narrator—an archivist and translator referred to as the “typist/writer”—and her friend Lara, who are both piecing together their feminist predecessors' fragmented stories.
+</p>
+
+<!-- SECOND NOMINEE -->
+
+<p>
+	<img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674271012.png?fm=jpg&q=80&fit=max&w=600"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Marcel Proust, <a href="https://www.hup.harvard.edu/books/9780674271012">The Seventy-Five Folios and Other Unpublished Manuscripts, 
+translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p></strong>
+
+<p>
+Presented for the first time in English, the recently discovered early manuscripts of the twentieth century’s most towering literary figure offer uncanny glimpses of his emerging genius and the creation of his masterpiece. One of the most significant literary events of the century, the discovery of manuscript pages containing early drafts of Marcel Proust’s <em>In Search of Lost Time</em> put an end to a decades-long search for the Proustian grail. The Paris publisher Bernard de Fallois claimed to have viewed the folios, but doubts about their existence emerged when none appeared in the Proust manuscripts bequeathed to the Bibliothèque Nationale in 1962. The texts had in fact been hidden among Fallois’s private papers, where they were found upon his death in 2018. <em>The Seventy-Five Folios and Other Unpublished Manuscripts</em> presents these folios here for the first time in English, along with seventeen other brief unpublished texts. Extensive commentary and notes by the Proust scholar Nathalie Mauriac Dyer offer insightful critical analysis.
+</p>
+
+
+
+<!-- THIRD NOMINEE -->
+
+<p>
+	<img src="https://northwest-press-us.imgix.net/covers/9780810144392.jpg?auto=format&w=298&dpr=1&q=20"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Fradl Shtok, <a href="https://nupress.northwestern.edu/9780810144392/from-the-jewish-provinces/">From the Jewish Provinces: Selected Stories, translated from 
+Yiddish by Jordan Finkin and Allison Schachter</a> (Northwestern University 
+Press, 2022)</p></strong>
+
+<p>
+The translation of Fradl Shtok’s From the <em>Jewish Provinces</em> revives a nearly forgotten collection of Yiddish modernist masterpieces. Shtok’s collection of short stories represents one of the only known volumes of Yiddish modernist short fiction authored by a woman. In sophisticated prose, the stories describe the travails of young women looking for love and desire in a world that spurns them. These young Jewish women struggle with disabled bodies, sexual violence, and unwanted marriage. Some strive to imagine themselves as artists, while others lose themselves in fantasy worlds or look with desperate longing at the non-Jewish men that surround them. Through deft portraits of her characters’ inner worlds Shtok gives us access to unglimpsed corners of the Jewish imagination. The translation intervenes in the literary history of Yiddish prose to show women’s active participation in modernist experimentation.
+</p>
+
+<!-- FOURTH NOMINEE -->
+
+<p>
+	<img src="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Murathan Mungan, <a href="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg">Valor: Stories, translated from Turkish by Aron Aji and 
+David Gramling</a> (Northwestern University Press, 2022)</p></strong>
+
+<p>
+Among the array of Turkish literature available in English, one of the most glaring gaps is the work of Murathan Mungan (b. 1955), author of over sixty books--of poetry, fiction, plays, screenplays and essays--produced in the course of a forty-year writing career. To date, only a handful of his poems and short fiction have appeared in English (many in Aji’s and Gramling’s own co-translations), and no book-length work had been translated yet until <em>Valor. Cenk Hikayeleri/Valor</em> (1986) has long been considered by Turkish critics as a milestone of modern Turkish literature deserving of international reception. <em>Valor</em> reflects most vividly the author’s multi-ethnic, Kurdish-Arab-Turkish background, and represents his lush poetics, literary breadth, and his enduring sociopolitical commitments.
+</p>
+
+<hr />
+
+<p><strong>Nominating Committee:</strong> Christos Hadjiyiannis, University of Regensberg 
+(Chair), María del Pilar Blanco, University of Oxford, Harris Feinsod, Johns 
+Hopkins University</p>							
+
+<hr />
+	 
+
+
+
 <!-- 2024 Book Prize-->
 <h1>MSA Book Prize (for a book published in 2022)</h1>
 
