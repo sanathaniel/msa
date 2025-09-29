@@ -7,90 +7,99 @@ sidebar:
 ---
 
 <!-- #BeginEditable "content" -->
+
+
+
+
 							
-<h1>2024 MSA Book Shortlist (for books published in 2023)</h1>
+<h1>2025 MSA Book Shortlist (for books published in 2024)</h1>
 
 <!-- FIRST NOMINEE -->
 
 
-
 <p>
-	<img src="https://cup-us.imgix.net/covers/9780231197090.jpg?auto=format&w=350"
+	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/83/9780226832678.jpg/jcr:content/9780226832678.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>WINNER: Hannah Freed-Thall, <a href="https://cup.columbia.edu/book/modernism-at-the-beach/9780231197090">Modernism at the Beach: Queer Ecologies and the 
-Coastal Commons</a> (Columbia University Press, 2023)</p></strong>
+<strong><p>Elizabeth Abel, <a href="https://press.uchicago.edu/ucp/books/book/chicago/O/bo213064503.html">Odd Affinities: Virginia Woolf’s Shadow Genealogies</a> (University of Chicago Press, 2024)</p></strong>
+
+<p> 
+Elizabeth Abel’s compelling, beautifully-written study usefully strays from the traditional pathways and settled canons that have defined Virginia Woolf’s influence on later writers. Abel constructs her conceptual foundation on Woolf’s own terms in <i>Mrs. Dalloway</i>, the “odd affinities” Clarissa senses she has “with people she had never spoken to…even trees, or barns” that offer some solace that after death, the “unseen part of us…might survive,” might be “recovered,” might persist through “haunting certain places after death.” The study’s first half considers the subtle presence of <i>Mrs. Dalloway’s</i> narrative form in the social and aesthetic projects of Nella Larsen and James Baldwin. The second considers <i>To the Lighthouse’s</i> tonal and formal affinities with the European post-World War II elegiac modes of Roland Barthes and W. G. Sebald and offers a new narrative of profound mourning running through twentieth-century European literature. A timely, compulsively readable reimagining of Woolf that opens subversive ways of thinking about literary reception, influence, and genealogy, <i>Odd Affinities</i> is a model for how to make seemingly old critical conversations feel vitally new. 
+</p>
+
+<!--Second Nominee-->
+
+
 
 <p>
-We wouldn’t dare call it a beach read, but Hannah Freed-Thall’s gorgeously written, meticulously researched Modernism at the Beach is certainly a scholarly page-turner. In fresh readings of Marcel Proust, Virginia Woolf, Rachel Carson, Claude McKay, Samuel Beckett, and contemporary performance art, Freed-Thall traces the shifting possibilities of the beach across the twentieth century. The beach, the coast, the seashore – in Freed-Thall’s hands, it becomes more than a backdrop for wealthy leisure, and we learn to see it as at once a site of queer utopian possibility and a harbinger of impending ecological devastation. As she reminds us, beaches “are commons in the same way that artworks are—it’s a largely unrealized promise, but one worth taking seriously all the same.” Take this book seriously: it is essential reading for scholars and students of modernist studies, queer studies, and ecocriticism alike.
+	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/23/9780226234861.jpg/jcr:content/9780226234861.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Devin Fore, <a href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo218258142.html">Soviet Factography: Reality Without Realism</a> (University of Chicago Press, 2024)</p></strong>
+
+<p>
+A brilliant introduction for the English-speaking world to factography, a 1920s Soviet avant-garde movement and precursor to documentary that set out to register the Revolution’s massive transformation of Russian culture and its citizens. Original, meticulous archival work and a strong theoretical grounding are the impressive twin strengths of <i>Soviet Factography,</i> which conveys a nearly lost historical moment before the rise of documentary formalized practices for depicting reality. This moment combined post-revolutionary zeal with an experimental new media landscape that sought to inscribe and record the present without recourse to the past or concern for the future.  Fore reconstructs the peak of the movement in 1928–1931, when photography, inscription technologies, film, and radio presented the possibility of an immediate experience of contemporary reality that would render artists, aesthetic form, and contemplation obsolete. While Fore does not engage the potentially massive implications of his historical account for our own moment of mass media’s proliferation of disinformation, readers will doubtless recognize echoes between the world Fore presents and our own. 
+</p>
+
+
+<p>
+	<img src="https://cup.columbia.edu/book/death-by-laughter/9780231213295/"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Maggie Hennefeld, <a href="https://cup-us.imgix.net/covers/9780231213295.jpg?auto=format&w=350">Death by Laughter: Female Hysteria and Early Cinema</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+A study of the late 19th-/early 20th-century archive of hysterical laughter, Maggie Hennefeld’s <i>Death by Laughter</i> weaves together film history, cultural theory and criticism, political critique, and the history of psychotherapy and medical theater. It is a brilliant work of scholarship that is as intellectually rich as it is stylistically sharp—and genuinely funny. Its engagement with gendered and racialized bodies in media and medical history is timely and profound, challenging its readers to reconsider comedy’s affective power and its ethical/political stakes. Hennefeld’s archival work; theoretical insights; as well as her pleasurable curation of cinematic texts and images make <i>Death by Laughter</i> a landmark contribution to feminist film studies. It is a triumph: an impossible-to-put-down account of the politics of humor and the subversive, “madusanal” potential of cinematic excess.
+</p>
+
+
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231217453.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Maebh Long and Matthew Hayward, <a href="https://cup.columbia.edu/book/the-rise-of-pacific-literature/9780231217453/">The Rise of Pacific Literature: Decolonization, Radical Campuses, and Modernism</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+In their co-authored <i>The Rise of Pacific Literature</i>, Maebh Long and Matthew Hayward create new approaches to global modernisms by taking us into the classrooms, syllabi, and little magazines that forged a golden age of Oceanic writing. At the newly founded universities of Papua New Guinea and the South Pacific in the 1960s and 70s, the curriculum centered Pacific orality and Indigenous forms, treating modernist techniques as one set of tools among many that students could use to create a distinctive Oceanic literature. With fresh readings of writers including Albert Wendt, Subramani, and Marjorie Crocombe (along with less recognized authors), the book shows how the university—so often tied to reproducing the canon—became a crucible for a radical literary movement. The result is a vivid, collaboratively researched history of the rise of Pacific literature that links Port Moresby and Suva with Kingston, Delhi, and Lagos. Essential reading for scholars of modernism, postcolonial studies, and Indigenous literary futures.
 </p>
 
 <!-- SECOND NOMINEE -->
 
-<p>
-	<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421444949.jpg?itok=UEf8oFeY"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>Kimberly Quiogue Andrews, <a href="https://www.press.jhu.edu/books/title/12559/academic-avant-garde">The Academic Avant-Garde: Poetry and the 
-American University</a> (Johns Hopkins University Press, 2023)</p></strong>
-
-<p> 
-This extraordinary book demands that we recalibrate our understandings of the relationship between creative writing, literary studies, and the modern university. A poet-critic herself, Andrews attends to the impact of institutional forces on literary innovation, arguing that literary criticism is not only a response to poetry but a necessary part of its development. Grounded in an exploration of Wallace Stevens’ reflexive poetics, this study is organized around different categories of academic labor: reading (John Ashbery and Mei-mei Berseenbrugge), teaching (Jorie Graham), theorizing (John Keene and Claudia Rankine), and historicizing (Susan Howe), insisting throughout on the university as a primary—if not the primary—site of production of contemporary poetry and poetics. The result is a serious and timely defense of literary study, its historical power and future possibilities, and it should be required reading for us all.
-</p>
-
 
 <!-- THIRD NOMINEE -->
 
-<p>
-	<img src="https://www.sup.org/_next/image?url=https%3A%2F%2Fsupress.sites-pro.stanford.edu%2Fsites%2Fsupress%2Ffiles%2Fmedia%2Fcovers%2F35025_0.jpg&w=640&q=75"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
-<p> 
-
-<strong><p>Susannah Young-ah Gottlieb, <a href="https://www.sup.org/books/literary-studies-and-literature/auden-and-muse-history">Auden and the Muse of History</a> (Stanford 
-University Press, 2023)</p></strong>
-
-<p>
-This profound and nuanced study brings to light Auden’s troubled, perplexed, but ultimately generative struggle to tease out the increasingly estranged relationship between poetry and history after the horrific events of the twentieth century, highlighting his effort to distinguish poetic language from the lies told in the name of civilization. The book is informed throughout by Auden’s practice of revision and by significant archival evidence in his drafts and manuscripts. Roving with ease across philosophy, critical theory, and psychoanalysis, and with attention to touchstone figures such as Freud, Yeats, Baudelaire, and Eliot, Gottlieb demonstrates a deep understanding of Auden’s intellectual pursuits and the questions that drove subtle but significant shifts in Auden’s thinking even as she pays detailed attention to the formal elements of his craft. Finely attuned to the subtleties and shifts in Auden’s thought, as expressed in both poetry and prose in the later portion of his career, Gottlieb also highlights Auden’s silences, what he could but doesn’t say, or is reluctant to state too plainly or too propagandistically. In illustrating Auden’s persistent commitment to write poetry he felt to be responsible to or “true” to history, even when that relationship is at its most strained, this study provides readings that are no less responsible to Auden’s poetry, and no less committed to unraveling, and learning from, the intricacies of historical thought in Auden’s writing.
-</p>
 
 <!-- FOURTH NOMINEE -->
-
-<p>
-	<img src="https://global.oup.com/academic/covers/pdp/9780192872258"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>David Herd, <a href="https://global.oup.com/academic/product/writing-against-expulsion-in-the-post-war-world-9780192872258?cc=us&lang=en&">Writing Against Expulsion in the Post-War World: Making Space
-for the Human</a> (Oxford University Press, 2023)</p></strong>
-
-<p>
-<em>Writing against Expulsion in the Post-War World</em> is a timely and politically urgent study that connects postwar experiences of forced displacement and mass migration with our contemporary moment. He traces an important history of the “geopolitical non-person”—a dehumanized individual whose essential rights have been suspended. Reading poetic and philosophical works by Charles Olson, Hannah Arendt, and Frantz Fanon alongside first-hand accounts, government policies, and the Universal Declaration of Human Rights, Herd makes a powerful case for the relevance of literary analysis to real-life legal and political dilemmas. Blurring the boundaries between literary scholarship and activism, Herd delivers nothing less than a manifesto against the current political climate where detention, expulsion, and deportation have come to define the very conditions of civic life.
-</p>
 
 
 <!-- FIFTH NOMINEE -->
 
 <p>
-	<img src="https://www.ucpress.edu/_next/image?url=https%3A%2F%2Fwebfiles.ucpress.edu%2Fcoverimage%2Fisbn13%2F9780520391437.jpg&w=640&q=90"
+	<img src="https://cup-us.imgix.net/covers/9780231212649.jpg?auto=format&w=350"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Rielle Navitski, <a href="https://www.ucpress.edu/books/transatlantic-cinephilia/paper">Transatlantic Cinephilia: Film Culture between Latin 
-America and France, 1945–1965</a> (University of California Press, 2023)</p></strong>
+<strong><p>Adam McKible, <a href="https://cup.columbia.edu/book/circulating-jim-crow/9780231212649/">Circulating Jim Crow: The Saturday Evening Post and the War Against Black Modernity</a> (Columbia University Press, 2024)</p></strong>
 
 <p>
-<em>Transatlantic Cinephilia</em> is a wide-ranging study of how, in the two decades following the end of World War II, a growing number of institutions across Latin America sought to foster an audience for arthouse cinema in the face of mass culture and Cold War politics. In an impressive feat of archival recovery, Navitski explores a diverse array of film clubs, cinémathèques, film festivals, and film schools—many modelled on European, especially French, predecessors—that actively shaped the preferences and habits of cinemagoers, transforming them from passive consumers into devoted cinephiles. Interweaving a wealth of historical details and insights, Navitski tells a larger story with deep significance for modernist studies. She shows us how the cultivation of aesthetic taste is intertwined with institutional tensions and conflicts, and how we might address European influence without falling into Eurocentrism. <em>Transatlantic Cinephilia</em> is an essential book for modernist scholars, film historians, and cinephiles worldwide.
+In a meticulous deep dive into a single influential periodical, Adam McKible shows how the <i>Saturday Evening Post</i> circulated anti-Black racism across a vast American readership. Adam McKible uncovers how George Horace Lorimer and his stable of white authors popularized demeaning dialect fiction that justified segregation and violence, even as Black writers of the Harlem Renaissance—from Paul Laurence Dunbar to W. E. B. Du Bois—exposed and countered this project. In lucid prose and sharp archival research, McKible places popular writers alongside Fitzgerald, Faulkner, and Petry to reveal how the <i>Post</i> normalized white supremacy for millions of readers. A bracing, necessary reappraisal of American modernism, mass culture, and the long fight against Jim Crow.
 </p>
 
 <hr />
+
+<!--
 
 <p><strong>Nominating Committee:</strong> Melanie Micir, Washington University (Chair), Robert 
 Stilling, Florida State University, Philip Tsang, Colorado State University</p>
 
 <hr />
 
+-->
 
  <h1>About</h1>
 <p>Each year, the Modernist Studies Association seeks nominations for
@@ -101,7 +110,7 @@ Stilling, Florida State University, Philip Tsang, Colorado State University</p>
 	exclusion applies even if a new edition (paperback or revised, for
 	example) was published in the award year.<br />
 <p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2025 to recommend a book(                              published in 2024). Visit our <a href="/prizes/archive.html"
+	in Spring 2026 to recommend a book(published in 2025). Visit our <a href="/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 	
 	

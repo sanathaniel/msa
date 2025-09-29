@@ -14,11 +14,32 @@ sidebar:
 	finalists below. The winner will be announced at the MSA conference
 	this fall.
 </p>
--->
+
 	
 <h1>2024 Book Prize Shortlist: Translation</h1>
 
+-->
+
+
+
+<h1>About</h1>
+<p>Every other year, the Modernist Studies Association seeks nominations for
+	its Translation Prize, awarded to a book published in the
+	previous two years. A panel of judges determines the book that made the
+	most significant contribution to modernist studies.<br />
+<p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
+	in Spring 2026 to recommend a book(published in 2024 or 2025). Visit our <a href="/prizes/archive.html"
+		>Archive</a> to see previous winners.</p>
+		
+<!--
+<p>The Modernist Studies Association has announced its short list for
+	the 2023 MSA Book Prize for an Edition, Anthology, or Essay
+	Collection published in 2021 or 2022. We offer our congratulations
+	to all of the finalists. This prize is awarded every other year.</p>
+	
 <!-- FIRST NOMINEE -->
+
+<!--
 
 <p>
 	<img src="https://images.squarespace-cdn.com/content/v1/5490c4c7e4b0518046d7a6c3/1671044953924-QH60QZNY0CRR5ONA06L9/A+Book+Untitled+Cover.png?format=500w"
@@ -32,7 +53,11 @@ Cachoian-Schanz</a> (AWST Press, 2023)</p></strong>
 Written as a literary experiment, <em>A Book, Untitled</em> puts Armenian modernist writers in a world beyond their native literary landscape, populated by such contemporaries as Marina Tsvetaeva, Gertrude Stein, and Virginia Woolf. As the reader navigates 26.5 chapters of seemingly unrelated vignettes in disparate and unidentified voices, they discover that Avagyan, while writing the novel as a translator’s diary, is also mapping out a larger archival or archaeological site: an imagined encounter between two literary giants of the twentieth century, Shushanik Kurghinian and Zabel Yesayan, whose legacies had been censored by the Tsarist and Stalinist regimes. The imagined encounter between these two authors in 1926 is juxtaposed with a contemporary conversation between the novel’s unnamed narrator—an archivist and translator referred to as the “typist/writer”—and her friend Lara, who are both piecing together their feminist predecessors' fragmented stories.
 </p>
 
+-->
+
 <!-- SECOND NOMINEE -->
+
+<!--
 
 <p>
 	<img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674271012.png?fm=jpg&q=80&fit=max&w=600"
@@ -46,9 +71,11 @@ translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p></s
 Presented for the first time in English, the recently discovered early manuscripts of the twentieth century’s most towering literary figure offer uncanny glimpses of his emerging genius and the creation of his masterpiece. One of the most significant literary events of the century, the discovery of manuscript pages containing early drafts of Marcel Proust’s <em>In Search of Lost Time</em> put an end to a decades-long search for the Proustian grail. The Paris publisher Bernard de Fallois claimed to have viewed the folios, but doubts about their existence emerged when none appeared in the Proust manuscripts bequeathed to the Bibliothèque Nationale in 1962. The texts had in fact been hidden among Fallois’s private papers, where they were found upon his death in 2018. <em>The Seventy-Five Folios and Other Unpublished Manuscripts</em> presents these folios here for the first time in English, along with seventeen other brief unpublished texts. Extensive commentary and notes by the Proust scholar Nathalie Mauriac Dyer offer insightful critical analysis.
 </p>
 
-
+-->
 
 <!-- THIRD NOMINEE -->
+
+<!--
 
 <p>
 	<img src="https://northwest-press-us.imgix.net/covers/9780810144392.jpg?auto=format&w=298&dpr=1&q=20"
@@ -63,7 +90,11 @@ Press, 2022)</p></strong>
 The translation of Fradl Shtok’s From the <em>Jewish Provinces</em> revives a nearly forgotten collection of Yiddish modernist masterpieces. Shtok’s collection of short stories represents one of the only known volumes of Yiddish modernist short fiction authored by a woman. In sophisticated prose, the stories describe the travails of young women looking for love and desire in a world that spurns them. These young Jewish women struggle with disabled bodies, sexual violence, and unwanted marriage. Some strive to imagine themselves as artists, while others lose themselves in fantasy worlds or look with desperate longing at the non-Jewish men that surround them. Through deft portraits of her characters’ inner worlds Shtok gives us access to unglimpsed corners of the Jewish imagination. The translation intervenes in the literary history of Yiddish prose to show women’s active participation in modernist experimentation.
 </p>
 
+-->
+
 <!-- FOURTH NOMINEE -->
+
+<!--
 
 <p>
 	<img src="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg"
@@ -85,21 +116,9 @@ Hopkins University</p>
 
 <hr />
 
-
-<h1>About</h1>
-<p>Every other year, the Modernist Studies Association seeks nominations for
-	its Translation Prize, awarded to a book published in the
-	previous two years. A panel of judges determines the book that made the
-	most significant contribution to modernist studies.<br />
-<p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2026 to recommend a book(published in 2024 or 2025). Visit our <a href="/prizes/archive.html"
-		>Archive</a> to see previous winners.</p>
-		
-<!--
-<p>The Modernist Studies Association has announced its short list for
-	the 2023 MSA Book Prize for an Edition, Anthology, or Essay
-	Collection published in 2021 or 2022. We offer our congratulations
-	to all of the finalists. This prize is awarded every other year.</p>
+-->	
+	
+	
 <!-- FIRST NOMINEE -->
 <!--
 <div>
