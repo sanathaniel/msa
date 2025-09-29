@@ -21,58 +21,70 @@ sidebar:
 <!-- FIRST NOMINEE -->
 
 <p>
-	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/82/9780226829258.jpg/jcr:content/9780226829258.jpg"
+	<img src="https://cup-us.imgix.net/covers/9780231559546.jpg?auto=format&w=350"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>CO-WINNER: Pardis Dabashi, <a href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo206924764.html">Losing the Plot: Film and Feeling in the Modern Novel</a> 
-(University of Chicago Press, 2023)</p></strong>
+<strong><p>Helton<a href="https://cup.columbia.edu/book/scattered-and-fugitive-things/9780231559546/">Scattered and Fugitive Things: How Black Collectors Created Archives and Remade History</a> (Columbia University Press, 2024)</p></strong>
 
 <p>
-“The classical Hollywood movie tells us what to fantasize about,” writes Pardis Dabashi. “What if modernists did not overcome this danger entirely?” With its dazzlingly original and sophisticated analyses of both novels and films, <em>Losing the Plot</em> sets a new standard for interdisciplinarity. As modernist novels became more fragmentary and plotless, films became more straightforwardly narrative – and the comforting promises of the bourgeois realist plot to which film increasingly cleaves in the early twentieth century, Dabashi argues, become “an object of complicated longing: for both modernist novelists and their characters. They long for the “structures of consequence” that they sense “would deliver them from the groundlessness of paratactical experience.” With effortless, clear-eyed aplomb, this book shakes apart what one thinks one knows about modernist film, the modernist novel, and even the very nuts and bolts of plot.
+Arguing that the practice of Black archiving was “intimately bound up with the possibilities of Black being”, <i>Scattered and Fugitive Things</i> is a crucial reminder that historical collections do not merely catalogue and document the past but profoundly shape our futures. Through six collections and the Black bibliophiles, librarians, curators, and archivists, who built, cared, and advocated for them, Helton narrates a compelling new intellectual history of early twentieth century America, revealing collecting as a radical act of community building, creative flourishing, and political defiance. An astounding work of archival research itself, and beautifully written—this book reminds us why we love books. 
+</p>
+
+
+<p>
+	<img src="https://sunypress.edu/var/site/storage/images/books/e/emporialism/9781438499475_cover/7864177-1-eng-CA/9781438499475_cover1_rb_fullcover.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Amr Kamal<a href="https://sunypress.edu/Books/E/Emporialism#:~:text=This%20book%20examines%20what%20Amr%20Kamal%20calls%20the,divided%20among%20the%20British%2C%20French%2C%20and%20Ottoman%20empires.</a> 
+SUNY Press, 2024)</p></strong>
+
+<p>
+With breathtaking geographical reach, critical acuity, and archival rigor, <i>Emporialism</i> studies how the department store from the period of late imperialism to decolonization (1850-1960) was not simply a site of modern mass consumption, but also–or rather, therefore–a key nexus for the cultural articulation of the political and social ideologies undergirding colonial expansionism, national self-fashioning, and Orientalist fantasy. With crystal analytic clarity and wide-ranging authority, the book focuses on the politically imbricated cases of France and Egypt and works across a vast array of primary texts including fictional and nonfictional literature, caricatures, catalogues, and advertisements. In the process, it reveals how the spaces of and practices within and around the department store in late-nineteenth and early-twentieth-century Egypt and France force us to rethink the processes and sites through which notions of race, ethnicity, class consciousness, and the very claim to modernity get prescribed, expressed, and circulated. 
+</p>
+
+<p>
+	<img src="https://www.psupress.org/books/titles/978-0-271-09716-9.html"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Kristopher W. Kersey<a href="https://www.psupress.org/images/covers/294wide/978-0-271-09716-9md_294.jpg">Facing Images: Medieval Japanese Art and the Problem of Modernity</a> (Penn State UP, 2024)</p></strong>
+
+<p>
+With vertiginous subtlety and piercing perspicuity, <i>Facing</i> Images shows that premodern Japanese art is a crucial corpus in the ongoing process through which the discipline and practice of art history attempts to decenter the hegemonic assumptions, methods, and archives of Euro-America. Kersey’s exquisite readings of visual and textual artifacts--ranging from twelfth-century Japan, to turn-of-the-century Vienna, to the sculpture garden at the Museum of Modern Art–reveal that the history of Japanese art constitutively undermines categories inherited from the Euro-American art historical discipline–such as “non-Western,” “modern,” and “premodern”--and instead demands a method based in unrelenting erudition and extraordinary intellectual flexibility. Those fatigued, if not disappointed, by the shortcomings of the so-called global turn in modernist studies would do well to flock to this gorgeously written, brilliant book for how it challenges us, by example, to rise to the occasion of thinking beyond provincial notions of modernness and modernity, not just geographically but also temporally. 
+</p>
+
+
+<p>
+	<img src="https://www.sup.org/_next/image?url=https%3A%2F%2Fsupress.sites-pro.stanford.edu%2Fsites%2Fsupress%2Ffiles%2Fmedia%2Fcovers%2F32612.jpg&w=640&q=75"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Sonali Thakkar<a href="https://www.sup.org/books/literary-studies-and-literature/reeducation-race">, The Reeducation of Race:Jewishness and the Politics of Antiracism in Postcolonial Thought</a> 
+(Stanford University Press, 2023)</p></strong>
+
+<p>
+Sonali Thakkar’s <i>The Reeducation of Race</i> is a sharp, elegantly argued book that moves with precision between the institutional ambitions of UNESCO and the insurgent critiques of anticolonial thinkers. From the bureaucratic optimism of postwar “race education” campaigns to the searing indictments of Frantz Fanon and Aimé Césaire, Thakkar charts a terrain where liberal antiracism and colonial power uneasily coexist. Her argument is as unsettling as it is illuminating: the very pedagogies meant to dismantle racism often reinscribe its logics under the banner of universalism. Drawing on a rich archive of sources and a contrapuntal methodology, Thakkar reframes modernist studies as a global, decolonial project that refuses to smooth over the fractures of race, empire, and solidarity. The result is a book that offers a bold reckoning with the compromises embedded in the history of antiracist education.
 </p>
 
 <!-- SECOND NOMINEE -->
 
 
-<p>
-	<img src="https://yale-press-us.imgix.net/covers/9781913107369.jpg?auto=format&w=298&dpr=1&q=100"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>CO-WINNER: Kirsty Sinclar Dootson, <a href="https://yalebooks.yale.edu/book/9781913107369/the-rainbows-gravity/">The Rainbow’s Gravity: Colour, Materiality and 
-British Modernity</a> (Yale University Press/Paul Mellon Centre, 2023)</p></strong>
-
-<p>
-In remarkably vivid and clear prose, Dootson’s <em>The Rainbow’s Gravity</em> mines the messiness of color in British visual culture, starting with the synthesis of mauve from coal-tar in 1856. Zeroing in on case studies in five mediums (painting, print, photography, film, and television) across a “chromatic century,” Dootson reveals the significance of color’s materiality–and its critical, ideological, and political weight. Wide-ranging yet rich in compelling close readings, <em>The Rainbow’s Gravity</em> unfurls the mutual imbrications of empire, modernization, and color technology. A powerful reminder that, even in our increasingly digital world, “the meaning of color is inseparable from its making,” this book parses color’s protean associations without reducing its strangeness.
-</p>
 
 <!-- THIRD NOMINEE -->
 
+
+
 <p>
-	<img src="https://global.oup.com/academic/covers/pdp/9780197680919"
+	<img src="https://cup-us.imgix.net/covers/9780231560399.jpg?auto=format&w=350"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Elizabeth Sarah Coles, <a href="https://global.oup.com/academic/product/anne-carson-9780197680919?cc=us&lang=en&">Anne Carson: The Glass Essayist (Oxford University</a> 
-Press, 2023)</p></strong>
+<strong><p>Cate I. Reilly<a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/</a> (Columbia University Press, 2024)</p></strong>
 
 <p>
-<em>Anne Carson: The Glass Essayist</em> is a rare achievement. Elizabeth Sarah Coles brings to Carson’s corpus a level of attention and imagination every bit as exacting and dynamic as Carson’s own. At once a dizzying examination of Carson’s formal methods and a timely meditation on the possibilities of close reading, <em>Anne Carson: The Glass Essayist</em> provides a moving tribute to what Coles terms the “unsanctioned emotional life of scholarship.” <em>The Glass Essayist</em>, like Carson’s work, offers abundant reminders that reading has its own voltage, opening a path to other modes of criticism – “transparent, prismatic, contourless, speculative, imitative, or mirroring” – ways of writing and thinking attuned to those special moments when “the unforeseen shows up in the mind.”          
-</p>
-
-
-
-<p>
-	<img src="https://global.oup.com/academic/covers/pdp/9780192867506"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>Morgan Day Frank, <a href="https://global.oup.com/academic/product/schools-of-fiction-9780192867506?cc=us&lang=en&">Schools of Fiction: Literature and the Making of the 
-American Educational System</a> (Oxford University Press, 2023)</p></strong>
-
-<p>
-Morgan Day Frank’s witty and delightful book moves deftly between the small and the vertiginously large: from “the school’s evolving role in public life over the last two centuries,” to the phenomenology of a sausage. Day Frank investigates how a host of authors contrasted the excitement of “real life” to the boredom of education, and conversely how educational texts disparaged the study of literature; he suggests – surprisingly and convincingly – that this seeming antagonism was actually symbiosis. Literary culture and formal education, he argues, expressed hostility toward one another, in order for each to claim a greater role in US life. <em>Schools of Fiction</em> goes on to claim that the institutionalization of literature in the classroom “allowed the school system to neutralize public concerns about the relevance of formal education and establish itself as part of American life.” The scope of authors – Charles Chesnutt, Gertrude Stein, Henry James, Frank Norris, Upton Sinclair, and so many more – is impressively wide without feeling diffuse, and the conclusions make compelling reading for anyone anxious about the future of the contemporary university.
+A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Empire</i> reimagines the entangled histories of modernist literature and the clinical state. Refusing to treat psychiatry’s rise as a mere backdrop, Reilly traces how writers across Central and Eastern Europe engaged—critically and creatively—with the diagnostic frameworks of Kraepelin and the emerging sciences of mind and brain. Through a deft fusion of literary analysis, history of science, and political critique, Reilly reveals how modernist texts do not simply reflect psychiatric paradigms but actively destabilize them, staging consciousness as a site of resistance and reinvention. Boldly interdisciplinary and elegantly composed, <i>Psychic Empire</i> invites us to reconsider the aesthetic and political stakes of literature’s encounter with clinical reason. This dazzling book offers a vision of modernism that is both shaped by and subversive of the psychic architectures of empire.
 </p>
 
 <!-- FOURTH NOMINEE -->
@@ -80,38 +92,8 @@ Morgan Day Frank’s witty and delightful book moves deftly between the small an
 
 <!-- FIFTH NOMINEE -->
 
-<p>
-	<img src="https://cup-us.imgix.net/covers/9780231208895.jpg?auto=format&w=350"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
-<p> 
-
-<strong><p>Imani D. Owens, <a href="https://cup.columbia.edu/book/turn-the-world-upside-down/9780231208895">Turn the World Upside Down: Empire and Unruly Forms of 
-Black Folk Culture in the U.S. and Caribbean</a> (Columbia University Press, 
-2023)</p></strong>
-
-<p>
-An innovative, richly detailed and relentlessly nuanced work, <em>Turn the World Upside Down</em> explores the risk and reinvention involved in the use folk traditions across Black diasporic modernism. Refusing to dismiss such experiments as nostalgic expressions of racial or cultural authenticity, Imani D. Owens reveals how writers and performers across the Black diaspora discovered and self-consciously performed “new epistemologies of blackness” through folk-inspired forms of artistic upheaval and rupture. Elegantly written and rigorously comparative, <em>Turn the World Upside Down</em> is a work of inspiring archival scope, reminding us just how frequently gestures of indeterminacy, failure, interruption and refusal accompany the performance of folk cultural forms, opening up not fictions of identity but a “dynamic space in which blackness can move.”
-</p>
 
 <!-- SIXTH NOMINEE -->
-
-<p>
-	<img src="https://fordhampress-us.imgix.net/covers/9781531503185.jpg?auto=format&w=298"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>Ameeth Vijay, <a href="https://www.fordhampress.com/9781531503185/topothesia/">Topothesia: Planning, Colonialism, and Places in Excess</a> 
-(Fordham University Press, 2023)		</p></strong>							
-
-<p>
-Traversing expansive chronological and spatial terrains, from the garden city movement in the British Empire to development in the Brexit era, Vijay’s <em>Topothesia</em> creatively bridges the domains of literature and urban planning. This ambitious and provocative study argues that urban planning is a form of “speculative fiction… compelled to produce elaborate fantasies of future places.” With the literary device of topothesia, or the vivid description of an imaginary place, as its theoretical anchor, the book reveals how city planning leveraged literary aesthetics to manage and discipline people and spaces perceived as “in excess” of proper modernity – and how new counter-imaginaries emerged, in turn. 
-</p>
-
-<hr />
-							
-<p><strong>Nominating Committee:</strong> Aglaya Glebova, University of California, Berkeley 
-(Co-chair), Noreen Masud, University of Bristol (Co-chair), Jonathan Foltz, 
-Boston University	</p>						
 
 <hr />
 
@@ -124,6 +106,6 @@ Boston University	</p>
 	exclusion applies even if a new edition (paperback or revised, for
 	example) was published in the award year.<br />
 <p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2025 to recommend a book(                              published in 2024). Visit our <a href="/prizes/archive.html"
+	in Spring 2026 to recommend a book(published in 2025). Visit our <a href="/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 <!-- #EndEditable -->
