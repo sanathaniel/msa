@@ -45,11 +45,11 @@ A brilliant introduction for the English-speaking world to factography, a 1920s 
 
 
 <p>
-	<img src="https://cup.columbia.edu/book/death-by-laughter/9780231213295/"
+	<img src="https://cup-us.imgix.net/covers/9780231213295.jpg?auto=format&w=350"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Maggie Hennefeld, <a href="https://cup-us.imgix.net/covers/9780231213295.jpg?auto=format&w=350">Death by Laughter: Female Hysteria and Early Cinema</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>Maggie Hennefeld, <a href="https://cup.columbia.edu/book/death-by-laughter/9780231213295/">Death by Laughter: Female Hysteria and Early Cinema</a> (Columbia University Press, 2024)</p></strong>
 
 <p>
 A study of the late 19th-/early 20th-century archive of hysterical laughter, Maggie Hennefeld’s <i>Death by Laughter</i> weaves together film history, cultural theory and criticism, political critique, and the history of psychotherapy and medical theater. It is a brilliant work of scholarship that is as intellectually rich as it is stylistically sharp—and genuinely funny. Its engagement with gendered and racialized bodies in media and medical history is timely and profound, challenging its readers to reconsider comedy’s affective power and its ethical/political stakes. Hennefeld’s archival work; theoretical insights; as well as her pleasurable curation of cinematic texts and images make <i>Death by Laughter</i> a landmark contribution to feminist film studies. It is a triumph: an impossible-to-put-down account of the politics of humor and the subversive, “madusanal” potential of cinematic excess.
