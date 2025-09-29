@@ -55,6 +55,19 @@ With vertiginous subtlety and piercing perspicuity, <i>Facing</i> Images shows t
 </p>
 
 
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231560399.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Cate I. Reilly, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Psychic Empire: Literary Modernism and the Clinical State</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Empire</i> reimagines the entangled histories of modernist literature and the clinical state. Refusing to treat psychiatry’s rise as a mere backdrop, Reilly traces how writers across Central and Eastern Europe engaged—critically and creatively—with the diagnostic frameworks of Kraepelin and the emerging sciences of mind and brain. Through a deft fusion of literary analysis, history of science, and political critique, Reilly reveals how modernist texts do not simply reflect psychiatric paradigms but actively destabilize them, staging consciousness as a site of resistance and reinvention. Boldly interdisciplinary and elegantly composed, <i>Psychic Empire</i> invites us to reconsider the aesthetic and political stakes of literature’s encounter with clinical reason. This dazzling book offers a vision of modernism that is both shaped by and subversive of the psychic architectures of empire.
+</p>
+
+
 <p>
 	<img src="https://www.sup.org/_next/image?url=https%3A%2F%2Fsupress.sites-pro.stanford.edu%2Fsites%2Fsupress%2Ffiles%2Fmedia%2Fcovers%2F32612.jpg&w=640&q=75"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
@@ -73,18 +86,6 @@ Sonali Thakkar’s <i>The Reeducation of Race</i> is a sharp, elegantly argued b
 
 <!-- THIRD NOMINEE -->
 
-
-
-<p>
-	<img src="https://cup-us.imgix.net/covers/9780231560399.jpg?auto=format&w=350"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
-<p> 
-
-<strong><p>Cate I. Reilly, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Psychic Empire: Literary Modernism and the Clinical State</a> (Columbia University Press, 2024)</p></strong>
-
-<p>
-A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Empire</i> reimagines the entangled histories of modernist literature and the clinical state. Refusing to treat psychiatry’s rise as a mere backdrop, Reilly traces how writers across Central and Eastern Europe engaged—critically and creatively—with the diagnostic frameworks of Kraepelin and the emerging sciences of mind and brain. Through a deft fusion of literary analysis, history of science, and political critique, Reilly reveals how modernist texts do not simply reflect psychiatric paradigms but actively destabilize them, staging consciousness as a site of resistance and reinvention. Boldly interdisciplinary and elegantly composed, <i>Psychic Empire</i> invites us to reconsider the aesthetic and political stakes of literature’s encounter with clinical reason. This dazzling book offers a vision of modernism that is both shaped by and subversive of the psychic architectures of empire.
-</p>
 
 <!-- FOURTH NOMINEE -->
 
