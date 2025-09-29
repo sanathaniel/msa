@@ -13,7 +13,7 @@ sidebar:
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Idurre Alonso (ed.), Alfredo Boulton: Looking at Venezuela, 1928–1978 (Getty Research Institute, 2023).</p></strong>
+<strong><p>Idurre Alonso (ed.), <a href="https://shop.getty.edu/products/alfredo-boulton-looking-at-venezuela-1928-ai1978?srsltid=AfmBOop9kl069wOO7-VGBG2S4o9ZvRuUcJYgc8RPa3cAFm0-Wxo2jrq5">Alfredo Boulton: Looking at Venezuela, 1928–1978</a> (Getty Research Institute, 2023).</p></strong>
 
 <p>This luxuriously beautiful volume introduces the modernist Venezuelan photographer Alfredo Boulton to an international audience. Almost unknown outside of his country, Boulton (1908–1995) was a champion of modern art and the modernization of Venezuela who worked tirelessly to raise the profile of the Venezuelan arts at home and abroad. His photographic work, now housed in the Getty Archive, is an experiment in hybrid modernism. Applying a modernist aesthetic to an indigenous point of view, Boulton uses the camera to document the landscape, people, and customs of Venezuela to create ‘a foundational allegory of [his] homeland’ (p. 139).  The editor Idurre Alonso skilfully places Boulton’s captivating photographs in the context of eleven specially commissioned essays exploring a rich range of biographical, critical, and art historical topics that illuminate his work and his connections with his contemporaries.</p>
 
@@ -22,7 +22,7 @@ sidebar:
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Ulka Anjaria and Anjali Nerlekar (eds), The Oxford Handbook of Modern Indian Literatures (Oxford University Press, 2024).</p></strong>
+<strong><p>Ulka Anjaria and Anjali Nerlekar (eds), <a href="https://academic.oup.com/edited-volume/45647">The Oxford Handbook of Modern Indian Literatures</a> (Oxford University Press, 2024).</p></strong>
 
 <p>The Oxford Handbook of Modern Indian Literatures is a magisterially comprehensive and expertly edited compendium on its subject. With its eye trained on non-Anglophone Indian writing, this volume opens our eye to the wonderfully rich and varied literature that exists outside the canon of Anglophone postcolonial writing that is most familiar to the Global North. The chapters traverse the entire length and breadth of the country’s geo-cultural territory, highlighting the immense vibrancy and diversity of its languages and literatures, as India transitioned from its colonized space into a modern independent nation. In doing so, the contributors chart how within its excessive and often contradictory heterogeneity, India’s confrontation and engagement with modernity, and literary modernism, unfolds in sustaining and disruptive acts of invention, counternarrative, multilingualism, linguistic code-switching, social contestation, and memorializing, celebrating and recasting cultural traditions.</p>
 
@@ -31,7 +31,7 @@ sidebar:
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Henry James, The Prefaces, edited by Oliver Herford, Vol. 33 of The Cambridge Edition of the Complete Fiction of Henry James (Cambridge University Press, 2024).</p></strong>
+<strong><p><a href="https://www.cambridge.org/core/books/prefaces/DB4005E34CB61B444619E7C5F132B2F4">Henry James, The Prefaces,</a> edited by Oliver Herford, Vol. 33 of The Cambridge Edition of the Complete Fiction of Henry James (Cambridge University Press, 2024).</p></strong>
 
 <p>As a new volume in the prestigious Cambridge Edition of the Complete Fiction of Henry James, The Prefaces makes an immense contribution to James scholarship, pushing our understanding of the Prefaces that James produced between 1906 and 1909 for his uniform New York Edition to a new level. Under Oliver Herford’s careful editorship, The Prefaces faithfully reproduces the text of the New York Edition and is rigorously annotated. Herford’s Introduction, which sets out the history of their composition, publication and reception in meticulous detail, incorporates a fascinating and learned treatise on the genre of Preface writing in European literature. An extraordinary achievement, Herford’s exemplary work will make this volume the authoritative edition of James’s Prefaces for decades to come. </p>
 
@@ -40,7 +40,7 @@ sidebar:
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Jonathan Najarian (ed.), Comics and Modernism: History, Form, and Culture (University Press of Mississippi, 2024).</p></strong>
+<strong><p>Jonathan Najarian (ed.), <a href="https://www.upress.state.ms.us/Books/C/Comics-and-Modernism">Comics and Modernism: History, Form, and Culture</a> (University Press of Mississippi, 2024).</p></strong>
 
 <p>With Comics and Modernism, Jonathan Narjarian and his contributors enter into largely unexplored territory.  Each chapter adventurously and convincingly showcases an original aspect of the intersection between modernist aesthetics and comics ‘as an essentially modernist form’ (p. 302), limning a plethora of similarities, synergies and mutual influences from graphic concerns to narrative conceits, while further dissolving in orthodox modernist fashion the boundaries between serious and popular culture in the process. This outstanding collection of essays on a new form of popular modernism is bound to become a standard reference for other scholars following in its wake.</p>
 
@@ -49,7 +49,7 @@ sidebar:
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Mark Whalan (ed.), The Cambridge History of American Modernism (Cambridge University Press, 2023).</p></strong>
+<strong><p>Mark Whalan (ed.), <a href="https://www.cambridge.org/core/books/cambridge-history-of-american-modernism/3807673848098B1B08EC7FCBE8B357AF">The Cambridge History of American Modernism</a> (Cambridge University Press, 2023).</p></strong>
 
 <p>Mark Whalan’s lively and compendious volume is a product of the New Modernist Editing in its preoccupation with reorienting the bounds of ‘traditional’ modernist studies towards pluralism, intersectionality, indigeneity, positionality, regionalism, and transnationalism, while giving ample space to queer writers and writers of colour. Seeing modernism as ‘set of relations’ or a ‘constellation’ of ‘cultural engagements with modernity’ (p. 29), as Whalan puts it, the contributions in this volume each in their way explore how the elements of their choice from the great mix of American modernism are bound together, not in a state of homogeny, but more like a grid or circuit board, ‘connecting Paris to Greenwich Village to Nex Mexico’ (p. 71). In chasing these and a multitude of other connections across art, literature, photography, cinema, the media, and anthropology, The Cambridge History of American Modernism is one of the most excellent, fine-grained, and excitingly new treatments to date.</p>
 
