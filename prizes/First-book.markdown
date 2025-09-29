@@ -37,7 +37,7 @@ Arguing that the practice of Black archiving was “intimately bound up with the
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Amr Kamal, <a href="https://sunypress.edu/Books/E/Emporialism">Emporialism: Department Store Fictions and the Politics of the Mediterranean</a> SUNY Press, 2024)</p></strong>
+<strong><p>Amr Kamal, <a href="https://sunypress.edu/Books/E/Emporialism">Emporialism: Department Store Fictions and the Politics of the Mediterranean</a> (SUNY Press, 2024)</p></strong>
 
 <p>
 With breathtaking geographical reach, critical acuity, and archival rigor, <i>Emporialism</i> studies how the department store from the period of late imperialism to decolonization (1850-1960) was not simply a site of modern mass consumption, but also–or rather, therefore–a key nexus for the cultural articulation of the political and social ideologies undergirding colonial expansionism, national self-fashioning, and Orientalist fantasy. With crystal analytic clarity and wide-ranging authority, the book focuses on the politically imbricated cases of France and Egypt and works across a vast array of primary texts including fictional and nonfictional literature, caricatures, catalogues, and advertisements. In the process, it reveals how the spaces of and practices within and around the department store in late-nineteenth and early-twentieth-century Egypt and France force us to rethink the processes and sites through which notions of race, ethnicity, class consciousness, and the very claim to modernity get prescribed, expressed, and circulated. 
@@ -80,7 +80,7 @@ Sonali Thakkar’s <i>The Reeducation of Race</i> is a sharp, elegantly argued b
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Cate I. Reilly, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/"</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>Cate I. Reilly, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Psychic Empire: Literary Modernism and the Clinical State</a> (Columbia University Press, 2024)</p></strong>
 
 <p>
 A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Empire</i> reimagines the entangled histories of modernist literature and the clinical state. Refusing to treat psychiatry’s rise as a mere backdrop, Reilly traces how writers across Central and Eastern Europe engaged—critically and creatively—with the diagnostic frameworks of Kraepelin and the emerging sciences of mind and brain. Through a deft fusion of literary analysis, history of science, and political critique, Reilly reveals how modernist texts do not simply reflect psychiatric paradigms but actively destabilize them, staging consciousness as a site of resistance and reinvention. Boldly interdisciplinary and elegantly composed, <i>Psychic Empire</i> invites us to reconsider the aesthetic and political stakes of literature’s encounter with clinical reason. This dazzling book offers a vision of modernism that is both shaped by and subversive of the psychic architectures of empire.
