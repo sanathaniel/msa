@@ -37,6 +37,15 @@ layout: home
 		</div>	
 
 		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Prize Shortlists</h3>
+				<figcaption  class="archive__item-title">Check out MSA's 2025 Book Prize shortlists, winners to be announced in Boston.</figcaption>
+			<a href="prizes/nominations/" class="btn btn--primary">Celebrate</a>
+		</div>	
+		
+		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
@@ -101,6 +110,8 @@ layout: home
 				<figcaption  class="archive__item-title">Join one of MSA's listservs.</figcaption>
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
+
+<!--
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -111,7 +122,7 @@ layout: home
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 
-<!--
+
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
