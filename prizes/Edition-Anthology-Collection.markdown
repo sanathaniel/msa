@@ -8,6 +8,8 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
+<h1>2025 MSA Shortlist for Editions, Anthologies, or Collections (published in 2023 or 2024)</h1>
+
 <p>
 	<img src="https://www.getty.edu/research/exhibitions_events/exhibitions/alfredo_boulton/images/publication.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
