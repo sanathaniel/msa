@@ -16,7 +16,7 @@ sidebar:
 	this fall.</p>
 -->
 
-<h1>2024 MSA First Book Prize</h1>
+<h1>2025 MSA First Book Prize Shortlist (for books published in 2024)</h1>
 
 <!-- FIRST NOMINEE -->
 

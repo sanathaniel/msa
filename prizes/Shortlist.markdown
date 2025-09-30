@@ -12,7 +12,7 @@ sidebar:
 
 
 							
-<h1>2025 MSA Book Shortlist (for books published in 2024)</h1>
+<h1>2025 MSA Book Prize Shortlist (for books published in 2024)</h1>
 
 <!-- FIRST NOMINEE -->
 
