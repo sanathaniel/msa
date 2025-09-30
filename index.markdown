@@ -41,7 +41,7 @@ layout: home
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Shortlists</h3>
-				<figcaption  class="archive__item-title">Announcing the 2025 Book Prize shortlists, winners announced in Boston.</figcaption>
+				<figcaption  class="archive__item-title">Presenting the 2025 Book Prize shortlists, winners announced in Boston.</figcaption>
 			<a href="prizes/shortlist/" class="btn btn--primary">Celebrate</a>
 		</div>	
 		
