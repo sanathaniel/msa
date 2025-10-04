@@ -1,5 +1,5 @@
 # main links
-
+ 
 conf_nav_26:
   - title: "Loughborough"
     url: /conference/MSA2026/
@@ -34,7 +34,7 @@ conf_nav:
   - title: "Accommodations"
     url: /conference/MSA2025/travel/
   - title: "Program"
-    url: /conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf/
+    url: /conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf
 
 about_nav:
   - title: "About"
