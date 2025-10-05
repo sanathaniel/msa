@@ -31,7 +31,7 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA25 Program</h3>
+				<h3>MSA25: Program</h3>
 				<figcaption  class="archive__item-title">Presenting the MSA25 Program: Welcome to Boston!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Welcome</a>
 		</div>	
@@ -40,7 +40,7 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA 2025</h3>
+				<h3>MSA25: Registration</h3>
 				<figcaption  class="archive__item-title">Register for MSA2025: Infrastructure, in Boston, MA.</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
 		</div>	
