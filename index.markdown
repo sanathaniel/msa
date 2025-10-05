@@ -33,7 +33,7 @@ layout: home
 				</div>
 				<h3>MSA25 Program</h3>
 				<figcaption  class="archive__item-title">Presenting the MSA25 Program: Welcome to Boston!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/program/" class="btn btn--primary">Welcome</a>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Welcome</a>
 		</div>	
 		
 		<div class ="feature__item" style="border:20px;">
