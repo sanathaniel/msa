@@ -26,6 +26,15 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
+	
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA25 Program</h3>
+				<figcaption  class="archive__item-title">Presenting the MSA25 Program: Welcome to Boston!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/program/" class="btn btn--primary">Welcome</a>
+		</div>	
 		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -101,7 +110,9 @@ layout: home
 				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
-		
+
+<!--	
+	
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/switchboard.jpg" min-width="150" min-height="150"/>
@@ -111,7 +122,7 @@ layout: home
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 
-<!--
+
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
