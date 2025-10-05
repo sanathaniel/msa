@@ -21,6 +21,8 @@ conf_nav_26:
 conf_nav:
   - title: "Ⓣ Boston Ⓣ"
     url: /conference/MSA2025/
+  - title: "Program"
+    url: /conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf
   - title: "CFP"
     url: /conference/MSA2025/CFP/
   - title: "Registration"
@@ -33,8 +35,6 @@ conf_nav:
     url: /conference/MSA2025/special-events/
   - title: "Accommodations"
     url: /conference/MSA2025/travel/
-  - title: "Program"
-    url: /conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf
 
 about_nav:
   - title: "About"
