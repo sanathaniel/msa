@@ -37,8 +37,8 @@ footer: false
 <a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/"><img src="https://cache.marriott.com/is/image/marriotts7prod/bosbo-attraction-skyline-0087:Pano-Hor?wid=1920&fit=constrain" style="width:100%"/></a>
 -->
 
-<p>Located in the Back Bay neighborhood near the Charles River, 
-<a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/">the Sheraton Boston hotel</a> is located at 39 Dalton St, Boston, MA 02199. Be sure to <a href="https://www.google.com/maps/place/Sheraton+Boston+Hotel/@42.3460299,-71.0844202,1629m/data=!3m2!1e3!5s0x89e37a102b46c7bd:0x55ad6c3615016275!4m9!3m8!1s0x89e37a1015e7a427:0x3c4bcfbe62b2c7d3!5m2!4m1!1i2!8m2!3d42.3465151!4d-71.0839224!16s%2Fg%2F12vsh9161?entry=ttu&g_ep=EgoyMDI1MTAwNC4wIKXMDSoASAFQAw%3D%3D">explore the many restaurants and tourist destinations</a> in walking distance of Back Bay.</p>
+<p>Located at 39 Dalton St, Boston, MA 02199, in the Back Bay neighborhood near the Charles River, 
+<a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/">the Sheraton Boston hotel</a> offers many <a href="https://www.google.com/maps/place/Sheraton+Boston+Hotel/@42.3460299,-71.0844202,1629m/data=!3m2!1e3!5s0x89e37a102b46c7bd:0x55ad6c3615016275!4m9!3m8!1s0x89e37a1015e7a427:0x3c4bcfbe62b2c7d3!5m2!4m1!1i2!8m2!3d42.3465151!4d-71.0839224!16s%2Fg%2F12vsh9161?entry=ttu&g_ep=EgoyMDI1MTAwNC4wIKXMDSoASAFQAw%3D%3D">restaurants and tourist destinations</a> in walking distance of Back Bay.</p>
 
 <p>The Sheraton will offer MSA 2025 participants discounted rates for all rooms (including doubles, triples, and quadruples for those seeking to share expenses).</p>
 
