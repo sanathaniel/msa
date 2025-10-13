@@ -41,8 +41,8 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA25: Program</h3>
-				<figcaption  class="archive__item-title">Thanks to all who made MSA25 a wonderful gathering!</figcaption>
+				<h3>Thank</h3>
+				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">MSA2025</a>
 		</div>	
 		
@@ -60,7 +60,7 @@ layout: home
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Welcome</h3>
-				<figcaption  class="archive__item-title">Let's welcome the 25/26 MSA Board Members.</figcaption>
+				<figcaption  class="archive__item-title">Let's welcome the 2025-2026 MSA Board Members.</figcaption>
 			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
 		</div>
 
