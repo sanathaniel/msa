@@ -41,9 +41,9 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Thank</h3>
+				<h3>MSA 2025</h3>
 				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">MSA2025</a>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
 		</div>	
 		
 		<div class ="feature__item" style="border:20px;">
