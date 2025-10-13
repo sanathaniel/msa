@@ -11,6 +11,26 @@ sidebar:
 <h1>2025 MSA Shortlist for Editions, Anthologies, or Collections (published in 2023 or 2024)</h1>
 
 <p>
+	<img src="https://assets.cambridge.org/97811070/02685/cover/9781107002685.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>WINNER: <a href="https://www.cambridge.org/core/books/prefaces/DB4005E34CB61B444619E7C5F132B2F4">Henry James, The Prefaces,</a> edited by Oliver Herford, Vol. 33 of The Cambridge Edition of the Complete Fiction of Henry James (Cambridge University Press, 2024).</p></strong>
+
+<p>As a new volume in the prestigious Cambridge Edition of the Complete Fiction of Henry James, The Prefaces makes an immense contribution to James scholarship, pushing our understanding of the Prefaces that James produced between 1906 and 1909 for his uniform New York Edition to a new level. Under Oliver Herford’s careful editorship, The Prefaces faithfully reproduces the text of the New York Edition and is rigorously annotated. Herford’s Introduction, which sets out the history of their composition, publication and reception in meticulous detail, incorporates a fascinating and learned treatise on the genre of Preface writing in European literature. An extraordinary achievement, Herford’s exemplary work will make this volume the authoritative edition of James’s Prefaces for decades to come. </p>
+
+
+<p>
+	<img src="https://oup.silverchair-cdn.com/oup/backfile/content_public/books/58516/book/1/m_9781496849571.jpeg?Expires=1761317013&Signature=q2m5ircOpdycjr0zNfGZ5pMp2ajoS4GpuqmPzu3y7nhhPaDPcnEAfqZ6t5gXxlZILs2nqw5tsj9W4xPXkXX~e~4VHavX6Taz5uVaxxsNGjhNc-CQRdwvze6yFrM0aSUd7pjJs7RRQE~JiHOAv57yXx1MGVVmN6N7f8~gcrvibAbJHDfX1FzSockYdVQy8ak6qzFgQDxsRFUvnPv~IztLqKCQwdWfo~V2NIYtfoTfvTddn2JrnBKEerkK6jp-jvi1Rf2I6HqMbMkqDEsURTk9bJQTOWiizuX0Y9Os4xIDYbd6YWOHSeNP-UHodj0cpW-dnVNUs1bzmy~jgM4aGADmCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>RUNNER UP: Jonathan Najarian (ed.), <a href="https://www.upress.state.ms.us/Books/C/Comics-and-Modernism">Comics and Modernism: History, Form, and Culture</a> (University Press of Mississippi, 2024).</p></strong>
+
+<p>With Comics and Modernism, Jonathan Narjarian and his contributors enter into largely unexplored territory.  Each chapter adventurously and convincingly showcases an original aspect of the intersection between modernist aesthetics and comics ‘as an essentially modernist form’ (p. 302), limning a plethora of similarities, synergies and mutual influences from graphic concerns to narrative conceits, while further dissolving in orthodox modernist fashion the boundaries between serious and popular culture in the process. This outstanding collection of essays on a new form of popular modernism is bound to become a standard reference for other scholars following in its wake.</p>
+
+
+<p>
 	<img src="https://www.getty.edu/research/exhibitions_events/exhibitions/alfredo_boulton/images/publication.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
@@ -28,23 +48,6 @@ sidebar:
 
 <p>The Oxford Handbook of Modern Indian Literatures is a magisterially comprehensive and expertly edited compendium on its subject. With its eye trained on non-Anglophone Indian writing, this volume opens our eye to the wonderfully rich and varied literature that exists outside the canon of Anglophone postcolonial writing that is most familiar to the Global North. The chapters traverse the entire length and breadth of the country’s geo-cultural territory, highlighting the immense vibrancy and diversity of its languages and literatures, as India transitioned from its colonized space into a modern independent nation. In doing so, the contributors chart how within its excessive and often contradictory heterogeneity, India’s confrontation and engagement with modernity, and literary modernism, unfolds in sustaining and disruptive acts of invention, counternarrative, multilingualism, linguistic code-switching, social contestation, and memorializing, celebrating and recasting cultural traditions.</p>
 
-<p>
-	<img src="https://assets.cambridge.org/97811070/02685/cover/9781107002685.jpg"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
-<p> 
-
-<strong><p><a href="https://www.cambridge.org/core/books/prefaces/DB4005E34CB61B444619E7C5F132B2F4">Henry James, The Prefaces,</a> edited by Oliver Herford, Vol. 33 of The Cambridge Edition of the Complete Fiction of Henry James (Cambridge University Press, 2024).</p></strong>
-
-<p>As a new volume in the prestigious Cambridge Edition of the Complete Fiction of Henry James, The Prefaces makes an immense contribution to James scholarship, pushing our understanding of the Prefaces that James produced between 1906 and 1909 for his uniform New York Edition to a new level. Under Oliver Herford’s careful editorship, The Prefaces faithfully reproduces the text of the New York Edition and is rigorously annotated. Herford’s Introduction, which sets out the history of their composition, publication and reception in meticulous detail, incorporates a fascinating and learned treatise on the genre of Preface writing in European literature. An extraordinary achievement, Herford’s exemplary work will make this volume the authoritative edition of James’s Prefaces for decades to come. </p>
-
-<p>
-	<img src="https://oup.silverchair-cdn.com/oup/backfile/content_public/books/58516/book/1/m_9781496849571.jpeg?Expires=1761317013&Signature=q2m5ircOpdycjr0zNfGZ5pMp2ajoS4GpuqmPzu3y7nhhPaDPcnEAfqZ6t5gXxlZILs2nqw5tsj9W4xPXkXX~e~4VHavX6Taz5uVaxxsNGjhNc-CQRdwvze6yFrM0aSUd7pjJs7RRQE~JiHOAv57yXx1MGVVmN6N7f8~gcrvibAbJHDfX1FzSockYdVQy8ak6qzFgQDxsRFUvnPv~IztLqKCQwdWfo~V2NIYtfoTfvTddn2JrnBKEerkK6jp-jvi1Rf2I6HqMbMkqDEsURTk9bJQTOWiizuX0Y9Os4xIDYbd6YWOHSeNP-UHodj0cpW-dnVNUs1bzmy~jgM4aGADmCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>Jonathan Najarian (ed.), <a href="https://www.upress.state.ms.us/Books/C/Comics-and-Modernism">Comics and Modernism: History, Form, and Culture</a> (University Press of Mississippi, 2024).</p></strong>
-
-<p>With Comics and Modernism, Jonathan Narjarian and his contributors enter into largely unexplored territory.  Each chapter adventurously and convincingly showcases an original aspect of the intersection between modernist aesthetics and comics ‘as an essentially modernist form’ (p. 302), limning a plethora of similarities, synergies and mutual influences from graphic concerns to narrative conceits, while further dissolving in orthodox modernist fashion the boundaries between serious and popular culture in the process. This outstanding collection of essays on a new form of popular modernism is bound to become a standard reference for other scholars following in its wake.</p>
 
 <p>
 	<img src="https://assets.cambridge.org/97811087/02515/cover/9781108702515.jpg"

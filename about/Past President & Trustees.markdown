@@ -31,11 +31,40 @@ sidebar:
 <p>Janine Utell (2021-2022)</p>
 <p>Amy Clukey (2022-2023)</p>
 <p>Louise Hornby (2023-2024)</p>
+<p>Octavio González (2024-2025)</p>
 <br />
 <hr />
 <h1>Archive of MSA Executive Committees</h1>
 <hr />
 <br />
+
+
+<h2>MSA Executive Committee 2024-2025</h2>
+<p><b>President</b>: Octavio González, Wellesley College</p>
+<p><b>First Vice President</b>: Melissa Bradshaw, Loyala University Chicago</p>
+<p><b>Second Vice President</b>: Amanda Golden, New York Institute of Technology</p>
+<p><b>Past President</b>: Louise Hornby, UCLA</p>
+<p><b>Chair, Interdisciplinary Studies</b>: Joel Terence Rhone, University of Louisiana</p>
+<p><b>Chair, International Relations</b>: Yasna Bozhkova, Université Paris Nanterre</p>
+<p><b>Chair, Membership &amp; Elections</b>: Karen Weingarten, CUNY Queens College<br />
+<p><b>Chair, Program</b>: Matthew Levay, Idaho State University</p>
+<p><b>Interim Vice-Chair, Program</b>: Robert Volpicelli, Randolph-Macon College</p>
+<p><b>Chair, Finance</b> (Treasurer): Matthew Eatough, CUNY-Baruch College<br />		
+<p><b>Chair, Technology and Infrastructure</b>: Steven Nathaniel, Grand Valley State University</p>
+<p><b>Contingent Faculty Representative</b>: Kate Schnur, CUNY Queens College</p>
+<p><b>Graduate Student Representative</b>: Jessica Masters, University of Sydney</p>
+<p><b>Co-Editors of <em>Modernism/modernity</em></b>: <br />
+	Anjali Nerlekar, Rutgers University<br />	
+	Faye Hammill, University of Glasgow</p>	
+<p><b>Book Review Editors of <em>Modernism/modernity</em></b>: <br/>
+	Stefanie Sobelle, Gettysburg College<br/>	
+	Martin Harries, UC Irvine</p>	
+<p><b>Managing Editors of <em>Modernism/modernity</em></b>: <br />
+	Paisley Conrad, Concordia University<br />
+	Rudrani Gangopadhyay,  Rutgers University</p>
+<hr />
+<br />
+
 <h2>MSA Executive Committee 2023-2024</h2>
 <p><b>President</b>: Louise Hornby, UCLA</p>
 <p><b>First Vice President</b>: Octavio González, Wellesley College</p>
