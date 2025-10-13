@@ -81,7 +81,7 @@ A study of the late 19th-/early 20th-century archive of hysterical laughter, Mag
 
 <p>
 	<img src="https://cup-us.imgix.net/covers/9780231212649.jpg?auto=format&w=350"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
+		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
 <strong><p>Adam McKible, <a href="https://cup.columbia.edu/book/circulating-jim-crow/9780231212649/">Circulating Jim Crow: The Saturday Evening Post and the War Against Black Modernity</a> (Columbia University Press, 2024)</p></strong>

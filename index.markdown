@@ -29,51 +29,42 @@ layout: home
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
+					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2026 CFP</h3>
+				<figcaption  class="archive__item-title">MSA2026 CFP: Weird Modernisms, Loughborough</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/" class="btn btn--primary">Submit</a>
+		</div>	
+
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
 					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA25: Program</h3>
-				<figcaption  class="archive__item-title">Presenting the MSA25 Program: Welcome to Boston!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Welcome</a>
+				<figcaption  class="archive__item-title">Thanks to all who made MSA25 a wonderful gathering!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">MSA2025</a>
 		</div>	
 		
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA25: Registration</h3>
-				<figcaption  class="archive__item-title">Register for MSA2025: Infrastructure, in Boston, MA.</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
-		</div>	
-
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Shortlists</h3>
-				<figcaption  class="archive__item-title">Presenting the 2025 Book Prize shortlists, winners announced in Boston.</figcaption>
+				<figcaption  class="archive__item-title">Presenting the 2025 Book Prize shortlists and winners.</figcaption>
 			<a href="prizes/shortlist/" class="btn btn--primary">Celebrate</a>
 		</div>	
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Welcome</h3>
+				<figcaption  class="archive__item-title">Let's welcome the 25/26 MSA Board Members.</figcaption>
+			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
+		</div>
+
 		
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA 2026 CFP</h3>
-				<figcaption  class="archive__item-title">MSA2026 CFP: Weird Modernisms, Loughborough</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/" class="btn btn--primary">Call</a>
-		</div>	
-
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/sheraton.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Accomodations</h3>
-				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston.</figcaption>
-			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
-		</div>	
-
-
-
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/MSAlogo.png" min-width="150" min-height="150"/>
@@ -111,8 +102,6 @@ layout: home
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 
-<!--	
-	
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/switchboard.jpg" min-width="150" min-height="150"/>
@@ -121,8 +110,27 @@ layout: home
 				<figcaption  class="archive__item-title">Join one of MSA's listservs.</figcaption>
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
+<!--	
+	
 
 
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA25: Registration</h3>
+				<figcaption  class="archive__item-title">Register for MSA2025: Infrastructure, in Boston, MA.</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/registration/" class="btn btn--primary">Register</a>
+		</div>	
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/sheraton.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Accomodations</h3>
+				<figcaption  class="archive__item-title">Reserve a hotel room at the group rate for MSA: Boston.</figcaption>
+			<a href="https://book.passkey.com/event/51019376/owner/250/home" class="btn btn--primary">Book</a>
+		</div>	
 		
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -133,8 +141,6 @@ layout: home
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 
-
-
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
@@ -144,14 +150,7 @@ layout: home
 			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
 		</div>
 		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Board Election</h3>
-				<figcaption  class="archive__item-title">MSA is excited to announce the board election results.</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
-		</div>
+
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
