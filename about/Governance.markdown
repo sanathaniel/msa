@@ -74,7 +74,7 @@ sidebar:
 	<a href="mailto:paisleyconrad@gmail.com">Paisley Conrad</a>,
 	Concordia University<br />
 	
-	<a href="mailto:rg813@scarletmail.rutgers.edu">Rudrani Gangopadhyay</a>,  Rutgers University</p>
+	<a href="mailto:rg813@scarletmail.rutgers.edu">Rudrani Gangopadhyay</a>,  Rutgers University
 	
 	<a href="mailto:jholisz.mm@gmail.com">Joanna Holisz</a><br />
 	
