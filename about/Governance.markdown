@@ -56,24 +56,33 @@ sidebar:
 <p><b>Graduate Student Representative</b>: <a
 		href="mailto:jessica.masters@sydney.edu.au">Jessica Masters</a>, University of Sydney</p>
 		
-<p><b>Co-Editors of <em>Modernism/modernity</em></b>: <br />
+<p><b>Co-Editors of <em><i>Modernism/modernity</i></em></b>: <br />
 
 	<a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>,
 	Rutgers University<br />
 	
 	<a href="mailto:Faye.Hammill@glasgow.ac.uk>">Faye Hammill</a>, University of Glasgow</p>
 	
-<p><b>Book Review Editors of <em>Modernism/modernity</em></b>: <br/>
+<p><b>Book Review Editors of <em><i>Modernism/modernity</i></em></b>: <br/>
 
 	<a href="mailto:ssobelle@gettysburg.edu">Stefanie Sobelle</a>, Gettysburg College<br/>
 	
 	<a href="mailto:martin.harries@uci.edu">Martin Harries</a>, UC Irvine</p>
 	
-<p><b>Managing Editors of <em>Modernism/modernity</em></b>: <br />
+<p><b>Managing Editors of <em><i>Modernism/modernity</i></em></b>: <br />
 
 	<a href="mailto:paisleyconrad@gmail.com">Paisley Conrad</a>,
 	Concordia University<br />
 	
 	<a href="mailto:rg813@scarletmail.rutgers.edu">Rudrani Gangopadhyay</a>,  Rutgers University</p>
+	
+	<a href="mailto:jholisz.mm@gmail.com">Joanna Holisz</a><br />
+	
+	<a href="mailto:eborst.mm@gmail.com">Emily Borst</a></p>	
+	
+<p><b>Digital Editor of <em><i>Modernism/modernity</i> Print Plus</em></b>: <br />
+
+	<a href="mailto:hweihl.5@gmail.com">Harrington Weihl</a>,
+	Northwestern University<br />
 	
 <!-- #EndEditable -->
