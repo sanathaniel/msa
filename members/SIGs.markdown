@@ -38,7 +38,8 @@ The advent of cinema coincided with the rise of modernism in the arts; yet the f
 
 
 <h2>INTERSECTIONAL FEMINIST AND QUEER PRAXIS</h2>
-Jennifer Mitchell, <a href="mailto:mitchelj@union.edu">mitchelj@union.edu</a>
+Liz Blake, <a href="mailto:EBlake@clarku.edu">mitchelj@union.edu</a>
+Kate Schnur,  <a href="mailto:kate.schnur@qc.cuny.edu">mitchelj@union.edu</a>
 
 The history of feminist studies in the academy parallels its evolution in modernist studies: the early feminist challenges to the male-dominated canon, the labors of recovery and recuperation, the revision of common narratives through postcolonial approaches, and, the rise of intersectional frameworks for understanding modernism in its most rich complexities. MSA’s new Feminist Special Interest Group (SIG) is dedicated to illuminating the feminist projects within new modernist studies, supporting feminist networks, and advocating for a more feminist MSA. 
 
