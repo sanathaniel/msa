@@ -30,8 +30,10 @@ Molly Volanth Hall, Rhode Island School of Design (<a href="mailto:mhall04@risd.
 The Modernism & Environment Special Interest Group (SIG) is a community of scholars from diverse places and positionalities coming together to foster conversation between the environmental humanities and the study of modernism and modernity, broadly defined. We organize online events throughout the year where emerging and established scholars can share ideas and inspiration on environmental modernist scholarship, pedagogy, or praxis. These include twice-weekly writing-in-community sessions, a monthly works-in-progress workshop, an online reading group that meets four times per year, and in-person conference programming such as this year’s Climate Crisis and Modernist Praxis Workshop and New Voices Roundtable. Our SIG also houses a sustainability committee that works on ways to help make MSA’s operations more sustainable and environmentally just. To learn more or sign up for our listserv, visit <a href="https://sites.google.com/risd.edu/modernism-and-environment/home">our website</a>.
 
 <h2>FILM STUDIES</h2>
-John Hoffmann, Chapman University (<a href="mailto:johoffmann@chapman.edu">johoffmann@chapman.edu</a>)
-Hayley O'Malley, Rice University (<a href="mailto:homalley@rice.edu">homalley@rice.edu</a>) 
+
+Aurore Spiers, Texas A&M (<a href="mailto:aspiers@tamu.edu">aspiers@tamu.edu</a>)
+Jordan Brower, University of Kentucky (<a href="mailto:jordan.brower@uky.edu">jordan.brower@uky.edu</a>)
+John Hoffmann, Chapman University (<a href="mailto:johoffmann@chapman.edu">johoffmann@chapman.edu</a>) 
 
 The advent of cinema coincided with the rise of modernism in the arts; yet the fields of film studies and modernist studies have generated their own genealogies of the modern grounded in different, sometimes conflicting theoretical and historical traditions. Building on this interdisciplinary foundation, the Film Studies Special Interest Group explores the history and theory of cinema through its interconnections with other media while remaining anchored in the aesthetics of moving images and the generic specificity of film art. To learn more about the group, please <a href="https://sites.google.com/view/film-studies-sig-at-the-msa/start">visit the website</a> or contact msafilmstudiessig@gmail.com. 
 
