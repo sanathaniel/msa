@@ -31,8 +31,8 @@ The Modernism & Environment Special Interest Group (SIG) is a community of schol
 
 <h2>FILM STUDIES</h2>
 
-Aurore Spiers, Texas A&M (<a href="mailto:aspiers@tamu.edu">aspiers@tamu.edu</a>)
-Jordan Brower, University of Kentucky (<a href="mailto:jordan.brower@uky.edu">jordan.brower@uky.edu</a>)
+Aurore Spiers, Texas A&M (<a href="mailto:aspiers@tamu.edu">aspiers@tamu.edu</a>);
+Jordan Brower, University of Kentucky (<a href="mailto:jordan.brower@uky.edu">jordan.brower@uky.edu</a>);
 John Hoffmann, Chapman University (<a href="mailto:johoffmann@chapman.edu">johoffmann@chapman.edu</a>) 
 
 The advent of cinema coincided with the rise of modernism in the arts; yet the fields of film studies and modernist studies have generated their own genealogies of the modern grounded in different, sometimes conflicting theoretical and historical traditions. Building on this interdisciplinary foundation, the Film Studies Special Interest Group explores the history and theory of cinema through its interconnections with other media while remaining anchored in the aesthetics of moving images and the generic specificity of film art. To learn more about the group, please <a href="https://sites.google.com/view/film-studies-sig-at-the-msa/start">visit the website</a> or contact msafilmstudiessig@gmail.com. 
@@ -40,7 +40,7 @@ The advent of cinema coincided with the rise of modernism in the arts; yet the f
 
 
 <h2>INTERSECTIONAL FEMINIST AND QUEER PRAXIS</h2>
-Liz Blake, <a href="mailto:EBlake@clarku.edu">mitchelj@union.edu</a>
+Liz Blake, <a href="mailto:EBlake@clarku.edu">mitchelj@union.edu</a>;
 Kate Schnur,  <a href="mailto:kate.schnur@qc.cuny.edu">mitchelj@union.edu</a>
 
 The history of feminist studies in the academy parallels its evolution in modernist studies: the early feminist challenges to the male-dominated canon, the labors of recovery and recuperation, the revision of common narratives through postcolonial approaches, and, the rise of intersectional frameworks for understanding modernism in its most rich complexities. MSA’s new Feminist Special Interest Group (SIG) is dedicated to illuminating the feminist projects within new modernist studies, supporting feminist networks, and advocating for a more feminist MSA. 
@@ -49,7 +49,7 @@ This special interest group has, at its core, an intersectional approach to femi
 
 
 <h2>MODERNISM AND PEDAGOGY</h2>
-Laura Hartmann-Villalta, Johns Hopkins University (<a href="mailto:lhartm13@jhu.edu">lhartm13@jhu.edu</a>) 
+Laura Hartmann-Villalta, Johns Hopkins University (<a href="mailto:lhartm13@jhu.edu">lhartm13@jhu.edu</a>); 
 Benjamin Hagen, University of South Dakota (<a href="mailto:benjamin.hagen@usd.edu">benjamin.hagen@usd.edu</a>)
 
 The Mod & Ped SIG of MSA focuses on all aspects of pedagogy-related conversations that overlap with modernist concerns. Generally, these can be categorized as two-fold: teaching-related questions and job application questions that ask about one’s pedagogical practice (teaching statements, etc.). This SIG has attracted a wide array of MSA members and non-members, including full-time and part-time adjuncts and graduate students. We currently have 60+ members on our mailing list. The SIG maintains a <a href="https://drive.google.com/drive/folders/1YaS6ehdQcuaIzmz-d8scazZHarlABCL4">Google Folder</a> where we are collating a bibliography of published modernism & pedagogy materials, a folder of past presentations, and sample job materials, along with a letter establishing the expected acknowledgements and community standards when using other’s materials. 
