@@ -8,7 +8,7 @@ sidebar:
 
 <h2>PURPOSE:</h2>
   
-SIGs are not intended to replace or direct already established formal or informal networking groups within MSA. Rather, SIGs were introduced in order to foster new forms of collaboration, networking, and community; develop structures for horizontal and vertical mentorship; extend discussion and engagement throughout and between conferences; and shape conversations and programming within MSA. SIGs may be formed around areas of scholarly research or identity groups. 
+SIGs are not intended to replace or direct already established formal or informal networking groups within MSA. Rather, SIGs were introduced in order to foster new forms of collaboration, networking, and community; develop structures for horizontal and vertical mentorship; extend discussion and engagement throughout and between conferences; and shape conversations and programming within MSA. SIGs may be formed around areas of scholarly research or identity groups.
 
 <h2>GOALS:</h2>
 
