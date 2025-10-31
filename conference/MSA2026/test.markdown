@@ -41,6 +41,30 @@ function changeImage() {
     let images = document.getElementsByClassName("test");
     for (let i = 0; i < images.length; ++i) {
         images[i].style.opacity = 1;
+    }	
+	
+	*/ numbers images /*
+    let top = 1;
+    let cur = images.length - 1;
+	
+	*/sets Timeout to change image after 3 sec /*
+    setTimeout(changeImage, 3000);			 
+				 
+	async function changeImage() {
+
+        images[cur].style.zIndex = 2
+
+
+
+
+<!--
+		
+				 
+function changeImage() {
+	*/set opacity of images to 1/*
+    let images = document.getElementsByClassName("test");
+    for (let i = 0; i < images.length; ++i) {
+        images[i].style.opacity = 1;
     }
 
     let top = 1;
@@ -87,6 +111,8 @@ function changeImage() {
     </div>
 </body>
 </html>
+
+-->
 
 
 <!--
