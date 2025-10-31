@@ -33,8 +33,6 @@ img {
 "/conference/MSA2026/assets/tarot_hermit.png" 
              class="test" />
         <img src=
-"/conference/MSA2026/assets/tarot_fortune.png" 
-             class="test" />
 
 
 <script>
@@ -47,7 +45,7 @@ function startImageTransition() {
 
     let top = 1;
     let cur = images.length - 1;
-    setInterval(changeImage, 3000);
+    setInterval(changeImage, 2000);
 
     async function changeImage() {
 
