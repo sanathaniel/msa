@@ -27,16 +27,15 @@ img {
     <div id="scroll-image">
         <img src=
 "/conference/MSA2026/assets/tarot_priestess.png" 
-             class="test" />
+             class="test" onclick="changeImage()"/>
         <img src=
 "/conference/MSA2026/assets/tarot_hermit.png" 
              class="test" />
-        <img src=
 
 
 <script>
-                 startImageTransition();
-function startImageTransition() {
+                 changeImage();
+function changeImage() {
     let images = document.getElementsByClassName("test");
     for (let i = 0; i < images.length; ++i) {
         images[i].style.opacity = 1;
@@ -44,7 +43,7 @@ function startImageTransition() {
 
     let top = 1;
     let cur = images.length - 1;
-    setInterval(changeImage, 2000);
+    setInterval(changeImage, 3000);
 
     async function changeImage() {
 
