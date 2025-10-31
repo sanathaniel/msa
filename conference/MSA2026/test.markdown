@@ -23,19 +23,21 @@ img {
     </style>
 </head>
 <body>
-    <h1>GeeksforGeeks</h1>
-    <b>A Computer Science Portal for Geeks</b>
+
+
     <div id="scroll-image">
         <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200318142245/CSS8.png" 
+"/conference/MSA2026/assets/tarot_priestess.png" 
              class="test" />
         <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200318142309/php7.png" 
+"/conference/MSA2026/assets/tarot_hermit.png" 
              class="test" />
         <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200318142254/html9.png" 
+"/conference/MSA2026/assets/tarot_fortune.png" 
              class="test" />
-             <script>
+
+
+<script>
                  startImageTransition();
 function startImageTransition() {
     let images = document.getElementsByClassName("test");
