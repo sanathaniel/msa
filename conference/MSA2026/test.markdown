@@ -1,6 +1,6 @@
 ---
 layout: 26conference-hub
-permalink: /conference/MSA2026/
+permalink: /conference/MSA2026/test/
 masthead: false
 footer: false
 ---
