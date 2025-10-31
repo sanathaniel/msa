@@ -5,24 +5,6 @@ masthead: false
 footer: false
 ---
 
-<html>
-<head>
-    <style>
-        body {
-    text-align: center;
-}
-h1 {
-    color: green;
-        }
-img {
-    position: absolute;
-    left: 400px;
-}
-    </style>
-</head>
-
-<body>
-
 <!--Working! -->
 
 <style>
