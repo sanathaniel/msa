@@ -6,7 +6,6 @@ footer: false
 ---
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
