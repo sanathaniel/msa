@@ -107,23 +107,24 @@ background-color: #a99277;
     
 </style>
  
- 
+<!--
 <div class="container">
   <div class="hiddenimage">
+    <img src="https://steve-p.org/cards/pix/RWSa-T-01.png" class="test" id="top" onclick="fadeOut()">
 	<div class="feature__item-teaser">
 		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
 	</div>
 	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA<p></p></figcaption>
-	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
+	<a href="/conference/MSA2026/CFP/" class="click">CFP</a>
   </div>
-  <img src="https://steve-p.org/cards/pix/RWSa-T-01.png" class="test" id="top" onclick="fadeOut()">
 </div>
+-->
 
-<!--
+
 <img src="https://steve-p.org/cards/pix/RWSa-T-00.png" class="test" id="bottom">
 
 <img src="https://steve-p.org/cards/pix/RWSa-T-01.png" class="test" id="top" onclick="fadeOut()">
--->
+
 
 
 <script>
@@ -139,6 +140,3 @@ function fadeOut() {
 
 </script>    
 
-
-
-</body>
