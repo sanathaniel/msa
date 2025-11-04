@@ -6,363 +6,206 @@ footer: false
 ---
 
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap" rel="stylesheet">
-  <title>Image Disappear Animation</title>
-  <style>
-    @keyframes fadeOut {
-      from {
-        opacity: 1;
-      }
-      to {
-        opacity: 0;
-      }
-    }
  
-	body {
-		background-color: #fffe8b4;
-		font-style: Sansita;
-		color: #41391f;
-		a:link {
-			color: #41391f;
-		}
-		a:visited {
-			color: #41391f;
-		}
-	}
-	  
-    #tarot1 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-	
-	#tarot2 {
-      cursor: pointer;	
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
+<style>
 
-	#tarot3 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 1;
-	  transform: translateZ(0);
-      transition: transform 3s ease;
-      perspective: 500px; /* Required for 3D effects */
-    }
-
-	#tarot4 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-
-	#tarot5 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-
-	#tarot6 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-
-	#tarot7 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-
-	#tarot8 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-
-	#tarot9 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-
-	#tarot10 {
-      cursor: pointer;
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 190px;
-      height: auto;
-	  z-index: 2;
-    }
-	
-	.container {
-		display: inline-block;
-		position: relative;
-		align-content: center;
-		padding: 5px 0px 0px 0px;
-		width: 190px;
-		height: 335px;
-		perspective: 500px; /* Adds depth for 3D transformations */
-	}
-	
-	.hiddenimage {
-	  position: absolute;
-	  top: 0px; /* Adjust position as needed */
-	  left: 0px;
-	  background-color: #b39974;
-	 /*  border:10px inset #b39974; */
-	  text-align: center;
-	  align-content: center;
-	  /* margin: 10px; */
-	  padding: 5px 5px 5px 5px;
-	  width: 180px;
-	  height: 325px;
-	  z-index: 1;
-	  box-shadow: 0px 0px 3px 3px gray;
-	  font-family: "Sansita", sans-serif;
-	  font-weight: 700;
-	  font-style: normal;
-	  line-height: 1.2;
-	  &:hover {
-		  box-shadow: 0px 0px 6px 6px gray;
-		}
-	}
-		
-    .fade-out {
-      animation: fadeOut 2s forwards;
-    }
-	
-	.click {
-		display: inline-block;
-		padding: 2px;
-		border-radius: 2px;
-		text-align: center;
-		font-size: 20px;
-		line-height: 1.25;
-		background-color: #b39974;
-		width: 156px; 
-		border: 2px solid #41391f;"
-		color: #41391f;
-    cursor: pointer;
-	}
-	
-	.click:hover {
-    background-color: #a99277;
-	}
-	
-	.hidtext {
-		position: absolute;
-		width: 90%;
-		top: 15px;
-	}
-	
-	.hidlink {
-		position: absolute;
-		width: 90%;
-		top: 75%;
-		left: 50%;
-		transform: translate(-50%, 0%);
-	}  	
-
-  </style>
-</head>
-
-	
-
-<body>
-
-<h1>
-Weird Modernisms 
-</h1>
-
-<p>Site coming January 2026.
-</p>
-
-<!--
-
-<div class="container">
-  <img id="tarot1" src="assets/empress_full.jpg" alt="Sample Image" onclick="fadeOut1()">
-  <div class="hiddenimage">
-	<div class="feature__item-teaser">
-		<img src="assets/loughborough_logo.jpg" width="100" min-height="50"/>
-	</div>
-	<figcaption  class="archive__item-title" style="font-size: 1rem; font-family: Sansita, cursive; font-weight: 700;">Loughborough University, UK<br>July  1-4, 2026<br>Co-hosted by<br>BAMS and MSA<p></p></figcaption>
-	<a href="conference/MSA2026/CFP/" class="click">CFP</a>
-  </div>
-</div>
+ img {
+    width: 190px;
+ }
  
-<div class="container">
-  <img id="tarot2" src="assets/tarot4.jpg" alt="Sample Image" onclick="fadeOut2()">
-  <div class="hiddenimage">
-	<img src="assets/loughborough.jpg" style="border: 2px solid #464233;">
-	<div class="hidtext">Loughborough University, UK</div>
-	<div class="hidlink">July 1-4, 2026,<br>Co-hosted by<br>BAMS and MSA</div>
-  </div>
-</div>
+ @keyframes fliptop {
+    from { width: 100%; height: 100%;}
+    to { width: 0%; height: 100%;}
+}
+
+@keyframes flipbottom {
+    from { width: 0%; height: 100%;}
+    to { width: 100%; height: 100%;}
+}
+
+
+.flip-top {
+      animation: fliptop 1s forwards;
+    }
+
+.flip-bottom {
+      animation: flipbottom 1s forwards;
+    }
+
+.container {
+	display: block;
+	position: relative;
+	align-content: center;
+	padding: 5px 0px 0px 0px;
+	width: 190px;
+	height: 335px;
+}
+
+.card-content {
+
+
+</style>
 
 <div class="container">
-  <div class="hiddenimage">
-  Hidden Stuff
-  </div>
-  <img id="tarot3" src="assets/tarot5.jpg" alt="Sample Image" onclick="moveZ()">
-</div>
-
-<div class="container">
-  <img id="tarot4" src="assets/tarot6.jpg" alt="Sample Image" onclick="fadeOut4()">
-  <div class="hiddenimage">
-  Hidden Stuff 4
-  </div>
-</div>
-
-<div class="container">
-  <img id="tarot5" src="assets/tarot7.jpg" alt="Sample Image" onclick="fadeOut5()">
-  <div class="hiddenimage">
-  Hidden Stuff 5
-  </div>
-</div>
-
-<div class="container">
-  <img id="tarot6" src="assets/tarot8.jpg" alt="Sample Image" onclick="fadeOut6()">
-  <div class="hiddenimage">
-  Hidden Stuff 6
-  </div>
-</div>
-
-<div class="container">
-  <img id="tarot7" src="assets/tarot9.jpg" alt="Sample Image" onclick="fadeOut7()">
-  <div class="hiddenimage">
-  Hidden Stuff 7
-  </div>
+	<img src="https://steve-p.org/cards/pix/RWSa-T-00.png" id="bottom" style="width:0%">
+	<img src="https://steve-p.org/cards/pix/RWSa-T-01.png" id="top" onclick="fadeOut()">
 </div>
 
 <div class="container">
-  <img id="tarot8" src="assets/tarot10.jpg" alt="Sample Image" onclick="fadeOut8()">
-  <div class="hiddenimage">
-  Hidden Stuff 8
-  </div>
+	<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/">
+    	<img src="https://steve-p.org/cards/pix/RWSa-T-00.png" id="bottom1" style="width:0%">
+    </a>
+	<img src="https://steve-p.org/cards/pix/RWSa-T-01.png" id="top1" onclick="fadeOut1()">
 </div>
 
 <div class="container">
-  <img id="tarot9" src="assets/tarot11.jpg" alt="Sample Image" onclick="fadeOut9()">
-  <div class="hiddenimage">
-  Hidden Stuff 9
-  </div>
+	<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/">
+    		<img src="/conference/MSA2026/assets/content_test.jpg" id="bottom2" style="width:0%">
+    </a>
+	<img src="https://steve-p.org/cards/pix/RWSa-T-01.png" id="top2" onclick="fadeOut2()">
 </div>
 
-
-	
-<!--
-<div linkblock>
-	<img id="tarot10" src="assets/tarot10.jpg" alt="Sample Image" onclick="fadeOut10()">
-	<div class ="feature__item">
-		<div class="feature__item-teaser">
-			<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
-		</div>
-		<h3>Travel Grants</h3>
-		<figcaption  class="archive__item-title">Applications for Travel Grants for MSA '25, Boston are now open.</figcaption>
-		<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-	</div>
-</div>
--->
-	
 <script>
 
-let moved = false;
-function moveZ() {
-  const tarot3 = document.getElementById("tarot3");
-  if (!moved) {
-	tarot3.style.transform = "translateZ(-500px)";
-  } else {
-	tarot3.style.transform = "translateZ(0)";
+function fadeOut() {
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom = document.getElementById('bottom');
+      	bottom.classList.add('flip-bottom'); 
+      }
+    const top = document.getElementById('top');
+    top.classList.add('flip-top');
   }
-  moved = !moved;
-}
-
 
 function fadeOut1() {
-  const tarot1 = document.getElementById('tarot1');
-  tarot1.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom1.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom1 = document.getElementById('bottom1');
+      	bottom1.classList.add('flip-bottom'); 
+      }
+    const top1 = document.getElementById('top1');
+    top1.classList.add('flip-top');
+  }
+  
 function fadeOut2() {
-  const tarot2 = document.getElementById('tarot2');
-  tarot2.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom2.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom2 = document.getElementById('bottom2');
+      	bottom2.classList.add('flip-bottom'); 
+      }
+    const top2 = document.getElementById('top2');
+    top2.classList.add('flip-top');
+  }
+  
 function fadeOut3() {
-  const tarot3 = document.getElementById('tarot3');
-  tarot3.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom3.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom3 = document.getElementById('bottom3');
+      	bottom3.classList.add('flip-bottom'); 
+      }
+    const top3 = document.getElementById('top3');
+    top3.classList.add('flip-top');
+  }
+
 function fadeOut4() {
-  const tarot4 = document.getElementById('tarot4');
-  tarot4.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom4.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom4 = document.getElementById('bottom4');
+      	bottom4.classList.add('flip-bottom'); 
+      }
+    const top4 = document.getElementById('top4');
+    top4.classList.add('flip-top');
+  }
+  
 function fadeOut5() {
-  const tarot5 = document.getElementById('tarot5');
-  tarot5.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom5.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom5 = document.getElementById('bottom5');
+      	bottom5.classList.add('flip-bottom'); 
+      }
+    const top5 = document.getElementById('top5');
+    top5.classList.add('flip-top');
+  }
+  
 function fadeOut6() {
-  const tarot6 = document.getElementById('tarot6');
-  tarot6.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom6.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom6 = document.getElementById('bottom6');
+      	bottom6.classList.add('flip-bottom'); 
+      }
+    const top6 = document.getElementById('top6');
+    top6.classList.add('flip-top');
+  }
+
 function fadeOut7() {
-  const tarot7 = document.getElementById('tarot7');
-  tarot7.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom7.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom7 = document.getElementById('bottom7');
+      	bottom7.classList.add('flip-bottom'); 
+      }
+    const top7 = document.getElementById('top7');
+    top7.classList.add('flip-top');
+  }
+  
 function fadeOut8() {
-  const tarot8 = document.getElementById('tarot8');
-  tarot8.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom8.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom8 = document.getElementById('bottom8');
+      	bottom8.classList.add('flip-bottom'); 
+      }
+    const top8 = document.getElementById('top8');
+    top8.classList.add('flip-top');
+  }
+  
 function fadeOut9() {
-  const tarot9 = document.getElementById('tarot9');
-  tarot9.classList.add('fade-out');
-}
-function fadeOut10() {
-  const tarot10 = document.getElementById('tarot10');
-  tarot10.classList.add('fade-out');
-}
+	setTimeout(disappear, 1000)
+      function disappear(){
+        bottom9.style.zIndex = 2;
+      }   
+    setTimeout(delay, 1000)
+      function delay(){  
+        const bottom9 = document.getElementById('bottom9');
+      	bottom9.classList.add('flip-bottom'); 
+      }
+    const top9 = document.getElementById('top9');
+    top9.classList.add('flip-top');
+  }
 
-</script>
+</script> 
 
-</body>
