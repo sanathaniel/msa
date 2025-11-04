@@ -59,7 +59,7 @@ footer: false
 
 <div class="container">
 	<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/">
-    		<img src="/conference/MSA2026/assets/tarot_plaid.jpg" id="bottom2" style="width:0%">
+    		<img src="/conference/MSA2026/assets/content_test.jpg" id="bottom2" style="width:0%">
     </a>
 	<img src="https://steve-p.org/cards/pix/RWSa-T-01.png" id="top2" onclick="fadeOut2()">
 </div>
