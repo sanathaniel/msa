@@ -178,7 +178,7 @@ function fadeOut7() {
     const top7 = document.getElementById('top7');
     top7.classList.add('flip-top');
   }
-  
+ 
 function fadeOut8() {
 	setTimeout(disappear, 1000)
       function disappear(){
