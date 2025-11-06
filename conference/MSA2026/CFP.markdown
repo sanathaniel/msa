@@ -427,7 +427,7 @@ access, and equality are critical to the strength of our organization and the ef
 	<summary class="CFP-summary">Contact Information</summary>
 		<div class="description">
 <p>Questions about our upcoming conference?</p>
-<u1><li>Contact <a href="mailto:msa2026bams@gmail.com">msa2026bams@gmail.com</a></li></u1>
+<u1><li>Contact <a href="mailto:bamsmsa26@gmail.com">bamsmsa26@gmail.com</a></li></u1>
 <p>
 </p>
 <p>Questions about membership and registration?</p>
