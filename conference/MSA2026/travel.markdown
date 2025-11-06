@@ -38,7 +38,7 @@ Travel coming April 2026.
 
 <!--
 <a target="_blank" href="https://www.thedrakehotel.com/"><img src="https://img.travelpass.com/hotel/5ff55f4/52542938/0/x700" style="width:100%"/></a>
--->
+
 
 <p>Located in the Back Bay neighborhood near the Charles River, 
 <a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/">the Sheraton Boston hotel</a>
@@ -63,7 +63,7 @@ Travel coming April 2026.
 afford to do so to book their accommodations at the conference hotel—your
 efforts will help ensure that the MSA can meet its contractual obligations with
 the Drake.</p>
--->
+
 
 
 <h2><strong>GETTING TO BOSTON</strong></h2>

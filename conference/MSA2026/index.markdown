@@ -63,6 +63,8 @@ footer: false
 	
 </div>
 
+-->
+
 <script>
 
 function fadeOut() {

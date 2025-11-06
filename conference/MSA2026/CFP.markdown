@@ -281,7 +281,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
 </ul>
-<p><a href="https://msa2025.exordo.com/">Click here to submit Panel Proposals</a> by Monday December 1, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Panel Proposals</a> by Monday December 1, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
