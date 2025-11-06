@@ -126,10 +126,6 @@ We expect to walk approximately two miles, <strong>rain or shine</strong>. Meet 
 		</p>
  -->
 
-<p>
-Special events coming September 2025.
-</p>
-
 
 <!--		
         <p>The Modernist Studies Association and the Chicago conference’s

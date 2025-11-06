@@ -156,3 +156,6 @@ process. </p>
 		<p>The MSA is the ideal conference for this workshop, with participants from a wide swath of institutions and a tradition of conversations about teaching. Indeed, close reading is one of the legacies bequeathed by modernism. I am happy to share this book with the conference that I consider my intellectual home. </p>
 	
     </div>
+	
+	
+-->
