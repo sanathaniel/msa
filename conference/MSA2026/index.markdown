@@ -33,17 +33,17 @@ footer: false
     }
 
 .container {
-	display: block;
+	display: inline-block;
 	position: relative;
 	align-content: center;
-	padding: 5px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
 	margin: 5px 5px 5px 5px;
 	width: 190px;
 	height: 335px;
 }
 
 .cards {
-	display: inline-block;
+	width: 100%
 }
 
 
