@@ -33,7 +33,7 @@ footer: false
     }
 
 .container {
-	display: block;
+	display: inline-block;
 	position: relative;
 	align-content: center;
 	padding: 5px 0px 0px 0px;
@@ -43,7 +43,7 @@ footer: false
 }
 
 .cards {
-	display: inline-block;
+	width: 100%;
 }
 
 
