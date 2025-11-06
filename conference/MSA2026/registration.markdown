@@ -1,10 +1,6 @@
 ---
 layout: 26conference
 permalink: /conference/MSA2026/registration/
-sidebar:
-  - title: ""
-    image: conference/MSA2025/assets/subway_logo.jpg
-  - nav: conf_nav_26
 masthead: false
 footer: false
 ---
@@ -22,7 +18,6 @@ footer: false
 </style>
 
 
-<!--
 
 <div class="page__hero--overlay" 
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
@@ -33,6 +28,11 @@ footer: false
 	</div>
 </div>
 
+<p>
+Registration coming May 2026.
+</p>
+
+<!--
 
 <p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
 
