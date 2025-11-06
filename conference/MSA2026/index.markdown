@@ -22,7 +22,7 @@ footer: false
     from { width: 0%; height: 100%;}
     to { width: 100%; height: 100%;}
 }
-
+ 
 
 .flip-top {
       animation: fliptop 1s forwards;
