@@ -14,13 +14,13 @@ footer: false
  }
  
  @keyframes fliptop {
-    from { width: 100%; height: 100%;}
-    to { width: 0%; height: 100%;}
+    from { width: 190px; height: 317px;}
+    to { width: 0px; height: 317px;}
 }
 
 @keyframes flipbottom {
-    from { width: 0%; height: 100%;}
-    to { width: 100%; height: 100%;}
+    from { width: 0px; height: 317px;}
+    to { width: 190px; height: 317px;}
 }
 
 
@@ -32,17 +32,19 @@ footer: false
       animation: flipbottom 1s forwards;
     }
 
+
 .container {
 	display: inline-block;
 	position: relative;
+	top: 5px;
 	align-content: center;
-	padding: 5px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
 	margin: 5px 5px 5px 5px;
 	width: 190px;
 	height: 335px;
 }
 
-.cards {
+.all-cards {
 	width: 100%;
 }
 
@@ -59,7 +61,7 @@ Loughborough, UK, 1-4 July, 2026
 
 <hr />
 
-<div class="cards">
+<div class="all-cards">
 
 	<div class="container">
 		<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
