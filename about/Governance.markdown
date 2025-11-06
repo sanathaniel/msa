@@ -17,7 +17,7 @@ sidebar:
 	Trustees.</p>
 	
 <p><b>President</b>: <a href="mailto:mbradshaw@luc.edu"
-	>Melissa Bradshaw</a>, Loyala University Chicago</p>
+	>Melissa Bradshaw</a>, Loyola University Chicago</p>
 	
 <p><b>First Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, New York Institute of Technology</p>
 	
