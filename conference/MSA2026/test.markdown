@@ -1,6 +1,6 @@
 ---
 layout: 26conference-hub
-permalink: /conference/MSA2026/test
+permalink: /conference/MSA2026/test/
 masthead: false
 footer: false
 ---
@@ -49,6 +49,15 @@ footer: false
 
 
 </style>
+
+<h1>Weird Modernisms
+</h1>
+<h2>
+Presented by MSA & BAMS<br>
+Loughborough, UK, 1-4 July, 2026
+</h2>
+
+<hr />
 
 <div class="cards">
 
