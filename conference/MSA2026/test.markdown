@@ -34,7 +34,7 @@ footer: false
 
 
 .container {
-	display: inline-block;
+	display: inline;
 	position: relative;
 	top: 5px;
 	align-content: center;
@@ -61,7 +61,7 @@ Loughborough, UK, 1-4 July, 2026
 
 <hr />
 
-<div class="all-cards">
+<div class="feature__wrapper">
 
 	<div class="container">
 		<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
