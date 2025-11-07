@@ -115,7 +115,15 @@ Loughborough, UK, 1-4 July, 2026
 					<img src="/conference/MSA2026/assets/back_program.jpg" id="bottom8" style="width:0%">
 			</a>
 			<img src="/conference/MSA2026/assets/tarot_priestess.png" id="top8" onclick="fadeOut8()">
+		</div>	
+
+		<div class="container">
+			<a href="https://www.moderniststudies.org/">
+					<img src="/conference/MSA2026/assets/test-image.jpg" id="bottom9" style="width:0%">
+			</a>
+			<img src="/conference/MSA2026/assets/tarot_strength.png" id="top9" onclick="fadeOut9()">
 		</div>		
+		
 	</div>
 </div>
 
