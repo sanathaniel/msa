@@ -33,7 +33,7 @@ footer: false
     }
 
 .container {
-	display: inline-block;
+	display: inline;
 	position: relative;
 	align-content: center;
 	padding: 0px 0px 0px 0px;
