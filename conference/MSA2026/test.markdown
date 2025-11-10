@@ -9,7 +9,21 @@ footer: false
  
 <style>
 
- img {
+body {
+	background-color: ##e3e4e6;
+	font-style: Sansita;
+	color: black;
+	a:link {
+		color: black;
+	}
+	a:visited {
+		color: black;
+	}
+}
+  
+
+
+img {
     width: 190px;
  }
  
