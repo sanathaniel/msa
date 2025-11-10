@@ -59,8 +59,6 @@ Presented by MSA & BAMS<br>
 Loughborough, UK, 1-4 July, 2026
 </h2>
 
-<hr />
-
 <div class="main-wrapper">
 	<div class="feature__wrapper">
 		<div class="container">
@@ -119,7 +117,7 @@ Loughborough, UK, 1-4 July, 2026
 
 		<div class="container">
 			<a href="https://www.moderniststudies.org/">
-					<img src="/conference/MSA2026/assets/test-image.jpg" id="bottom9" style="width:0%">
+					<img src="/conference/MSA2026/assets/back_msa.jpg" id="bottom9" style="width:0%">
 			</a>
 			<img src="/conference/MSA2026/assets/tarot_strength.png" id="top9" onclick="fadeOut9()">
 		</div>		
