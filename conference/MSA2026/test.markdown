@@ -55,7 +55,7 @@ img {
 	padding: 0px 0px 0px 0px;
 	margin: 5px 5px 5px 5px;
 	width: 190px;
-	height: 335px;
+	height: 317px;
 }
 
 .all-cards {
@@ -72,9 +72,9 @@ img {
 Presented by MSA & BAMS<br>
 Loughborough, UK, 1-4 July, 2026
 </h2>
-
+ 
 <div class="main-wrapper">
-	<div class="feature__wrapper" style="display: container;>
+	<div class="feature__wrapper">
 		<div class="container">
 			<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
 			<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" onclick="fadeOut1()">
