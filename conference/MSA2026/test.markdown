@@ -72,7 +72,7 @@ img {
 Presented by MSA & BAMS<br>
 Loughborough, UK, 1-4 July, 2026
 </h2>
-
+ 
 <div class="main-wrapper">
 	<div class="feature__wrapper">
 		<div class="container">
