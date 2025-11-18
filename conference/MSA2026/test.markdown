@@ -20,8 +20,6 @@ body {
 		color: black;
 	}
 }
-  
-
 
 img {
     width: 190px;
@@ -53,13 +51,15 @@ img {
 	top: 5px;
 	align-content: center;
 	padding: 0px 0px 0px 0px;
-	margin: 5px 5px 5px 5px;
+	margin: 10px 10px 10px 10px;
 	width: 190px;
 	height: 317px;
 }
 
 .all-cards {
-	width: 100%;
+	margin-bottom: 2em;
+	border-bottom: 1px solid $border-color;
+	max-width: 765px;
 }
 
 
@@ -74,7 +74,7 @@ Loughborough, UK, 1-4 July, 2026
 </h2>
  
 <div class="main-wrapper">
-	<div class="feature__wrapper">
+	<div class="all-cards">
 		<div class="container">
 			<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
 			<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" onclick="fadeOut1()">
