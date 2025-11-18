@@ -56,7 +56,10 @@ img {
 }
 
 .all-cards {
-	
+	display: inline-flex;
+    max-width: 725px;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 
