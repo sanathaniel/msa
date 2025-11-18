@@ -27,15 +27,15 @@ img {
  }
  
  @keyframes fliptop {
-    from { width: 190px; height: 317px; top: 25px;}
+    from { width: 190px; height: 317px;}
     to { width: 0px; height: 317px; 25px;}
 }
 
 @keyframes flipbottom {
-    from { width: 0px; height: 317px;}
+    from { width: 0px; height: 317px; top: 25px;}
     to { width: 190px; height: 317px;}
 }
-
+ 
 
 .flip-top {
       animation: fliptop 1s forwards;
