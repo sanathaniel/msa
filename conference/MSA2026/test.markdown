@@ -27,8 +27,8 @@ img {
  }
  
  @keyframes fliptop {
-    from { width: 190px; height: 317px;}
-    to { width: 0px; height: 317px;}
+    from { width: 190px; height: 317px; top: -25px;}
+    to { width: 0px; height: 317px; top: -25px;}
 }
 
 @keyframes flipbottom {
