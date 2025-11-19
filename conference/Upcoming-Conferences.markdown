@@ -11,17 +11,6 @@ sidebar:
 <hr> 
 
 <div class="page__hero--overlay"
-  style="background-color: #000; color: 1e6cb6; background-image: url(/conference/MSA2025/assets/subway_2022.jpeg);">
-	<div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-shadow: 4px 4px 4px black;">       
-		  <a href="/conference/MSA2025/registration">Register for MSA '25:<br>Infrastructure</a>      
-	  </h1> 
-	</div>
-</div>
-				
-<hr>
-
-<div class="page__hero--overlay"
   style="background-color: #000; color: 1e6cb6; background-image: url(/assets/empress.jpg);">
 	<div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="text-shadow: 4px 4px 4px black;">       
