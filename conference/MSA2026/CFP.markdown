@@ -156,7 +156,7 @@ Weird Modernisms
 
 <hr>
 
-<h2>CFP Deadline now <i>December 31</i></h2>
+<h2>CFP Deadline now <i>December 29</i></h2>
 
 
 <p>The BAMS/MSA joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes. </p>
