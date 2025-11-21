@@ -154,6 +154,10 @@ Weird Modernisms
 <h2>CFP for the Modernist Studies Association 2026 Annual Conference, held in conjunction with the British Association for Modernist Studies</h2>
 <h2>Loughborough, UK, 1-4 July, 2026</h2>
 
+<hr>
+
+<h2>CFP Deadline now <i>December 31</i></h2>
+
 
 <p>The BAMS/MSA joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes. </p>
 
@@ -216,19 +220,19 @@ While the weird has often been cast as a genre of interiority, one interested in
 
 <strong>
 	<li>
-		<a href="#p1">Seminars (due December 1, 2025)</a>
+		<a href="#p1">Seminars (due December 29, 2025)</a>
 	</li>
 	<li>
-		<a href="#p2">Workshops (due December 1, 2025)</a>
+		<a href="#p2">Workshops (due December 29, 2025)</a>
 	</li>
 	<li>
-		<a href="#p3">Panels (due December 1, 2025)</a>
+		<a href="#p3">Panels (due December 29, 2025)</a>
 	</li>
 	<li>
-		<a href="#p4">Roundtables (due December 1, 2025)</a>
+		<a href="#p4">Roundtables (due December 29, 2025)</a>
 	</li>
 		<li>
-		<a href="#p5">Individual Papers (due December 1, 2025) </a>
+		<a href="#p5">Individual Papers (due December 29, 2025) </a>
 	</li>
 </strong>
 
@@ -241,7 +245,7 @@ While the weird has often been cast as a genre of interiority, one interested in
 
 <p>Seminar Topics: There are no limits on topics, but past experience has shown that the more clearly defined the topic and the more guidance provided by the leader, the more productive the ensuing discussion. “Clearly defined” should not be confused with “narrow,” as extremely narrow seminar topics tend to exclude many potential participants. To review past seminar topics, go to the <a href="/conference/past-conferences">Conference Archives</a> on the MSA website and then click on “Conference Schedule” or “Conference Program.” You will find seminars listed along with panels and other events.</p>
 
-<p><a href="https://msa2026.exordo.com/">Click here to submit Seminar Proposals</a> by Monday December 1, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Seminar Proposals</a> by Monday December 29, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
 		</div>
 </details>
 <hr>
@@ -255,7 +259,7 @@ While the weird has often been cast as a genre of interiority, one interested in
 Workshops are participatory in format and can be either 90 or 120 minutes in length. They may be led by one person or by a panel of experts. Participants will register for workshops at the same time as conference registration.
 </p>
 
-<p><a href="https://msa2026.exordo.com/">Click here to submit Workshop Proposals</a> by Monday December 1, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Workshop Proposals</a> by Monday December 29, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -281,7 +285,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
 	</li>
 </ul>
-<p><a href="https://msa2026.exordo.com/">Click here to submit Panel Proposals</a> by Monday December 1, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Panel Proposals</a> by Monday December 29, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
 		</div>
 </details>
 <hr>
@@ -314,7 +318,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<li>Roundtable organizers should identify a chair and include this information with their proposals.
 	</li>
 </ul>
-<p><a href="https://msa2026.exordo.com/">Click here to submit Roundtable Proposals</a> by Monday December 1, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Roundtable Proposals</a> by Monday December 29, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
 		</div>
 </details>
 <hr>
@@ -322,7 +326,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	<summary class="CFP-summary" id="p5">Call for Individual Paper Proposals for MSA Panel Streams</summary>
 		<div class="description">
 <p>Individual paper proposals must speak directly to one of this year’s streams, described below. The MSA program committee and MSA Special Interest Groups in charge of the streams will compose panels and roundtables from the individual papers.</p>
-<p><a href="https://msa2026.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by December 1, 
+<p><a href="https://msa2026.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by December 29, 
 2025. Please include a 300-word abstract of the paper. Author bios are limited to
  100 words. </p>
  
