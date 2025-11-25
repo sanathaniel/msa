@@ -20,7 +20,7 @@ body {
 		color: black;
 	}
 }
-
+ 
 img {
     width: 190px;
 	position: relative;
