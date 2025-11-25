@@ -66,14 +66,15 @@ img {
 
 
 </style>
-<div style="background-color: #F9ED61;">
-	<h1>Weird Modernisms
-	</h1>
-	<h2>
-	Presented by MSA & BAMS<br>
-	Loughborough, UK, 1-4 July, 2026
-	</h2>
-</div>
+
+<h1>Weird Modernisms
+</h1>
+<h2>
+Presented by MSA & BAMS<br>
+Loughborough, UK, 1-4 July, 2026
+</h2>
+
+<hr>
  
 <div class="main-wrapper">
 	<div class="feature__wrapper" style="display: contents;">
@@ -84,17 +85,17 @@ img {
 			</div>
 
 			<div class="container">
+				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
 				<a href="/conference/MSA2026/CFP/">
 					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
 			</div>
 
 			<div class="container">
+				<img src="/conference/MSA2026/assets/tarot_star.png" id="top3" style="top: 0px;" onclick="fadeOut3()">
 				<a href="/conference/MSA2026/seminars/">
 						<img src="/conference/MSA2026/assets/back_seminar.jpg" id="bottom3" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_star.png" id="top3" style="top: 0px;" onclick="fadeOut3()">
 			</div>
 
 			<div class="container">
