@@ -10,7 +10,7 @@ footer: false
 <style>
 
 body {
-	background-color: #CBC1C5;
+	background-color: #F2E9E6;
 	font-style: Sansita;
 	color: black;
 	a:link {
@@ -51,7 +51,7 @@ img {
 	top: 5px;
 	align-content: center;
 	padding: 0px 0px 0px 0px;
-	margin: 10px 10px 10px 10px;
+	margin: 10px 10px 20px 10px;
 	width: 190px;
 	height: 317px;
 }
@@ -66,76 +66,77 @@ img {
 
 
 </style>
-
-<h1>Weird Modernisms
-</h1>
-<h2>
-Presented by MSA & BAMS<br>
-Loughborough, UK, 1-4 July, 2026
-</h2>
+<div style="background-color: #F9ED61;">
+	<h1>Weird Modernisms
+	</h1>
+	<h2>
+	Presented by MSA & BAMS<br>
+	Loughborough, UK, 1-4 July, 2026
+	</h2>
+</div>
  
 <div class="main-wrapper">
 	<div class="feature__wrapper" style="display: contents;">
 		<div class="all-cards">
 			<div class="container">
 				<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
-				<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" style="top: -25px;" onclick="fadeOut1()">
+				<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" style="top: 0px;" onclick="fadeOut1()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/CFP/">
 					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: -25px;" onclick="fadeOut2()">
+				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/seminars/">
 						<img src="/conference/MSA2026/assets/back_seminar.jpg" id="bottom3" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_star.png" id="top3" style="top: -25px;" onclick="fadeOut3()">
+				<img src="/conference/MSA2026/assets/tarot_star.png" id="top3" style="top: 0px;" onclick="fadeOut3()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/workshops/">
 						<img src="/conference/MSA2026/assets/back_workshop.jpg" id="bottom4" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_moon.png" id="top4" style="top: -25px;" onclick="fadeOut4()">
+				<img src="/conference/MSA2026/assets/tarot_moon.png" id="top4" style="top: 0px;" onclick="fadeOut4()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/events/">
 						<img src="/conference/MSA2026/assets/back_events.jpg" id="bottom5" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_fool.png" id="top5" style="top: -25px;" onclick="fadeOut5()">
+				<img src="/conference/MSA2026/assets/tarot_fool.png" id="top5" style="top: 0px;" onclick="fadeOut5()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/travel/">
 						<img src="/conference/MSA2026/assets/back_travel.jpg" id="bottom6" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_world.png" id="top6" style="top: -25px;" onclick="fadeOut6()">
+				<img src="/conference/MSA2026/assets/tarot_world.png" id="top6" style="top: 0px;" onclick="fadeOut6()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/registration/">
 						<img src="/conference/MSA2026/assets/back_registration.jpg" id="bottom7" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_fortune.png" id="top7" style="top: -25px;" onclick="fadeOut7()">
+				<img src="/conference/MSA2026/assets/tarot_fortune.png" id="top7" style="top: 0px;" onclick="fadeOut7()">
 			</div>
 
 			<div class="container">
 				<a href="/conference/MSA2026/program/">
 						<img src="/conference/MSA2026/assets/back_program.jpg" id="bottom8" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_priestess.png" id="top8" style="top: -25px;" onclick="fadeOut8()">
+				<img src="/conference/MSA2026/assets/tarot_priestess.png" id="top8" style="top: 0px;" onclick="fadeOut8()">
 			</div>	
 
 			<div class="container">
 				<a href="https://www.moderniststudies.org/">
 						<img src="/conference/MSA2026/assets/back_msa.jpg" id="bottom9" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_strength.png" id="top9" style="top: -25px;" onclick="fadeOut9()">
+				<img src="/conference/MSA2026/assets/tarot_strength.png" id="top9" style="top: 0px;" onclick="fadeOut9()">
 			</div>		
 		</div>
 	</div>
