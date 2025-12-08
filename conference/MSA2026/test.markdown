@@ -10,7 +10,7 @@ footer: false
 <style>
 
 body {
-	background-color: #F2E9E6;
+	background-color: #FFF2C9;
 	font-style: Sansita;
 	color: black;
 	a:link {
@@ -53,7 +53,7 @@ img {
 	padding: 0px 0px 0px 0px;
 	margin: 10px 10px 20px 10px;
 	width: 190px;
-	height: 317px;
+	height: 370px;
 }
 
 .all-cards {
