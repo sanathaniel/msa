@@ -10,7 +10,7 @@ footer: false
 <style>
 
 body {
-	background-color: #FFF2C9;
+	background-color: #D6D1CE;
 	font-style: Sansita;
 	color: black;
 	a:link {
