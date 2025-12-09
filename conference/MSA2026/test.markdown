@@ -21,6 +21,14 @@ body {
 	}
 }
  
+	h2 {
+color: #567937;
+padding-bottom: 0px;
+margin: .25em 0 .25em; 
+}
+
+
+ 
 img {
     width: 190px;
 	position: relative;
