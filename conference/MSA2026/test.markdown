@@ -59,7 +59,7 @@ img {
 	top: 5px;
 	align-content: center;
 	padding: 0px 0px 0px 0px;
-	margin: 10px 10px 30px 10px;
+	margin: 10px 10px 50px 10px;
 	width: 190px;
 	height: 350px;
 }
