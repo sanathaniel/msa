@@ -61,7 +61,7 @@ img {
 	padding: 0px 0px 0px 0px;
 	margin: 10px 10px 20px 10px;
 	width: 190px;
-	height: 370px;
+	height: 365px;
 }
 
 .all-cards {
@@ -88,13 +88,13 @@ Loughborough, UK, 1-4 July, 2026
 	<div class="feature__wrapper" style="display: contents;">
 		<div class="all-cards">
 			<div class="container">
-				<div class="title-box"><h2>Welcome</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Welcome</h2></div>
 				<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
 				<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" style="top: 0px;" onclick="fadeOut1()">
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>CFP</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">CFP</h2></div>
 				<a href="/conference/MSA2026/CFP/">
 					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
 				</a>
@@ -102,7 +102,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>Seminars</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Seminars</h2></div>
 				<a href="/conference/MSA2026/seminars/">
 						<img src="/conference/MSA2026/assets/back_seminar.jpg" id="bottom3" style="width:0%">
 				</a>
@@ -110,7 +110,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>Workshops</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Workshops</h2></div>
 				<a href="/conference/MSA2026/workshops/">
 						<img src="/conference/MSA2026/assets/back_workshop.jpg" id="bottom4" style="width:0%">
 				</a>
@@ -118,7 +118,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>Events</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Events</h2></div>
 				<a href="/conference/MSA2026/events/">
 						<img src="/conference/MSA2026/assets/back_events.jpg" id="bottom5" style="width:0%">
 				</a>
@@ -126,7 +126,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>Travel</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Travel</h2></div>
 				<a href="/conference/MSA2026/travel/">
 						<img src="/conference/MSA2026/assets/back_travel.jpg" id="bottom6" style="width:0%">
 				</a>
@@ -134,7 +134,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>Registration</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Registration</h2></div>
 				<a href="/conference/MSA2026/registration/">
 						<img src="/conference/MSA2026/assets/back_registration.jpg" id="bottom7" style="width:0%">
 				</a>
@@ -142,7 +142,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2>Program</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Program</h2></div>
 				<a href="/conference/MSA2026/program/">
 						<img src="/conference/MSA2026/assets/back_program.jpg" id="bottom8" style="width:0%">
 				</a>
@@ -150,7 +150,7 @@ Loughborough, UK, 1-4 July, 2026
 			</div>	
 
 			<div class="container">
-				<div class="title-box"><h2>MSA</h2></div>
+				<div class="title-box"><h2 style="padding-bottom: 0px;">MSA</h2></div>
 				<a href="https://www.moderniststudies.org/">
 						<img src="/conference/MSA2026/assets/back_msa.jpg" id="bottom9" style="width:0%">
 				</a>
