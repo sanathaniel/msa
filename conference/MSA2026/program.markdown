@@ -7,13 +7,25 @@ footer: false
 
 <style>
 
- a {
-    color: #2db8e3;
-  }
-  
-  a:visited {
-    color: #2db8e3;
-  }
+body {
+	background-color: #D6D1CE;
+	font-style: Sansita;
+	color: black;
+	a:link {
+		color: black;
+	}
+	a:visited {
+		color: black;
+	}
+}
+ 
+a {
+color: #2db8e3;
+}
+
+a:visited {
+color: #2db8e3;
+}
   
 </style>
 
