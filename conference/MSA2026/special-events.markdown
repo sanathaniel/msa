@@ -45,9 +45,7 @@ color: #2db8e3;
 Events coming June 2026.
 </p>
 
-<!--
-
-<!-- <body>
+ <body>
     <div class="post">
 		
 		<h2>Conference Excursions</h2>
