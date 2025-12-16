@@ -31,9 +31,9 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>New CFP Deadline!</h3>
-				<figcaption  class="archive__item-title">MSA2026 CFP: Weird Modernisms, Loughborough</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/" class="btn btn--primary">Submit</a>
+				<h3>MSA'26 Special Guests</h3>
+				<figcaption  class="archive__item-title">Announcing an excellent lineup of Guest Speakers for MSA Loughborough!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Submit</a>
 		</div>	
 
 

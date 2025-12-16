@@ -214,6 +214,20 @@ While the weird has often been cast as a genre of interiority, one interested in
 <p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options for panels, roundtables, and individual papers (but not seminars or workshops). Please note that panels and roundtables must be wholly in-person or wholly virtual; they may not be a hybrid of both. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly. 
 </p>
 
+<h1 id="guests">Featured Guests</h1>
+
+<p>
+<a href="https://www.abdn.ac.uk/people/catriona.mcara#about">Dr Catriona McAra</a>, art historian, curator and Lecturer in Modern and Contemporary Art History at University of Aberdeen, author of <a href="https://manchesteruniversitypress.co.uk/9781526161222/">The Medium of Leonora Carrington: A Feminist Haunting in the Contemporary Arts</a> (Manchester University Press, 2022)
+</p>
+
+<p>
+<a href="https://www.qmul.ac.uk/sed/staff/ramayyan.html">Dr Nisha Ramayya</a>, poet and Senior Lecturer in Creative Writing at Queen Mary, University of London, author of poetry collections <a href="https://granta.com/products/fantasia/">Fantasia</a> (Granta, 2024) and <a href="https://www.silverpress.org/products/states-of-the-body-produced-by-love?srsltid=AfmBOooBobicueCmvIpJOuVoVPtz8n8rfkP0snhgxkSF0sx04OvSkJSp">States of the Body Produced by Love</a> (reissued, expanded edition, Spiral Books, 2025)
+</p>
+
+<p>
+<a href="https://english.fsu.edu/faculty/alison-sperling">Dr Alison Sperling</a>, Assistant Professor of Literature, Media, and Culture at Florida State University, author of ‘Weird Queer Ecologies’ (in <a href="https://www.peterlang.com/document/1321928">The Weird: A Companion</a>, Peter Lang, 2025), co-editor of <a href="https://muse.jhu.edu/issue/42824">‘Weird Temporalities’ special issue of Studies in the Fantastic (2020)</a> and currently finalising a monograph entitled Weird Modernism.
+</p>
+
 <h1>Proposals</h1>
 
 <p>The conference organizers for MSA Loughborough 2026 invite proposals for:</p>
