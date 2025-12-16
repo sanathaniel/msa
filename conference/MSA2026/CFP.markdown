@@ -217,12 +217,27 @@ While the weird has often been cast as a genre of interiority, one interested in
 <h1 id="guests">Featured Guests</h1>
 
 <p>
+	<img src="https://dam.bibliolive.com/mup/getimage.aspx?class=books&assetversionid=338373&cat=default&size=largeweb&id=14344"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<p>
 <a href="https://www.abdn.ac.uk/people/catriona.mcara#about">Dr Catriona McAra</a>, art historian, curator and Lecturer in Modern and Contemporary Art History at University of Aberdeen, author of <a href="https://manchesteruniversitypress.co.uk/9781526161222/">The Medium of Leonora Carrington: A Feminist Haunting in the Contemporary Arts</a> (Manchester University Press, 2022)
 </p>
 
 <p>
+	<img src="https://www.silverpress.org/cdn/shop/files/Untitled_design_copy_4_900x.png?v=1745577310"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<p>
 <a href="https://www.qmul.ac.uk/sed/staff/ramayyan.html">Dr Nisha Ramayya</a>, poet and Senior Lecturer in Creative Writing at Queen Mary, University of London, author of poetry collections <a href="https://granta.com/products/fantasia/">Fantasia</a> (Granta, 2024) and <a href="https://www.silverpress.org/products/states-of-the-body-produced-by-love?srsltid=AfmBOooBobicueCmvIpJOuVoVPtz8n8rfkP0snhgxkSF0sx04OvSkJSp">States of the Body Produced by Love</a> (reissued, expanded edition, Spiral Books, 2025)
 </p>
+
+<p>
+	<img src="https://muse.jhu.edu/issue/42824/image/front_cover?format=180"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
 
 <p>
 <a href="https://english.fsu.edu/faculty/alison-sperling">Dr Alison Sperling</a>, Assistant Professor of Literature, Media, and Culture at Florida State University, author of ‘Weird Queer Ecologies’ (in <a href="https://www.peterlang.com/document/1321928">The Weird: A Companion</a>, Peter Lang, 2025), co-editor of <a href="https://muse.jhu.edu/issue/42824">‘Weird Temporalities’ special issue of Studies in the Fantastic (2020)</a> and currently finalising a monograph entitled Weird Modernism.
