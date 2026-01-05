@@ -19,12 +19,20 @@ body {
 	}
 }
 
-a {
-color: #2db8e3;
+a:link {
+	color: black;
 }
 
 a:visited {
-color: #2db8e3;
+	color: black;
+}
+
+a {
+color: #d0463c;
+}
+
+a:visited {
+color: #d0463c;
 }
 
 h1 {
