@@ -26,6 +26,15 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Nominate</h3>
+				<figcaption  class="archive__item-title">Calling for nominations to the MSA Executive Board.</figcaption>
+			<a href="/about/board-nominations" class="btn btn--primary">Nominate</a>
+		</div>
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -65,15 +74,6 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Governance</h3>
-				<figcaption  class="archive__item-title">Let's welcome the 2025-2026 MSA Board Members.</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Welcome</a>
-		</div>
 
 		
 		<div class ="feature__item">
