@@ -297,5 +297,3 @@ access, and equality are critical to the strength of our organization and the ef
 </p>
 		</div>
 </details>
-
-</div>

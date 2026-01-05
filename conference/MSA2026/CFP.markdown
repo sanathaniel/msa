@@ -471,7 +471,4 @@ access, and equality are critical to the strength of our organization and the ef
 <u1><li>Contact Missy Bradshaw at <a href="mailto:mbradshaw@luc.edu">mbradshaw@luc.edu</a></li></u1>
 <p>
 </p>
-		</div>
 </details>
-
-</div>

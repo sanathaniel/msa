@@ -26,6 +26,18 @@ color: #2db8e3;
 a:visited {
 color: #2db8e3;
 }
+
+h1 {
+color: #689c4b;
+}
+
+h2 {
+color: #689c4b;
+}
+
+h3 {
+color: #689c4b;
+}
   
 </style>
 
@@ -44,6 +56,8 @@ color: #2db8e3;
 <p>
 Events coming June 2026.
 </p>
+
+<!-- 
 
  <body>
     <div class="post">
