@@ -7,6 +7,8 @@ footer: false
 
 <style>
 
+background-color: #D6D1CE;
+font-style: Sansita;
 
 a {
 color: #d0463c;

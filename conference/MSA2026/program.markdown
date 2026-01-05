@@ -7,17 +7,8 @@ footer: false
 
 <style>
 
-body {
-	background-color: #D6D1CE;
-	font-style: Sansita;
-	color: black;
-	a:link {
-		color: black;
-	}
-	a:visited {
-		color: black;
-	}
-}
+background-color: #D6D1CE;
+font-style: Sansita;
  
 
 a {
