@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Nominate</h3>
-				<figcaption  class="archive__item-title">Calling for nominations to the MSA Executive Board.</figcaption>
+				<figcaption  class="archive__item-title">Calling for nominations for the MSA Executive Board.</figcaption>
 			<a href="/about/board-nominations" class="btn btn--primary">Nominate</a>
 		</div>
 	
