@@ -53,6 +53,7 @@ Travel coming April 2026.
 <h2><strong>THE BOSTON SHERATON HOTEL</strong></h2>
 
 <!--
+
 <a target="_blank" href="https://www.thedrakehotel.com/"><img src="https://img.travelpass.com/hotel/5ff55f4/52542938/0/x700" style="width:100%"/></a>
 
 
@@ -60,7 +61,6 @@ Travel coming April 2026.
 <a target="_blank" href="https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/">the Sheraton Boston hotel</a>
  is surrounded by restaurants and tourist destinations in downtown Boston.</p>
 
-<!--
 <p>The Drake will offer MSA 2024 participants discounted rates for all rooms (including doubles, triples, and quadruples for those seeking to share expenses).</p>
 
 <p>Click <a href="https://book.passkey.com/event/50735053/owner/2879/home">HERE</a> to book rooms at the Regular Rate ($229/night) </p>

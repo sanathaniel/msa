@@ -48,7 +48,7 @@ color: #689c4b;
 Registration coming May 2026.
 </p>
 
-
+<!--
 
 <p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
 
