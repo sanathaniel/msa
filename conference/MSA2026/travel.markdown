@@ -7,13 +7,6 @@ footer: false
 
 <style>
 
-a:link {
-	color: black;
-}
-
-a:visited {
-	color: black;
-}
 
 a {
 color: #d0463c;
