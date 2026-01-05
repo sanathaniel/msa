@@ -50,7 +50,7 @@ The MSA Board is seeking nominations for five Executive Board positions by <stro
 	<li>6.    Current CV for public circulation (will be posted on MSA website during election)</li>
 </ul>
 
-<h2>NOMINATION DEADLINE: <strong>21 April 2025 (Monday)</strong></h2>
+<h2>NOMINATION DEADLINE: <strong>6 February 2026 (Friday)</strong></h2>
 
 <p>The Membership and Elections Committee Chair, in consultation with the Nominations Committee, will prepare a slate of candidates for election. The Nominations Chair will contact those nominees who were not self-nominated to confirm their interest in serving on the board. Please address any procedural questions to Karen Weingarten <a href="mailto:kweingarten@qc.cuny.edu">(kweingarten@qc.cuny.edu).</a></p>
 
