@@ -20,14 +20,21 @@ body {
 		color: black;
 	}
 }
+
+	h1 {
+color: #689c4b;
+}
+
  
 	h2 {
-color: #567937;
+color: #689c4b;
 padding-bottom: 0px;
 margin: .25em 0 .25em; 
 }
 
-
+	h3 {
+color: #689c4b;
+}
  
 img {
     width: 190px;

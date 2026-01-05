@@ -46,7 +46,7 @@ color: #689c4b;
 <div class="page__hero--overlay" 
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #2db8e3; text-shadow: 4px 4px 4px rgb(0, 0, 0);">   
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #689c4b; text-shadow: 4px 4px 4px rgb(0, 0, 0);">   
 		  Registration       
 	  </h1> 
 	</div>
@@ -56,7 +56,7 @@ color: #689c4b;
 Registration coming May 2026.
 </p>
 
-<!--
+
 
 <p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
 
