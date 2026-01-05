@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA'26 Keynotes</h3>
-				<figcaption  class="archive__item-title">Announcing an excellent lineup of Guest Speakers for MSA Loughborough!</figcaption>
+				<figcaption  class="archive__item-title">Announcing an excellent lineup of guest speakers for MSA Loughborough!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Submit</a>
 		</div>	
 

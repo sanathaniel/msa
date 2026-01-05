@@ -15,6 +15,19 @@ footer: false
     color: #2db8e3;
   }
   
+h1 {
+color: #689c4b;
+}
+
+h2 {
+color: #689c4b;
+}
+
+h3 {
+color: #689c4b;
+}
+
+  
 </style>
 
 
