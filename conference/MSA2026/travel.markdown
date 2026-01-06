@@ -49,10 +49,10 @@ Travel coming April 2026.
 </p>
 
 
+<!--
 
 <h2><strong>THE BOSTON SHERATON HOTEL</strong></h2>
 
-<!--
 
 <a target="_blank" href="https://www.thedrakehotel.com/"><img src="https://img.travelpass.com/hotel/5ff55f4/52542938/0/x700" style="width:100%"/></a>
 
@@ -69,9 +69,8 @@ Travel coming April 2026.
 </p>
 
 <p>Alternatively, you may call 1-800-55-DRAKE and refer to group code MSA to receive the conference rate. They can also answer any questions you may have regarding room and hotel amenities.</p>
- -->
 
-<!--
+
 <p>Check back on this page for hotel booking and conference discount information in 2024.</p>
 
 
