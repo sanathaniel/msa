@@ -39,7 +39,7 @@ We are excited to announce that Loughborough University will host the 2026 MSA C
 <hr>
 
 <p>If you are interested in hosting an MSA conference, please contact <a
-	href="mailto:ogonzale@wellesley.edu">Octavio González</a>,
-President, and <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, Second Vice President, for details.</p>
+	href="mailto:mbradshaw@luc.edu">Melissa Bradshaw</a>,
+President, and <a href="mailto:rhigney@ccny.cuny.edu">Rob Higney</a>, Second Vice President, for details.</p>
 <p>&nbsp;</p>
 <!-- #EndEditable -->
