@@ -31,9 +31,9 @@ layout: home
 				<div class="feature__item-teaser">
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Nominate</h3>
-				<figcaption  class="archive__item-title">Calling for nominations for the MSA Executive Board.</figcaption>
-			<a href="/about/board-nominations" class="btn btn--primary">Nominate</a>
+				<h3>Voting Now Open</h3>
+				<figcaption  class="archive__item-title">Voting is now open for the MSA Executive Board.</figcaption>
+			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
 		</div>
 	
 		<div class ="feature__item" style="border:20px;">
