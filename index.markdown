@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Voting Now Open</h3>
-				<figcaption  class="archive__item-title">Voting is now open for the MSA Executive Board.</figcaption>
+				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
 			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
 		</div>
 	
