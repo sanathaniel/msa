@@ -7,6 +7,110 @@ sidebar:
 ---
 <hr>
 
+<h2>2026 MSA Elections Now Open!</h2>
+
+<p>The 2026 election is now open and will run through 11:59 PM EST on Monday, March 16, 2026. This year we are electing a new 2nd VP, Vice Program Chair, Graduate Student Representative, and Membership & Elections Chair. We have a superb slate of candidates. Please do take a moment to vote at <a href="https://vote.press.jhu.edu/msa/elections">our election website, linked here.</a></p>
+
+<p>Please use your MSA membership username and password  to log in and submit your ballot choices.</p>
+
+<p>To vote, please click on the link above where you will find candidate statements to help you choose among highly qualified candidates for each position. These statements can be viewed below or by clicking on the position title once you are on the landing page.</p>
+
+<p>If you encounter any difficulties using the online voting form, please contact technical support at jrnlcirc@jh.edu.</p>		
+
+<h3>MSA Board Elections 2026 Ballot</h3>
+<ul>
+<li>
+	<strong>Position: 2nd Vice President</strong>
+	<ul>
+		<li>Candidate 1: Michaela Bronstein <a
+				href="https://drive.google.com/file/d/1N0wyvAmsUM3dvkjxI5Yo28n8ZisHu5dZ/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/118"
+				>Statement</a></li>
+		<li>Candidate 2: Peter Kalliney <a
+				href="https://docs.google.com/document/d/1L-Tqnt5qdTsxcgnh8bxDGXBpNB_kpJlM/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/119"
+			>Statement</a></li>
+		<li>Candidate 2: Daniel Morse <a
+				href="https://drive.google.com/file/d/1Zkw15byciwO3zilfe43lspvNHGAqs-2_/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/120"
+			>Statement</a></li>
+
+	</ul>
+</li>
+</ul>
+<ul>
+<li>
+	<strong>Position: Vice Program Chair</strong>
+	<ul>
+		<li>Candidate 1: Joyce Cheng <a
+				href="https://docs.google.com/document/d/1ErOPJwKBHmJa4QX6DqkWkHkoCaemOFKa/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/121"
+			>Statement</a></li>
+		<li>Candidate 2: Chris Coffman <a
+				href="https://drive.google.com/file/d/18_2dHoDmOAzImVTOq_2oxkvkPkWinr1Q/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/122"
+				>Statement</a></li>
+		<li>Candidate 2: Matthew Kilbane <a
+				href="https://drive.google.com/file/d/10Q7YUTx1CCnLaWdYKeaP_qGcxQgHPDpZ/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/123"
+				>Statement</a></li>
+	</ul>
+</li>
+</ul>
+<ul>
+<li>
+	<strong>Position: Graduate Student Representative</strong>
+	<ul>
+		<li>Candidate 1: Pooja Bachani <a
+				href="https://drive.google.com/file/d/1_vpx0UJ5XVw9FF32Pzq51vMfxYgBMwP7/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/124"
+			>Statement</a></li>
+		<li>Candidate 2: Lizzie Belnap <a
+				href="https://docs.google.com/document/d/1rkbfEhaV-9onr2gOCtteTdnvD04md1Dq/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/125"
+				>Statement</a></li>
+		<li>Candidate 3:  Debakanya Haldar <a
+				href="https://docs.google.com/document/d/1lxgFVW32DlMWS2PlmmHJnJE12YHAkDrl/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/126"
+			>Statement</a></li>
+		<li>Candidate 3:  Hyunsoo Kim <a
+				href="https://docs.google.com/document/d/1SyCM4TmrneGpWlFolBP3IJtx6VrruysM/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/127"
+			>Statement</a></li>
+		<li>Candidate 3:  Lily Nilipour <a
+				href="https://drive.google.com/file/d/13qGyLv-WOgD6nCP0QlU9GZuGCeP12Ay0/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/128"
+			>Statement</a></li>
+	</ul>
+</li>
+</ul>
+<ul>
+<li>
+	<strong>Position: Membership & Elections Chair</strong>
+	<ul>
+		<li>Candidate 1: Tamlyn Avery <a
+				href="https://drive.google.com/file/d/18Q1Tp1qHF4vPa_-E3HoSgRteuXf3pgMR/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/129"
+				>Statement</a></li>
+		<li>Candidate 2: Elysia Balavage <a
+				href="https://docs.google.com/document/d/1P2Qc5SIZi1XwZm4PZQFcAEfKfYxCzhIR/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/130"
+			>Statement</a></li>
+		<li>Candidate 3: Jess Shollenberger <a
+				href="https://drive.google.com/file/d/1XMxtqotl8uPmIfjuqpGTHe0UoyfgpFmI/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/131"
+			>Statement</a></li>
+		<li>Candidate 3: Jarica Watts <a
+				href="https://drive.google.com/file/d/14v1Jhkfd37nR6Gg2vh9bmUjqi8LwR4O4/view?usp=sharing">CV</a> | <a
+				href="https://vote.press.jhu.edu/msa/candidate/132"
+			>Statement</a></li>
+	</ul>
+</li>
+</ul>                     
+<p>&nbsp;</p>
+
+<!--
+
 <p>
 The MSA Board is seeking nominations for five Executive Board positions by <strong>February 6, 2026:</strong></p>
 
@@ -58,95 +162,11 @@ The MSA Board is seeking nominations for five Executive Board positions by <stro
 
 <p>Since the inception of the MSA, membership has grown to almost 1000. Most of the organization’s work is done by volunteers on the MSA Board and their committees, with the assistance of an MSA administrator. Therefore, those deciding to run for election should be prepared to make a substantial time commitment to MSA. Board members also work individually and collectively to build the membership base, and to communicate with members and the larger academy concerning the Modernist Studies Association. The MSA Board is responsible for planning and executing the annual meeting in conjunction with representatives of the host institution; we believe that the liveliest and most provocative conferences result from attention to diversity of representation on the fronts of discipline, nation, race, and gender on the Board, among the membership, and on the annual program. Our most recent conferences in Brooklyn (2023), Chicago (2024), Boston (2025) have further diversified our membership and increased interdisciplinary and multicultural panel offerings. We expect no less of our future conferences.</p> 
 
-
-
-
+-->
 
 
 
 <!--
-
-<h2>2025 MSA Elections Now Open!</h2>
-
-<p>The 2025 election is now open and will run through 11:59 PM EST on Wednesday, May 28, 2025. This year we are electing a new 2nd VP, Vice Program Chair, Treasurer, and Contingent Faculty Representative. We have a superb slate of candidates. Please do take a moment to vote at <a href="https://vote.press.jhu.edu/msa/elections">our election website, linked here.</a></p>
-
-<p>Please use your MSA membership username and password  to log in and submit your ballot choices.</p>
-
-<p>To vote, please click on the link above where you will find candidate statements to help you choose among highly qualified candidates for each position. These statements can be viewed below or by clicking on the position title once you are on the landing page.</p>
-
-<p>If you encounter any difficulties using the online voting form, please contact technical support at jrnlcirc@jh.edu.</p>		
-
-<h3>MSA Board Elections 2025 Ballot</h3>
-<ul>
-<li>
-	<strong>Position: 2nd Vice President</strong>
-	<ul>
-		<li>Candidate 1: Robert Higney <a
-				href="https://drive.google.com/file/d/1UwyFf9nnuNGummeN8fn8A6k7xCWP1Daf/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1yrtGGnGYfecUgN-dDAV9ANyNMQlYfN_l/view?usp=sharing"
-				>Statement</a></li>
-		<li>Candidate 2: Jesse Wolfe <a
-				href="https://drive.google.com/file/d/1lkNbLwOtaRAeZoVtte5tpXJ9_CtikwbQ/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1m5e3J4U9UQio14e0xywO1uum8Vm_QnNa/view?usp=sharing"
-			>Statement</a></li>
-
-	</ul>
-</li>
-</ul>
-<ul>
-<li>
-	<strong>Position: Vice Program Chair</strong>
-	<ul>
-		<li>Candidate 1: Sarah Cornish <a
-				href="https://drive.google.com/file/d/11RTwNS_Cc25DGjWOgGVfUQqOH0dIv5OG/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1LHiIYb-9FTGjfkKXqpo2ph6n68rgSacp/view?usp=sharing"
-			>Statement</a></li>
-		<li>Candidate 2: Sookyoung Lee <a
-				href="https://drive.google.com/file/d/1b6oiV5CyzuK6dsO6oaiTkj2m9fkmHZ_c/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1NNQsuXIJlOsJs5ExbE7l1eShOXWBoebV/view?usp=sharing"
-				>Statement</a></li>
-	</ul>
-</li>
-</ul>
-<ul>
-<li>
-	<strong>Position: Treasurer</strong>
-	<ul>
-		<li>Candidate 1: Jordan Brower <a
-				href="https://drive.google.com/file/d/16WEl4o2osn87K1NQk0vYhM0SZxBKJLwc/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1yHONzLbD56swtHZtYfSKhBYrrk3HmitY/view?usp=sharing"
-			>Statement</a></li>
-		<li>Candidate 2: John Hoffmann <a
-				href="https://drive.google.com/file/d/1PtpWjOuxQRxr4IcLRxO2so8tj0XFBonZ/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1_jJx3SIoZKu9873f7lZ3ESk-GJ7nt_uD/view?usp=sharing"
-				>Statement</a></li>
-		<li>Candidate 3:  Stephanie Tavera <a
-				href="https://drive.google.com/file/d/1pTJXjLIHAUfRFyN5KykKrCo2wBWLniAl/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1KHr1sEjac4v99lmg-DhGX-95ZraM8Mug/view?usp=sharing"
-			>Statement</a></li>
-	</ul>
-</li>
-</ul>
-<ul>
-<li>
-	<strong>Position: Contingent Faculty Representative</strong>
-	<ul>
-		<li>Candidate 1: Elysia Balavage <a
-				href="https://drive.google.com/file/d/1B7mDfynC05ut3vSnVTZRTbjqYPM3Zqls/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/18bMLa1HuiSSWPE5M-GgwtA1-AnFVDphE/view?usp=sharing"
-				>Statement</a></li>
-		<li>Candidate 2: Nissa Cannon <a
-				href="https://drive.google.com/file/d/1DmcXN_vI0Ww40kvECTKgF4fxDGoyrOhq/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/10KVKB9pxvUD4nK7idvtzimfuwvwsu1jd/view?usp=sharing"
-			>Statement</a></li>
-		<li>Candidate 3: Sean Weidman <a
-				href="https://drive.google.com/file/d/1GdlM2ZyY5ugiTm-TF1in4AseyuROmmao/view?usp=sharing">CV</a> | <a
-				href="https://drive.google.com/file/d/1BLoPcGltDLjvDB1rk-fak55UlPwlha-8/view?usp=sharing"
-			>Statement</a></li>
-	</ul>
-</li>
-</ul>                     
-<p>&nbsp;</p>
 
 <h3>Bylaw Change Proposals</h3>
 
