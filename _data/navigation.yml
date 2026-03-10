@@ -11,10 +11,10 @@ conf_nav_26:
     url: /conference/MSA2026/seminars/
   - title: "Workshops"
     url: /conference/MSA2026/workshops/
-  - title: "Events"
-    url: /conference/MSA2026/special-events/
   - title: "Accommodations"
     url: /conference/MSA2026/travel/
+  - title: "Events"
+    url: /conference/MSA2026/special-events/
   - title: "Draft Program"
     url: /conference/MSA2026/program/
     

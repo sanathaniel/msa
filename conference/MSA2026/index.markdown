@@ -9,20 +9,48 @@ footer: false
  
 <style>
 
- img {
+body {
+	background-color: #D6D1CE;
+	font-style: Sansita;
+	color: black;
+	a:link {
+		color: black;
+	}
+	a:visited {
+		color: black;
+	}
+}
+
+	h1 {
+color: #689c4b;
+}
+
+ 
+	h2 {
+color: #689c4b;
+padding-bottom: 0px;
+margin: .25em 0 .25em; 
+}
+
+	h3 {
+color: #689c4b;
+}
+ 
+img {
     width: 190px;
+	position: relative;
  }
  
  @keyframes fliptop {
-    from { width: 100%; height: 100%;}
-    to { width: 0%; height: 100%;}
+    from { width: 190px; height: 317px; top: 0px;}
+    to { width: 0px; height: 317px; top: 0px;}
 }
 
 @keyframes flipbottom {
-    from { width: 0%; height: 100%;}
-    to { width: 100%; height: 100%;}
+    from { width: 0px; height: 317px;}
+    to { width: 190px; height: 317px;}
 }
-
+ 
 
 .flip-top {
       animation: fliptop 1s forwards;
@@ -32,38 +60,115 @@ footer: false
       animation: flipbottom 1s forwards;
     }
 
+
 .container {
-	display: inline;
 	position: relative;
+	top: 5px;
 	align-content: center;
 	padding: 0px 0px 0px 0px;
-	margin: 5px 5px 5px 5px;
+	margin: 10px 10px 50px 10px;
 	width: 190px;
-	height: 335px;
+	height: 350px;
 }
 
-.cards {
-	width: 100%
+.all-cards {
+	display: inline-flex;
+    max-width: 725px;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
-
+.title-box {
+	text-align: center;
+}
 
 </style>
 
+<h1>Weird Modernisms
+</h1>
+<h2>
+Presented by MSA & BAMS<br>
+Loughborough, UK, 1-4 July, 2026
+</h2>
+ 
+<div class="main-wrapper">
+	<div class="feature__wrapper" style="display: contents;">
+		<div class="all-cards">
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Welcome</h2></div>
+				<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
+				<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" style="top: 0px;" onclick="fadeOut1()">
+			</div>
 
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">CFP</h2></div>
+				<a href="/conference/MSA2026/CFP/">
+					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
+			</div>
+
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Seminars</h2></div>
+				<a href="/conference/MSA2026/seminars/">
+						<img src="/conference/MSA2026/assets/back_seminar.jpg" id="bottom3" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_star.png" id="top3" style="top: 0px;" onclick="fadeOut3()">
+			</div>
+
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Workshops</h2></div>
+				<a href="/conference/MSA2026/workshops/">
+						<img src="/conference/MSA2026/assets/back_workshop.jpg" id="bottom4" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_moon.png" id="top4" style="top: 0px;" onclick="fadeOut4()">
+			</div>
+
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Travel</h2></div>
+				<a href="/conference/MSA2026/travel/">
+						<img src="/conference/MSA2026/assets/back_travel.jpg" id="bottom6" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_world.png" id="top6" style="top: 0px;" onclick="fadeOut6()">
+			</div>
 
 <!--
-<div class="cards">
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Events</h2></div>
+				<a href="/conference/MSA2026/events/">
+						<img src="/conference/MSA2026/assets/back_events.jpg" id="bottom5" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_fool.png" id="top5" style="top: 0px;" onclick="fadeOut5()">
+			</div>
 
-	<div class="container">
-		<img src="/conference/MSA2026/assets/back_intro.jpg" id="bottom1" style="width:0%">
-		<img src="/conference/MSA2026/assets/empress_full.jpg" id="top1" onclick="fadeOut1()">
-	</div>
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Registration</h2></div>
+				<a href="/conference/MSA2026/registration/">
+						<img src="/conference/MSA2026/assets/back_registration.jpg" id="bottom7" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_fortune.png" id="top7" style="top: 0px;" onclick="fadeOut7()">
+			</div>
 
-	
-</div>
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Program</h2></div>
+				<a href="/conference/MSA2026/program/">
+						<img src="/conference/MSA2026/assets/back_program.jpg" id="bottom8" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_priestess.png" id="top8" style="top: 0px;" onclick="fadeOut8()">
+			</div>	
 
 -->
+
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">MSA</h2></div>
+				<a href="https://www.moderniststudies.org/">
+						<img src="/conference/MSA2026/assets/back_msa.jpg" id="bottom9" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_strength.png" id="top9" style="top: 0px;" onclick="fadeOut9()">
+			</div>		
+		</div>
+	</div>
+</div>
 
 <script>
 
