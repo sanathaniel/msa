@@ -25,7 +25,7 @@ SIGs are not intended to replace or direct already established formal or informa
 
 <h2>MODERNISM AND ENVIRONMENT</h2>
 Anne Raine, University of Ottawa (<a href="mailto:araine@ottawa.edu">araine@uottawa.ca</a>) 
-Molly Volanth Hall, Rhode Island School of Design (<a href="mailto:mhall04@risd.edu">mhall04@risd.edu</a>).
+Sookyoung Lee, St. Lawrence University (<a href="mailto:slee@stlawu.edu">slee@stlawu.edu</a>).
 
 The Modernism & Environment Special Interest Group (SIG) is a community of scholars from diverse places and positionalities coming together to foster conversation between the environmental humanities and the study of modernism and modernity, broadly defined. We organize online events throughout the year where emerging and established scholars can share ideas and inspiration on environmental modernist scholarship, pedagogy, or praxis. These include twice-weekly writing-in-community sessions, a monthly works-in-progress workshop, an online reading group that meets four times per year, and in-person conference programming such as this year’s Climate Crisis and Modernist Praxis Workshop and New Voices Roundtable. Our SIG also houses a sustainability committee that works on ways to help make MSA’s operations more sustainable and environmentally just. To learn more or sign up for our listserv, visit <a href="https://sites.google.com/risd.edu/modernism-and-environment/home">our website</a>.
 
