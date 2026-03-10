@@ -101,13 +101,13 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 
 			<div class="container">
-				<div class="title-box"><h2 style="padding-bottom: 0px;">CFP</h2></div>
-				<a href="/conference/MSA2026/CFP/">
-					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">Registration</h2></div>
+				<a href="/conference/MSA2026/registration/">
+						<img src="/conference/MSA2026/assets/back_registration.jpg" id="bottom7" style="width:0%">
 				</a>
-				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
+				<img src="/conference/MSA2026/assets/tarot_fortune.png" id="top7" style="top: 0px;" onclick="fadeOut7()">
 			</div>
-
+			
 			<div class="container">
 				<div class="title-box"><h2 style="padding-bottom: 0px;">Seminars</h2></div>
 				<a href="/conference/MSA2026/seminars/">
@@ -122,6 +122,14 @@ Loughborough, UK, 1-4 July, 2026
 						<img src="/conference/MSA2026/assets/back_workshop.jpg" id="bottom4" style="width:0%">
 				</a>
 				<img src="/conference/MSA2026/assets/tarot_moon.png" id="top4" style="top: 0px;" onclick="fadeOut4()">
+			</div>
+					
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">CFP</h2></div>
+				<a href="/conference/MSA2026/CFP/">
+					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
 			</div>
 
 			<div class="container">
@@ -141,13 +149,6 @@ Loughborough, UK, 1-4 July, 2026
 				<img src="/conference/MSA2026/assets/tarot_fool.png" id="top5" style="top: 0px;" onclick="fadeOut5()">
 			</div>
 
-			<div class="container">
-				<div class="title-box"><h2 style="padding-bottom: 0px;">Registration</h2></div>
-				<a href="/conference/MSA2026/registration/">
-						<img src="/conference/MSA2026/assets/back_registration.jpg" id="bottom7" style="width:0%">
-				</a>
-				<img src="/conference/MSA2026/assets/tarot_fortune.png" id="top7" style="top: 0px;" onclick="fadeOut7()">
-			</div>
 
 			<div class="container">
 				<div class="title-box"><h2 style="padding-bottom: 0px;">Program</h2></div>
@@ -157,15 +158,17 @@ Loughborough, UK, 1-4 July, 2026
 				<img src="/conference/MSA2026/assets/tarot_priestess.png" id="top8" style="top: 0px;" onclick="fadeOut8()">
 			</div>	
 
--->
-
 			<div class="container">
 				<div class="title-box"><h2 style="padding-bottom: 0px;">MSA</h2></div>
 				<a href="https://www.moderniststudies.org/">
 						<img src="/conference/MSA2026/assets/back_msa.jpg" id="bottom9" style="width:0%">
 				</a>
 				<img src="/conference/MSA2026/assets/tarot_strength.png" id="top9" style="top: 0px;" onclick="fadeOut9()">
-			</div>		
+			</div>	
+			
+-->
+
+	
 		</div>
 	</div>
 </div>
