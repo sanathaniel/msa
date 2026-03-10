@@ -125,19 +125,19 @@ Loughborough, UK, 1-4 July, 2026
 			</div>
 					
 			<div class="container">
-				<div class="title-box"><h2 style="padding-bottom: 0px;">CFP</h2></div>
-				<a href="/conference/MSA2026/CFP/">
-					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
-				</a>
-				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
-			</div>
-
-			<div class="container">
 				<div class="title-box"><h2 style="padding-bottom: 0px;">Travel</h2></div>
 				<a href="/conference/MSA2026/travel/">
 						<img src="/conference/MSA2026/assets/back_travel.jpg" id="bottom6" style="width:0%">
 				</a>
 				<img src="/conference/MSA2026/assets/tarot_world.png" id="top6" style="top: 0px;" onclick="fadeOut6()">
+			</div>
+
+			<div class="container">
+				<div class="title-box"><h2 style="padding-bottom: 0px;">CFP</h2></div>
+				<a href="/conference/MSA2026/CFP/">
+					<img src="/conference/MSA2026/assets/back_cfp.jpg" id="bottom2" style="width:0%">
+				</a>
+				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
 			</div>
 
 <!--
