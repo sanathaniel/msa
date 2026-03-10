@@ -3,7 +3,7 @@ layout: 26conference
 permalink: /conference/MSA2026/events/
 sidebar:
   - title: ""
-    image: conference/MSA2026/assets/logo.jpg
+    image: conference/MSA2026/assets/logo1.jpg
   - nav: conf_nav_26
 masthead: false
 footer: false
