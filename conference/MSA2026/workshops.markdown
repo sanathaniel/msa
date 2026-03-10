@@ -4,15 +4,25 @@ permalink: /conference/MSA2026/workshops/
 sidebar:
   - title: ""
     image: conference/MSA2026/assets/logo.jpg
-  - nav: conf_nav
+  - nav: conf_nav_26
 masthead: false
 footer: false
 ---
 
 <style>
 
-background-color: #D6D1CE;
+
+background-color: #fffe8b4;
 font-style: Sansita;
+color: black;
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
 
 a {
 color: #d0463c;
@@ -34,6 +44,7 @@ h3 {
 color: #689c4b;
 }
   
+  
 </style>
 
 
@@ -48,12 +59,12 @@ color: #689c4b;
 
 
         
-    	<p></p>
-    	<p>The Modernist Studies Association is pleased to offer the
+<p></p>
+<p>The Modernist Studies Association is pleased to offer the
 following workshops during the Loughborough 2026 conference. You will have the
 opportunity to sign up for these workshops during the online registration
 process. </p>
-        <p></p>
+<p></p>
         
 <details closed>
 	<summary class="seminar-title" id="p1">Mapping Religion in the Global Anglophone Novel</summary>
@@ -64,7 +75,7 @@ process. </p>
         
 <p>Exploration of religion speaks to modernist fascination with the global. Inspired by the foundational scholarship of Susan Stanford Friedman and Leon Surette, modernism and religion has emerged as a prominent subfield at recent MSA conferences. While agons with Judaism, Christianity, and nondenominational spirituality in European and American contexts have shaped much of this work to date, the global turn represents an opportunity to integrate work on modernism with new methods from religious studies, such J. Barton Scott's “connective” approach. This approach enables scholars to attend to the significant role of comparative religion in modernist aesthetics without using a comparative method that risks replicating modernist logics rather than illuminating modernist projects in new ways.</p>
 
-To facilitate this shift, the Mapping Religion in the Global Anglophone Novel (MaRGAN) project is producing a searchable database that records engagements with religion in approximately 500 modernist novels, classifying and describing relevant elements of religion (ritual, gods and spirts, community etc), the religious traditions with which they engage, and the geographical areas from which they emerge accompanied by several visualisations. The workshop invites scholars of modernism and religion, the global modernist novel, digital humanists, and individual authors whose work interacts with religious themes to explore in a structured way a prototype of the MaRGAN database, bringing familiar elements of well-known novels into conversation with lesser-known texts from across the globe. Through a range of planned activities, participants leave the workshop with an expanded understanding of how religion and the global interact in the context of modernism, a framework for working with and across diverse and underrepresented texts, and experience of a new digital tool and dataset that can be integrated into future teaching and research.</p>
+<p>To facilitate this shift, the Mapping Religion in the Global Anglophone Novel (MaRGAN) project is producing a searchable database that records engagements with religion in approximately 500 modernist novels, classifying and describing relevant elements of religion (ritual, gods and spirts, community etc), the religious traditions with which they engage, and the geographical areas from which they emerge accompanied by several visualisations. The workshop invites scholars of modernism and religion, the global modernist novel, digital humanists, and individual authors whose work interacts with religious themes to explore in a structured way a prototype of the MaRGAN database, bringing familiar elements of well-known novels into conversation with lesser-known texts from across the globe. Through a range of planned activities, participants leave the workshop with an expanded understanding of how religion and the global interact in the context of modernism, a framework for working with and across diverse and underrepresented texts, and experience of a new digital tool and dataset that can be integrated into future teaching and research.</p>
 
     	</div>
 </details>
@@ -95,7 +106,7 @@ To facilitate this shift, the Mapping Religion in the Global Anglophone Novel (M
 	<summary class="seminar-title" id="p2">Give What You Can, Take What You Need: Creating Modernist Mutual Aid</summary>
 		<div class="description">
     
-        <p><strong>Leadera: Dr. Nissa Ren Cannon (Stanford University), Dr. Catherine Hollis (Independent Scholar)</strong></p>
+        <p><strong>Leaders: Dr. Nissa Ren Cannon (Stanford University), Dr. Catherine Hollis (Independent Scholar)</strong></p>
         
         <p>The story of modernist art is a story of collaboration. There might be no Ulysses without Sylvia Beach; no Waste Land without Ezra Pound or Vivien Eliot; no Contact Press without Bryher. As universities turn ever more towards austerity—stripping scholars of travel funding, library access, and academic freedoms—the future of modernist scholarship, too, relies on collaboration through community activism.</p>
 
@@ -104,7 +115,6 @@ To facilitate this shift, the Mapping Religion in the Global Anglophone Novel (M
 <p>This is a hands-on opportunity to build something together! Bring your ideas, your experiences, your hopes, your needs, and your technical skills. Come prepared to think through resources that might be shared—database access? On the ground archival work? Conference hotel rooms? And ways we might share them—a dedicated website? A listserv? Social media?</p>
 
 <p>This workshop is organized under the auspices of CCIS, but open to all!</p>
-		</p>
 		
 </div>
 </details>

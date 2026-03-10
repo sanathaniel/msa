@@ -4,15 +4,25 @@ permalink: /conference/MSA2026/travel/
 sidebar:
   - title: ""
     image: conference/MSA2026/assets/logo.jpg
-  - nav: conf_nav
+  - nav: conf_nav_26
 masthead: false
 footer: false
 ---
 
 <style>
 
-background-color: #D6D1CE;
+
+background-color: #fffe8b4;
 font-style: Sansita;
+color: black;
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
 
 a {
 color: #d0463c;
@@ -21,7 +31,7 @@ color: #d0463c;
 a:visited {
 color: #d0463c;
 }
-  
+
 h1 {
 color: #689c4b;
 }
@@ -33,6 +43,7 @@ color: #689c4b;
 h3 {
 color: #689c4b;
 }
+  
 
   
 </style>
@@ -55,11 +66,11 @@ Travel coming April 2026.
 
 <h2>Conference Hotels </h2>
 
-<h3>Burleigh Court Hotel <h3>
+<h3>Burleigh Court Hotel </h3>
 
 Located on campus, Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre. 
 
-<h3>The Link Hotel <h3>
+<h3>The Link Hotel </h3>
 
 The Link Hotel offers 3-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre. 
 
@@ -69,19 +80,19 @@ Book on the discount conference offer, saving around 1/3 on commercial rates, on
 
 <h2>Getting to Loughborough University  </h2>
 
-<h3>By Air <h3>
+<h3>By Air </h3>
 
 East Midlands Airport is only 7 miles away from campus and offers both domestic and international flights. For destinations and a full timetable contact the East Midlands Airport Information Desk on +44 (0)8719 199000. A taxi from East Midlands Airport to Loughborough campus will cost £18 – £22. There is a regular <a href="https://www.kinchbus.co.uk/services/skylink-derby/timetable">bus service</a> between East Midlands Airport and Loughborough town centre (running up to every 15 minutes); the journey takes around 30 minutes and a single fare costs £3. 
 
-<h3>By Rail <h3>
+<h3>By Rail </h3>
 
 Regular services operate between Loughborough and other main line towns - including daily trains to and from London St Pancras International, 90 minutes away. Tickets are available up to 3 months in advance via the Trainline - <a href="https://www.thetrainline.com/">https://www.thetrainline.com/</a> and considerably cheaper if you buy ahead of time. Taxis are normally available from the town station to Loughborough campus for around £8, or you can use the <a href="https://www.kinchbus.co.uk/services/sprint">Sprint shuttle bus</a>. 
 
-<h3>By Coach <h3>
+<h3>By Coach </h3>
 
 Coach and bus services operate from the centre of Loughborough. Travel by National Express or regional bus services to Loughborough then connect with local Kinch bus town services to the Loughborough University campus. For enquiries about all these services call Traveline on 0871 200 22 33. 
 
-<h3>Getting around campus  <h3>
+<h3>Getting around campus  </h3>
 
 The Sprint shuttle bus has stops around campus, including outside Holywell park. A single fare is around £3, payable by cash or contactless. 
 
@@ -97,7 +108,7 @@ For things to do and see in and around Loughborough, check out the <a href="http
 
 Loughborough town centre boasts plenty of independent coffee shops, pubs and casual restaurants. Here’s a few recommendations from the local conference committee: 
 
-<h3>For coffee (and a bite) <h3>
+<h3>For coffee (and a bite) </h3>
 
 <a href="https://maps.app.goo.gl/nWniidkyDoTj6pdx8">Moja</a>
 
@@ -109,7 +120,7 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 
 <a href="https://maps.app.goo.gl/wa3Kw1uqR9VAgTMXA">Nina’s</a> 
 
-<h3>For food <h3>
+<h3>For food </h3>
 
 <a href="https://www.caravelli.co.uk">Caravelli</a> (Italian restaurant) 
 
@@ -117,7 +128,7 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 
 <a href="https://maps.app.goo.gl/2cy92RFdgb9kuvMj8">Peter Pizzeria </a>
 
-<h3>For a drink<h3>
+<h3>For a drink</h3>
 
 <a href="https://maps.app.goo.gl/nHJoWYaDPTCU4vih7">The White Hart</a> 
 
