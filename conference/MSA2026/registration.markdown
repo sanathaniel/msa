@@ -49,7 +49,7 @@ color: #689c4b;
 </div>
 
 <p>
-Registration coming May 2026.
+Registration coming March 2026.
 </p>
 
 

@@ -3,8 +3,6 @@
 conf_nav_26:
   - title: "Loughborough"
     url: /conference/MSA2026/
-  - title: "CFP"
-    url: /conference/MSA2026/CFP/
   - title: "Registration"
     url: /conference/MSA2026/registration/
   - title: "Seminars"
@@ -13,6 +11,8 @@ conf_nav_26:
     url: /conference/MSA2026/workshops/
   - title: "Travel"
     url: /conference/MSA2026/travel/
+  - title: "CFP"
+    url: /conference/MSA2026/CFP/
 #  - title: "Events"
 #    url: /conference/MSA2026/special-events/
 #  - title: "Draft Program"
