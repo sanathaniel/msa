@@ -155,7 +155,7 @@ process. </p>
 	<summary class="seminar-title" id="p2">What’s Next: Life and Work After Submission</summary>
 		<div class="description">
     
-        <p><strong>Leaders: Dr. Enaiê Mairê Azambuja, Dr. James Dowthwaite, Dr. Paul K. Saint-Amour, Dr. Aran Ward Sell</strong></p>
+        <p><strong>Leaders: Dr. Enaiê Mairê Azambuja (University of Tampere), Dr. James Dowthwaite (Johannes Gutenberg-Universität Mainz), Dr. Paul K. Saint-Amour (University of Pennsylvania), Dr. Aran Ward Sell (University of Notre Dame)</strong></p>
         
         <p>Aimed at graduate students and early career researchers but open to all, this panel will feature speakers from a range of career stages and backgrounds, covering topics including applying for postdoctoral awards, publishing your first monograph, and careers beyond and adjacent to academia. Chaired by BAMS and MSA postgraduate reps, this session will include an extended Q&A.
 		</p>
