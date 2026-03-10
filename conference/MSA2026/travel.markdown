@@ -110,28 +110,34 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 
 <h3>For coffee (and a bite) </h3>
 
-<a href="https://maps.app.goo.gl/nWniidkyDoTj6pdx8">Moja</a>
-
-<a href="https://www.ourpublic.co.uk">Public</a> 
-
-<a href="https://www.thedeliatfiftyeight.co.uk">The Deli at 58</a> 
-
-<a href="https://bombompatisserie.com">Bom Bom Patisserie</a> (located on Derwent Drive - not in the town centre but very close to campus) 
-
-<a href="https://maps.app.goo.gl/wa3Kw1uqR9VAgTMXA">Nina’s</a> 
+<ul>
+	<li><a href="https://maps.app.goo.gl/nWniidkyDoTj6pdx8">Moja</a>
+	</li>
+	<li><a href="https://www.ourpublic.co.uk">Public</a> 
+	</li>
+	<li><a href="https://www.thedeliatfiftyeight.co.uk">The Deli at 58</a> 
+	</li>
+	<li><a href="https://bombompatisserie.com">Bom Bom Patisserie</a> (located on Derwent Drive - not in the town centre but very close to campus) 
+	</li>
+	<li><a href="https://maps.app.goo.gl/wa3Kw1uqR9VAgTMXA">Nina’s</a> 
+	</li>
+</ul>
 
 <h3>For food </h3>
 
-<a href="https://www.caravelli.co.uk">Caravelli</a> (Italian restaurant) 
-
-<a href="https://maps.app.goo.gl/kcmretEyYGKbupV3A">Sonny’s Street Food</a> (casual Thai eatery) 
-
-<a href="https://maps.app.goo.gl/2cy92RFdgb9kuvMj8">Peter Pizzeria </a>
+<ul>
+	<li><a href="https://www.caravelli.co.uk">Caravelli</a> (Italian restaurant) 
+	<li><a href="https://maps.app.goo.gl/kcmretEyYGKbupV3A">Sonny’s Street Food</a> (casual Thai eatery) 
+	<li><a href="https://maps.app.goo.gl/2cy92RFdgb9kuvMj8">Peter Pizzeria </a>
+</ul>
 
 <h3>For a drink</h3>
 
-<a href="https://maps.app.goo.gl/nHJoWYaDPTCU4vih7">The White Hart</a> 
-
-<a href="https://bluemonkeybrewery.com/organ-grinder-pubs/loughborough/">The Organ Grinder</a> (owned by Nottingham-based Blue Monkey Brewery) 
-
-<a href="https://maps.app.goo.gl/ZPbSHmnNY9NS3m4U7">Jam Garden</a> (has a beer garden) 
+<ul>
+	<li><a href="https://maps.app.goo.gl/nHJoWYaDPTCU4vih7">The White Hart</a> 
+	</li>
+	<li><a href="https://bluemonkeybrewery.com/organ-grinder-pubs/loughborough/">The Organ Grinder</a> (owned by Nottingham-based Blue Monkey Brewery) 
+	</li>
+	<li><a href="https://maps.app.goo.gl/ZPbSHmnNY9NS3m4U7">Jam Garden</a> (has a beer garden) 
+	</li>
+</ul>

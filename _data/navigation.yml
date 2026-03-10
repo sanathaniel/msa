@@ -13,10 +13,10 @@ conf_nav_26:
     url: /conference/MSA2026/workshops/
   - title: "Accommodations"
     url: /conference/MSA2026/travel/
-  - title: "Events"
-    url: /conference/MSA2026/special-events/
-  - title: "Draft Program"
-    url: /conference/MSA2026/program/
+#  - title: "Events"
+#    url: /conference/MSA2026/special-events/
+#  - title: "Draft Program"
+#    url: /conference/MSA2026/program/
     
 conf_nav:
   - title: "Ⓣ Boston Ⓣ"
