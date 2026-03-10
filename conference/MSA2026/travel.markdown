@@ -127,8 +127,11 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 
 <ul>
 	<li><a href="https://www.caravelli.co.uk">Caravelli</a> (Italian restaurant) 
+	</li>
 	<li><a href="https://maps.app.goo.gl/kcmretEyYGKbupV3A">Sonny’s Street Food</a> (casual Thai eatery) 
+	</li>
 	<li><a href="https://maps.app.goo.gl/2cy92RFdgb9kuvMj8">Peter Pizzeria </a>
+	</li>
 </ul>
 
 <h3>For a drink</h3>
