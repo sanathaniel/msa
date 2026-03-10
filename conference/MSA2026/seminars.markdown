@@ -4,7 +4,7 @@ permalink: /conference/MSA2026/seminars/
 sidebar:
   - title: ""
     image: conference/MSA2026/assets/logo.jpg
-  - nav: conf_nav
+  - nav: conf_nav_26
 masthead: false
 footer: false
 ---
@@ -12,8 +12,17 @@ footer: false
 <style>
 
 
-background-color: #D6D1CE;
+background-color: #fffe8b4;
 font-style: Sansita;
+color: black;
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
 
 a {
 color: #d0463c;
@@ -34,6 +43,7 @@ color: #689c4b;
 h3 {
 color: #689c4b;
 }
+  
   
 </style>
 
@@ -175,7 +185,7 @@ color: #689c4b;
 		</div>
 </details>	
 <details closed>
-	<summary class="seminar-title" id="p7">WEIRD FATES AND FUTURES OF MODERNISM</summary>
+	<summary class="seminar-title" id="p7">Weird Fates and Futures of Modernism</summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Maren Linett (Purdue University), Prof. Cynthia Port (Caoastal Carolina University)</strong>
 			</p>
