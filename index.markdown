@@ -36,14 +36,14 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing an excellent lineup of guest speakers for MSA Loughborough!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Submit</a>
 		</div>	
-
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="/conference/MSA2026/assets/logo2.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">The deadline for MSA26 Travel Grants is March 27!</figcaption>
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog">Apply</a>
+				<figcaption  class="archive__item-title">The deadline for MSA'26 Conference Travel Grants is March 27!</figcaption>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary>Apply</a>
 		</div>
 
 		<div class ="feature__item">
