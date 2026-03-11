@@ -27,14 +27,6 @@ layout: home
 
 	<div class="feature__wrapper">
 
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Voting Now Open</h3>
-				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
-			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
-		</div>
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -45,16 +37,25 @@ layout: home
 			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Submit</a>
 		</div>	
 
-
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="/conference/MSA2026/assets/logo1.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
-		</div>	
-		
+				<h3>Travel Grants</h3>
+				<figcaption  class="archive__item-title">The deadline for MSA '26 Travel Grants is March 27!</figcaption>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog">Apply</a>
+		</div>
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Voting Now Open</h3>
+				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
+			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
+		</div>
+
+
 			
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -114,7 +115,14 @@ layout: home
 		</div>
 <!--	
 	
-
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
+		</div>	
 
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -143,15 +151,7 @@ layout: home
 			<a href="/conference/MSA2024" class="btn btn--primary">Reflect</a>
 		</div>
 
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/subway_nyc.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">The deadline for MSA '25 Travel Grants is August 15!</figcaption>
-			<a href="/members/travel-grants" class="btn btn--primary">Apply</a>
-		</div>
-		
+	
 
 
 		<div class ="feature__item">
