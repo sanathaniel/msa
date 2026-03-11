@@ -43,7 +43,7 @@ layout: home
 				</div>
 				<h3>Travel Grants</h3>
 				<figcaption  class="archive__item-title">The deadline for MSA'26 Conference Travel Grants is March 27!</figcaption>
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary>Apply</a>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary">Apply</a>
 		</div>
 
 		<div class ="feature__item">
