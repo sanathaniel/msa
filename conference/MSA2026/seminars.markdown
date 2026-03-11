@@ -101,8 +101,6 @@ color: #689c4b;
 	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Alexandra Peat (University of Galway), Dr. Emily Ridge (University of Galway)</strong></p>
-			<p><strong>Invited participant: Brendan Kredell (Oakland University)</strong>
-			</p>
 			<p>The acknowledgement page has become a standard feature of contemporary literature, a paratextual space for authors to offer thanks, signal networks of personal and professional support, or cite sources. Following the premise that the shape and function of the contemporary acknowledgment page has evolved and crystallised since the mid-to-late twentieth century, this seminar is interested in those offbeat forms of acknowledgement that existed before the consolidation of acknowledgement as a paratextual practice, paying particular attention to modernist acknowledgements.</p>
 
 <p>We particularly welcome explorations of offbeat or ‘weird’ modes of acknowledgment. As this was a paratextual element not yet established as an expected ‘bibliographic code’ (Bornstein, 2001: 6), modernist manifestations of acknowledgement are often eccentric in appearance, arrangement, style, tone, positionality and form. Moreover, acknowledgements are often both dispersed within works (epigraphs, footnotes, etc.) and displaced from the works (located at a remove within letters, essays, diaries, reviews, etc.) The seminar will start with definitions. What is an acknowledgement in the context of literary production more broadly and within modernist literary production more specifically? How should we interpret forms of acknowledgement when they are not a recognized element of a literary work? What, who and how did modernist writers acknowledge? To what extent do acknowledgements remain a private textual practice for modernists, and can we identify a shift in modernist writing towards public declarations which perhaps reflects broader trends in the professionalization of writing? Do acknowledgements speak to affective affiliations, distributions of power and/or cultural norms? We invite interventions on the subject of acknowledgement in three broad categories: 1) ideas around modernist paratext; 2) the institutionalisation of writing and publishing practices; 3) ideas of collaboration and network building.
@@ -112,7 +110,7 @@ color: #689c4b;
 <details closed>
 	<summary class="seminar-title" id="p2">Women+ in Modernist Publishing and Print</summary>
 		<div class="description">	
-			<p><strong>Leaders: Prof. Nicola WIlson (University of Reading), Dr. Claire Battershill (University of Toronto)</strong></p>
+			<p><strong>Leaders: Prof. Nicola Wilson (University of Reading), Dr. Claire Battershill (University of Toronto)</strong></p>
 			<p>In our recent co-edited volume, <i>The Edinburgh Companion to Women in Publishing, 1900–2020</i> (EUP, 2024), we identified a rapidly developing field of intersectional feminist book and publishing history—one that is reshaping understandings of women’s long-standing and often historically under-valued contributions to publishing and print production. Building on crucial scholarship by Jayne Marek (1995) and Shari Benstock (1986), contributors to the modernist section of the volume traced a “constellation” (Battershill 2022) of women’s modernist print activity, examining figures such as Elizabeth Corbet Yeats, Virginia Woolf, Anaïs Nin, Nancy Cunard, Caresse Crosby, Maria Jolas, Jessie Redmon Fauset, Noémia de Sousa, Natalie and Lea Danesi, Gwenda David, Harriet Shaw Weaver, Marie Neurath, Nella Larsen, Ethel Gutman, and Eva Collet Reckitt. While the volume assembled a diverse range of fascinating women’s stories, it also underscored the need for further scholarly engagement with this expanding field.</p>
 
 <p>This seminar invites contributors to extend and deepen research into women’s varied roles in modernist publishing and book production. The early twentieth century was a period of dynamic change in print culture, shaped by the rise of literary agents; the uneven evolution of systems of literary patronage; and the continued growth of popular print. Women worked across a wide spectrum of sites—including libraries, publishing houses, print rooms, drawing offices, bookshops, and design firms—yet many of these contributions remain understudied. We welcome reflections and new research that illuminate the gendered terrain of modernist print and book history. We invite contributors to consider the question: what does feminist modernist book and publishing history look like?
@@ -250,9 +248,9 @@ color: #689c4b;
 		</div>
 </details>	
 <details closed>
-	<summary class="seminar-title" id="p12">MGhost Writing Modernism Writing Ghosts</summary>
+	<summary class="seminar-title" id="p12">Ghost Writing Modernism Writing Ghosts</summary>
 		<div class="description">
-			<p><strong>Leaders: MDr. Catherine Hollis (Independent Schoar), Dr. Shilo McGiff (Independent Scholar)</strong>
+			<p><strong>Leaders: Dr. Catherine Hollis (Independent Schoar), Dr. Shilo McGiff (Independent Scholar)</strong>
 			</p>
 			<p>This seminar proposes that we take the spirit of “ghost writing” seriously, especially as concerns the invisible labor of developing, editing, annotating, indexing, or coding text. To ghost write a text is to work invisibly and generously, to embody another’s words in material form, without being detected as the “invisible hand” doing the labor. Collaborative writing is a form of ghost writing, where the edges blur between individuals. Life writing, archival research and bibliographic work are also forms of ghostly labor, where biographers and researchers act as mediums channeling the words and works of the dead. Ghost writing can be an act of love or an unrecognized slog, a form of legacy creation or exploitative academic labor.</p>
 
