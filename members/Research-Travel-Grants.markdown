@@ -12,15 +12,14 @@ sidebar:
 
 <h2>Conference Travel Grants</h2>
 
-<!--
+<p>Applications are now open for travel grants to the 2026 MSA conference, July 1-4 in Loughborough, UK. </p>
 
-<p>Applications are now open for travel grants to the 2025 MSA conference, October 9-12 in Boston, MA. Thanks to the fundraising efforts of the local conference organizing committee, this year we will be able to distribute about 20 grants of up to $500 each to provide partial reimbursement for travel, lodging, and other conference-related expenses. All conference participants may apply, but preference will be given to advanced graduate students, contingent faculty, and members with little or no institutional support.</p>
-
-<p>The deadline for applications is Friday, August 15th, with notifications to follow shortly thereafter. Please note that recipients of travel grants must pick up their awards at the conference; funds are not distributed in advance.</p>
+<p>The deadline for applications is Friday, March 27, with notifications to follow shortly thereafter. Please note that recipients of travel grants must pick up their awards at the conference; funds are not distributed in advance.</p>
 
 <p>The <a href="https://docs.google.com/forms/d/11JiXDUYcf1S37OEHIDf1drrzG0uO8dzBZFcxIxCplyI/edit">short application can be found here</a>. 
+<p>For questions regarding travel grants, please contact MSA 2nd Vice President, <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney (rhigney@ccny.cuny.edu)</a>.</p> 
 
--->
+<!--
 
 <p>Applications for travel grants are now closed. Please note that recipients of travel grants must pick up their awards at the conference; funds are not distributed in advance. Applications for next year's Conference Travel Grants will open in 2026.</p>
 
