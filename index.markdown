@@ -39,10 +39,10 @@ layout: home
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
-					<img src="/conference/MSA2026/assets/logo1.jpg" min-width="150" min-height="150"/>
+					<img src="/conference/MSA2026/assets/logo2.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">The deadline for MSA '26 Travel Grants is March 27!</figcaption>
+				<figcaption  class="archive__item-title">The deadline for MSA26 Travel Grants is March 27!</figcaption>
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog">Apply</a>
 		</div>
 
