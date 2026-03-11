@@ -34,7 +34,7 @@ layout: home
 				</div>
 				<h3>MSA'26 Keynotes</h3>
 				<figcaption  class="archive__item-title">Announcing an excellent lineup of guest speakers for MSA Loughborough!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Submit</a>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Plan</a>
 		</div>	
 	 	
 		<div class ="feature__item">
