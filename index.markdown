@@ -36,7 +36,7 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing an excellent lineup of guest speakers for MSA Loughborough!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Submit</a>
 		</div>	
-		
+	 	
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="/conference/MSA2026/assets/logo2.jpg" min-width="150" min-height="150"/>
