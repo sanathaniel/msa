@@ -67,7 +67,9 @@ members_nav:
         url: /members/affiliations/
       - title: "Grants"
         url: /members/travel-grants/
-
+      - title: "Mentorship"
+        url: /members/mentorship/
+    
 conference_nav:
       - title: "Conference"
         url: /conference/
