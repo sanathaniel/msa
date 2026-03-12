@@ -21,11 +21,11 @@ The program is designed to support MSA’s graduate student members in developin
 
 <h3>Eligibility</h3>
 
-Applicants must be: 
+Applicants must: 
 
 <ul>
-	<li>Graduate students at the time of applying;</li>
-	<li>Current MSA members; and</li>
+	<li>Be graduate students at the time of applying;</li>
+	<li>Be current MSA members; and</li>
 	<li>Have a draft piece of work or dissertation chapter they would like to workshop into an article</li>
 </ul>
 
@@ -45,6 +45,7 @@ Please compile and send the following in one document via email to <a href="mail
 	<li>University:</li>
 	<li>Year of study:</li>
 	<li>At what stage is your draft piece of work? (e.g., still a dissertation chapter, in a draft for an article):</li>
+</ul>
 
 Please attach:
 
@@ -52,10 +53,11 @@ Please attach:
 	<li>Description of your article-length project you intend to workshop (approx. 250-300 words)</li>
 	<li>Writing sample from this project (max. 1000 words)</li>
 	<li>Brief statement of publication and mentorship goals (e.g., why do you want to be involved?)</li>
+</ul>
 
 All final decisions about graduate, mentor, and journal assignments will be made by the MSA program committee.
 
-<strong>Questions</strong>
+<p><strong>Questions</strong></p>
 Send any questions to <a href="mailto:msagraduatementorship@gmail.com">msagraduatementorship@gmail.com</a> 
 
 
