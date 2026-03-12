@@ -27,7 +27,6 @@ layout: home
 
 	<div class="feature__wrapper">
 
-	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
@@ -48,14 +47,21 @@ layout: home
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
+					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Grad Mentorship</h3>
+				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Membership Program</figcaption>
+			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
+		</div>
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Voting Now Open</h3>
 				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
 			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
 		</div>
-
-
 			
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -91,20 +97,10 @@ layout: home
 					<img src="assets/vonwerefkin_frauen_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>SIGs</h3>
-				<figcaption  class="archive__item-title">Special Interest Groups shape the future of modernist studies.</figcaption>
+				<figcaption  class="archive__item-title">Special Interest Groups shape modernist studies.</figcaption>
 			<a href="/members/sigs/" class="btn btn--primary">Gather</a>
 		</div>
 		
-		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
-				</div>
-				<h3>ModNets</h3>
-				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
-			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
-		</div>
-
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/switchboard.jpg" min-width="150" min-height="150"/>
@@ -114,6 +110,16 @@ layout: home
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 <!--	
+
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
+				</div>
+				<h3>ModNets</h3>
+				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
+			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
+		</div>
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
