@@ -6,15 +6,15 @@ sidebar:
   nav: members_nav
 ---
 
-<h2>Graducate Publication Memborship Program</h2>
+<h2>Graduate Publication Membership Program</h2>
 
 MSA is pleased to announce the launch of its Graduate Publication Mentorship Program for 2026. This initiative has been developed in collaboration with four leading journals in modernist studies, each of whom will sponsor one of four available mentorship placements:
 
 <ul>
-	<li>Modernism/modernity, editors Anjali Nerlekar and Faye Hammill</li>
-	<li>Feminist Modernist Studies, editor Jean Mills</li>
-	<li>The Space Between: Literature and Culture 1914-1945, editors Sarah Cornish and Melissa Dinsman</li>
-	<li>Journal of Modern Periodical Studies, editors Matt Levay and Elizabeth Sheehan</li>
+	<li><strong>Modernism/modernity</strong>, editors Anjali Nerlekar and Faye Hammill</li>
+	<li><strong>Feminist Modernist Studies</strong>, editor Jean Mills</li>
+	<li><strong>The Space Between: Literature and Culture 1914-1945</strong>, editors Sarah Cornish and Melissa Dinsman</li>
+	<li><strong>Journal of Modern Periodical Studies</strong>, editors Matt Levay and Elizabeth Sheehan</li>
 </ul>
 
 The program is designed to support MSA’s graduate student members in developing a draft article to submission standard through structured engagement with an experienced academic mentor. Participants will benefit from one-on-one meetings with their assigned mentor, a simulated blind peer review process conducted in partnership with one of the sponsoring journals, and an invitation to a panel-style Zoom event at which journal editors and colleagues will discuss the experience of receiving and responding to reader reports.
