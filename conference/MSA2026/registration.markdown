@@ -56,8 +56,8 @@ color: #689c4b;
 
 <h3>Full rate whole conference</h3>
 <ul>
-Early bird- £255/ ~ $340</li>
-Regular - £285/ ~ $380</li>
+	<li>Early bird- £255/ ~ $340</li>
+	<li>Regular - £285/ ~ $380</li>
 </ul>
 
 <h3>Reduced rate* whole conference</h3>
