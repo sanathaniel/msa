@@ -1,10 +1,6 @@
 ---
 layout: 26conference
 permalink: /conference/MSA2026/CFP/
-sidebar:
-  - title: ""
-    image: conference/MSA2026/assets/logo1.jpg
-  - nav: conf_nav_26
 masthead: false
 footer: false
 minimal_mistakes_skin: "dark"
