@@ -66,18 +66,6 @@ Travel coming April 2026.
 
 <h2>Conference Hotels </h2>
 
-<h3>Burleigh Court Hotel </h3>
-
-Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
-
-Offers are for rooms rather than per guest, making sharing the most cost-effective option.
-The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night.
-
-The standard conference offer for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), bookable via the registration page. To request to stay an additional night before the conference on 30 June, be sure to select this option in addition on the registration form.
-
-For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
-
-
 <h3>The Link Hotel </h3>
 
 <a href="https://www.linkhotelloughborough.co.uk/">The Link Hotel</a> offers 3-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre.
@@ -98,6 +86,17 @@ The following room types are included in the conference offer:
 
 For any other arrangements or further information about the Link contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11418.
 
+
+<h3>Burleigh Court Hotel </h3>
+
+Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
+
+Offers are for rooms rather than per guest, making sharing the most cost-effective option.
+The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night.
+
+The standard conference offer for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), bookable via the registration page. To request to stay an additional night before the conference on 30 June, be sure to select this option in addition on the registration form.
+
+For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
 
 <h2>Getting to Loughborough University  </h2>
 
