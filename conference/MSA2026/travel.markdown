@@ -68,15 +68,39 @@ Travel coming April 2026.
 
 <h3>Burleigh Court Hotel </h3>
 
-Located on campus, Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre. 
+Located on campus, Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
+
+Offers are for rooms rather than per guest, making sharing the most cost-effective option. 
+
+Burleigh Court offers double, twin, and double/twin accessible rooms at £361 for three nights. 
+
+The standard conference offer for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive). To request to stay an additional night before the conference on 30 June, be sure to select this option in addition on the registration form.
+
+For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
 
 <h3>The Link Hotel </h3>
 
-The Link Hotel offers 3-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre. 
+<a href="https://www.linkhotelloughborough.co.uk/">The Link Hotel</a> offers 3-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre.
 
-Book on the discount conference offer, saving around 1/3 on commercial rates, on our online registration page. 
+Offers are for rooms rather than per guest, making sharing the most cost-effective option. 
 
- 
+All conference offers at the Link Hotel are for four nights (30 June and 1, 2, and 3 July 2026 inclusive). 
+
+For any other arrangements or further information about the Link contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11418.
+
+<ul>
+
+	<li>Link hotel double [sleeps two, 1x king size bed]: £327 for 4 nights</li>
+
+	<li>Link hotel twin [sleeps two, single beds]: £327 for 4 nights</li>
+
+	<li>Link hotel accessible room [sole, double or twin occupancy]: £327 for 4 nights</li>
+
+	<li>Link hotel superior double [sleeps three, either 3 x single beds or 1x king size bed and 1 x single bed]: £400 for 4 nights</li>
+
+	<li>Link hotel family room [two joined rooms with a shared bathroom, sleeps 4 plus a camp/cot bed]: £467 for 4 nights</li>
+
+</ul>
 
 <h2>Getting to Loughborough University  </h2>
 
@@ -121,6 +145,12 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 	</li>
 	<li><a href="https://maps.app.goo.gl/wa3Kw1uqR9VAgTMXA">Nina’s</a> 
 	</li>
+	<li><a href="https://maps.app.goo.gl/hGLnniAzKUBGhZnk8">Olivia’s Bakery</a>
+	</li>
+	<li><a href="https://maps.app.goo.gl/iESN5X2GiF9WHShE8">Corita</a> 
+	</li>
+	<li><a href="https://maps.app.goo.gl/UCWMVi5TtKwW5AGe7">Luna Bakery </a> 
+	</li>
 </ul>
 
 <h3>For food </h3>
@@ -130,7 +160,15 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 	</li>
 	<li><a href="https://maps.app.goo.gl/kcmretEyYGKbupV3A">Sonny’s Street Food</a> (casual Thai eatery) 
 	</li>
-	<li><a href="https://maps.app.goo.gl/2cy92RFdgb9kuvMj8">Peter Pizzeria </a>
+	<li><a href="https://maps.app.goo.gl/2cy92RFdgb9kuvMj8">Peter Pizzeria </a> 
+	</li>
+	<li><a href="https://maps.app.goo.gl/KuJGD1DSABooQ7Rb7">Yakii Express</a> (Japanese)
+	</li>
+	<li><a href="https://maps.app.goo.gl/L1FcDxS6p13cPQNs5">Tarboush</a> (Lebanese and Moroccan) 
+	</li>
+	<li><a href="https://maps.app.goo.gl/HwbEdV7Nch6xFFm89">Gohan</a> (Bento/Sushi)
+	</li>
+	<li><a href="https://maps.app.goo.gl/UsoxC1qXCgEjdgteA">SoLi Kitchen</a> (Asian fusion, located on Derwent Drive - not in the town centre but very close to campus)
 	</li>
 </ul>
 
@@ -142,5 +180,7 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 	<li><a href="https://bluemonkeybrewery.com/organ-grinder-pubs/loughborough/">The Organ Grinder</a> (owned by Nottingham-based Blue Monkey Brewery) 
 	</li>
 	<li><a href="https://maps.app.goo.gl/ZPbSHmnNY9NS3m4U7">Jam Garden</a> (has a beer garden) 
+	</li>
+	<li><a href="https://maps.app.goo.gl/sEaP5nFCZqAvY98J6">Needle and Pin</a> (real ale / craft beer spot)
 	</li>
 </ul>

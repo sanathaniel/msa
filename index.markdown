@@ -88,7 +88,7 @@ layout: home
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
 				</div>
 				<h3>Print+</h3>
-				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences through Print+.</figcaption>
+				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences.</figcaption>
 			<a href="https://modernismmodernity.org/" class="btn btn--primary">Read</a>
 		</div>	
 		
