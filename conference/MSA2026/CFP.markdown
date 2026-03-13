@@ -139,7 +139,7 @@ color: #689c4b;
 </div>
 
 <div style="font-size: .5rem;">
-	Pamela Coleman Smith, <i>The Empress</i>
+	Pamela Colman Smith, <i>The Empress</i>
 </div>
 
 <p>

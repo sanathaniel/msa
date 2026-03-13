@@ -179,7 +179,7 @@ Loughborough, UK, 1-4 July, 2026
 <hr>
 
 <div style="font-size: .5rem;">
-	Images drawn from Pamela Coleman Smith's 1909 Rider-Waite Tarot Deck
+	Images drawn from Pamela Colman Smith's 1909 Rider-Waite Tarot Deck
 </div>
 
 
