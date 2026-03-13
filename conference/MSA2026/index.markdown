@@ -140,11 +140,6 @@ Loughborough, UK, 1-4 July, 2026
 				<img src="/conference/MSA2026/assets/tarot_hanged.png" id="top2" style="top: 0px;" onclick="fadeOut2()">
 			</div>
 
-<hr>
-
-<div style="font-size: .5rem;">
-	Images drawn from Pamela Coleman Smith's 1909 Rider-Waite Tarot Deck
-</div>
 
 <!--
 			<div class="container">
@@ -178,6 +173,13 @@ Loughborough, UK, 1-4 July, 2026
 		</div>
 	</div>
 </div>
+
+<hr>
+
+<div style="font-size: .5rem;">
+	Images drawn from Pamela Coleman Smith's 1909 Rider-Waite Tarot Deck
+</div>
+
 
 <script>
 
