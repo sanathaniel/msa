@@ -68,7 +68,7 @@ Travel coming April 2026.
 
 <h3>Burleigh Court Hotel </h3>
 
-Located on campus, Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
+Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
 
 Offers are for rooms rather than per guest, making sharing the most cost-effective option. 
 
