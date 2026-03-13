@@ -1,10 +1,6 @@
 ---
 layout: 26conference
 permalink: /conference/MSA2026/CFP/
-sidebar:
-  - title: ""
-    image: conference/MSA2026/assets/logo1.jpg
-  - nav: conf_nav_26
 masthead: false
 footer: false
 minimal_mistakes_skin: "dark"
@@ -143,7 +139,7 @@ color: #689c4b;
 </div>
 
 <div style="font-size: .5rem;">
-	Pamela Coleman Smith, <i>The Empress</i>
+	Pamela Colman Smith, <i>The Empress</i>
 </div>
 
 <p>

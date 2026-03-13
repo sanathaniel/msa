@@ -48,26 +48,45 @@ color: #689c4b;
 	</div>
 </div>
 
-<p>
-Registration coming March 2026.
-</p>
+
+<p><strong><a target="_blank" href="/members/conference">Registration for MSA Loughborough 2026 coming  in March 2026</a></strong></p>
 
 
+<h2>Registration Rates</h2>
 
+<h3>Full rate whole conference</h3>
+<ul>
+Early bird- £255/ ~ $340</li>
+Regular - £285/ ~ $380</li>
+</ul>
 
+<h3>Reduced rate* whole conference</h3>
+<ul>
+	<li>Early bird– £165 / ~ $220</li>
+	<li>Regular - £195/ ~ $260</li>
+</ul>
 
+<h3>Full rate day fee (including lunches and refreshments)</h3>
+<ul>
+	<li>£105 per day/ ~ $140</li>
+</ul>
 
+<h3>Reduced rate* single day conference</h3>
+<ul>
+	<li>£70 per day/ ~ $94</li>
+</ul>
+
+<h3>Online fee – one rate only</h3>
+<ul>
+	<li>Whole conference - £85/ ~ $114</li>
+</ul>
 
 
 <!--
 
-<p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
-
 <p>
 Please note that your membership in the MSA must be current in order for you to register. You may be directed within the Registration process to renew or initiate your membership. Membership fees are listed on the <a href="https://www.moderniststudies.org/members/login/">MSA website</a>. For assistance, please contact JHUP customer service at: 1-800-548-1784 or JrnlCirc@press.jhu.edu.
 </p>
-
-<h2>Registration Rates</h2>
 
 <ul style="font-size: 18px;">
 <li><strong>Regular Member Rate:</strong> $260 before August 31 $ | $290 after August 31<br/></li>
