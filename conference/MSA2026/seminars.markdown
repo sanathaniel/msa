@@ -210,7 +210,7 @@ color: #689c4b;
 <details closed>
 	<summary class="seminar-title" id="p9">Caring Modernists?</summary>
 		<div class="description">
-			<p><strong>Leaders: Dr. Milena Schwab-Graham (University of Leeds), Dr. Emily Bell (Loughborough University), Dr. Jade Bell (Loughborough University), Ms. Paula Maher Martin (University of Galway)</strong>
+			<p><strong>Leaders: Dr. Milena Schwab-Graham (University of Leeds), Dr. Emily Bell (Loughborough University), Dr. Jade French (Loughborough University), Ms. Paula Maher Martin (University of Galway)</strong>
 			</p>
 			<p>Modernist creative production was characterised by networks and relationships among friends, partners, family, editors, and authors (Micir, 2019; Phillips and Vorano, 2025). However, the care work, care ethics, and caring relationships which underpin modernist networks remain under-theorised. We invite position papers on how modernist works are related to care, and how care ethics can alter our interactions with modernist texts. Conversely: can we call modernists caring? Colder affects (Burstein; 2012), insularity (Esty, 2009), and forms of impersonality (Rives, 2012; Gonzalez, 2020), violence and fascism (Mackay, 2017; Cole, 2012) also mark modernist aesthetics. How do avant-garde experiments capture experiences of care? How is literary production embedded in/indebted to practices of care? How does modernist literary production resist insularity? How might care be a form of disruption in modernist literary depictions?</p>
 
