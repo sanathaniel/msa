@@ -49,7 +49,7 @@ color: #689c4b;
 </div>
 
 
-<p><strong><a target="_blank" href="/members/conference">Registration for MSA Loughborough 2026 coming  in March 2026</a></strong></p>
+<p><strong>Registration for MSA Loughborough 2026 coming  in March 2026</strong></p>
 
 
 <h2>Registration Rates</h2>

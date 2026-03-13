@@ -70,37 +70,34 @@ Travel coming April 2026.
 
 Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
 
-Offers are for rooms rather than per guest, making sharing the most cost-effective option. 
+Offers are for rooms rather than per guest, making sharing the most cost-effective option.
+The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night.
 
-Burleigh Court offers double, twin, and double/twin accessible rooms at £361 for three nights. 
-
-The standard conference offer for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive) and is bookable via the registration page. To request to stay an additional night before the conference on 30 June, be sure to select this option in addition on the registration form.
+The standard conference offer for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), bookable via the registration page. To request to stay an additional night before the conference on 30 June, be sure to select this option in addition on the registration form.
 
 For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
+
 
 <h3>The Link Hotel </h3>
 
 <a href="https://www.linkhotelloughborough.co.uk/">The Link Hotel</a> offers 3-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre.
 
-Offers are for rooms rather than per guest, making sharing the most cost-effective option. 
+Offers are for rooms rather than per guest, making sharing the most cost-effective option.
 
-All conference offers at the Link Hotel are for four nights (30 June and 1, 2, and 3 July 2026 inclusive). These offers will be bookable via the registration page.
+All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page.
+
+The following room types are included in the conference offer:
+
+<ul>
+	<li>Link hotel double [sleeps two, 1x king size bed]: £82 per night</li>
+	<li>Link hotel twin [sleeps two, single beds]: £82 per night</li>
+	<li>Link hotel accessible room [sole, double or twin occupancy]: £82 per night</li>
+	<li>Link hotel superior double [sleeps three, either 3 x single beds or 1x king size bed and 1 x single bed]: £100 per night</li>
+	<li>Link hotel family room [two joined rooms with a shared bathroom, sleeps 4 plus a camp/cot bed]: £117 per night</li>
+</ul>
 
 For any other arrangements or further information about the Link contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11418.
 
-<ul>
-
-	<li>Link hotel double [sleeps two, 1x king size bed]: £327 for 4 nights</li>
-
-	<li>Link hotel twin [sleeps two, single beds]: £327 for 4 nights</li>
-
-	<li>Link hotel accessible room [sole, double or twin occupancy]: £327 for 4 nights</li>
-
-	<li>Link hotel superior double [sleeps three, either 3 x single beds or 1x king size bed and 1 x single bed]: £400 for 4 nights</li>
-
-	<li>Link hotel family room [two joined rooms with a shared bathroom, sleeps 4 plus a camp/cot bed]: £467 for 4 nights</li>
-
-</ul>
 
 <h2>Getting to Loughborough University  </h2>
 
