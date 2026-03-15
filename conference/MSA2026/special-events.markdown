@@ -48,7 +48,6 @@ color: #689c4b;
 </style>
 
 
-
 <div class="page__hero--overlay" 
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
     <div class="wrapper">
@@ -58,10 +57,6 @@ color: #689c4b;
 	</div>
 </div>
 
-
-<p>
-Events coming June 2026.
-</p>
 
 <h2>Additional programming</h2>
 
