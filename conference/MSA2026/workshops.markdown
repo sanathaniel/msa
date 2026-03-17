@@ -152,10 +152,13 @@ color: #689c4b;
 	<summary class="seminar-title" id="p2">What’s Next: Life and Work After Submission</summary>
 		<div class="description">
     
-        <p><strong>Leaders: Dr. Enaiê Mairê Azambuja (University of Tampere), Dr. James Dowthwaite (Johannes Gutenberg-Universität Mainz), Dr. Paul K. Saint-Amour (University of Pennsylvania), Dr. Aran Ward Sell (University of Notre Dame)</strong></p>
-        
-        <p>Aimed at graduate students and early career researchers but open to all, this panel will feature speakers from a range of career stages and backgrounds, covering topics including applying for postdoctoral awards, publishing your first monograph, and careers beyond and adjacent to academia. Chaired by BAMS and MSA postgraduate reps, this session will include an extended Q&A.
-		</p>
+        <p><strong>Leaders: Jenny Kenyon (University of Bristol), Lily Martin (Keele University), John D. Attridge (Regent College London), Enaiê Mairê Azambuja (Independent Researcher; incoming Visiting Research Fellow, University of Tampere), James Dowthwaite (University of Mainz), Paul Saint-Amour (University of Pennsylvania), Aran Ward Sell (University of Notre Dame)</strong></p>
+             
+Aimed at graduate students and early career researchers, but open to all, this session will feature speakers from a range of career stages and backgrounds.
+
+We will cover topics ranging from publishing your research (including a first monograph), to navigating job interviews, applying for postdoctoral awards, and connecting with networks for doctoral and postdoctoral scholars. The session will also address sustaining your research outside of institutional structures, managing and participating in public engagement projects, and careers beyond and adjacent to academia.
+
+Chaired by the BAMS and MSA postgraduate reps, the session will begin with short introductory talks from each of our speakers, followed by an extended Q&A. Please feel free to ask any questions you have relating to life and work after submission. 
 		
 		
 </div>
