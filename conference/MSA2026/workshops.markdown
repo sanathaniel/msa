@@ -60,10 +60,7 @@ color: #689c4b;
 
         
 <p></p>
-<p>The Modernist Studies Association is pleased to offer the
-following workshops during the Loughborough 2026 conference. You will have the
-opportunity to sign up for these workshops during the online registration
-process. </p>
+<p>The Modernist Studies Association is pleased to offer the following workshops during the Loughborough 2026 conference. This year, rather than signing up for these workshops as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</p>
 <p></p>
         
 <details closed>

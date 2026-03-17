@@ -57,6 +57,9 @@ color: #689c4b;
 	</div>
 </div>
 
+<p>
+Please  use our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a> to sign up for the special events listed on this page.
+</p>
 
 <h2>Additional programming</h2>
 
