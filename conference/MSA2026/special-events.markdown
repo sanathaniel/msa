@@ -71,6 +71,8 @@ Lunchtime workshop: Cleaved Into: a modernist sculpture writing workshop (led by
 
 Evening workshop: Weird Waste in Modernism: A Craft Drop-In (led by Molly Volanth Hall, Jade French, and Diana Cristina Proenza): Weird Waste is a scheduled workshop session during the conference, using assemblage techniques to reimagine trash/found objects collected on campus.
 
+Event (Friday evening): Meet-Up for Graduate Students & ECRs: An informal meet-up for graduates and early career researchers, hosted by the BAMS and MSA postgraduate reps.  
+
 <h2>SIG film events</h2>
 
 Wednesday 1 July, 4-6pm: Breaking Plates and Smashing the Patriarchy: A 72-minute program curated and introduced (via pre-recorded video) by Professor Maggie Hennefeld
