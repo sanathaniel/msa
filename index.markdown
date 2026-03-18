@@ -31,9 +31,9 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA'26 Keynotes</h3>
-				<figcaption  class="archive__item-title">Announcing an excellent lineup of guest speakers for MSA Loughborough!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/CFP/#guests" class="btn btn--primary">Plan</a>
+				<h3>MSA'26</h3>
+				<figcaption  class="archive__item-title">Registration for MSA2026, Loughborough, opens in one week!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/" class="btn btn--primary">Plan</a>
 		</div>	
 	 	
 		<div class ="feature__item">
