@@ -53,15 +53,6 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program</figcaption>
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
-
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Voting Now Open</h3>
-				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
-			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
-		</div>
 			
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -109,8 +100,6 @@ layout: home
 				<figcaption  class="archive__item-title">Join one of MSA's listservs.</figcaption>
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
-<!--	
-
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -120,6 +109,21 @@ layout: home
 				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
+<!--	
+
+		
+
+		
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Voting Now Open</h3>
+				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
+			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
+		</div>
+		
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
