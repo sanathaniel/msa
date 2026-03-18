@@ -50,7 +50,7 @@ layout: home
 					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Grad Mentorship</h3>
-				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Membership Program</figcaption>
+				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program</figcaption>
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
 
