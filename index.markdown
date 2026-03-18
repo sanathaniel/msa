@@ -34,7 +34,7 @@ layout: home
 				<h3>MSA'26</h3>
 				<figcaption  class="archive__item-title">Registration for MSA2026, Loughborough, opens in one week!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/" class="btn btn--primary">Plan</a>
-		</div>	
+		</div>
 	 	
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
