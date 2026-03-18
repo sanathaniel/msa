@@ -6,7 +6,7 @@ sidebar:
   nav: members_nav
 ---
 
-<h2>Graduate Publication Membership Program</h2>
+<h2>Graduate Publication Mentorship Program</h2>
 
 MSA is pleased to announce the launch of its Graduate Publication Mentorship Program for 2026. This initiative has been developed in collaboration with four leading journals in modernist studies, each of whom will sponsor one of four available mentorship placements:
 
