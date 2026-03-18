@@ -144,9 +144,10 @@ color: #689c4b;
 		<div class="description">
 			<p><strong>Leaders: Dr. Marc Farrior (Southern Utah University), Dr. Carolyn Jacobs (Central Connecticut State University)</strong>
 			</p>
-			<p>Modernism’s fascination with formal experiment and estranged perception finds a natural counterpart in today’s classroom where film and media pedagogy continually re-creates its “weird” energy. This seminar invites participants to consider teaching itself as a modernist experiment, where its practice is an art of assemblage, montage, and defamiliarization. How might our courses or modules on film, literature, and media reproduce the generative weirdness of modernist culture, not only through the works we assign but through the modes of engagement we design?</p>
 
-<p>Bringing together educators and scholars who work across film, literature, digital media, and multimodal composition, this seminar encourages reflection on pedagogy as <i>making</i>. Participants may discuss classroom practices that use remix, editing, visualization, or collaborative production to teach students how form produces meaning. In keeping with the conference theme, we invite approaches that embrace strangeness, sensory disorientation, or productive failure as pedagogical tools.</p>
+Modernism’s fascination with formal experiment and estranged perception finds a natural counterpart in today’s classroom where film and media pedagogy continually re-creates its “weird” energy. This seminar invites participants to consider teaching itself as a modernist experiment, where its practice is an art of assemblage, montage, and defamiliarization. How might our courses or modules on film, literature, and/or media reproduce the generative weirdness of modernist culture, not only through the works we assign but also in the way we engage students and assess their learning?
+
+Bringing together educators and scholars who work across film, literature, digital media, and multimodal composition, this seminar encourages reflection on pedagogy as making. Participants may discuss classroom practices that teach students how form produces meaning. In keeping with the conference theme, we invite approaches that embrace strangeness, sensory disorientation, or productive failure as pedagogical tools not only in their approach to modernist texts, but also in teaching a broad range of topics and materials. We seek examples from courses from disciplines and subjects including—but not limited to—film theory and history, film and video production, media studies, adaptation studies, literature, history, art and art history, and graphic design. We welcome interdisciplinary and multidisciplinary approaches to the study of film, media, and related areas. 
 
 <p>Guiding questions to consider:</p>
 
@@ -163,8 +164,7 @@ color: #689c4b;
 	</ul>
 </p>
 			
-<p>Participants will circulate a brief teaching artifact, such as a syllabus excerpt, assignment prompt, in-class activity, multimodal exercise, open educational resource (OER), or other pedagogical material, accompanied by a short (300–500 word) reflective statement that situates the artifact within a broader approach to teaching film and media. These materials are intended to highlight concrete classroom practices and creative experiments that model modernism’s weirdness in pedagogical form. Our discussion will map shared concerns across these teaching materials, consider issues of accessibility and assessment, and envision collaborative frameworks for expanding experimental, media-rich approaches to teaching modernism.
-			</p>
+Participants will circulate a brief teaching artifact, such as a syllabus excerpt, assignment prompt, in-class activity, multimodal exercise, or other pedagogical material, accompanied by a short (300–500 word) reflective statement that situates the artifact within their broader approach to teaching film and media. These materials are intended to highlight concrete classroom practices and creative experiments that might model modernism’s weirdness in pedagogical form. Our discussion will map shared concerns across these teaching materials, consider issues of accessibility and assessment, and envision collaborative frameworks for expanding experimental, media-rich approaches to teaching film and modernism.
 
 		</div>
 </details>	
@@ -572,7 +572,7 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 </p>
 			<p>We call for brief position papers (5-7 pages) on any work (including work in progress) that engages with modernism and Byzantium. Papers will be pre-circulated. We will match participants and ask each attendee to respond to one paper.</p>
 
-<p>The seminar will be led by two scholars working within modernism and Byzantine studies who would like to continue building an open and inviting network on modernism & Byzantium. For this seminar, we have invited two responders from Literature and from Byzantine Studies, whom we’ve asked to share with us their most recent work and talk about the challenges of working across periods. The responders are Eleni Kefala (St. Andrews) and Suzanne Hobson (Queen Mary London).</p>
+<p>The seminar will be led by two scholars working within modernism and Byzantine studies who would like to continue building an open and inviting network on modernism & Byzantium. For this seminar, we have invited three responders from Literature and from Byzantine Studies, whom we’ve asked to share with us their most recent work and talk about the challenges of working across periods. The responders are Eleni Kefala (St. Andrews), Suzanne Hobson (Queen Mary London), and Tony Paraskeva (Roehampton).</p>
 
 <p>The discussion will be structured, congenial, and inclusive; the organisers are committed to ensuring that everyone gets the chance to speak and to be heard.
 			</p>

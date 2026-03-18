@@ -66,7 +66,7 @@ Travel coming April 2026.
 
 <h2>Conference Hotels </h2>
 
-<p>The conference fee, and the conference hotels, will be bookable via the registration page.</p>
+<p>The conference fee and the conference hotels will be bookable via the registration page.</p>
 
 <h3>The Link Hotel </h3>
 
@@ -91,7 +91,7 @@ For any other arrangements or further information about the Link contact the hot
 
 <h3>Burleigh Court Hotel </h3>
 
-Located on campus, <!--<a href="https://www.burleigh-court.co.uk/">Burleigh Court</a>--> Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
+Located on campus,<!--<a href="https://www.burleigh-court.co.uk/">Burleigh Court</a>-->Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
 
 Offers are for rooms rather than per guest, making sharing the most cost-effective option.
 The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night.
