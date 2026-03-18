@@ -54,7 +54,9 @@ color: #689c4b;
 <p>Registration will open by the end of March 2026. <strong>Please note that you must be a current member of <a href="https://bams.ac.uk/join-bams/">BAMS</a> or the <a href="https://www.moderniststudies.org/members/login/">MSA</a> to register.</strong></p>
 
 
-The conference fee, and the conference hotels, will be bookable via the registration page. For seminars, workshops and additional programming please use this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">form.</a></p> Registration fees are as follows:
+<p>The conference fee, and the conference hotels, will be bookable via the registration page. For seminars, workshops and additional programming please use this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">form.</a></p> 
+
+<p>Registration fees are as follows:</p>
 
 <h2>Registration Rates</h2>
 
