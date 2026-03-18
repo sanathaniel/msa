@@ -49,7 +49,7 @@ color: #689c4b;
 </div>
 
 
-<p><strong>Registration for MSA Loughborough 2026 coming  in March 2026</strong></p>
+<p><strong>Registration for MSA Loughborough 2026 coming, March 25!</strong></p>
 
 
 <h2>Registration Rates</h2>
@@ -81,6 +81,7 @@ color: #689c4b;
 	<li>Whole conference - £85/ ~ $114</li>
 </ul>
 
+<p>*Reduced rate is generously interpreted to include graduate students as well as precarious and retired scholars. There will also be an opportunity to self-define eligibility for the reduced rate.</p>
 
 <!--
 
