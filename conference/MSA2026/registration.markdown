@@ -51,6 +51,7 @@ color: #689c4b;
 
 <p><strong>Registration for MSA Loughborough 2026 coming, March 25!</strong></p>
 
+<p>Registration will open by the end of March 2026. The conference fee, and the conference hotels, will be bookable via the registration page. For seminars, workshops and additional programming please use this <href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">form.</a></p> Registration fees are as follows:
 
 <h2>Registration Rates</h2>
 
