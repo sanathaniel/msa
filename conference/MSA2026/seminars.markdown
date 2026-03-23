@@ -142,12 +142,13 @@ color: #689c4b;
 <details closed>
 	<summary class="seminar-title" id="p5">Teaching Film and Media</summary>
 		<div class="description">
-			<p><strong>Leaders: Dr. Marc Farrior (Southern Utah University), Dr. Carolyn Jacobs (Central Connecticut State University)</strong>
+			<p><strong>Leaders: Dr. Marc Farrior (Southern Utah University), Dr. Carolyn Jacobs (Central Connecticut State University), Dr. Alix Beeston
+(Cardiff University), Dr. Nicholas Forster (University of Oregon)</strong>
 			</p>
 
 Modernism’s fascination with formal experiment and estranged perception finds a natural counterpart in today’s classroom where film and media pedagogy continually re-creates its “weird” energy. This seminar invites participants to consider teaching itself as a modernist experiment, where its practice is an art of assemblage, montage, and defamiliarization. How might our courses or modules on film, literature, and/or media reproduce the generative weirdness of modernist culture, not only through the works we assign but also in the way we engage students and assess their learning?
 
-Bringing together educators and scholars who work across film, literature, digital media, and multimodal composition, this seminar encourages reflection on pedagogy as making. Participants may discuss classroom practices that teach students how form produces meaning. In keeping with the conference theme, we invite approaches that embrace strangeness, sensory disorientation, or productive failure as pedagogical tools not only in their approach to modernist texts, but also in teaching a broad range of topics and materials. We seek examples from courses from disciplines and subjects including—but not limited to—film theory and history, film and video production, media studies, adaptation studies, literature, history, art and art history, and graphic design. We welcome interdisciplinary and multidisciplinary approaches to the study of film, media, and related areas. 
+Bringing together educators and scholars who work across film, literature, digital media, and multimodal composition, this seminar encourages reflection on pedagogy as making. Participants may discuss classroom practices that teach students how form produces meaning. In keeping with the conference theme, we invite approaches that embrace strangeness, sensory disorientation, or productive failure as pedagogical tools not only in their approach to modernist texts, but also in teaching a broad range of topics and materials. We seek examples from courses from disciplines and subjects including—but not limited to—film theory and history, film and video production, media studies, adaptation studies, literature, history, art and art history, and graphic design. We welcome interdisciplinary and multidisciplinary approaches to the study of film, media, and related areas. 
 
 <p>Guiding questions to consider:</p>
 
