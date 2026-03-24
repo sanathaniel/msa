@@ -74,7 +74,7 @@ Travel coming April 2026.
 
 Offers are for rooms rather than per guest, making sharing the most cost-effective option.
 
-All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page: first select your registration type, and the offers will appear.
+All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page: first select your registration type, and the offers will appear. <strong>For stays of less than three days, please contact the Link Hotel directly.</strong>
 
 The following room types are included in the conference offer:
 
@@ -94,9 +94,9 @@ For any other arrangements or further information about the Link contact the hot
 Located on campus,<!--<a href="https://www.burleigh-court.co.uk/">Burleigh Court</a>-->Burleigh Court is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre.
 
 Offers are for rooms rather than per guest, making sharing the most cost-effective option.
-The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night.
+The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night. 
 
-The standard conference offers for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), with limited availability for a four-night stay (30 June and 1, 2, and 3 July 2026 inclusive). These offers are bookable via the registration page: first select your registration type, and the offers will appear.
+The standard conference offers for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), with limited availability for a four-night stay (30 June and 1, 2, and 3 July 2026 inclusive). These offers are bookable via the registration page: first select your registration type, and the offers will appear. <strong>For stays of less than three days, please contact the Burleigh Court Hotel directly.</strong>
 
 For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
 
