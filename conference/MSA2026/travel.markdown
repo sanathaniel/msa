@@ -74,7 +74,7 @@ Travel coming April 2026.
 
 Offers are for rooms rather than per guest, making sharing the most cost-effective option.
 
-All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page: first select your registration type, and the offers will appear. <strong>For stays of less than three days, please contact the Link Hotel directly.</strong>
+All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page: first select your registration type, and the offers will appear. <strong>For stays of less than four days, please contact the Link Hotel directly.</strong>
 
 The following room types are included in the conference offer:
 
