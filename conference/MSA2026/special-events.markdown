@@ -71,6 +71,8 @@ Lunchtime workshop: Cleaved Into: a modernist sculpture writing workshop (led by
 
 Evening workshop: Weird Waste in Modernism: A Craft Drop-In (led by Molly Volanth Hall, Jade French, and Diana Cristina Proenza): Weird Waste is a scheduled workshop session during the conference, using assemblage techniques to reimagine trash/found objects collected on campus.
 
+Lunchtime workshop: One Poem/One Page: Close Readings (led by Eve Sorum): Return to what brought you to this profession, drop your expertise at the door, and come to this gathering to read together one page—just one page—from a work of fiction, or one short poem. This is a completely low-tech event—the only media will be the piece of paper you receive at the door. Open to all who would like to gather and close read in the way that we so often ask our students to do, but so rarely get to do together. No advance warning of what the page or poem will be, so come prepared to enjoy the encounter and the discussion with your colleagues. All are welcome.
+
 Event (Friday evening): Meet-Up for Graduate Students & ECRs: An informal meet-up for graduates and early career researchers, hosted by the BAMS and MSA postgraduate reps.  
 
 <h2>SIG film events</h2>
@@ -80,3 +82,7 @@ Wednesday 1 July, 4-6pm: Breaking Plates and Smashing the Patriarchy: A 72-minut
 Thursday 2 July, 4-6pm: Koodal (dir. Tyeb Mehta, 1970, 15min) and Arcadia (dir. Paul Wright, 2017, 82min): Curated and introduced by Rithika Kaushik and Sean Batton
 
 Friday 3 July, 8-10pm: Screening (program tbc) at the Odeon Theatre, Loughborough, followed by post-screening reception
+
+<h2>Film Screening and Conference After-Party at the Phoenix Cinema, Leicester</h2>
+
+Saturday 4 July, from 6pm: Exit Medea (dir. Tony Paraskeva, 2025). We are delighted to support this screening of Paraskeva’s experimental/modernist horror road movie at the independent Phoenix Cinema in Leicester, just down the road from the railway station and en route from Loughborough to London. The film will be followed by an after-party on the cinema’s terrace.

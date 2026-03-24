@@ -74,7 +74,7 @@ Travel coming April 2026.
 
 Offers are for rooms rather than per guest, making sharing the most cost-effective option.
 
-All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page.
+All conference offers at the Link Hotel are for a maximum four nights (30 June and 1, 2, and 3 July 2026 inclusive), bookable via the registration page: first select your registration type, and the offers will appear.
 
 The following room types are included in the conference offer:
 
@@ -96,7 +96,7 @@ Located on campus,<!--<a href="https://www.burleigh-court.co.uk/">Burleigh Court
 Offers are for rooms rather than per guest, making sharing the most cost-effective option.
 The conference rate at Burleigh Court offers double, twin, and double/twin accessible rooms at £121 per night.
 
-The standard conference offer for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), bookable via the registration page. To request to stay an additional night before the conference on 30 June, be sure to select this option in addition on the registration form.
+The standard conference offers for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), with limited availability for a four-night stay (30 June and 1, 2, and 3 July 2026 inclusive). These offers are bookable via the registration page: first select your registration type, and the offers will appear.
 
 For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
 

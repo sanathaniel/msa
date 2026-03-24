@@ -16,7 +16,7 @@ sidebar:
 
 <p>The deadline for applications is Friday, March 27, with notifications to follow shortly thereafter. Please note that recipients of travel grants must pick up their awards at the conference; funds are not distributed in advance.</p>
 
-<p>The <a href="https://docs.google.com/forms/d/11JiXDUYcf1S37OEHIDf1drrzG0uO8dzBZFcxIxCplyI/edit">short application can be found here</a>. 
+<p>The <a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog">short application can be found here</a>. 
 <p>For questions regarding travel grants, please contact MSA 2nd Vice President, <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney (rhigney@ccny.cuny.edu)</a>.</p> 
 
 <!--

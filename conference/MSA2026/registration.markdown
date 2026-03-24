@@ -49,7 +49,7 @@ color: #689c4b;
 </div>
 
 
-<p><strong>Registration for MSA Loughborough 2026 coming March 25!</strong></p>
+<p><strong><a href="https://store.lboro.ac.uk/conferences-and-events/school-of-social-sciences-and-humanities/upcoming-events/weird-modernisms">Registration for MSA Loughborough 2026</a></strong></p>
 
 <p><strong>Please note that you must be a current member of <a href="https://bams.ac.uk/join-bams/">BAMS</a> or the <a href="https://www.moderniststudies.org/members/login/">MSA</a> to register.</strong></p>
 
