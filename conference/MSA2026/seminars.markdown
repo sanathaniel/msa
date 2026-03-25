@@ -264,7 +264,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <details closed>
 	<summary class="seminar-title" id="p13">Raggy Content: New Materialist Approaches to Modernist Editing and Book History</summary>
 		<div class="description">
-			<p><strong>Leaders: Prof. Clare Hutton, Dr. Claire Drewery (Sheffiled Hallam), Prof. Andrew Thacker (Notthingham Trent University)</strong>
+			<p><strong>Leaders: Prof. Clare Hutton (Loughborough University), Dr. Claire Drewery (Sheffieled Hallam), Prof. Andrew Thacker (Notthingham Trent University)</strong>
 			</p>
 			<p>Inspired by Jonathan Senchyne’s ‘Vibrant Material Textuality: New Materialism, Book History and the Archive in Paper’ (<i>Studies in Romanticism</i>, 2018) (‘the language of materialism has taken hold in book history’), this seminar invites all colleagues to join us in thinking about what is really new in the fields of Modernist editing and book history. Convened by Claire Drewery (Sheffield Hallam), Clare Hutton (Loughborough) and Andrew Thacker (Nottingham Trent), we are keen to discuss the method, rationale and thinking behind current solo or collaborative projects in Modernist editing and book history.</p>
 
