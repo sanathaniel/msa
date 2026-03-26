@@ -77,7 +77,7 @@ color: #689c4b;
     	</div>
 </details>
 <details closed>
-	<summary class="seminar-title" id="p2">Ghost in the Medium: Teaching and Researching Text and Image: Organizing and Advocacy Across Contingencies</summary>
+	<summary class="seminar-title" id="p2">Ghost in the Medium: Teaching and Researching Text and Image</summary>
 		<div class="description">
     
         <p><strong>Leaders: Prof. Emily Hyde (Rowan University), Ms. Jo Klevdal (University of North Carolina, Chapel Hill)</strong></p>
