@@ -64,7 +64,19 @@ Travel coming April 2026.
 </p>
 -->
 
-<h2>Conference Hotels </h2>
+<strong>
+	<li>
+		<a href="#hotels">To: Hotels</a>
+	</li>
+	<li>
+		<a href="#travel">To: Travel</a>
+	</li>
+	<li>
+		<a href="#town">To: Attractions</a>
+	</li>
+</strong>
+
+<h2 id="hotels">Conference Hotels </h2>
 
 We have arranged special deals with two Loughborough University campus-based hotels for the duration of the conference. There are also other hotel options available in the town centre. More information is below.
 
@@ -109,20 +121,23 @@ Please bear in mind that Loughborough town centre is located about a 45-minute w
 
 Options in town include:
 
-<a href="https://www.travelodge.co.uk/hotels/547/Loughborough-Central-hotel">Travelodge Loughborough Central</a>
+<ul>
 
-<a href="https://www.premierinn.com/gb/en/hotels/england/leicestershire/loughborough/loughborough.html?ARRdd=27&ARRmm=03&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=PI">Premier Inn Loughborough</a>
+	<li><a href="https://www.travelodge.co.uk/hotels/547/Loughborough-Central-hotel">Travelodge Loughborough Central</a></li>
 
-<a href="https://ramadaloughboroughhotel.reservationstays.com/hotels/VGDLZzGy?utm_source=adwords_semro&utm_campaign=G%3ARS%3AROW%3APPC%3ANB%3AProp%3AROW%3AEN%3AEurope-GB&gad_source=1&gad_campaignid=20394154503&gbraid=0AAAAAo1QcNkORUSvg4s_CQ4m0mXmOn3iO&gclid=CjwKCAjwspPOBhB9EiwATFbi5IEM5S2_TIZHqUqRyrnCb5R9kjId_opanP0IbXenzhSHMZj3T8IEfxoCFL0QAvD_BwE&redirect_auth_retry=true">Ramada By Wyndham Loughborough Hotel</a>
+	<li><a href="https://www.premierinn.com/gb/en/hotels/england/leicestershire/loughborough/loughborough.html?ARRdd=27&ARRmm=03&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=PI">Premier Inn Loughborough</a></li>
 
-<a href="https://www.hotelsone.com/loughborough-hotels-gb/holywell-guest-house.html?dsti=34363825&dstt=8&nid=1&as=g&aid=725421826045&cmpid=20703726143&agid=173557743553&gid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE&gwbrd=CkEKCQjwj47OBhDHARIwAOza9m-uV7eSaEh59icpLZgSekiZ4_PHk-DNjOmRqykkMT9k_7U3OqEuD_ZGfFfdGgK6lA&ggbrd=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gad_source=1&gad_campaignid=20703726143&gbraid=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gclid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE">Holywell Guest House</a>
+	<li><a href="https://ramadaloughboroughhotel.reservationstays.com/hotels/VGDLZzGy?utm_source=adwords_semro&utm_campaign=G%3ARS%3AROW%3APPC%3ANB%3AProp%3AROW%3AEN%3AEurope-GB&gad_source=1&gad_campaignid=20394154503&gbraid=0AAAAAo1QcNkORUSvg4s_CQ4m0mXmOn3iO&gclid=CjwKCAjwspPOBhB9EiwATFbi5IEM5S2_TIZHqUqRyrnCb5R9kjId_opanP0IbXenzhSHMZj3T8IEfxoCFL0QAvD_BwE&redirect_auth_retry=true">Ramada By Wyndham Loughborough Hotel</a></li>
 
-<a href="https://charnwoodregency.com/">Charnwood Regency Guest House</a>
+	<li><a href="https://www.hotelsone.com/loughborough-hotels-gb/holywell-guest-house.html?dsti=34363825&dstt=8&nid=1&as=g&aid=725421826045&cmpid=20703726143&agid=173557743553&gid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE&gwbrd=CkEKCQjwj47OBhDHARIwAOza9m-uV7eSaEh59icpLZgSekiZ4_PHk-DNjOmRqykkMT9k_7U3OqEuD_ZGfFfdGgK6lA&ggbrd=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gad_source=1&gad_campaignid=20703726143&gbraid=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gclid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE">Holywell Guest House</a></li>
 
-<a href="https://www.guestreservations.com/the-peacock-inn-loughborough/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006021&gad_source=1&gad_campaignid=991006021&gbraid=0AAAAADiMQMbM_bac1JEK12hjX1SZwFOoU&gclid=CjwKCAjwspPOBhB9EiwATFbi5Obxtwnc4FUJzmucCOiTRW0Ka9hiH81w2BV07cs0-Rw7-E4Hs-scLhoCtywQAvD_BwE">The Peacock Inn</a>
+	<li><a href="https://charnwoodregency.com/">Charnwood Regency Guest House</a></li>
 
+	<li><a href="https://www.guestreservations.com/the-peacock-inn-loughborough/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006021&gad_source=1&gad_campaignid=991006021&gbraid=0AAAAADiMQMbM_bac1JEK12hjX1SZwFOoU&gclid=CjwKCAjwspPOBhB9EiwATFbi5Obxtwnc4FUJzmucCOiTRW0Ka9hiH81w2BV07cs0-Rw7-E4Hs-scLhoCtywQAvD_BwE">The Peacock Inn</a></li>
 
-<h2>Getting to Loughborough University  </h2>
+</ul>
+
+<h2 id="travel">Getting to Loughborough University  </h2>
 
 <h3>By Air </h3>
 
@@ -142,7 +157,7 @@ The Sprint shuttle bus has stops around campus, including outside Holywell park.
 
  
 
-<h2>In Loughborough town centre </h2>
+<h2 id="town">In Loughborough town centre </h2>
 
 The Loughborough Odeon on Cattle Market is a fantastic example of mid-century architecture. Check out the Film SIG’s Friday programming at the venue. 
 
