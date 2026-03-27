@@ -74,9 +74,7 @@ The conference fee and the conference hotels are both bookable via the registrat
 
 Registration and hotel accommodation cannot be booked separately. Delegates need to book the accommodation in the same transaction and can only access the room options after selecting an 'attendee category' to book their place at the conference.
 
-<h3>Campus-based hotels</h3>
-
-<strong>The Link Hotel</strong>
+<h3>The Link Hotel</h3>
 
 About the hotel: <a href="https://www.linkhotelloughborough.co.uk/">The Link Hotel</a> offers three-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre (the location of the conference).
 
@@ -84,7 +82,7 @@ All preferential conference rates at the Link Hotel are currently for three nigh
 
 Room types and costs are listed on the registration page.
 
-<strong>Burleigh Court Hotel</strong>
+<h3>Burleigh Court Hotel</h3>
 
 About the hotel: Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre (the location of the conference).
 
