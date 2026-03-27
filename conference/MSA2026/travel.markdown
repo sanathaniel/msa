@@ -65,6 +65,7 @@ Travel coming April 2026.
 -->
 
 <strong>
+<ul>
 	<li>
 		<a href="#hotels">To: Hotels</a>
 	</li>
@@ -74,6 +75,7 @@ Travel coming April 2026.
 	<li>
 		<a href="#town">To: Attractions</a>
 	</li>
+</ul>
 </strong>
 
 <h2 id="hotels">Conference Hotels </h2>
