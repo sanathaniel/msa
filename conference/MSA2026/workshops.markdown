@@ -100,7 +100,7 @@ color: #689c4b;
 		   	</div>
 </details>
 <details closed>
-	<summary class="seminar-title" id="p2">Give What You Can, Take What You Need: Creating Modernist Mutual Aid</summary>
+	<summary class="seminar-title" id="p2">Give What You Can, Take What You Need: Creating Modernist Mutual Aid <i>*VIRTUAL SEMINAR*</i></summary>
 		<div class="description">
     
         <p><strong>Leaders: Dr. Nissa Ren Cannon (Stanford University), Dr. Catherine Hollis (Independent Scholar)</strong></p>
