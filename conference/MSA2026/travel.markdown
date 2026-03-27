@@ -64,19 +64,17 @@ Travel coming April 2026.
 </p>
 -->
 
-<strong>
 <ul>
 	<li>
-		<a href="#hotels">To: Hotels</a>
+		<a href="#hotels">To Hotels</a>
 	</li>
 	<li>
-		<a href="#travel">To: Travel</a>
+		<a href="#travel">To Travel</a>
 	</li>
 	<li>
-		<a href="#town">To: Attractions</a>
+		<a href="#town">To Attractions</a>
 	</li>
 </ul>
-</strong>
  
 <h2 id="hotels">Conference Hotels </h2>
 
