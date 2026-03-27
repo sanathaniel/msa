@@ -66,6 +66,71 @@ Travel coming April 2026.
 
 <h2>Conference Hotels </h2>
 
+We have arranged special deals with two Loughborough University campus-based hotels for the duration of the conference. There are also other hotel options available in the town centre. More information is below.
+
+The conference fee and the conference hotels are both bookable via the registration page (see Registration tab for the link).
+
+<strong>Please note:</strong>
+
+Registration and hotel accommodation cannot be booked separately. Delegates need to book the accommodation in the same transaction and can only access the room options after selecting an 'attendee category' to book their place at the conference.
+
+<h3>Campus-based hotels</h3>
+
+<strong>The Link Hotel</strong>
+
+About the hotel: <a href="https://www.linkhotelloughborough.co.uk/">The Link Hotel</a> offers three-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre (the location of the conference).
+
+All preferential conference rates at the Link Hotel are currently for three nights (1, 2 and 3 July inclusive) or for four nights (30 June, 1 July, 2 July and 3 July 2026 inclusive). These are bookable via the registration page: first select your registration type, and the hotel offers will appear. For shorter stays or to add an extra night, please contact the hotel team directly (see information below).
+
+Room types and costs are listed on the registration page.
+
+<strong>Burleigh Court Hotel</strong>
+
+About the hotel: Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre (the location of the conference).
+
+All preferential conference rates at Burleigh Court are for three nights (1, 2 and 3 July inclusive) or for four nights (30 June, 1 July, 2 July and 3 July 2026 inclusive). These are bookable via the registration page: first select your registration type, and the hotel offers will appear. For shorter stays, please contact the hotel team directly (see information below).
+
+Room types and costs are listed on the registration page.
+
+<i>Booking extra/fewer nights – Please note:</i> 
+
+The link to the conference rate for hotels is available when you register for the full conference and is only available for people staying the duration of the conference. 
+
+If you wish to either stay for fewer nights or to add an extra night to your stay, you can do so by contacting the conferencing team directly via email: <a href="mailto:info@welcometoimago.com">info@welcometoimago.com</a> or via the reservation team email: <a href="mailto:Beds@lboro.ac.uk">Beds@lboro.ac.uk</a>. 
+Please quote the following reference numbers, depending on the hotel you wish to book:
+For the Link Hotel booking reference number: RDV 11418
+For Burleigh Court booking reference number: RDV 11419
+
+Please note that if you book directly to stay for 1 to 2 nights, or to add an extra night to your stay, the preferential conference rate will not be available to you, so you will be booking the room as an external guest at a higher rate. There are also cheaper options available in Loughborough town centre, listed below.
+
+<strong>Other Accommodation Options</strong>
+
+In addition to the conference hotels, there are several cheaper options in Loughborough town centre. 
+
+Please bear in mind that Loughborough town centre is located about a 45-minute walk from the Holywell Park Conference Centre (the location of the conference). There is a local University bus service (the ‘Sprint’ bus) that takes around 25 minutes from the town centre to the conference venue.
+
+Options in town include:
+
+<a href="https://www.travelodge.co.uk/hotels/547/Loughborough-Central-hotel">Travelodge Loughborough Central</a>
+
+<a href="https://www.premierinn.com/gb/en/hotels/england/leicestershire/loughborough/loughborough.html?ARRdd=27&ARRmm=03&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=PI">Premier Inn Loughborough</a>
+
+<a href="https://ramadaloughboroughhotel.reservationstays.com/hotels/VGDLZzGy?utm_source=adwords_semro&utm_campaign=G%3ARS%3AROW%3APPC%3ANB%3AProp%3AROW%3AEN%3AEurope-GB&gad_source=1&gad_campaignid=20394154503&gbraid=0AAAAAo1QcNkORUSvg4s_CQ4m0mXmOn3iO&gclid=CjwKCAjwspPOBhB9EiwATFbi5IEM5S2_TIZHqUqRyrnCb5R9kjId_opanP0IbXenzhSHMZj3T8IEfxoCFL0QAvD_BwE&redirect_auth_retry=true">Ramada By Wyndham Loughborough Hotel</a>
+
+<a href="https://www.hotelsone.com/loughborough-hotels-gb/holywell-guest-house.html?dsti=34363825&dstt=8&nid=1&as=g&aid=725421826045&cmpid=20703726143&agid=173557743553&gid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE&gwbrd=CkEKCQjwj47OBhDHARIwAOza9m-uV7eSaEh59icpLZgSekiZ4_PHk-DNjOmRqykkMT9k_7U3OqEuD_ZGfFfdGgK6lA&ggbrd=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gad_source=1&gad_campaignid=20703726143&gbraid=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gclid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE">Holywell Guest House</a>
+
+<a href="https://charnwoodregency.com/">Charnwood Regency Guest House</a>
+
+<a href="https://www.guestreservations.com/the-peacock-inn-loughborough/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006021&gad_source=1&gad_campaignid=991006021&gbraid=0AAAAADiMQMbM_bac1JEK12hjX1SZwFOoU&gclid=CjwKCAjwspPOBhB9EiwATFbi5Obxtwnc4FUJzmucCOiTRW0Ka9hiH81w2BV07cs0-Rw7-E4Hs-scLhoCtywQAvD_BwE">The Peacock Inn</a>
+
+
+
+
+
+
+
+<!--
+
 <p>The conference fee and the conference hotels will be bookable via the registration page.</p>
 
 <h3>The Link Hotel </h3>
@@ -99,6 +164,8 @@ The conference rate at Burleigh Court offers double, twin, and double/twin acces
 The standard conference offers for Burleigh Court is for three nights (1, 2, and 3 July 2026 inclusive), with limited availability for a four-night stay (30 June and 1, 2, and 3 July 2026 inclusive). These offers are bookable via the registration page: first select your registration type, and the offers will appear. <strong>For stays of less than three days, please contact the Burleigh Court Hotel directly.</strong>
 
 For other arrangements or further information contact the hotel directly at info@welcometoimago.com, stating you are part of booking ref 11419.
+
+-->
 
 <h2>Getting to Loughborough University  </h2>
 
