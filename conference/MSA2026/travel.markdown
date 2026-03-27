@@ -92,7 +92,7 @@ All preferential conference rates at Burleigh Court are for three nights (1, 2 a
 
 Room types and costs are listed on the registration page.
 
-<i>Booking extra/fewer nights – Please note:</i>
+<i>Booking extra/fewer nights – Please note:</i> 
 
 The link to the conference rate for hotels is available when you register for the full conference and is only available for people staying the duration of the conference. 
 
