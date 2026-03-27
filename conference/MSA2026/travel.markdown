@@ -65,6 +65,7 @@ Travel coming April 2026.
 -->
 
 <strong>
+<ul>
 	<li>
 		<a href="#hotels">To: Hotels</a>
 	</li>
@@ -74,8 +75,9 @@ Travel coming April 2026.
 	<li>
 		<a href="#town">To: Attractions</a>
 	</li>
+</ul>
 </strong>
-
+ 
 <h2 id="hotels">Conference Hotels </h2>
 
 We have arranged special deals with two Loughborough University campus-based hotels for the duration of the conference. There are also other hotel options available in the town centre. More information is below.
