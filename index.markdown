@@ -35,7 +35,25 @@ layout: home
 				<figcaption  class="archive__item-title">Registration for MSA'26, Loughborough, is now live!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/registration/" class="btn btn--primary">Register</a>
 		</div>
-	 	
+
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Prize Nominations</h3>
+				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes.</figcaption>
+			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
+		</div>	
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Grad Mentorship</h3>
+				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program.</figcaption>
+			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
+		</div>
+		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="/conference/MSA2026/assets/logo2.jpg" min-width="150" min-height="150"/>
@@ -43,26 +61,7 @@ layout: home
 				<h3>Travel Grants</h3>
 				<figcaption  class="archive__item-title">The deadline for MSA'26 Conference Travel Grants is March 27!</figcaption>
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary">Apply</a>
-		</div>
-
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Grad Mentorship</h3>
-				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program</figcaption>
-			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
-		</div>
-			
-		<div class ="feature__item" style="border:20px;">
-				<div class="feature__item-teaser">
-					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Prize Shortlists</h3>
-				<figcaption  class="archive__item-title">Presenting the 2025 Book Prize shortlists and winners.</figcaption>
-			<a href="prizes/shortlist/" class="btn btn--primary">Celebrate</a>
-		</div>	
-
+		</div>			
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">

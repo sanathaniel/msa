@@ -9,27 +9,27 @@ sidebar:
 <!-- #BeginEditable "content"
 -->
 
+<!--
+
 <h1>MSA Book Prizes</h1>
 
 <p><strong>Submissions for this year’s awards are now closed.</strong> The shortlist and winners will be announced in the fall of 2025. We will celebrate the winning and shortlisted titles at the opening reception of our annual conference.</p>
 
-<p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. Every other year (odd years, such as this), we seek nominations for the Edition, Anthology, or Essay Collection Prize, awarded to a work published in the previous two years.</p> 
+-->
 
-<p>General queries about the prizes can be emailed to <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, MSA Second-Vice President.</p>
 
-<!--
-						
 <h1>Call for MSA Book Prize Nominations</h1>
 							
-<p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. Every other year (odd years, such as this), we seek nominations for the Edition, Anthology, or Essay Collection Prize, awarded to a work published in the previous two years. For the details of each prize and information about how to submit your book for consideration, see the relevant sections below.</p>
+<p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. In odd years, we seek nominations for the Edition, Anthology, or Essay Collection Prize, and in even years for the Translation Prize, each for works published in the previous two years. For the details of each prize and information about how to submit your book for consideration, see the relevant sections below. </p>
 
-<p>Submissions for this year’s awards are due <strong>May 1, 2025.</strong> The shortlist and winners will be announced in the fall of 2025. We will celebrate the winning and shortlisted titles at the opening reception and annual conference.</p> 
+<p>Submissions for this year’s awards are due <strong>May 15, 2026.</strong> The shortlist and winners will be announced in the fall of 2025. The shortlist and winners will be announced in the fall of 2026.</p> 
 
-<p>General queries about the prizes can be emailed to <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, MSA Second-Vice President.</p>
+<p>General queries about the prizes can be emailed to <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney</a>, MSA Second-Vice President.</p>
 
 
 <h2>MSA BOOK PRIZE</h2>
-<p>The Modernist Studies Association seeks nominations for this year’s MSA Book Prize, which will honor books with a copyright date of 2024. The prize is given each year to a work that makes a significant contribution to modernist studies. The winner will receive $1000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.
+
+<p>The Modernist Studies Association seeks nominations for this year’s MSA Book Prize, which will honor books with a copyright date of 2025. The prize is given each year to a work that makes a significant contribution to modernist studies. The winner will receive $1000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.
 </p>
 
 <h3>Instructions</h3>
@@ -38,16 +38,33 @@ To nominate a book for the MSA Book Prize, please send (or have the publisher se
 </p>
 
 <ul>
-	<li>Ben Hagen<br /> 118 S. Pine Street<br /> Vermillion, SD<br /> 57069<br />USA<br /></li>
-	<li>Leah Flack<br /> 3543 N Cramer Street<br /> Shorewood, WI<br /> 53211<br />USA<br /></li>
-	<li>Margaret Greaves<br /> 29 Brookstone Dr.<br /> Greenfield Center, NY<br /> 12833<br />USA<br /></li>
-</ul>
+	<li>Dr. Maebh Long<br />
+	Coolinea<br />
+	Aghabullogue<br />
+	Co. Cork, P12 HT96<br />
+	Ireland
+	<br /></li>
+
+	<li>Dr. Matthew Hayward<br /></li>
+	20 Thames St<br /></li>
+	Claudelands<br /></li>
+	Hamilton 3214<br /></li>
+	New Zealand
+	<br /></li>
+
+	<li>Dr. Adam McKible<br />
+	123 E Willow St<br />
+	Beacon, NY 12508
+	<br />USA<br /></li>
+	</ul>
 
 <p>
-Books must be received by committee members no later than May 1, 2025. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.
+Books must be received by committee members no later than May 15, 2026. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.
+
 </p>
 <p>
-<i>Books published in years other than 2024 are ineligible. Such submissions will not be returned.</i>
+<i>Books published in years other than 2025 are ineligible. Such submissions will not be returned.
+</i>
 </p>
 <p>
 	<strong>Eligibility</strong>
@@ -55,7 +72,7 @@ Books must be received by committee members no later than May 1, 2025. Books arr
 <ul>
 	<li>Nominated books should not be the author’s first published book. Authors and publishers of first books are encouraged to enter the MSA First Book Prize.</li>
 	<li>Scholarly editions, collections of essays, anthologies, and similar edited volumes are not eligible for the MSA Book Prize. Editors and publishers of such volumes should consider nominating them for the MSA’s Edition, Anthology, and Collections Prize.</li>
-	<li>Nominated books must bear a first copyright date of 2024, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.</li>
+	<li>Nominated books must bear a first copyright date of 2025, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.</li>
 	<li>Collaborative and multi-authored books are eligible.</li>
 	<li>Printed books and born-digital books are both eligible.</li>
 	<li>Nominated authors need not be members of the MSA.</li>
@@ -63,20 +80,35 @@ Books must be received by committee members no later than May 1, 2025. Books arr
 </ul>
 
 <h2>MSA FIRST BOOK PRIZE</h2>
-<p>The Modernist Studies Association seeks nominations for its First Book Prize, which will acknowledge first books by new authors published with a copyright date of 2024. The prize is given each year to a first published book that makes a significant contribution to modernist studies. The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.</p>
+
+<p>The Modernist Studies Association seeks nominations for its First Book Prize, which will acknowledge first books by new authors published with a copyright date of 2025. The prize is given each year to a first published book that makes a significant contribution to modernist studies. The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.</p>
+
 <h3>Instructions</h3>
+
 <p>To nominate a book for the MSA First Book Prize, please send (or have the publisher send) a hard copy of the nominated book to each of this year’s three jurors:</p>
 
 <ul>
-	<li>Kirsty Dootson<br /> School of European Languages, Culture & Society<br /> Foster Court, Malet Place
-<br /> University College London <br />London<br />WC1E 7GJ<br /></li>
-	<li>Pardis Dabashi<br />3208 Clifford Street,<br /> Philadelphia, PA<br />19121<br /></li>
-	<li>Michael Allan<br /> 1227 W 10th Ave<br />Eugene, OR<br /> 97402<br /></li>
+	<li>Sonali Thakkar<br />
+	244 Green St<br />
+	New York, NY
+	<br /></li>
+	<li>Ian Afflerbach<br />
+	5620 Glenhaven Dr<br />
+	Cumming GA <br />
+	30041
+	<br /></li>
+	
+	<li>Beth Blum<br />
+	12 Quincy St<br />
+	Barker Center, Harvard<br />
+	Cambridge MA<br />
+	02138
+	<br /></li>
 </ul>
 
-<p>Books must be received by committee members no later than May 1, 2025. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is strongly encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.
+<p>Books must be received by committee members no later than May 15, 2026. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is strongly encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.
 </p>
-<p><i>Books published in years other than 2024 are ineligible. Such submissions will not be returned.
+<p><i>Books published in years other than 2025 are ineligible. Such submissions will not be returned.
 </i></p>
 
 <p>
@@ -85,40 +117,16 @@ Books must be received by committee members no later than May 1, 2025. Books arr
 <ul>
 	<li>Nominated books must be the author’s first published book.</li>
 	<li>Scholarly editions, collections of essays, anthologies, and similar edited volumes are ineligible for the MSA First Book Prize. Editors and publishers of such volumes should consider nominating them for the MSA’s Edition, Anthology, and Collections Prize.</li>
-	<li>Nominated books must bear a first copyright date of 2024, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.
-</li>
+	<li>Nominated books must bear a first copyright date of 2025, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.</li>
 	<li>Collaborative and multi-authored books are eligible.</li>
 	<li>Printed books and born-digital books are both eligible.</li>
 	<li>Nominated authors need not be members of the MSA.</li>
 	<li>A book may be nominated only once, either for this prize or for the MSA Book Prize.</li>
 </ul>
 
-<h2>MSA EDITION, ANTHOLOGY, and COLLECTION PRIZE</h2>
-<p>The Modernist Studies Association seeks nominations for its Edition, Anthology, and Collection Prize, which will honor volumes with a copyright date of 2023 or 2024. The prize is given every other year to a volume that makes a significant contribution to modernist studies. The winner receives $1,000 plus up to $600 toward travel expenses to the MSA Conference and will be asked to chair the subsequent award. </p>
-<p>
-	<strong>Instructions</strong>
-</p>
-<p>To nominate a book for the MSA Edition, Anthology, and Collections Prize, please send (or have the publisher send) a hard copy of the nominated book to each of this year’s the three jurors:</p>
-<ul>
-	<li>Wim Van Mierlo<br /> 119 Trent Road<br /> Beeston <br />Nottingham<br />NG9 1LP<br />UK<br /></li>
-	<li>Louise Kane<br />12 Claydon Path<br />Aylesbury<br />Bucks<br />HP21 9EF<br />United Kingdom<br /></li>
-	<li>Ellen Scheible<br /> 62 Samuel Drive<br />Whitinsville MA <br /> 01588<br /> USA<br /></li>
-</ul>
-<p>Books must be received by committee members by May 1, 2025. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is strongly encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author or someone else plays no role in the Committee's deliberations. 
-</p>
-<p>Books published in years other than 2023 and 2024 are ineligible. Such submissions will not be returned.</p>
-	
-<strong>Eligibility</strong>
-<ul>
-	<li>Nominated books must bear a first copyright date of 2023 or 2024, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.</li>
-	<li>Collaborative and multi-authored or -edited books are eligible.</li>
-	<li>Printed books and born-digital books are both eligible.</li>
-	<li>Nominated authors/editors need not be members of the MSA.</li>
-</ul>
+<!--
 
 <p>&nbsp;</p>
-
-<!--
 
 <h2>MSA Translation Prize</h2>
 <p>The MSA Translation Prize is awarded to a work published in the previous two years, with a copyright date of 2022 or 2023. The prize is given every other year to a work in translation that makes a significant contribution to modernist studies in translation (poetry, short stories, novels, criticism). The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference, and will be asked to chair the subsequent year’s award.</p>
@@ -158,7 +166,40 @@ To nominate a book for the MSA Translation Prize, please send (or have the publi
 	<li>Translators should include a brief biographical and professional note; and a copy of the work in its original language.</li>
 </ul>
 
-<p>&nbsp;</p>
+-->
+
+<!--
+
+<h2>MSA EDITION, ANTHOLOGY, and COLLECTION PRIZE</h2>
+<p>The Modernist Studies Association seeks nominations for its Edition, Anthology, and Collection Prize, which will honor volumes with a copyright date of 2023 or 2024. The prize is given every other year to a volume that makes a significant contribution to modernist studies. The winner receives $1,000 plus up to $600 toward travel expenses to the MSA Conference and will be asked to chair the subsequent award. </p>
+<p>
+	<strong>Instructions</strong>
+</p>
+<p>To nominate a book for the MSA Edition, Anthology, and Collections Prize, please send (or have the publisher send) a hard copy of the nominated book to each of this year’s the three jurors:</p>
+<ul>
+	<li>Wim Van Mierlo<br /> 119 Trent Road<br /> Beeston <br />Nottingham<br />NG9 1LP<br />UK<br /></li>
+	<li>Louise Kane<br />12 Claydon Path<br />Aylesbury<br />Bucks<br />HP21 9EF<br />United Kingdom<br /></li>
+	<li>Ellen Scheible<br /> 62 Samuel Drive<br />Whitinsville MA <br /> 01588<br /> USA<br /></li>
+</ul>
+<p>Books must be received by committee members by May 1, 2025. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is strongly encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author or someone else plays no role in the Committee's deliberations. 
+</p>
+<p>Books published in years other than 2023 and 2024 are ineligible. Such submissions will not be returned.</p>
+	
+<strong>Eligibility</strong>
+<ul>
+	<li>Nominated books must bear a first copyright date of 2023 or 2024, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.</li>
+	<li>Collaborative and multi-authored or -edited books are eligible.</li>
+	<li>Printed books and born-digital books are both eligible.</li>
+	<li>Nominated authors/editors need not be members of the MSA.</li>
+</ul>
+
+-->
+
+<!--
+
+<p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. Every other year (odd years, such as this), we seek nominations for the Edition, Anthology, or Essay Collection Prize, awarded to a work published in the previous two years.</p> 
+
+<p>General queries about the prizes can be emailed to <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, MSA Second-Vice President.</p>
 
 -->
 
