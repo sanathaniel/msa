@@ -31,7 +31,7 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>MSA'26</h3>
+				<h3>MSA/BAMS 2026</h3>
 				<figcaption  class="archive__item-title">Registration for MSA'26, Loughborough, is now live!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/registration/" class="btn btn--primary">Register</a>
 		</div>
