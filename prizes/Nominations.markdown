@@ -45,10 +45,10 @@ To nominate a book for the MSA Book Prize, please send (or have the publisher se
 	Ireland
 	<br /></li>
 
-	<li>Dr. Matthew Hayward<br /></li>
-	20 Thames St<br /></li>
-	Claudelands<br /></li>
-	Hamilton 3214<br /></li>
+	<li>Dr. Matthew Hayward<br />
+	20 Thames St<br />
+	Claudelands<br />
+	Hamilton 3214<br />
 	New Zealand
 	<br /></li>
 
@@ -56,7 +56,7 @@ To nominate a book for the MSA Book Prize, please send (or have the publisher se
 	123 E Willow St<br />
 	Beacon, NY 12508
 	<br />USA<br /></li>
-	</ul>
+</ul>
 
 <p>
 Books must be received by committee members no later than May 15, 2026. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.
