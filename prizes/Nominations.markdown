@@ -145,7 +145,7 @@ To nominate a book for the MSA Translation Prize, please send (or have the publi
 	Dept of English<br>
 	Ithaca College<br>
 	953 Danby Rd<br>
-	Ithaca, NY 14850>
+	Ithaca, NY 14850
 	</li>
 	<li>Amr Kamal<br>
 	24222 Briones Dr<br>
@@ -163,7 +163,7 @@ Please include a brief biographical and professional note about the translator, 
 <p><i>Books published in years other than 2024 or 2025 are ineligible. Such submissions will not be returned.</i></p>
 
 <strong>Eligibility</strong>
-</p>
+
 <ul>
 	<li>Nominated books must bear a first copyright date of 2024 or 2025, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.
 	</li>
