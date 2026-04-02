@@ -22,7 +22,7 @@ sidebar:
 							
 <p>Each year, the Modernist Studies Association seeks nominations for its Book Prize and First Book Prize, awarded to books published in the previous year. In odd years, we seek nominations for the Edition, Anthology, or Essay Collection Prize, and in even years for the Translation Prize, each for works published in the previous two years. For the details of each prize and information about how to submit your book for consideration, see the relevant sections below. </p>
 
-<p>Submissions for this year’s awards are due <strong>May 15, 2026.</strong> The shortlist and winners will be announced in the fall of 2025. The shortlist and winners will be announced in the fall of 2026.</p> 
+<p>Submissions for this year’s awards are due <strong>May 15, 2026.</strong> The shortlist and winners will be announced in the fall of 2026.</p> 
 
 <p>General queries about the prizes can be emailed to <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney</a>, MSA Second-Vice President.</p>
 
