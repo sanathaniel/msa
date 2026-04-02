@@ -38,21 +38,21 @@ To nominate a book for the MSA Book Prize, please send (or have the publisher se
 </p>
 
 <ul>
-	<li>Dr. Maebh Long<br />
+	<li>Maebh Long<br />
 	Coolinea<br />
 	Aghabullogue<br />
 	Co. Cork, P12 HT96<br />
 	Ireland
 	<br /></li>
 
-	<li>Dr. Matthew Hayward<br />
+	<li>Matthew Hayward<br />
 	20 Thames St<br />
 	Claudelands<br />
 	Hamilton 3214<br />
 	New Zealand
 	<br /></li>
 
-	<li>Dr. Adam McKible<br />
+	<li>Adam McKible<br />
 	123 E Willow St<br />
 	Beacon, NY 12508
 	<br />USA<br /></li>
@@ -89,8 +89,9 @@ Books must be received by committee members no later than May 15, 2026. Books ar
 
 <ul>
 	<li>Sonali Thakkar<br />
+	NYU Department of English<br />
 	244 Green St<br />
-	New York, NY
+	New York, NY 10003
 	<br /></li>
 	
 	<li>Ian Afflerbach<br />
@@ -125,49 +126,55 @@ Books must be received by committee members no later than May 15, 2026. Books ar
 	<li>A book may be nominated only once, either for this prize or for the MSA Book Prize.</li>
 </ul>
 
-<!--
-
 <p>&nbsp;</p>
 
 <h2>MSA Translation Prize</h2>
-<p>The MSA Translation Prize is awarded to a work published in the previous two years, with a copyright date of 2022 or 2023. The prize is given every other year to a work in translation that makes a significant contribution to modernist studies in translation (poetry, short stories, novels, criticism). The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference, and will be asked to chair the subsequent year’s award.</p>
+<p>The Modernist Studies Association seeks nominations for its Translation Prize, which will acknowledge first books by new authors published with a copyright date of 2024 or 2025. The prize is given every even-numbered year to a translation into English of literary works (poems, short stories, novels, criticism) that fall into the broad category of “modernism.” The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.
+</p>
+
 <p>
-To nominate a book for the MSA Translation Prize, please send (or have the publisher send) a hard copy of the nominated book to each of three jurors:
+To nominate a book for the MSA Translation Prize, please send (or have the publisher send) a hard copy of the nominated book to each of this year’s three jurors:
 </p>
 <ul>
-	<li>María del Pilar Blanco<br>
-		Trinity College<br>
-		Broad Street<br>
-		Oxford OX3 0HR<br>
-		UK<br>
-		</li>
-		<li>Harris Feinsod<br>
-		Northwestern U. Dept. of English<br>
-		1897 Sheridan Road<br>
-		University Hall 215<br>
-		Evanston, IL 60208-2240<br>
-		USA<br>
-		</li>
-		<li>Christos Hadjiyiannis<br>
-		Institut für Anglistik und Amerikanistik<br>
-		Universitätsstraße 31<br>
-		Regensburg, 93053<br>
-		Deutschland<br>
-		</li>
-   </ul>
+	<li>Preetha Mani<br>
+	259 Harrison Ave.<br>
+	Highland Park, NJ<br>
+	08904
+	</li>
+	<li>Kasia Bartozynska<br>
+	Dept of English<br>
+	Ithaca College<br>
+	953 Danby Rd<br>
+	Ithaca, NY 14850>
+	</li>
+	<li>Amr Kamal<br>
+	24222 Briones Dr<br>
+	Laguna Niguel, CA<br>
+	92677
+	</li>
+</ul>
 <p>
-<p>We encourage self-nomination, as this helps assure timely receipt of books. Translators should include a brief biographical and professional note, and a copy of the work in its original language. Publishers and authors should know that books must be received by committee members no later than April 15, 2025. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.</p>	
+Please include a brief biographical and professional note about the translator,  and a copy of  the translated work in its original language if possible.
+</p>
+
+<p>Books must be received by committee members no later than May 15, 2026. Books arriving after that date may be considered for the prize but are not guaranteed consideration. Self-nomination is strongly encouraged, as it saves a step in the process and helps assure timely receipt of books. Whether a book is nominated by the author, by their publisher, or by someone else plays no role in the committee's deliberations.
+</p>	
+
+<p><i>Books published in years other than 2024 or 2025 are ineligible. Such submissions will not be returned.</i></p>
+
 <strong>Eligibility</strong>
 </p>
 <ul>
-	<li>Nominated books must be originally written in a language other than English;</li>
-	<li>Nominated books in translation must bear a first copyright date of 2022 or 2023, regardless of when the original text appeared in print.  </li>
-	<li>Printed books and born-digital books are both eligible;</li>
-	<li>Nominated translators need not be members of the MSA;</li>
-	<li>Translators should include a brief biographical and professional note; and a copy of the work in its original language.</li>
+	<li>Nominated books must bear a first copyright date of 2024 or 2025, regardless of when the book actually appeared in print. This provision applies even if a new edition (paperback or revised, for example) was published in the award year.
+	</li>
+	<li>Translators need not be members of the association. 
+	</li>
+	<li>Collaborative translations are eligible.
+	</li>
+	<li>Printed books and born-digital books are both eligible.
+	</li>
 </ul>
 
--->
 
 <!--
 
