@@ -129,7 +129,7 @@ Books must be received by committee members no later than May 15, 2026. Books ar
 <p>&nbsp;</p>
 
 <h2>MSA Translation Prize</h2>
-<p>The Modernist Studies Association seeks nominations for its Translation Prize, which will acknowledge first books by new authors published with a copyright date of 2024 or 2025. The prize is given every even-numbered year to a translation into English of literary works (poems, short stories, novels, criticism) that fall into the broad category of “modernism.” The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.
+<p>The Modernist Studies Association seeks nominations for its Translation Prize, which will honor books published with a copyright date of 2024 or 2025. The prize is given every even-numbered year to a translation into English of literary works (poems, short stories, novels, criticism) that fall into the broad category of “modernism.” The winner receives $1,000 plus up to $600 toward travel expenses to the annual MSA conference and will be asked to chair the subsequent year’s award.
 </p>
 
 <p>
