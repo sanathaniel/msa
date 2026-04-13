@@ -54,14 +54,7 @@ layout: home
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
 		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="/conference/MSA2026/assets/logo2.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Travel Grants</h3>
-				<figcaption  class="archive__item-title">The deadline for MSA'26 Conference Travel Grants is March 27!</figcaption>
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary">Apply</a>
-		</div>			
+
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -108,11 +101,27 @@ layout: home
 				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2025</h3>
+				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
+		</div>	
 <!--	
 
 		
 
-		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="/conference/MSA2026/assets/logo2.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Travel Grants</h3>
+				<figcaption  class="archive__item-title">The deadline for MSA'26 Conference Travel Grants is March 27!</figcaption>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary">Apply</a>
+		</div>			
 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -124,14 +133,7 @@ layout: home
 		</div>
 		
 	
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>MSA 2025</h3>
-				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
-		</div>	
+
 
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
