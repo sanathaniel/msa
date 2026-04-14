@@ -42,7 +42,7 @@ layout: home
 				</div>
 				<h3>Election Results</h3>
 				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
-			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
+			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Welcome</a>
 		</div>
 
 		<div class ="feature__item" style="border:20px;">
