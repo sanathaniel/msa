@@ -36,6 +36,15 @@ layout: home
 			<a href="https://www.moderniststudies.org/conference/MSA2026/registration/" class="btn btn--primary">Register</a>
 		</div>
 
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Election Results</h3>
+				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
+			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
+		</div>
+
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
@@ -123,15 +132,7 @@ layout: home
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary">Apply</a>
 		</div>			
 		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Voting Now Open</h3>
-				<figcaption  class="archive__item-title">Voting is now open for the 2026 MSA Executive Board elections.</figcaption>
-			<a href="https://vote.press.jhu.edu/msa/elections" class="btn btn--primary">Vote</a>
-		</div>
-		
+
 	
 
 

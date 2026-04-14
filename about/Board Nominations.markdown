@@ -7,6 +7,47 @@ sidebar:
 ---
 <hr>
 
+<h3>Congratulations to our recently elected MSA Board members!</h3>
+<br/>
+<ul>
+	<li>
+		2nd Vice President: Michaela Bronstein
+	</li>
+	<li>
+		Program Chair: Joyce Cheng
+	</li>
+	<li>
+		Grad Student Rep: Hyunsoo Kim
+	</li>
+	<li>
+		Membership & Elections Chair: Tamlyn Avery
+	</li>
+	<li>
+		Technology & Infrastructure Chair: Cliff Mak
+	</li>
+</ul>
+
+<h2>ABOUT THE MSA BOARD:</h2>
+<p>Since the inception of the MSA over a decade ago, membership has
+grown to almost 1000. Most of the organization’s work is done by
+volunteers on the MSA Board and their committees, with the
+assistance of an MSA administrator. Therefore, those deciding to run
+for election should be prepared to make a substantial time
+commitment to MSA. Board members also work individually and
+collectively to build the membership base, and to communicate with
+members and the larger academy concerning the Modernist Studies
+Association. The MSA Board is responsible for planning and executing
+the annual meeting in conjunction with representatives of the host
+institution; we believe that the liveliest and most provocative
+conferences result from attention to diversity of representation on
+the fronts of discipline, nation, race, and gender on the Board,
+among the membership, and on the annual program. Our most recent
+conferences have further diversified our membership and increased
+interdisciplinary and multicultural panel offerings. We expect no
+less of our future conferences.</p>
+
+<!--
+
 <h2>2026 MSA Elections Now Open!</h2>
 
 <p>The 2026 election is now open and will run through 11:59 PM EST on Monday, March 16, 2026. This year we are electing a new 2nd VP, Vice Program Chair, Graduate Student Representative, and Membership & Elections Chair. We have a superb slate of candidates. Please do take a moment to vote at <a href="https://vote.press.jhu.edu/msa/elections">our election website, linked here.</a></p>
@@ -108,6 +149,8 @@ sidebar:
 </li>
 </ul>                     
 <p>&nbsp;</p>
+
+-->
 
 <!--
 
@@ -525,24 +568,7 @@ board. Please address any procedural questions to Karen Weingarten (kweingarten@
 <hr />
 
 
-<h2>ABOUT THE MSA BOARD:</h2>
-<p>Since the inception of the MSA over a decade ago, membership has
-grown to almost 1000. Most of the organization’s work is done by
-volunteers on the MSA Board and their committees, with the
-assistance of an MSA administrator. Therefore, those deciding to run
-for election should be prepared to make a substantial time
-commitment to MSA. Board members also work individually and
-collectively to build the membership base, and to communicate with
-members and the larger academy concerning the Modernist Studies
-Association. The MSA Board is responsible for planning and executing
-the annual meeting in conjunction with representatives of the host
-institution; we believe that the liveliest and most provocative
-conferences result from attention to diversity of representation on
-the fronts of discipline, nation, race, and gender on the Board,
-among the membership, and on the annual program. Our most recent
-conferences have further diversified our membership and increased
-interdisciplinary and multicultural panel offerings. We expect no
-less of our future conferences.</p>
+
 -->
 
 <!-- #EndEditable -->
