@@ -41,7 +41,7 @@ layout: home
 					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Calling for nominations: MSA Essay Prize for Contingent and Independent Scholars</figcaption>
+				<figcaption  class="archive__item-title">Essay Prize for Contingent and Independent Scholars</figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Submit</a>
 		</div>	
 
