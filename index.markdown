@@ -44,13 +44,13 @@ layout: home
 				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
 			<a href="about/board-nominations/" class="btn btn--primary">Welcome</a>
 		</div>
-
+ 
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes.</figcaption>
+				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br/></figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
 		</div>	
 		
@@ -80,7 +80,7 @@ layout: home
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
 				</div>
 				<h3>Print+</h3>
-				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences.</figcaption>
+				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences.<br/></figcaption>
 			<a href="https://modernismmodernity.org/" class="btn btn--primary">Read</a>
 		</div>	
 		
@@ -89,7 +89,7 @@ layout: home
 					<img src="assets/vonwerefkin_frauen_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>SIGs</h3>
-				<figcaption  class="archive__item-title">Special Interest Groups shape modernist studies.</figcaption>
+				<figcaption  class="archive__item-title">Special Interest Groups shape modernist studies.<br/></figcaption>
 			<a href="/members/sigs/" class="btn btn--primary">Gather</a>
 		</div>
 		
@@ -98,7 +98,7 @@ layout: home
 					<img src="assets/switchboard.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA Listservs</h3>
-				<figcaption  class="archive__item-title">Join one of MSA's listservs.</figcaption>
+				<figcaption  class="archive__item-title">Join one of MSA's listservs.<br/></figcaption>
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 		
@@ -107,9 +107,12 @@ layout: home
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>ModNets</h3>
-				<figcaption  class="archive__item-title">Explore MSA's digital federation.</figcaption>
+				<figcaption  class="archive__item-title">Explore MSA's digital federation.<br/></figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
+
+
+<!--	
 
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -118,10 +121,7 @@ layout: home
 				<h3>MSA 2025</h3>
 				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
-		</div>	
-<!--	
-
-		
+		</div>			
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
