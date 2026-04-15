@@ -8,7 +8,6 @@ sidebar:
 <hr>
 
 <h3>Congratulations to our recently elected MSA Board members!</h3>
-<br/>
 <ul>
 	<li>
 		2nd Vice President: Michaela Bronstein
@@ -17,14 +16,15 @@ sidebar:
 		Program Chair: Joyce Cheng
 	</li>
 	<li>
-		Grad Student Rep: Hyunsoo Kim
-	</li>
-	<li>
 		Membership & Elections Chair: Tamlyn Avery
 	</li>
 	<li>
 		Technology & Infrastructure Chair: Cliff Mak
 	</li>
+	<li>
+		Grad Student Rep: Hyunsoo Kim
+	</li>
+
 </ul>
 
 <h2>ABOUT THE MSA BOARD:</h2>

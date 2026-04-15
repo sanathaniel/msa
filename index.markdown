@@ -41,7 +41,7 @@ layout: home
 					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Calling for nominations: Inaugural MSA Essay Prize for Contingent and Independent Scholars</figcaption>
+				<figcaption  class="archive__item-title">Calling for nominations: MSA Essay Prize for Contingent and Independent Scholars</figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Submit</a>
 		</div>	
 
@@ -50,7 +50,7 @@ layout: home
 					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br/></figcaption>
+				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br /></figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
 		</div>	
 
@@ -88,7 +88,7 @@ layout: home
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
 				</div>
 				<h3>Print+</h3>
-				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences.<br/></figcaption>
+				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> reaches new audiences.<br /></figcaption>
 			<a href="https://modernismmodernity.org/" class="btn btn--primary">Read</a>
 		</div>	
 		
@@ -97,7 +97,7 @@ layout: home
 					<img src="assets/vonwerefkin_frauen_thumbnail.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>SIGs</h3>
-				<figcaption  class="archive__item-title">Special Interest Groups shape modernist studies.<br/></figcaption>
+				<figcaption  class="archive__item-title">Special Interest Groups shape modernist studies.<br /></figcaption>
 			<a href="/members/sigs/" class="btn btn--primary">Gather</a>
 		</div>
 		
@@ -106,7 +106,7 @@ layout: home
 					<img src="assets/switchboard.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA Listservs</h3>
-				<figcaption  class="archive__item-title">Join one of MSA's listservs.<br/></figcaption>
+				<figcaption  class="archive__item-title">Join one of MSA's listservs.<br /></figcaption>
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 		
