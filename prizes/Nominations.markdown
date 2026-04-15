@@ -17,9 +17,9 @@ sidebar:
 
 -->
 
-<h1>Inaugural MSA Essay Prize for Contingent and Independent Scholars</h1>
+<h1>MSA Essay Prize for Contingent and Independent Scholars</h1>
 
-The MSA seeks submissions for the inaugural <strong>MSA Essay Prize for Contingent and Independent Scholars</strong>, sponsored by Clemson University Press.
+The MSA seeks submissions for the inaugural Essay Prize for Contingent and Independent Scholars, sponsored by Clemson University Press.
 
 <strong>Instructions</strong>: If you and your work match this description, please use <a href="https://urldefense.com/v3/__https://docs.google.com/forms/d/e/1FAIpQLSfPOXfNtCBlcHWZjTDVxple7A0q5UZ3ehCQDXUI5zOLOjikxA/viewform__;!!E8lrGBvW!qH0pr3Ggau35hI4KcttmjDtAhOLdRnv0fW6dwUVZRB3_ClWI15yiE6E4GB4ep5wSzhbmpMdCxB7vPCX4UONWYvc$">this form</a> to upload your (anonymized) submission by May 15th, 2026.
 
@@ -35,6 +35,8 @@ The winner will be announced this fall, and will receive $250 plus up to $600 to
 	<li>Article is between 5k and 10k words</li>
 	<li>Article is about modernism (as it is broadly defined within the MSA)</li>
 </ul>
+
+<hr>
 
 <h1>Call for MSA Book Prize Nominations</h1>
 							
