@@ -16,7 +16,6 @@ h1 {
         }
 img {
     position: absolute;
-    left: 400px;
 }
     </style>
 </head>
@@ -70,7 +69,7 @@ function startImageTransition() {
     function transition() {
         return new Promise(function (resolve, reject) {
             let del = 0.01;
-            let id = setInterval(changeOpacity, 20);
+            let id = setInterval(changeOpacity, 33.33);
             function changeOpacity() {
                 images[cur].style.opacity -= del;
                 if (images[cur].style.opacity <= 0) {
