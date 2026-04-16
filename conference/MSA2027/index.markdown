@@ -25,16 +25,16 @@ img {
     <b>A Computer Science Portal for Geeks</b>
     <div id="scroll-image">
         <img src=
-"/conference/MSA2027/assets/expand_1.jpg"" 
+"/conference/MSA2027/assets/expand_1.jpg" 
              class="test" />
         <img src=
-"/conference/MSA2027/assets/expand_2.jpg"" 
+"/conference/MSA2027/assets/expand_2.jpg"
              class="test" />
         <img src=
-"/conference/MSA2027/assets/expand_3.jpg"" 
+"/conference/MSA2027/assets/expand_3.jpg"
              class="test" />
         <img src=
-"/conference/MSA2027/assets/expand_4.jpg"" 
+"/conference/MSA2027/assets/expand_4.jpg" 
              class="test" />
 			 
 <script>
