@@ -21,8 +21,9 @@ img {
     </style>
 </head>
 <body>
-    <h1>GeeksforGeeks</h1>
-    <b>A Computer Science Portal for Geeks</b>
+    <h1>MSA2027</h1>
+    <b>Modernism, Expanded Universe</b>
+	
     <div id="scroll-image">
         <img src=
 "/conference/MSA2027/assets/expand_1.jpg" 
@@ -69,7 +70,7 @@ function startImageTransition() {
     function transition() {
         return new Promise(function (resolve, reject) {
             let del = 0.01;
-            let id = setInterval(changeOpacity, 10);
+            let id = setInterval(changeOpacity, 20);
             function changeOpacity() {
                 images[cur].style.opacity -= del;
                 if (images[cur].style.opacity <= 0) {
