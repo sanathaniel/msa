@@ -1,6 +1,6 @@
 ---
 layout: 27conference-hub
-permalink: /conference/MSA2027/
+permalink: /conference/MSA2027/test
 masthead: false
 footer: false
 ---
@@ -22,6 +22,7 @@ img {
 <body>
     <h1>MSA2027</h1>
     <b>Modernism, Expanded Universe</b>
+
 	
     <div id="scroll-image">
         <img src=
@@ -47,7 +48,7 @@ function startImageTransition() {
 
     let top = 1;
     let cur = images.length - 1;
-    setInterval(changeImage, 3000);
+    setInterval(changeImage, 4000);
 
     async function changeImage() {
 
