@@ -46,8 +46,9 @@ img {
 }
 
 .test {
-	position: relative;
-	text-align: center;
+	display: flex;
+	width: 100%;
+	align-items: center;
 	color: white;
 	font-family: "Sansita", sans-serif;
 	font-size: 2em;
