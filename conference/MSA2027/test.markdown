@@ -17,7 +17,7 @@ body {
   margin: 0;
   overflow: hidden;
   height: 100vh;
-  background: #0E121D;
+  background: black;
   position: relative;
 }
 
