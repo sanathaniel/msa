@@ -5,6 +5,11 @@ masthead: false
 footer: false
 ---
 
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
 
 <style>
 
@@ -38,8 +43,9 @@ img {
 }
 
 .expanded {
-	font-style: supera-gothic;
-	font-size: 2.5em;
+	font-family: "Sansita", sans-serif;
+	font-weight: 700;
+	font-style: normal;
 	color: #F14347
 }
 
@@ -48,16 +54,17 @@ img {
 
 <body>
     <div class="expanded">
-		<div style="color: #F14347">M</div>
-		<div style="color: #029AD4">S</div>
-		<div style="color: #FECE0E">A</div>
-		<div style="color: white">2027</div>
+		<span style="color: #F14347">M</span>
+		<span style="color: #029AD4">S</span>
+		<span style="color: #FECE0E">A</span>
+		<span style="color: white">2027</span>
 		<br />
-		<div style="color: #F14347; font-size: 2em;">MODERNISM, EXPANDED UNIVERSE</div>
+		<div style="color: #F14347; font-size: .75em;">MODERNISM, EXPANDED UNIVERSE</div>
 		<br />
-		<div style= "color: white; font-size: 2em;">TALLAHASSEE, FLORIDA</div>
+		<div style= "color: white; font-size: .75em;">TALLAHASSEE, FLORIDA</div>
 	</div>
-	
+
+<!--	
     <div id="scroll-image">
         <img src=
 "/conference/MSA2027/assets/expand_1.jpg" 
@@ -71,6 +78,8 @@ img {
         <img src=
 "/conference/MSA2027/assets/expand_4.jpg" 
              class="test" />
+			 
+-->
 			 
 <script>
                  startImageTransition();
