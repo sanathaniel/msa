@@ -44,8 +44,9 @@ img {
 
 .expanded {
 	font-family: "Sansita", sans-serif;
-	font-size: 4em;
+	font-size: 3em;
 	font-weight: 900;
+	line-height: 50%;
 	font-style: normal;
 	color: #F14347
 }
@@ -63,6 +64,7 @@ img {
 		<span style="color: #F14347; font-size: .75em;">MODERNISM, EXPANDED UNIVERSE</span>
 		<br />
 		<span style= "color: white; font-size: .75em;">TALLAHASSEE, FLORIDA</span>
+		<br />
 	</div>
 
 
