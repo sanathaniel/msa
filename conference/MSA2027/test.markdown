@@ -44,7 +44,8 @@ img {
 
 .expanded {
 	font-family: "Sansita", sans-serif;
-	font-weight: 700;
+	font-size: 4em;
+	font-weight: 900;
 	font-style: normal;
 	color: #F14347
 }
@@ -59,9 +60,9 @@ img {
 		<span style="color: #FECE0E">A</span>
 		<span style="color: white">2027</span>
 		<br />
-		<div style="color: #F14347; font-size: .75em;">MODERNISM, EXPANDED UNIVERSE</div>
+		<span style="color: #F14347; font-size: .75em;">MODERNISM, EXPANDED UNIVERSE</span>
 		<br />
-		<div style= "color: white; font-size: .75em;">TALLAHASSEE, FLORIDA</div>
+		<span style= "color: white; font-size: .75em;">TALLAHASSEE, FLORIDA</span>
 	</div>
 
 <!--	
