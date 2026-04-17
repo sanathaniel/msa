@@ -17,7 +17,7 @@ body {
   margin: 0;
   overflow: hidden;
   height: 100vh;
-  background: black;
+  background: #0E121D;
   position: relative;
 }
 
@@ -46,7 +46,7 @@ img {
 	font-family: "Sansita", sans-serif;
 	font-size: 3em;
 	font-weight: 900;
-	line-height: 50%;
+	line-height: 75%;
 	font-style: normal;
 	color: #F14347
 }
@@ -55,6 +55,8 @@ img {
 
 
 <body>
+
+<p></p>
     <div class="expanded">
 		<span style="color: #F14347">M</span>
 		<span style="color: #029AD4">S</span>
@@ -66,6 +68,7 @@ img {
 		<span style= "color: white; font-size: .75em;">TALLAHASSEE, FLORIDA</span>
 		<br />
 	</div>
+<p></p>
 
 
     <div id="scroll-image">
