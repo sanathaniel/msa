@@ -6,23 +6,57 @@ footer: false
 ---
 
 
-<head>
-    <style>
-        body {
-    text-align: center;
+<style>
+
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+  background: black;
+  position: relative;
 }
+
+.star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.8;
+  animation: twinkle 2s infinite ease-in-out;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 0.3; }
+}
+
 h1 {
     color: green;
         }
+		
 img {
     position: absolute;
 }
-    </style>
-</head>
-<body>
-    <h1>MSA2027</h1>
-    <b>Modernism, Expanded Universe</b>
 
+.expanded {
+	font-style: supera-gothic;
+	font-size: 2.5em;
+	color: #F14347
+}
+
+</style>
+
+
+<body>
+    <div class="expanded">
+		<div style="color: #F14347">M</div>
+		<div style="color: #029AD4">S</div>
+		<div style="color: #FECE0E">A</div>
+		<div style="color: white">2027</div>
+		<br />
+		<div style="color: #F14347; font-size: 2em;">MODERNISM, EXPANDED UNIVERSE</div>
+		<br />
+		<div style= "color: white; font-size: 2em;">TALLAHASSEE, FLORIDA</div>
+	</div>
 	
     <div id="scroll-image">
         <img src=
@@ -81,6 +115,28 @@ function startImageTransition() {
         })
     }
 }
+
+
+// Function to create multiple stars
+function createStars() {
+  const numberOfStars = 100; // Adjust for more or fewer stars
+  for (let i = 0; i < numberOfStars; i++) {
+    const star = document.createElement('div');
+    star.classList.add('star');
+
+    // Random size, position, and animation duration for each star
+    const size = Math.random() * 3 + 1;
+    star.style.width = `${size}px`;
+    star.style.height = `${size}px`;
+    star.style.left = `${Math.random() * 100}vw`;
+    star.style.top = `${Math.random() * 100}vh`;
+    star.style.animationDuration = `${Math.random() * 2 + 1}s`;
+
+    document.body.appendChild(star);
+  }
+}
+
+createStars();
 
              </script>
     </div>
