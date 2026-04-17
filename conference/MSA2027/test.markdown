@@ -17,7 +17,7 @@ body {
   margin: 0;
   overflow: hidden;
   height: 100vh;
-  background: black;
+  background: #111111;
   position: relative;
 }
 
@@ -43,6 +43,9 @@ img {
 }
 
 .scroll-image {
+}
+
+.test {
 	position: relative;
 	text-align: center;
 	color: white;
@@ -64,54 +67,54 @@ img {
 }
 
 .page-link-1 {
-	position: absolute;
+	position: relative;
 	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
 .page-link-2 {
-	position: absolute;
+	position: relative;
 	bottom: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
 .page-link-3 {
-	position: absolute;
+	position: relative;
 	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
 .page-link-4 {
-	position: absolute;
+	position: relative;
 	bottom: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 .page-link-5 {
-	position: absolute;
+	position: relative;
 	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
 .page-link-6 {
-	position: absolute;
+	position: relative;
 	bottom: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 .page-link-7 {
-	position: absolute;
+	position: relative;
 	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
 
 .page-link-8 {
-	position: absolute;
+	position: relative;
 	bottom: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
