@@ -42,14 +42,81 @@ img {
     position: absolute;
 }
 
+.scroll-image {
+	position: relative;
+	text-align: center;
+	color: white;
+	font-family: "Sansita", sans-serif;
+	font-size: 2em;
+	font-weight: 900;
+	line-height: 75%;
+	font-style: normal;
+	color: white;
+}
+
 .expanded {
 	font-family: "Sansita", sans-serif;
 	font-size: 3em;
 	font-weight: 900;
 	line-height: 75%;
 	font-style: normal;
-	color: #F14347
+	color: #F14347;
 }
+
+.page-link-1 {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.page-link-2 {
+	position: absolute;
+	bottom: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.page-link-3 {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.page-link-4 {
+	position: absolute;
+	bottom: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.page-link-5 {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.page-link-6 {
+	position: absolute;
+	bottom: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.page-link-7 {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.page-link-8 {
+	position: absolute;
+	bottom: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
 
 </style>
 
@@ -72,20 +139,29 @@ img {
 
 
     <div id="scroll-image">
-        <img src=
-"/conference/MSA2027/assets/expand_black_1.jpg" 
-             class="test" />
-        <img src=
-"/conference/MSA2027/assets/expand_black_2.jpg"
-             class="test" />
-        <img src=
-"/conference/MSA2027/assets/expand_black_3.jpg"
-             class="test" />
-        <img src=
-"/conference/MSA2027/assets/expand_black_4.jpg" 
-             class="test" />
+		<div class="test">
+			<img src="/conference/MSA2027/assets/expand_black_1.jpg" />
+			<div class="page-link-1">Welcome</div>
+			<div class="page-link-2">CFP</div>
+		</div>
 			 
+		<div class="test">
+			<img src="/conference/MSA2027/assets/expand_black_2.jpg" />
+			<div class="page-link-3">Seminars</div>
+			<div class="page-link-4">Workshops</div>
+		</div>
 
+		<div class="test">
+			<img src="/conference/MSA2027/assets/expand_black_3.jpg" />
+			<div class="page-link-5">Travel</div>
+			<div class="page-link-6">Events</div>
+		</div>
+		
+		<div class="test">
+			<img src="/conference/MSA2027/assets/expand_black_4.jpg" />
+			<div class="page-link-7">Registration</div>
+			<div class="page-link-8">Program</div>
+		</div>
 			 
 <script>
                  startImageTransition();
