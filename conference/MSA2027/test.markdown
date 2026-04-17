@@ -43,8 +43,9 @@ img {
 }
 
 .scroll-image {
+	position: relative;
 }
-
+ 
 .test {
 	display: flex;
 	width: 100%;
