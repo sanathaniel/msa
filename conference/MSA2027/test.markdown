@@ -141,7 +141,7 @@ img {
 
     <div id="scroll-image">
 		<div class="test">
-			<img src="/conference/MSA2027/assets/expand_black_1.jpg" />
+			<img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" />
 			<!--
 			<div class="page-link-1">Welcome</div>
 			<div class="page-link-2">CFP</div>
@@ -149,7 +149,7 @@ img {
 		</div>
 			 
 		<div class="test">
-			<img src="/conference/MSA2027/assets/expand_black_2.jpg" />
+			<img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" />
 			<!--
 			<div class="page-link-3">Seminars</div>
 			<div class="page-link-4">Workshops</div>
@@ -157,7 +157,7 @@ img {
 		</div>
 
 		<div class="test">
-			<img src="/conference/MSA2027/assets/expand_black_3.jpg" />
+			<img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" />
 			<!--
 			<div class="page-link-5">Travel</div>
 			<div class="page-link-6">Events</div>
@@ -165,7 +165,7 @@ img {
 		</div>
 		
 		<div class="test">
-			<img src="/conference/MSA2027/assets/expand_black_4.jpg" />
+			<img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" />
 			<!--
 			<div class="page-link-7">Registration</div>
 			<div class="page-link-8">Program</div>
