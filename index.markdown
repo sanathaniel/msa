@@ -21,7 +21,7 @@ layout: home
 	</div>
 
 </div>
-
+ 
 
 <div class="main-wrapper">
 
