@@ -33,7 +33,7 @@ layout: home
 				</div>
 				<h3>Draft Program</h3>
 				<figcaption  class="archive__item-title">The Draft Programs for MSA/BAMS 2026 is now live!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/registration/" class="btn btn--primary">Program</a>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Program</a>
 		</div>
 
 		<div class ="feature__item" style="border:20px;">
