@@ -107,7 +107,7 @@ Loughborough, UK, 1-4 July, 2026
 				</a>
 				<img src="/conference/MSA2026/assets/tarot_fortune.png" id="top7" style="top: 0px;" onclick="fadeOut7()">
 			</div>
-<!--			
+			
 			<div class="container">
 				<div class="title-box"><h2 style="padding-bottom: 0px;">Program</h2></div>
 				<a href="/conference/MSA2026/program/">
@@ -115,7 +115,7 @@ Loughborough, UK, 1-4 July, 2026
 				</a>
 				<img src="/conference/MSA2026/assets/tarot_priestess.png" id="top8" style="top: 0px;" onclick="fadeOut8()">
 			</div>	
--->			
+			
 			<div class="container">
 				<div class="title-box"><h2 style="padding-bottom: 0px;">Seminars</h2></div>
 				<a href="/conference/MSA2026/seminars/">

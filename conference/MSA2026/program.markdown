@@ -50,5 +50,8 @@ color: #689c4b;
 
 <h2><a href="/conference/MSA2026/assets/BAMS_MSA_In_Person_Schedule.pdf">In-Person Schedule (Draft)</a></h2>
 
-<h2><a href="/conference/MSA2026/assets/BAMS_MSA_Virtual_Schedule">Virtual Schedule (Draft)</a></h2>
+<h2><a href="/conference/MSA2026/assets/BAMS_MSA_Virtual_Schedule.pdf">Virtual Schedule (Draft)</a></h2>
 
+<p>
+Until May 1, we will accept change requests <i>only in cases of error</i> (e.g. typos, incorrect affiliations, wrong paper title, too many appearances on the program, etc.). We will also review scheduling requests <i>only in cases of exceptional circumstances</i> (e.g., medical emergencies), but, unlike cases of basic errors, we cannot guarantee that those requests can be accommodated. 
+</p>
