@@ -53,5 +53,5 @@ color: #689c4b;
 <h2><a href="/conference/MSA2026/assets/BAMS_MSA_Virtual_Schedule.pdf">Virtual Schedule (Draft)</a></h2>
 
 <p>
-Until May 1, we will accept change requests <i>only in cases of error</i> (e.g. typos, incorrect affiliations, wrong paper title, too many appearances on the program, etc.). We will also review scheduling requests <i>only in cases of exceptional circumstances</i> (e.g., medical emergencies), but, unlike cases of basic errors, we cannot guarantee that those requests can be accommodated. 
+Please note that this is a draft program. Between now and May 1, please feel free to report basic errors of fact (e.g., typos, updated institutional affiliations, incorrect paper titles), and we will correct those in the program after May 1. We will also accept schedule change requests <i>only in cases of emergency</i> (e.g., medical emergency), until May 1, and will review those requests after May 1. Due to the complexities of the schedule, we cannot promise that all requests will be accepted. All requests should be sent to the conference email: <a href="bamsmsa26@gmail.com">bamsmsa26@gmail.com</a>.
 </p>
