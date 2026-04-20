@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Draft Program</h3>
-				<figcaption  class="archive__item-title">The Draft Programs for MSA/BAMS 2026 is now live!</figcaption>
+				<figcaption  class="archive__item-title">The Draft Programs for MSA/BAMS 2026 are now live!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Program</a>
 		</div>
 
