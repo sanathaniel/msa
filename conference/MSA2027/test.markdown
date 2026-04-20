@@ -1,6 +1,6 @@
 ---
 layout: 27conference-hub
-permalink: /conference/MSA2027/test
+permalink: /conference/MSA2027/test/
 masthead: false
 footer: false
 ---
@@ -219,7 +219,7 @@ function startImageTransition() {
 
 // Function to create multiple stars
 function createStars() {
-  const numberOfStars = 100; // Adjust for more or fewer stars
+  const numberOfStars = 200; // Adjust for more or fewer stars
   for (let i = 0; i < numberOfStars; i++) {
     const star = document.createElement('div');
     star.classList.add('star');
