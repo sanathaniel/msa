@@ -15,8 +15,8 @@ footer: false
 
 @font-face {
     font-family: 'Kabel-Black'; /* Name you'll use in CSS */
-    src: url('/conference/MSA2027/assets/Kabel-Black.ttf') format('ttf'), /* Modern browsers */
-         url('/conference/MSA2027/assets/Kabel-Black.ttf') format('ttf'),   /* Fallback */
+    src: url('/conference/MSA2027/assets/Kabel-Black.woff2') format('woff2'), /* Modern browsers */
+         url('/conference/MSA2027/assets/Kabel-Black.woff') format('woff'),   /* Fallback */
          url('/conference/MSA2027/assets/Kabel-Black.ttf') format('truetype'); /* Legacy fallback */
     font-weight: normal;
     font-style: normal;
@@ -57,7 +57,7 @@ img {
  
 .test {
 	color: white;
-	font-family: "Sansita", sans-serif;
+	font-family: "Kabel-Black", sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 	line-height: 75%;
@@ -66,7 +66,7 @@ img {
 }
 
 .expanded {
-	font-family: "Sansita", sans-serif;
+	font-family: "Kabel-Black", sans-serif;
 	font-size: 3em;
 	font-weight: 900;
 	line-height: 75%;
