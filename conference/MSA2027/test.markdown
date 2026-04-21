@@ -6,24 +6,15 @@ footer: false
 ---
 
 <head>
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
 </head>
 
 <style>
 
-@font-face {
-    font-family: 'Kabel-Black'; /* Name you'll use in CSS */
-    src: url('/conference/MSA2027/assets/Kabel-Black.woff2') format('woff2'), /* Modern browsers */
-         url('/conference/MSA2027/assets/Kabel-Black.woff') format('woff'),   /* Fallback */
-         url('/conference/MSA2027/assets/Kabel-Black.ttf') format('truetype'); /* Legacy fallback */
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.cdnfonts.com/css/kabel');
 
 body {
-  font-family: 'Kabel-Black', Arial, sans-serif;
+  font-family: 'Kabel', Arial, sans-serif;
   margin: 0;
   overflow: hidden;
   height: 100vh;
@@ -57,7 +48,7 @@ img {
  
 .test {
 	color: white;
-	font-family: "Kabel-Black", sans-serif;
+	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 	line-height: 75%;
@@ -66,7 +57,7 @@ img {
 }
 
 .expanded {
-	font-family: "Kabel-Black", sans-serif;
+	font-family: 'Kabel', sans-serif;
 	font-size: 3em;
 	font-weight: 900;
 	line-height: 75%;
