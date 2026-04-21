@@ -13,7 +13,17 @@ footer: false
 
 <style>
 
+@font-face {
+    font-family: 'Kabel-Black'; /* Name you'll use in CSS */
+    src: url('/conference/MSA2027/assets/Kabel-Black.ttf') format('ttf'), /* Modern browsers */
+         url('/conference/MSA2027/assets/Kabel-Black.ttf') format('ttf'),   /* Fallback */
+         url('/conference/MSA2027/assets/Kabel-Black.ttf') format('truetype'); /* Legacy fallback */
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
+  font-family: 'Kabel-Black', Arial, sans-serif;
   margin: 0;
   overflow: hidden;
   height: 100vh;
