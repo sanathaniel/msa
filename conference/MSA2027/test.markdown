@@ -57,8 +57,9 @@ img {
 }
 
 .expanded {
+	text-align: center;
 	font-family: 'Kabel', sans-serif;
-	font-size: 3em;
+	font-size: 2.5em;
 	font-weight: 900;
 	line-height: 75%;
 	font-style: normal;
@@ -127,9 +128,7 @@ img {
 
 <p></p>
     <div class="expanded">
-		<span style="color: #F14347">M</span>
-		<span style="color: #029AD4">S</span>
-		<span style="color: #FECE0E">A</span>
+		<span style="color: #F14347">M</span><span style="color: #029AD4">S</span><span style="color: #FECE0E">A</span>
 		<span style="color: white">2027</span>
 		<br />
 		<span style="color: #F14347; font-size: .75em;">MODERNISM, EXPANDED UNIVERSE</span>

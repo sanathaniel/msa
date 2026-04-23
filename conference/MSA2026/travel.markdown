@@ -78,64 +78,77 @@ Travel coming April 2026.
  
 <h2 id="hotels">Conference Hotels </h2>
 
-We have arranged special deals with two Loughborough University campus-based hotels for the duration of the conference. There are also other hotel options available in the town centre. More information is below.
+We have arranged special deals with two Loughborough University campus-based hotels, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> and <a href="https://www.linkhotelloughborough.co.uk/">The Link</a> for the duration of the conference. The conference registration fee and the conference hotels are both bookable via the registration page (see Registration tab for the link). Please note that registration and hotel accommodation cannot be booked separately. Delegates need to book the accommodation in the same transaction and can only access the room options after selecting an ‘attendee category’ to book their place at the conference.
 
-The conference fee and the conference hotels are both bookable via the registration page (see Registration tab for the link).
+However, the number of rooms available are limited so delegates may need to arrange alternative accommodation once these rooms are fully booked (the online store will indicate this with an exclamation mark).
 
-<strong>Please note:</strong>
+There are several other hotel options available in the town centre and in the surrounding areas. More information is below.
 
-Registration and hotel accommodation cannot be booked separately. Delegates need to book the accommodation in the same transaction and can only access the room options after selecting an 'attendee category' to book their place at the conference.
+<h2>Other Accommodation Options</h2>
 
-<h3>The Link Hotel</h3>
+In addition to the conference hotels, there are several accommodation options in Loughborough town centre and the surrounding areas.
 
-About the hotel: <a href="https://www.linkhotelloughborough.co.uk/">The Link Hotel</a> offers three-star double en-suite bedrooms, a bar and a restaurant. The hotel is located just one mile from J23 of the M1 on the approach to Loughborough town centre and a 15-minute walk from Holywell Park Conference Centre (the location of the conference).
+<h3>Accommodation in Loughborough town centre:</h3>
 
-All preferential conference rates at the Link Hotel are currently for three nights (1, 2 and 3 July inclusive) or for four nights (30 June, 1 July, 2 July and 3 July 2026 inclusive). These are bookable via the registration page: first select your registration type, and the hotel offers will appear. For shorter stays or to add an extra night, please contact the hotel team directly (see information below).
+Loughborough town centre is located about a 45-minute walk from the Holywell Park Conference Centre (the location of the conference).
+ 
+The Sprint Kinchbus service runs regularly (up to every 10 minutes) between Loughborough train station, the city centre and the University campus and an adult single fare is £3. The journey takes around 20 minutes from the town centre to the conference venue (Holywell Park).
 
-Room types and costs are listed on the registration page.
-
-<h3>Burleigh Court Hotel</h3>
-
-About the hotel: Located on campus, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> is an award-winning 4-star hotel. It offers en-suite bedrooms, a bar, restaurant, and complimentary access to Burleigh Springs Leisure and Therapy Centre. Burleigh Court is a 10-minute walk from Holywell Park Conference Centre (the location of the conference).
-
-All preferential conference rates at Burleigh Court are for three nights (1, 2 and 3 July inclusive) or for four nights (30 June, 1 July, 2 July and 3 July 2026 inclusive). These are bookable via the registration page: first select your registration type, and the hotel offers will appear. For shorter stays, please contact the hotel team directly (see information below).
-
-Room types and costs are listed on the registration page.
-
-<i>Booking extra/fewer nights – Please note:</i> 
-
-The link to the conference rate for hotels is available when you register for the full conference and is only available for people staying the duration of the conference. 
-
-If you wish to either stay for fewer nights or to add an extra night to your stay, you can do so by contacting the conferencing team directly via email: <a href="mailto:info@welcometoimago.com">info@welcometoimago.com</a> or via the reservation team email: <a href="mailto:Beds@lboro.ac.uk">Beds@lboro.ac.uk</a>. 
-Please quote the following reference numbers, depending on the hotel you wish to book:
-For the Link Hotel booking reference number: RDV 11418
-For Burleigh Court booking reference number: RDV 11419
-
-Please note that if you book directly to stay for 1 to 2 nights, or to add an extra night to your stay, the preferential conference rate will not be available to you, so you will be booking the room as an external guest at a higher rate. There are also cheaper options available in Loughborough town centre, listed below.
-
-<h3>Other Accommodation Options</h3>
-
-In addition to the conference hotels, there are several cheaper options in Loughborough town centre. 
-
-Please bear in mind that Loughborough town centre is located about a 45-minute walk from the Holywell Park Conference Centre (the location of the conference). There is a local University bus service (the ‘Sprint’ bus) that takes around 25 minutes from the town centre to the conference venue.
-
-Options in town include:
+Options in Loughborough town centre include:
 
 <ul>
-
 	<li><a href="https://www.travelodge.co.uk/hotels/547/Loughborough-Central-hotel">Travelodge Loughborough Central</a></li>
-
 	<li><a href="https://www.premierinn.com/gb/en/hotels/england/leicestershire/loughborough/loughborough.html?ARRdd=27&ARRmm=03&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=PI">Premier Inn Loughborough</a></li>
-
 	<li><a href="https://ramadaloughboroughhotel.reservationstays.com/hotels/VGDLZzGy?utm_source=adwords_semro&utm_campaign=G%3ARS%3AROW%3APPC%3ANB%3AProp%3AROW%3AEN%3AEurope-GB&gad_source=1&gad_campaignid=20394154503&gbraid=0AAAAAo1QcNkORUSvg4s_CQ4m0mXmOn3iO&gclid=CjwKCAjwspPOBhB9EiwATFbi5IEM5S2_TIZHqUqRyrnCb5R9kjId_opanP0IbXenzhSHMZj3T8IEfxoCFL0QAvD_BwE&redirect_auth_retry=true">Ramada By Wyndham Loughborough Hotel</a></li>
-
 	<li><a href="https://www.hotelsone.com/loughborough-hotels-gb/holywell-guest-house.html?dsti=34363825&dstt=8&nid=1&as=g&aid=725421826045&cmpid=20703726143&agid=173557743553&gid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE&gwbrd=CkEKCQjwj47OBhDHARIwAOza9m-uV7eSaEh59icpLZgSekiZ4_PHk-DNjOmRqykkMT9k_7U3OqEuD_ZGfFfdGgK6lA&ggbrd=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gad_source=1&gad_campaignid=20703726143&gbraid=0AAAAAD4o1PeoaMkS-oqNLEEsW2QUMF_gN&gclid=CjwKCAjwspPOBhB9EiwATFbi5Agrz-IfP8w8hM5Pugxn4NJafxsDg2eyBt7BTwAY8sOEkfHYymg9KBoCBQAQAvD_BwE">Holywell Guest House</a></li>
-
 	<li><a href="https://charnwoodregency.com/">Charnwood Regency Guest House</a></li>
-
 	<li><a href="https://www.guestreservations.com/the-peacock-inn-loughborough/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006021&gad_source=1&gad_campaignid=991006021&gbraid=0AAAAADiMQMbM_bac1JEK12hjX1SZwFOoU&gclid=CjwKCAjwspPOBhB9EiwATFbi5Obxtwnc4FUJzmucCOiTRW0Ka9hiH81w2BV07cs0-Rw7-E4Hs-scLhoCtywQAvD_BwE">The Peacock Inn</a></li>
-
+	<li><a href="https://www.caravelli.co.uk/rooms/">Caravelli</a></li>
 </ul>
+
+<h3>East Midlands Parkway</h3>
+
+Loughborough is located near the East Midlands Parkway airport, where you can find several hotel options, including:
+
+<ul>
+	<li><a href="">Premier Inn East Midlands Airport</a></li>
+	<li><a href="">Radisson Blu Hotel, East Midlands Airport</a></li>
+	<li><a href="">Holiday Inn Express, East Midlands Airport</a></li>
+</ul>
+
+There is a <a href="https://www.kinchbus.co.uk/services/skylink-derby">Skylink bus service</a> which runs from East Midlands Airport and travels to Loughborough. They run every 20 minutes and an adult single fare is £3. It could take as little as 30 minutes to travel to Loughborough.
+
+You can also get the train from East Midlands Parkway station to Loughborough train station (the journey takes around 8 mins). The Sprint Kinchbus service runs regularly (up to every 10 minutes) between Loughborough train station and the University campus and an adult single fare is £3.
+
+You can find more information on travelling from East Midlands Parkway to Loughborough University <a href="https://www.lboro.ac.uk/international/travel-information/east-midlands-to-lboro/">here</a>.  
+
+<h3>Leicester</h3>
+
+Leicester is a nearby city. You can travel by train from Leicester to Loughborough in around 12 minutes. The Sprint Kinchbus service runs regularly (up to every 10 minutes) between Loughborough train station and the University campus and an adult single fare is £3.
+
+Leicester has numerous accommodation options, including:
+
+<ul>
+	<li><a href="https://www.premierinn.com/gb/en/hotels/england/leicestershire/leicester/leicester-city-centre.html?ARRdd=23&ARRmm=4&ARRyyyy=2026&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&cid=KNC_G_Hotel:UKC_User:UKC_Lang:EN_Cat:BRD-DestinationT2|Leicester&adgroupID=175429983831&keyword=premier%20inn%20leicester&matchtype=e&gad_source=1&gad_campaignid=22055908979&gclid=CjwKCAjwhqfPBhBWEiwAZo196i8OiaoQPbsK2pPm66diS3IHgoDtPtJU-I-aVa08KScMsNuIsqQxMRoC-_AQAvD_BwE&BRAND=PI">Premier Inn Leicester City Centre</a></li>
+	<li><a href="https://www.guestreservations.com/ibis-leicester-city/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006015&gad_source=1&gad_campaignid=991006015&gclid=CjwKCAjwhqfPBhBWEiwAZo196gGnZHFMehjlJb3-qiTRUzAhtEcnR9ZlIFQh0y8n7rHCriGfGj6E_xoC27MQAvD_BwE">Ibis Leicester City </a></li>
+	<li><a href="https://www.guestreservations.com/ramada-encore-leicester/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006015&gad_source=1&gad_campaignid=991006015&gclid=CjwKCAjwhqfPBhBWEiwAZo196tATB5Gc0U4krwpWQ2bWJBCVFJ2PbSLqt5qyAm_Nf22oMpO01L9_ZhoCNioQAvD_BwE">Ramada Encore Leicester City </a></li>
+	<li><a href="https://www.travelodge.co.uk/hotels/683/Leicester-City-Centre-hotel?utm_source=google&utm_medium=GHA_Organic&utm_campaign=GHA_Leicester_City_Centre">Travelodge Leicester City Centre </a></li>
+</ul>
+
+You can find train information for travel from Leicester to Loughborough <a href="https://www.eastmidlandsrailway.co.uk/train-times/leicester-to-loughborough">here</a>.
+
+<h3>Accommodation in nearby villages:</h3>
+
+Loughborough is surrounded by beautiful countryside and several small villages. These venues in nearby villages are not accessible by public transport, so delegates would require access to a car or taxi journey to reach the conference venue (Holywell Park):
+
+<ul>
+	<li><a href="https://www.quorncountryhotel.co.uk/">https://www.quorncountryhotel.co.uk/</a> (18 mins drive from conference venue)</li>
+	<li><a href="">https://www.theroyaloaklongwhatton.co.uk/</a> (15 mins drive from conference venue)</li>
+	<li><a href="https://www.falconlongwhatton.co.uk/">https://www.falconlongwhatton.co.uk/</a> (15 mins drive from conference venue)</li>
+	<li><a href="https://huntinglodgebarrow.co.uk/">https://huntinglodgebarrow.co.uk/</a> (18 mins drive from conference venue)</li>
+	<li><a href="https://queensheadbelton.co.uk/">https://queensheadbelton.co.uk/</a> (15 mins drive from conference venue)</li>
+</ul>
+
 
 <h2 id="travel">Getting to Loughborough University  </h2>
 
@@ -157,7 +170,7 @@ The Sprint shuttle bus has stops around campus, including outside Holywell park.
 
  
 
-<h2 id="town">In Loughborough town centre </h2>
+<h2 id="town"> Places to eat and things to do in Loughborough town centre  </h2>
 
 The Loughborough Odeon on Cattle Market is a fantastic example of mid-century architecture. Check out the Film SIG’s Friday programming at the venue. 
 
