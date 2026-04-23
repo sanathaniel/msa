@@ -111,9 +111,9 @@ Options in Loughborough town centre include:
 Loughborough is located near the East Midlands Parkway airport, where you can find several hotel options, including:
 
 <ul>
-	<li><a href="">Premier Inn East Midlands Airport</a></li>
-	<li><a href="">Radisson Blu Hotel, East Midlands Airport</a></li>
-	<li><a href="">Holiday Inn Express, East Midlands Airport</a></li>
+	<li><a href="https://www.premierinn.com/gb/en/hotels/england/leicestershire/east-midlands-airport/east-midlands-airport.html">Premier Inn East Midlands Airport</a></li>
+	<li><a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-east-midlands-airport?facilitatorId=RHGSEM&cid=a:ps+b:ggl+c:emea+i:brand+e:rdb+d:nowe+r:brt+f:en-US+g:ho+h:GBEMAAIR+v:cf&gclsrc=aw.ds&gad_source=1&gad_campaignid=21309048614&gclid=CjwKCAjwhqfPBhBWEiwAZo196kNPpJXSopmVv3vSx_aeMEYTbFRebcvNWIkOeUFPWyMPnFvksJiDfBoCTZoQAvD_BwE">Radisson Blu Hotel, East Midlands Airport</a></li>
+	<li><a href="https://www.ihg.com/holidayinnexpress/hotels/gb/en/derby/emlap/hoteldetail">Holiday Inn Express, East Midlands Airport</a></li>
 </ul>
 
 There is a <a href="https://www.kinchbus.co.uk/services/skylink-derby">Skylink bus service</a> which runs from East Midlands Airport and travels to Loughborough. They run every 20 minutes and an adult single fare is £3. It could take as little as 30 minutes to travel to Loughborough.
@@ -143,7 +143,7 @@ Loughborough is surrounded by beautiful countryside and several small villages. 
 
 <ul>
 	<li><a href="https://www.quorncountryhotel.co.uk/">https://www.quorncountryhotel.co.uk/</a> (18 mins drive from conference venue)</li>
-	<li><a href="">https://www.theroyaloaklongwhatton.co.uk/</a> (15 mins drive from conference venue)</li>
+	<li><a href="https://www.theroyaloaklongwhatton.co.uk/">https://www.theroyaloaklongwhatton.co.uk/</a> (15 mins drive from conference venue)</li>
 	<li><a href="https://www.falconlongwhatton.co.uk/">https://www.falconlongwhatton.co.uk/</a> (15 mins drive from conference venue)</li>
 	<li><a href="https://huntinglodgebarrow.co.uk/">https://huntinglodgebarrow.co.uk/</a> (18 mins drive from conference venue)</li>
 	<li><a href="https://queensheadbelton.co.uk/">https://queensheadbelton.co.uk/</a> (15 mins drive from conference venue)</li>

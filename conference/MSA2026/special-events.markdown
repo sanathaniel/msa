@@ -137,4 +137,4 @@ Attendees are warmly invited to a post-conference screening of Tony Paraskeva’
 <a href="https://www.eastmidlandsrailway.co.uk/train-times/leicester-to-london?utm_campaign=EMR+%7C+Google+%7C+Performance+Max&utm_id=20742541171&utm_source=google&utm_medium=cpc&gclsrc=aw.ds&gad_source=1&gad_campaignid=20738841536&gbraid=0AAAAACtVe3G70YIgrpsEgEcfGQRuMZOc7&gclid=CjwKCAjwhqfPBhBWEiwAZo196nH6maSBcvdegF_2ooPrYiW1i_Djp-jgFN8ERNi1G-WEWVzEsqVvShoCXhcQAvD_BwE">Travel between Leicester and London</a> (train travel time, approx. 1hr 12 mins)
 
 You can buy tickets for this event through the <a href="https://www.moderniststudies.org/conference/MSA2026/registration/">conference registration page</a> when you register. 
-If you have already registered but would like to book a ticket, please email bamsmsa26@gmail.com 
+If you have already registered but would like to book a ticket, please email <a href="mailto:bamsmsa26@gmail.com">bamsmsa26@gmail.com</a>. 
