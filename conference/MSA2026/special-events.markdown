@@ -89,6 +89,9 @@ Takes place during lunch break (packed lunches available).
 
 <h3>Evening events:</h3>
 
+<strong>•	Thursday 2nd July, 6:30</strong>
+Meet-Up for Contingent and Independent Scholars: An informal meet-up for Contingent and Independent scholars, organized by MSA’s Caucus for Contingent and Independent Scholars (CCIS).
+
 <strong>•	Friday 3rd July, 16.45-17.45
 Ballet Stochastique: A Weird Modernist Soundscape</strong> (led by Ruth Clemens and Sandipan Nath): An evening performance, exploring the ghostly effects (and affects) of the ‘self-playing piano’. 
 We encourage signing up to keep track of numbers but drop ins are welcome on the day.
@@ -96,6 +99,8 @@ We encourage signing up to keep track of numbers but drop ins are welcome on the
 <strong>•	Friday 3rd July, time TBC
 Meet-Up for Graduate Students & ECRs:</strong> An informal meet-up for graduates and early career researchers, hosted by the BAMS and MSA postgraduate reps. 
 We encourage signing up to keep track of numbers but drop ins are welcome on the day.
+
+
 
 <h3>Evening Screenings Strand: MSA Film Studies SIG</h3>
  
@@ -114,7 +119,7 @@ Location: Turing Room
 Koodal (dir. Tyeb Mehta, 1970, 15min) and Arcadia (dir. Paul Wright, 2017, 82min) at the Holywell Park Conference Centre. Curated and introduced by Ritika Kaushik and Sean Batton.  
 
 We encourage signing up to keep track of numbers but drop ins are welcome on the day.
- 
+
 <strong>Friday 3 July, 7-9pm: Close Encounters</strong>
 Location: ODEON Cinema (7 Cattle Market, Loughborough, LE11 3DL)
 
