@@ -574,7 +574,7 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 </p>
 			<p>We call for brief position papers (5-7 pages) on any work (including work in progress) that engages with modernism and Byzantium. Papers will be pre-circulated. We will match participants and ask each attendee to respond to one paper.</p>
 
-<p>The seminar will be led by two scholars working within modernism and Byzantine studies who would like to continue building an open and inviting network on modernism & Byzantium. For this seminar, we have invited three responders from Literature and from Byzantine Studies, whom we’ve asked to share with us their most recent work and talk about the challenges of working across periods. The responders are Eleni Kefala (St. Andrews), Suzanne Hobson (Queen Mary London), and Tony Paraskeva (Roehampton).</p>
+<p>The seminar will be led by two scholars working within modernism and Byzantine studies who would like to continue building an open and inviting network on modernism & Byzantium. The organisers are delighted to have in the seminar Tony Paraskeva (Roehampton) as invited responder.</p>
 
 <p>The discussion will be structured, congenial, and inclusive; the organisers are committed to ensuring that everyone gets the chance to speak and to be heard.
 			</p>
