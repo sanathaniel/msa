@@ -53,7 +53,7 @@ layout: home
 				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br /></figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
 		</div>	
-
+ 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
