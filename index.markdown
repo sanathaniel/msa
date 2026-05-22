@@ -31,8 +31,8 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Draft Program</h3>
-				<figcaption  class="archive__item-title">The Draft Programs for MSA/BAMS 2026 are now live!</figcaption>
+				<h3>Final Program</h3>
+				<figcaption  class="archive__item-title">The Final Programs for MSA/BAMS 2026 are now live!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Program</a>
 		</div>
 
@@ -53,7 +53,7 @@ layout: home
 				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br /></figcaption>
 			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
 		</div>	
-
+ 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
