@@ -89,8 +89,8 @@ Takes place during lunch break (packed lunches available).
 
 <h3>Evening events:</h3>
 
-<strong>•	Thursday 2nd July, 6:30</strong>
-Meet-Up for Contingent and Independent Scholars: An informal meet-up for Contingent and Independent scholars, organized by MSA’s Caucus for Contingent and Independent Scholars (CCIS).
+<strong>•	Thursday 2nd July, 6:30 Meet-Up for Contingent and Independent Scholars:</strong> 
+An informal meet-up for Contingent and Independent scholars, organized by MSA’s Caucus for Contingent and Independent Scholars (CCIS). Location TBC.
 
 <strong>•	Friday 3rd July, 16.45-17.45
 Ballet Stochastique: A Weird Modernist Soundscape</strong> (led by Ruth Clemens and Sandipan Nath): An evening performance, exploring the ghostly effects (and affects) of the ‘self-playing piano’. 
