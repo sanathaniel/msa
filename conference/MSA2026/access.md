@@ -1,5 +1,5 @@
 ---
-layout: conference
+layout: 26conference
 permalink: /conference/MSA2026/access/
 sidebar:
   - title: ""
