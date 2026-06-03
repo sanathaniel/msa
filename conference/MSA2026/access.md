@@ -9,6 +9,34 @@ masthead: false
 footer: false
 ---
 
+<style>
+
+background-color: #D6D1CE;
+font-style: Sansita;
+ 
+
+a {
+color: #d0463c;
+}
+
+a:visited {
+color: #d0463c;
+}
+
+h1 {
+color: #689c4b;
+}
+
+h2 {
+color: #689c4b;
+}
+
+h3 {
+color: #689c4b;
+}
+  
+</style>
+
 <div class="page__hero--overlay" 
   style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2026/assets/test-image-1.png);">
     <div class="wrapper">
