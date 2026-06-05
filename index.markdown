@@ -273,7 +273,7 @@ layout: home
 	    -->
 
    	
-	<div class ="feed-block" style="padding-right:70px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
+	<div class ="feed-block" style="padding-right:10px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
 		<br>
 			<div class="soc-title">
 				<a href="https://bsky.app/profile/moderniststudies.bsky.social">
