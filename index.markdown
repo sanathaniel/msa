@@ -35,24 +35,6 @@ layout: home
 				<figcaption  class="archive__item-title">The Final Programs for MSA/BAMS 2026 are now live!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Program</a>
 		</div>
-
-		<div class ="feature__item" style="border:20px;">
-				<div class="feature__item-teaser">
-					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Essay Prize for Contingent and Independent Scholars</figcaption>
-			<a href="prizes/nominations/" class="btn btn--primary">Submit</a>
-		</div>	
-
-		<div class ="feature__item" style="border:20px;">
-				<div class="feature__item-teaser">
-					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Prize Nominations</h3>
-				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br /></figcaption>
-			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
-		</div>	
  
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -110,9 +92,6 @@ layout: home
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 		
-
-<!--	
-
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
@@ -129,7 +108,27 @@ layout: home
 				<h3>MSA 2025</h3>
 				<figcaption  class="archive__item-title">Thanks to all who made MSA2025 a wonderful gathering!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
-		</div>			
+		</div>		
+		
+<!--	
+
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/blast_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Prize Nominations</h3>
+				<figcaption  class="archive__item-title">Essay Prize for Contingent and Independent Scholars</figcaption>
+			<a href="prizes/nominations/" class="btn btn--primary">Submit</a>
+		</div>	
+
+		<div class ="feature__item" style="border:20px;">
+				<div class="feature__item-teaser">
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Prize Nominations</h3>
+				<figcaption  class="archive__item-title">Calling for nominations: MSA's 2026 book prizes. <br /></figcaption>
+			<a href="prizes/nominations/" class="btn btn--primary">Nominate</a>
+		</div>		
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
