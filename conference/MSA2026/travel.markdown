@@ -78,9 +78,18 @@ Travel coming April 2026.
  
 <h2 id="hotels">Conference Hotels </h2>
 
-We have arranged special deals with two Loughborough University campus-based hotels, <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> and <a href="https://www.linkhotelloughborough.co.uk/">The Link</a> for the duration of the conference. The conference registration fee and the conference hotels are both bookable via the registration page (see Registration tab for the link). Please note that registration and hotel accommodation cannot be booked separately. Delegates need to book the accommodation in the same transaction and can only access the room options after selecting an ‘attendee category’ to book their place at the conference.
+Hotel bookings via the online conference store are now closed. 
+ 
+Please access the  <a href="https://www.burleigh-court.co.uk/">Burleigh Court</a> or <a href="https://www.linkhotelloughborough.co.uk/">The Link</a> websites to book rooms direct with the hotel team. 
+
+
+<!--
+
+We have arranged special deals with two Loughborough University campus-based hotels, for the duration of the conference. The conference registration fee and the conference hotels are both bookable via the registration page (see Registration tab for the link). Please note that registration and hotel accommodation cannot be booked separately. Delegates need to book the accommodation in the same transaction and can only access the room options after selecting an ‘attendee category’ to book their place at the conference.
 
 However, the number of rooms available are limited so delegates may need to arrange alternative accommodation once these rooms are fully booked (the online store will indicate this with an exclamation mark).
+
+-->
 
 There are several other hotel options available in the town centre and in the surrounding areas. More information is below.
 

@@ -49,6 +49,11 @@ color: #689c4b;
 </div>
 
 
+Registration for the in-person conference has now closed. 
+ 
+Virtual registration is open until Wednesday 24 June, midnight (BST). You can register for the online conference at the link above.
+
+<!--
 <p><strong><a href="https://store.lboro.ac.uk/conferences-and-events/school-of-social-sciences-and-humanities/upcoming-events/weird-modernisms">Registration for MSA Loughborough 2026</a></strong></p>
 
 <p><strong>Please note that you must be a current member of <a href="https://bams.ac.uk/join-bams/">BAMS</a> or the <a href="https://www.moderniststudies.org/members/login/">MSA</a> to register.</strong></p>
@@ -111,14 +116,18 @@ Please note that your membership in the MSA must be current in order for you to 
 
 <p>When you register for the conference, you have the option of registering for one seminar. For seminar topics see the <a href="/conference/MSA2025/seminars/">Seminars page</a>. Seminars are filled on a first-come, first-served basis.</p>
 
+
+
+			
+<!--	
+
+
 <h2>CANCELLATIONS AND REFUNDS</h2>
 
 <p>Registrants who cancel at least 30 days prior to the conference start date will receive a full refund, less a $40 processing fee. No refunds can be offered within 30 days of the conference. Refunds will not be given to no-shows. Substitutions are permitted.To request a refund, please contact <a href="mailto:lhill21@jh.edu>">Lakeisha Hill</a>.</p>
 
 <p><strong><a target="_blank" href="/members/conference">Registration for MSA Boston 2025 coming soon</a></strong></p>
-
-			
-<!--	  
+  
       <li><strong>After September 15:</strong> </li>
       <ul>
         <li>Reduced Rate: $95<br/></li>
