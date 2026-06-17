@@ -51,14 +51,13 @@ color: #689c4b;
 
 Registration for the in-person conference has now closed. 
  
-Virtual registration is open until Wednesday 24 June, midnight (BST). You can register for the online conference at the link above.
+Virtual registration is open until Wednesday 24 June, midnight (BST). You can register for the <strong>online conference</strong> at the link below.
 
-<!--
-<p><strong><a href="https://store.lboro.ac.uk/conferences-and-events/school-of-social-sciences-and-humanities/upcoming-events/weird-modernisms">Registration for MSA Loughborough 2026</a></strong></p>
+<p><strong><a href="https://store.lboro.ac.uk/conferences-and-events/school-of-social-sciences-and-humanities/upcoming-events/weird-modernisms">Registration for MSA Loughborough 2026 Online Conference</a></strong></p>
 
 <p><strong>Please note that you must be a current member of <a href="https://bams.ac.uk/join-bams/">BAMS</a> or the <a href="https://www.moderniststudies.org/members/login/">MSA</a> to register.</strong></p>
 
-<p>The conference fee, and the conference hotels, will be bookable via the registration page. For seminars, workshops and additional programming please use this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">form.</a></p> 
+<p>For seminars, workshops and additional programming please use this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">form.</a></p> 
 
 <h2>Registration Rates</h2>
 
@@ -90,6 +89,7 @@ Virtual registration is open until Wednesday 24 June, midnight (BST). You can re
 </ul>
 
 <p>*Reduced rate is generously interpreted to include graduate students as well as precarious and retired scholars. There will also be an opportunity to self-define eligibility for the reduced rate.</p>
+
 
 <!--
 

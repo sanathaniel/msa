@@ -120,6 +120,9 @@ Koodal (dir. Tyeb Mehta, 1970, 15min) and Arcadia (dir. Paul Wright, 2017, 82min
 
 We encourage signing up to keep track of numbers but drop ins are welcome on the day.
 
+CW for Koodal: contains some scenes at a slaughterhouse including animal harm 
+CW for Arcadia: contains infrequent strong language, bloody images, and moderate threat
+
 <strong>Friday 3 July, 7-9pm: Close Encounters</strong>
 Location: ODEON Cinema (7 Cattle Market, Loughborough, LE11 3DL)
 
