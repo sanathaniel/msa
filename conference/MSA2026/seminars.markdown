@@ -61,7 +61,11 @@ color: #689c4b;
 
  <p></p>
 
-<p>During the registration process, you will have the opportunity to select a seminar should you wish to participate in one (seminar titles and descriptions are listed below). In advance of the seminar meeting at MSA, participants produce short papers in response to the seminar topic description and share them with the entire group through whatever mechanism the seminar leaders devise. All participants are to read all of the participants’ papers—a process that aims to ensure careful and significant dialogue on the topic. Seminars take place at MSA in blocks of two hours and thirty minutes. Typically, the first two hours are devoted to specific discussion of the topic by seminar participants and the final thirty minutes allow room for questions, general discussion, and/or participation of auditors, if relevant. <strong>This year, rather than selecting a seminar as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong></p>
+<p>During the registration process, you will have the opportunity to select a seminar should you wish to participate in one (seminar titles and descriptions are listed below). In advance of the seminar meeting at MSA, participants produce short papers in response to the seminar topic description and share them with the entire group through whatever mechanism the seminar leaders devise. All participants are to read all of the participants’ papers—a process that aims to ensure careful and significant dialogue on the topic. Seminars take place at MSA in blocks of two hours and thirty minutes. Typically, the first two hours are devoted to specific discussion of the topic by seminar participants and the final thirty minutes allow room for questions, general discussion, and/or participation of auditors, if relevant. </p>
+
+<!--
+<strong>This year, rather than selecting a seminar as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong>
+-->
 
 <p></p>
 

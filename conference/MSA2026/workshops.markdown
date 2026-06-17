@@ -60,8 +60,12 @@ color: #689c4b;
 
         
 <p></p>
-<p>The Modernist Studies Association is pleased to offer the following workshops during the Loughborough 2026 conference. <strong>This year, rather than signing up for these workshops as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong></p>
+<p>The Modernist Studies Association is pleased to offer the following workshops during the Loughborough 2026 conference. </p>
 <p></p>
+
+<!--
+<strong>This year, rather than signing up for these workshops as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong>
+-->
         
 <details closed>
 	<summary class="seminar-title" id="p1">Mapping Religion in the Global Anglophone Novel</summary>
