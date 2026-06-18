@@ -14,19 +14,19 @@ Digital programming has concluded for 2024. Review past meetings below, and stay
 </p>
 -->
 
-<h1>Modernist Crossings</h1>
+<h2>MODERNIST CROSSINGS</h2>
 
 Full program coming soon!
 
 <p>
-	<img src="assets/mod_crossings.png"
+	<img src="/assets/mod_crossings.png"
 		style="margin:1em" alt="" width="600" align="left" />
 <p> 
 
 
 <hr> 
 
-<h1>TEACHING MODERNISMS</h1>
+<h2>TEACHING MODERNISMS</h2>
  
 
 <p>A series of free online events co-organised by seven international associations of modernists:
