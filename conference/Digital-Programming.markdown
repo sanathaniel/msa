@@ -8,9 +8,21 @@ sidebar:
 
 <hr>
 
+<!--
 <p>
 Digital programming has concluded for 2024. Review past meetings below, and stay tuned for upcoming announcements in spring 2025.
 </p>
+-->
+
+<h1>Modernist Crossings</h1>
+
+Full program coming soon!
+
+<p>
+	<img src="assets/mod_crossings.png"
+		style="margin:1em" alt="" width="600" align="left" />
+<p> 
+
 
 <hr> 
 
