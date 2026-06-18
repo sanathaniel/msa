@@ -16,15 +16,19 @@ Digital programming has concluded for 2024. Review past meetings below, and stay
 
 <h2>MODERNIST CROSSINGS</h2>
 
-Full program coming soon!
 
 <p>
 	<img src="/assets/mod_crossings.png"
 		style="margin:1em" alt="" width="600" align="left" />
 <p> 
 
+Full program coming soon!
+
+<p>
 
 <hr> 
+
+<h2>Past Digital Programming</h2>
 
 <h2>TEACHING MODERNISMS</h2>
  
