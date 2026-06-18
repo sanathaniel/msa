@@ -22,9 +22,10 @@ Digital programming has concluded for 2024. Review past meetings below, and stay
 		style="margin:1em" alt="" width="600" align="left" />
 <p> 
 
-Full program coming soon!
+<br/>
 
-<p>
+<p>Full program coming soon!</p>
+
 
 <hr> 
 
