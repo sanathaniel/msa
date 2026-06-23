@@ -48,13 +48,13 @@ color: #689c4b;
 
 <h1>Sharing Accessible Presentation Materials</h1>
 
-MSA 2026 presenters are asked to upload a digital copy of their remarks prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. 
+BAMS/MSA 2026 presenters are asked to upload a digital copy of their remarks prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. 
 
 <h2>Uploading Materials as a Presenter</h2>
 
 <ul>
 	<li>Save your document in either PDF or .DOCX format (max size 4mb). Include your surname(s) as the first part of your filename, e.g. “Smith MSA23 Paper.pdf”.</li> 
-	<li>Visit the <a href="https://drive.google.com/drive/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA?usp=sharing">MSA 2026 Accessibility folder on Google Drive</a>.</li>
+	<li>Visit the <a href="https://drive.google.com/drive/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA?usp=sharing">BAMS/MSA 2026 Accessibility folder on Google Drive</a>.</li>
 	<li>Browse to the folder for your presentation and open it. Select the “+ New” button on the top left, then select “File Upload.” Browse to your locally saved PDF or .DOCX file, and click “Open” to upload.</li>  
 	<li>Once your file is uploaded, you should see it in the corresponding folder.
 	Confirm that your file is fully shared by clicking the vertical ellipsis icon (⋮). It is important that you <strong>do not adjust the access settings of any folder.</strong> This will prevent other participants from uploading their access copies.</li>  
@@ -67,7 +67,7 @@ and opening the “Share” menu. Under “General Access,” select “anyone w
 
 <h2>Accessing Materials During the Conference</h2>
 
-Visit the <a href="https://drive.google.com/drive/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA?usp=sharing">MSA 2026 Accessibility folder on Google Drive</a>. Session materials are organized by day, session number, and title 
+Visit the <a href="https://drive.google.com/drive/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA?usp=sharing">BAMS/MSA 2026 Accessibility folder on Google Drive</a>. Session materials are organized by day, session number, and title 
 
 These conference accessibility files should not be reproduced, shared, or distributed by anyone other than their original authors, who retain all rights and ownership of these materials. At the end of each day of the conference, the files for completed sessions will be automatically deleted from Google Drive and all links disabled. 
  

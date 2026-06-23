@@ -54,7 +54,7 @@ color: #689c4b;
 
 <h2>Sharing Accessible Presentation Materials</h2>
 
-MSA 2026 presenters are asked to <a href="/conference/MSA2026/access/">upload a digital copy of their remarks</a> prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. Presenters are urged to consider our <a href="https://drive.google.com/drive/u/2/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA">accessible presentation guide</a> as they develop their materials.
+BAMS/MSA 2026 presenters are asked to <a href="/conference/MSA2026/access/">upload a digital copy of their remarks</a> prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. Presenters are urged to consider our <a href="https://drive.google.com/drive/u/2/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA">accessible presentation guide</a> as they develop their materials.
 
 <i>These conference accessibility files should not be reproduced, shared, or distributed by anyone other than their original authors, who retain all rights and ownership of these materials. At the end of each day of the conference, the files for completed sessions will be automatically deleted from Google Drive and all links disabled.</i>
 
