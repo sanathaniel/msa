@@ -48,9 +48,9 @@ color: #689c4b;
 	</div>
 </div>
 
-<h2><a href="https://docs.google.com/document/d/1GW4njQPjCf79VdWYaAVU11YAfXcQAzpt/">In-Person Schedule (final)</a></h2>
+<h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">In-Person Schedule</a></h2>
 
-<h2><a href="https://docs.google.com/document/d/1oRCjYWBz0VzQKhPYrJfa1IIGTVSiGfq3/">Virtual Schedule (final)</a></h2>
+<h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_Virtual_Schedule.pdf">Virtual Schedule</a></h2>
 
 <h2>Sharing Accessible Presentation Materials</h2>
 
