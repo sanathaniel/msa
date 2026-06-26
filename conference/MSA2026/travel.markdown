@@ -107,51 +107,51 @@ Alternatively, there is a taxi rank outside the station: for taxis, go through t
 Maps, directions and more information on moving between and around the various conference venues can found in the final section of the <a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">in-person conference programme here</a> (on pp.69–73).
 
 <h3>Directions from Loughborough Railway Station to Loughborough University campus by bus:</h3>
-	<ul>
-		<li>Go through the Loughborough Railway Station ticket barriers and head towards the right for the bus stop (Stand A).</li>
-		<li>The Sprint Kinch bus to Loughborough University campus leaves roughly every 10-15 minutes from this stop. You can pay by tapping your card (Amex not accepted) or with cash. A single fare is £3. The journey takes around 20 minutes from the town centre to Loughborough University campus.</li>
-		<li>If you are travelling within the campus bounds, the Sprint Kinch bus acts as a shuttle and is free to use between university venues.</li>
-		<li>For all conference venues you will travel on the bus through Loughborough town and then most of campus. For specific venues, then follow these directions:</li>
-	</ul>
+<ul>
+	<li>Go through the Loughborough Railway Station ticket barriers and head towards the right for the bus stop (Stand A).</li>
+	<li>The Sprint Kinch bus to Loughborough University campus leaves roughly every 10-15 minutes from this stop. You can pay by tapping your card (Amex not accepted) or with cash. A single fare is £3. The journey takes around 20 minutes from the town centre to Loughborough University campus.</li>
+	<li>If you are travelling within the campus bounds, the Sprint Kinch bus acts as a shuttle and is free to use between university venues.</li>
+	<li>For all conference venues you will travel on the bus through Loughborough town and then most of campus. For specific venues, then follow these directions:</li>
+</ul>
 
 <h3>For Holywell Park Conference Centre:</h3>
-	<ul>
-		<li>Get off the bus at Holywell Park stop (this is  the last stop on campus).</li>
-		<li>Continue walking along the road until you reach a small roundabout</li>
-		<li>Head left at the roundabout.</li>
-		<li>Follow the road around and you should see the Holywell Park venue on your right.</li>
-		<li>Full address and more travel details for Holywell Park can found here.</li>
-	</ul>
+<ul>
+	<li>Get off the bus at Holywell Park stop (this is  the last stop on campus).</li>
+	<li>Continue walking along the road until you reach a small roundabout</li>
+	<li>Head left at the roundabout.</li>
+	<li>Follow the road around and you should see the Holywell Park venue on your right.</li>
+	<li>Full address and more travel details for Holywell Park can found here.</li>
+</ul>
 
 <h3>For Sir David Davies Building:</h3>
-	<ul>
-		<li>Get off the bus at the Mechanical Engineering stop.</li>
-		<li>You will see a bridge over the road ahead of you. Continue along the road and pass under the bridge.</li>
-		<li>Take the next left (slightly uphill) and then follow the road round to the left. You will now see Burleigh Court car park, with the Sir David Davies building is on your left.</li>
-		<li>Keep following around the outside of Sir David Davies building and head left for Entrance A.</li>
-		<li>You can find the Sir David Davies Building on the campus map here.</li>
-	</ul>
+<ul>
+	<li>Get off the bus at the Mechanical Engineering stop.</li>
+	<li>You will see a bridge over the road ahead of you. Continue along the road and pass under the bridge.</li>
+	<li>Take the next left (slightly uphill) and then follow the road round to the left. You will now see Burleigh Court car park, with the Sir David Davies building is on your left.</li>
+	<li>Keep following around the outside of Sir David Davies building and head left for Entrance A.</li>
+	<li>You can find the Sir David Davies Building on the campus map here.</li>
+</ul>
 
 <h3>For Burleigh Court Hotel:</h3>
-	<ul>
-		<li>Get off the bus at the Mechanical Engineering stop.</li>
-		<li>You will see a bridge over the road ahead of you. Continue along the road and pass under the bridge.</li>
-		<li>Take the next left (slightly uphill) and then follow the road round to the left. You will now see Burleigh Court car park, with the Sir David Davies building on your left.</li>
-		<li>Follow the path on the left side of the car park towards Burleigh Court and cross at the small zebra crossing on the right to reach the Burleigh Court Hotel reception.</li>
-		<li>Full address and more travel details for Burleigh Court can be found here. </li>
-	</ul>
+<ul>
+	<li>Get off the bus at the Mechanical Engineering stop.</li>
+	<li>You will see a bridge over the road ahead of you. Continue along the road and pass under the bridge.</li>
+	<li>Take the next left (slightly uphill) and then follow the road round to the left. You will now see Burleigh Court car park, with the Sir David Davies building on your left.</li>
+	<li>Follow the path on the left side of the car park towards Burleigh Court and cross at the small zebra crossing on the right to reach the Burleigh Court Hotel reception.</li>
+	<li>Full address and more travel details for Burleigh Court can be found here. </li>
+</ul>
 
 <h3>For The Link Hotel:</h3>
-	<ul>
-		<li>Get off the bus at the STEM Lab stop.</li>
-		<li>Continue along the road until you reach a roundabout.</li>
-		<li>Head right at the roundabout onto Holywell Way.</li>
-		<li>Follow the road until you reach a bigger roundabout. Continue towards the left. You are now on a busy road called Ashby Road. </li>
-		<li>Follow the road. Across the road, you will eventually see a Harvester pub and a turning on your right (New Ashby Road).</li>
-		<li>Cross the road to get to the right hand side (be VERY CAREFUL when crossing the road).</li>
-		<li>Once crossed, head towards New Ashby Road and then turn left. You will then see The Link Hotel and car park.</li>
-		<li>Full address and more travel details for The Link Hotel can be found here.</li>
-	</ul>
+<ul>
+	<li>Get off the bus at the STEM Lab stop.</li>
+	<li>Continue along the road until you reach a roundabout.</li>
+	<li>Head right at the roundabout onto Holywell Way.</li>
+	<li>Follow the road until you reach a bigger roundabout. Continue towards the left. You are now on a busy road called Ashby Road. </li>
+	<li>Follow the road. Across the road, you will eventually see a Harvester pub and a turning on your right (New Ashby Road).</li>
+	<li>Cross the road to get to the right hand side (be VERY CAREFUL when crossing the road).</li>
+	<li>Once crossed, head towards New Ashby Road and then turn left. You will then see The Link Hotel and car park.</li>
+	<li>Full address and more travel details for The Link Hotel can be found here.</li>
+</ul>
 
 
  
@@ -241,7 +241,9 @@ Loughborough is surrounded by beautiful countryside and several small villages. 
 
 
 
-<h2 id="town">For Places to eat and things to do in Loughborough town centre, see the <a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">in-person conference programme</a> (p. 76)</h2>
+<h2 id="town">Attractions</h2>
+
+For Places to eat and things to do in Loughborough town centre, see the <a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">in-person conference programme</a> (p. 76)
 
 
 <!--
