@@ -66,15 +66,95 @@ Travel coming April 2026.
 
 <ul>
 	<li>
-		<a href="#hotels">To Hotels</a>
+		<a href="#travel">To Travel</a>
 	</li>
 	<li>
-		<a href="#travel">To Travel</a>
+		<a href="#hotels">To Hotels</a>
 	</li>
 	<li>
 		<a href="#town">To Attractions</a>
 	</li>
 </ul>
+ 
+ 
+<h2 id="travel">Getting to Loughborough University  </h2>
+
+<h3>By Air </h3>
+
+East Midlands Airport is only 7 miles away from campus and offers both domestic and international flights. For destinations and a full timetable contact the East Midlands Airport Information Desk on +44 (0)8719 199000. A taxi from East Midlands Airport to Loughborough campus will cost £18 – £22. There is a regular <a href="https://www.kinchbus.co.uk/services/skylink-derby/timetable">bus service</a> between East Midlands Airport and Loughborough town centre (running up to every 15 minutes); the journey takes around 30 minutes and a single fare costs £3. 
+
+<h3>By Rail </h3>
+
+Regular services operate between Loughborough and other main line towns - including daily trains to and from London St Pancras International, 90 minutes away. Tickets are available up to 3 months in advance via the Trainline - <a href="https://www.thetrainline.com/">https://www.thetrainline.com/</a> and considerably cheaper if you buy ahead of time. Taxis are normally available from the town station to Loughborough campus for around £8, or you can use the <a href="https://www.kinchbus.co.uk/services/sprint">Sprint shuttle bus</a>. 
+
+<h3>By Coach </h3>
+
+Coach and bus services operate from the centre of Loughborough. Travel by National Express or regional bus services to Loughborough then connect with local Kinch bus town services to the Loughborough University campus. For enquiries about all these services call Traveline on 0871 200 22 33. 
+
+<!--
+<h3>Getting around campus  </h3>
+
+The Sprint shuttle bus has stops around campus, including outside Holywell park. A single fare is around £3, payable by cash or contactless. 
+-->
+
+
+<h3>Getting to the conference venues</h3>
+
+You can get the <a href="https://www.kinchbus.co.uk/services/sprint/">Sprint Kinch bus service</a> from Loughborough Railway Station to all of the conference venues: Holywell Park Conference Centre, Sir David Davies Building, Burleigh Court Hotel and The Link Hotel.
+
+Alternatively, there is a taxi rank outside the station: for taxis, go through the station ticket barriers and the taxi waiting point is opposite you. The taxi journey to any of the venues takes around 20 minutes and will cost around £15. 
+
+Maps, directions and more information on moving between and around the various conference venues can found in the final section of the <a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">in-person conference programme here</a> (on pp.69–73).
+
+<h3>Directions from Loughborough Railway Station to Loughborough University campus by bus:</h3>
+	<ul>
+		<li>Go through the Loughborough Railway Station ticket barriers and head towards the right for the bus stop (Stand A).</li>
+		<li>The Sprint Kinch bus to Loughborough University campus leaves roughly every 10-15 minutes from this stop. You can pay by tapping your card (Amex not accepted) or with cash. A single fare is £3. The journey takes around 20 minutes from the town centre to Loughborough University campus.</li>
+		<li>If you are travelling within the campus bounds, the Sprint Kinch bus acts as a shuttle and is free to use between university venues.</li>
+		<li>For all conference venues you will travel on the bus through Loughborough town and then most of campus. For specific venues, then follow these directions:</li>
+	</ul>
+
+<h3>For Holywell Park Conference Centre:</h3>
+	<ul>
+		<li>Get off the bus at Holywell Park stop (this is  the last stop on campus).</li>
+		<li>Continue walking along the road until you reach a small roundabout</li>
+		<li>Head left at the roundabout.</li>
+		<li>Follow the road around and you should see the Holywell Park venue on your right.</li>
+		<li>Full address and more travel details for Holywell Park can found here.</li>
+	</ul>
+
+<h3>For Sir David Davies Building:</h3>
+	<ul>
+		<li>Get off the bus at the Mechanical Engineering stop.</li>
+		<li>You will see a bridge over the road ahead of you. Continue along the road and pass under the bridge.</li>
+		<li>Take the next left (slightly uphill) and then follow the road round to the left. You will now see Burleigh Court car park, with the Sir David Davies building is on your left.</li>
+		<li>Keep following around the outside of Sir David Davies building and head left for Entrance A.</li>
+		<li>You can find the Sir David Davies Building on the campus map here.</li>
+	</ul>
+
+<h3>For Burleigh Court Hotel:</h3>
+	<ul>
+		<li>Get off the bus at the Mechanical Engineering stop.</li>
+		<li>You will see a bridge over the road ahead of you. Continue along the road and pass under the bridge.</li>
+		<li>Take the next left (slightly uphill) and then follow the road round to the left. You will now see Burleigh Court car park, with the Sir David Davies building on your left.</li>
+		<li>Follow the path on the left side of the car park towards Burleigh Court and cross at the small zebra crossing on the right to reach the Burleigh Court Hotel reception.</li>
+		<li>Full address and more travel details for Burleigh Court can be found here. </li>
+	</ul>
+
+<h3>For The Link Hotel:</h3>
+	<ul>
+		<li>Get off the bus at the STEM Lab stop.</li>
+		<li>Continue along the road until you reach a roundabout.</li>
+		<li>Head right at the roundabout onto Holywell Way.</li>
+		<li>Follow the road until you reach a bigger roundabout. Continue towards the left. You are now on a busy road called Ashby Road. </li>
+		<li>Follow the road. Across the road, you will eventually see a Harvester pub and a turning on your right (New Ashby Road).</li>
+		<li>Cross the road to get to the right hand side (be VERY CAREFUL when crossing the road).</li>
+		<li>Once crossed, head towards New Ashby Road and then turn left. You will then see The Link Hotel and car park.</li>
+		<li>Full address and more travel details for The Link Hotel can be found here.</li>
+	</ul>
+
+
+ 
  
 <h2 id="hotels">Conference Hotels </h2>
 
@@ -159,27 +239,12 @@ Loughborough is surrounded by beautiful countryside and several small villages. 
 </ul>
 
 
-<h2 id="travel">Getting to Loughborough University  </h2>
 
-<h3>By Air </h3>
 
-East Midlands Airport is only 7 miles away from campus and offers both domestic and international flights. For destinations and a full timetable contact the East Midlands Airport Information Desk on +44 (0)8719 199000. A taxi from East Midlands Airport to Loughborough campus will cost £18 – £22. There is a regular <a href="https://www.kinchbus.co.uk/services/skylink-derby/timetable">bus service</a> between East Midlands Airport and Loughborough town centre (running up to every 15 minutes); the journey takes around 30 minutes and a single fare costs £3. 
+<h2 id="town">For Places to eat and things to do in Loughborough town centre, see the <a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">in-person conference programme</a> (p. 76)</h2>
 
-<h3>By Rail </h3>
 
-Regular services operate between Loughborough and other main line towns - including daily trains to and from London St Pancras International, 90 minutes away. Tickets are available up to 3 months in advance via the Trainline - <a href="https://www.thetrainline.com/">https://www.thetrainline.com/</a> and considerably cheaper if you buy ahead of time. Taxis are normally available from the town station to Loughborough campus for around £8, or you can use the <a href="https://www.kinchbus.co.uk/services/sprint">Sprint shuttle bus</a>. 
-
-<h3>By Coach </h3>
-
-Coach and bus services operate from the centre of Loughborough. Travel by National Express or regional bus services to Loughborough then connect with local Kinch bus town services to the Loughborough University campus. For enquiries about all these services call Traveline on 0871 200 22 33. 
-
-<h3>Getting around campus  </h3>
-
-The Sprint shuttle bus has stops around campus, including outside Holywell park. A single fare is around £3, payable by cash or contactless. 
-
- 
-
-<h2 id="town"> Places to eat and things to do in Loughborough town centre  </h2>
+<!--
 
 The Loughborough Odeon on Cattle Market is a fantastic example of mid-century architecture. Check out the Film SIG’s Friday programming at the venue. 
 
@@ -242,7 +307,7 @@ Loughborough town centre boasts plenty of independent coffee shops, pubs and cas
 	</li>
 </ul>
 
-
+-->
 
 
 
