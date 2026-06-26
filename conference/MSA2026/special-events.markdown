@@ -130,6 +130,8 @@ A 99-minute program of modernist experimental masterpieces, including A Colour B
  
 Limited space, please sign up if you would like to attend.
 
+CW for Borderline: contains the use of an anti-Black racial slur.
+
 <strong>You can sign up for these free screenings <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">through the additional programming form.</a></strong>
 
 <h3>Adjacent programming</h3>
