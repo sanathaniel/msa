@@ -50,15 +50,21 @@ color: #689c4b;
 
 <h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">In-Person Schedule</a></h2>
 
+<h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule_Small.pdf">(Smaller file size) In-Person Schedule</a></h2>
+
 <h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_Virtual_Schedule.pdf">Virtual Schedule</a></h2>
+
+
 
 For late adjustments to the conference programs, <a href="https://docs.google.com/document/d/1xUL8h9xp-mWJFtXBmTv_tKvb6_U8tH6ZroWiReLmB60/edit?usp=sharing">please see our addendum</a>.
  
+<!--
 <h2>Sharing Accessible Presentation Materials</h2>
 
 BAMS/MSA 2026 presenters are asked to <a href="/conference/MSA2026/access/">upload a digital copy of their remarks</a> prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. Presenters are urged to consider our <a href="https://drive.google.com/drive/u/2/folders/1kDbIgEkVTBZpt2g5NObOdWtleCgUznnA">accessible presentation guide</a> as they develop their materials.
 
 <i>These conference accessibility files should not be reproduced, shared, or distributed by anyone other than their original authors, who retain all rights and ownership of these materials. At the end of each day of the conference, the files for completed sessions will be automatically deleted from Google Drive and all links disabled.</i>
+-->
 
 <!--
 <p>
