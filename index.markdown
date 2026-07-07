@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/thumbnail_tallahassee.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2027</h3>
-				<figcaption  class="archive__item-title">Announcing MSA'27, to be held in Tallahassee, Florida</figcaption>
+				<figcaption  class="archive__item-title">Announcing MSA'27, to be held in Tallahassee, Florida.</figcaption>
 			<a href="https://www.moderniststudies.org/conference/upcoming-conferences/" class="btn btn--primary">Plan</a>
 		</div>	
 
@@ -59,7 +59,7 @@ layout: home
 					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Election Results</h3>
-				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
+				<figcaption  class="archive__item-title">Welcome the newest MSA Board Members.</figcaption>
 			<a href="about/board-nominations/" class="btn btn--primary">Welcome</a>
 		</div>
 
@@ -104,7 +104,7 @@ layout: home
 					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Grad Mentorship</h3>
-				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program.</figcaption>
+				<figcaption  class="archive__item-title">Announcing the Graduate Publication Mentorship Program.</figcaption>
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
 		
