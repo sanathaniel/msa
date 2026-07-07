@@ -18,8 +18,7 @@ Digital programming has concluded for 2024. Review past meetings below, and stay
 
 
 <p></p>
-	<img src="/assets/mod_crossings.png"
-		style="margin:1em" alt="" width="600" align="left" />
+<img src="/assets/mod_crossings.png" style="margin:1em" alt="" width="600" align="left" />
 <p></p> 
 
 <br />
