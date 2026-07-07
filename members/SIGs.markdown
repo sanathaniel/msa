@@ -31,7 +31,6 @@ The Modernism & Environment Special Interest Group (SIG) is a community of schol
 
 <h2>FILM STUDIES</h2>
 
-Aurore Spiers, Texas A&M (<a href="mailto:aspiers@tamu.edu">aspiers@tamu.edu</a>);
 Jordan Brower, University of Kentucky (<a href="mailto:jordan.brower@uky.edu">jordan.brower@uky.edu</a>);
 John Hoffmann, Chapman University (<a href="mailto:johoffmann@chapman.edu">johoffmann@chapman.edu</a>) 
 

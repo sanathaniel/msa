@@ -31,30 +31,11 @@ layout: home
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
 				</div>
-				<h3>Welcome</h3>
-				<figcaption  class="archive__item-title">Welcome to MSA/BAMS 2026. See you in Loughborough!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Program</a>
+				<h3>BAMS/MSA 2026</h3>
+				<figcaption  class="archive__item-title">Thanks to all who made MSA2026 a wonderful gathering!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Farewell</a>
 		</div>
- 
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Election Results</h3>
-				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
-			<a href="about/board-nominations/" class="btn btn--primary">Welcome</a>
-		</div>
-		
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Grad Mentorship</h3>
-				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program.</figcaption>
-			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
-		</div>
-		
-		
+ 		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/MSAlogo.png" min-width="150" min-height="150"/>
@@ -64,7 +45,7 @@ layout: home
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
 
-		
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/JHUP.jfif" min-width="150" min-height="150"/>
@@ -100,7 +81,27 @@ layout: home
 				<figcaption  class="archive__item-title">Explore MSA's digital federation.<br/></figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
+		
+<!--	
 
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Election Results</h3>
+				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
+			<a href="about/board-nominations/" class="btn btn--primary">Welcome</a>
+		</div>
+
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Grad Mentorship</h3>
+				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program.</figcaption>
+			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
+		</div>
+		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
 					<img src="assets/25_program_thumb.jpg" min-width="150" min-height="150"/>
@@ -110,7 +111,6 @@ layout: home
 			<a href="https://www.moderniststudies.org/conference/MSA2025/assets/MSA_Program_2025_FINAL.pdf" class="btn btn--primary">Farewell</a>
 		</div>		
 		
-<!--	
 
 		<div class ="feature__item" style="border:20px;">
 				<div class="feature__item-teaser">
@@ -139,10 +139,6 @@ layout: home
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSepwZXr_5JdAnYtmEhRHJdPpsJa1FN_fBk-NCSiPhYa535SKg/viewform?usp=dialog" class="btn btn--primary">Apply</a>
 		</div>			
 		
-
-	
-
-
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
 					<img src="assets/subway_thumbnail.jpg" min-width="150" min-height="150"/>
