@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/thumbnail_tallahassee.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>MSA 2027</h3>
-				<figcaption  class="archive__item-title">We are excited to announce that Florida State University will host the 2027 MSA </figcaption>
+				<figcaption  class="archive__item-title">We are excited to announce that Florida State University will host MSA'27</figcaption>
 			<a href="https://www.moderniststudies.org/conference/upcoming-conferences/" class="btn btn--primary">Plan</a>
 		</div>	
 
