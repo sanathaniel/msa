@@ -12,9 +12,11 @@ sidebar:
 
 <hr> 
 
-<div class="page__hero--overlay"
-  style="background-color: #000; color: 1e6cb6; background-image: url(/assets/postcard_tallahassee.png);">
-</div>
+
+<p></p>
+	<img src="/assets/postcard_tallahassee.png"
+		style="margin:1em" alt="" width="600" align="left" />
+<p></p> 
 
 We are excited to announce that Florida State University will host the 2027 MSA Conference. More coming soon! 
 
