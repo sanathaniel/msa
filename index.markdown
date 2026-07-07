@@ -26,6 +26,15 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
+	
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/thumbnail_tallahassee.png" min-width="150" min-height="150"/>
+				</div>
+				<h3>MSA 2027</h3>
+				<figcaption  class="archive__item-title">We are excited to announce that Florida State University will host the 2027 MSA </figcaption>
+			<a href="https://www.moderniststudies.org/conference/upcoming-conferences/" class="btn btn--primary">Plan</a>
+		</div>	
 
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -44,7 +53,15 @@ layout: home
 				<figcaption  class="archive__item-title">Become a part of the Modernist Studies Association.</figcaption>
 			<a href="/members/login/" class="btn btn--primary">Join</a>
 		</div>	
-
+		
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Election Results</h3>
+				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
+			<a href="about/board-nominations/" class="btn btn--primary">Welcome</a>
+		</div>
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -82,17 +99,6 @@ layout: home
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
-<!--	
-
-		<div class ="feature__item">
-				<div class="feature__item-teaser">
-					<img src="assets/picasso_head_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>Election Results</h3>
-				<figcaption  class="archive__item-title">Please welcome the newest MSA Board Members.</figcaption>
-			<a href="about/board-nominations/" class="btn btn--primary">Welcome</a>
-		</div>
-
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
@@ -101,6 +107,10 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing MSA's new Graduate Publication Mentorship Program.</figcaption>
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
+		
+<!--	
+
+
 		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
