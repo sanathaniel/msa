@@ -17,6 +17,8 @@ sidebar:
 <img src="/assets/postcard_tallahassee.png"	style="margin:1em" alt="" width="600" align="left" />
 <p></p> 
 
+<br />
+
 We are excited to announce that Florida State University will host the 2027 MSA Conference. More coming soon! 
 
 <hr> 
