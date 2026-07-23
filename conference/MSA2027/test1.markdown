@@ -13,6 +13,8 @@ footer: false
 
 @import url('https://fonts.cdnfonts.com/css/kabel');
 
+* {box-sizing: border-box;}
+
 body {
   font-family: 'Kabel', Arial, sans-serif;
   margin: 0;
@@ -21,6 +23,9 @@ body {
   background: #111111;
   position: relative;
 }
+
+.mySlides {display: none;}
+img {vertical-align: middle;}
 
 .star {
   position: absolute;
@@ -70,12 +75,23 @@ img {vertical-align: middle;}
 }
 
 /* Caption text */
-.text {
+.text-high {
   color: #f2f2f2;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 75%;
+  width: 100%;
+  text-align: center;
+}
+
+/* Caption text */
+.text-low {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 25%;
   width: 100%;
   text-align: center;
 }
@@ -143,25 +159,29 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 4</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text-high">Link 1</div>
+  <div class="text-low">Link 2</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 4</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text-high">Link 3</div>
+  <div class="text-low">Link 4</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 4</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text-high">Link 5</div>
+  <div class="text-low">Link 6</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 4</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text-high">Link 7</div>
+  <div class="text-low">Link 8</div>
 </div>
 
 </div>
