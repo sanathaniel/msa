@@ -24,7 +24,6 @@ body {
 }
 
 * {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
@@ -59,25 +58,6 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
 
 .active {
   background-color: #717171;
@@ -119,21 +99,18 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
   <div class="text-high">Caption One</div>
   <div class="text-low">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
   <div class="text-high">Caption One</div>
   <div class="text-low">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
   <div class="text-high">Caption One</div>
   <div class="text-low">Caption Two</div>
@@ -142,7 +119,11 @@ img {vertical-align: middle;}
 </div>
 <br>
 
-
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
 
 <script>
 let slideIndex = 0;
