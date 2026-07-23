@@ -98,7 +98,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 @keyframes fadeInHold {
      0%, 100% { opacity: 0; }
-     50% { opacity: 1; }
+	 20%, 80% { opacity: 1; }
 }
 .fade-in-hold {
      animation: fadeInHold 3s ease-in forwards; /* Adjust duration as needed */
