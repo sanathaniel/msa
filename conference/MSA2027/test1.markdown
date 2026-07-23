@@ -23,15 +23,39 @@ body {
   position: relative;
 }
 
+.star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.8;
+  animation: twinkle 2s infinite ease-in-out;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 0.3; }
+}
+
 * {box-sizing: border-box;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
+}
+
+
+.expanded {
+	text-align: center;
+	font-family: 'Kabel', sans-serif;
+	font-size: 2.5em;
+	font-weight: 900;
+	line-height: 75%;
+	font-style: normal;
+	color: #F14347;
 }
 
 /* Caption text */
@@ -40,7 +64,7 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  left: 40%;
+  left: -10%;
   bottom: 80%;
   width: 100%;
   text-align: center;
@@ -52,8 +76,8 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 20%;
-  left: 60%;
+  bottom: 15%;
+  left: 25%;
   width: 100%;
   text-align: center;
 }
@@ -106,14 +130,20 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
-  <div class="text-high">Caption One</div>
-  <div class="text-low">Caption Two</div>
+  <div class="text-high">Caption Three</div>
+  <div class="text-low">Caption Four</div>
 </div>
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
-  <div class="text-high">Caption One</div>
-  <div class="text-low">Caption Two</div>
+  <div class="text-high">Caption Five</div>
+  <div class="text-low">Caption Six</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" style="width:100%">
+  <div class="text-high">Caption Seven</div>
+  <div class="text-low">Caption Eight</div>
 </div>
 
 </div>
