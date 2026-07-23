@@ -51,7 +51,7 @@ img {vertical-align: middle;}
 .expanded {
 	text-align: center;
 	font-family: 'Kabel', sans-serif;
-	font-size: 2.5em;
+	font-size: 2em;
 	font-weight: 900;
 	line-height: 75%;
 	font-style: normal;
@@ -124,32 +124,33 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
-  <div class="text-high">Caption One</div>
-  <div class="text-low">Caption Two</div>
+  <div class="text-high">Welcome to the Expanded Universe</div>
+  <div class="text-low">Call for Papers</div>
 </div>
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
-  <div class="text-high">Caption Three</div>
-  <div class="text-low">Caption Four</div>
+  <div class="text-high">Seminars</div>
+  <div class="text-low">Workshops</div>
 </div>
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
-  <div class="text-high">Caption Five</div>
-  <div class="text-low">Caption Six</div>
+  <div class="text-high">Travel</div>
+  <div class="text-low">Events</div>
 </div>
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" style="width:100%">
-  <div class="text-high">Caption Seven</div>
-  <div class="text-low">Caption Eight</div>
+  <div class="text-high">Registration</div>
+  <div class="text-low">Program</div>
 </div>
 
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
@@ -173,7 +174,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
+  setTimeout(showSlides, 3000); // Change image every 3 seconds
 }
    
 
