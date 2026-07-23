@@ -23,6 +23,14 @@ body {
   position: relative;
 }
 
+a {
+color: white;
+}
+
+a:visited {
+color: white;
+}
+
 .star {
   position: absolute;
   background: white;
@@ -60,7 +68,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-high {
   color: white;
-  font-size: 15px;
+  font-size: 20px;
   padding: 8px 12px;
   position: absolute;
   left: -10%;
@@ -72,7 +80,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-low {
   color: white;
-  font-size: 15px;
+  font-size: 20px;
   padding: 8px 12px;
   position: absolute;
   bottom: 15%;
@@ -123,7 +131,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
-  <div class="text-high">Welcome to the Expanded Universe</div>
+  <div class="text-high">Welcome to the...Expanded Universe</div>
   <div class="text-low"><a href="https://www.moderniststudies.org/">Call for Papers</a></div>
 </div>
 
