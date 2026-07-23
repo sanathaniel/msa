@@ -6,14 +6,13 @@ footer: false
 ---
 
 <head>
-	<link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
-</head>
+
+<link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
 
 @import url('https://fonts.cdnfonts.com/css/kabel');
-
-* {box-sizing: border-box;}
 
 body {
   font-family: 'Kabel', Arial, sans-serif;
@@ -22,44 +21,6 @@ body {
   height: 100vh;
   background: #111111;
   position: relative;
-}
-
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-.star {
-  position: absolute;
-  background: white;
-  border-radius: 50%;
-  opacity: 0.8;
-  animation: twinkle 2s infinite ease-in-out;
-}
-
-@keyframes twinkle {
-  0%, 100% { opacity: 0.8; }
-  50% { opacity: 0.3; }
-}
-
-
- 
-.test {
-	color: white;
-	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
-	font-weight: 900;
-	line-height: 75%;
-	font-style: normal;
-	color: white;
-}
-
-.expanded {
-	text-align: center;
-	font-family: 'Kabel', sans-serif;
-	font-size: 2.5em;
-	font-weight: 900;
-	line-height: 75%;
-	font-style: normal;
-	color: #F14347;
 }
 
 * {box-sizing: border-box;}
@@ -80,7 +41,8 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 75%;
+  left: 40%;
+  bottom: 80%;
   width: 100%;
   text-align: center;
 }
@@ -91,7 +53,8 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 25%;
+  bottom: 20%;
+  left: 60%;
   width: 100%;
   text-align: center;
 }
@@ -135,9 +98,8 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-
-
 </style>
+</head>
 
 
 <body>
@@ -157,31 +119,24 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
+  <div class="numbertext">1 / 3</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
-  <div class="text-high">Link 1</div>
-  <div class="text-low">Link 2</div>
+  <div class="text-high">Caption One</div>
+  <div class="text-low">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
+  <div class="numbertext">2 / 3</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
-  <div class="text-high">Link 3</div>
-  <div class="text-low">Link 4</div>
+  <div class="text-high">Caption One</div>
+  <div class="text-low">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
+  <div class="numbertext">3 / 3</div>
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
-  <div class="text-high">Link 5</div>
-  <div class="text-low">Link 6</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" style="width:100%">
-  <div class="text-high">Link 7</div>
-  <div class="text-low">Link 8</div>
+  <div class="text-high">Caption One</div>
+  <div class="text-low">Caption Two</div>
 </div>
 
 </div>
@@ -189,9 +144,7 @@ img {vertical-align: middle;}
 
 
 
-
 <script>
-   
 let slideIndex = 0;
 showSlides();
 
@@ -210,8 +163,7 @@ function showSlides() {
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
   setTimeout(showSlides, 2000); // Change image every 2 seconds
-} 
-   
+}
    
 
 // Function to create multiple stars
@@ -235,7 +187,8 @@ function createStars() {
 
 createStars();
 
-             </script>
-    </div>
+</script>
+
+</div>
 </body>
 
