@@ -47,7 +47,6 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
-
 .expanded {
 	text-align: center;
 	font-family: 'Kabel', sans-serif;
@@ -60,25 +59,25 @@ img {vertical-align: middle;}
 
 /* Caption text */
 .text-high {
-  color: #f2f2f2;
+  color: white;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
   left: -10%;
   bottom: 80%;
-  width: 100%;
+  width: 40%;
   text-align: center;
 }
 
 /* Caption text */
 .text-low {
-  color: #f2f2f2;
+  color: white;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
   bottom: 15%;
   left: 25%;
-  width: 100%;
+  width: 40%;
   text-align: center;
 }
 
@@ -125,7 +124,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
   <div class="text-high">Welcome to the Expanded Universe</div>
-  <div class="text-low">Call for Papers</div>
+  <div class="text-low"><a href="https://www.moderniststudies.org/">Call for Papers</a></div>
 </div>
 
 <div class="mySlides fade">
