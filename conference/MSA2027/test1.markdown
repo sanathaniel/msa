@@ -91,21 +91,19 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-
 .active {
   background-color: #717171;
 }
 
 /* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
+@keyframes fadeInHold {
+     0%, 100% { opacity: 0; }
+     50% { opacity: 1; }
+}
+.fade-in-hold {
+     animation: fadeInHold 3s ease-in forwards; /* Adjust duration as needed */
 }
 
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
@@ -131,25 +129,25 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
   <div class="text-high">Welcome to the... Expanded Universe</div>
   <div class="text-low"><a href="https://www.moderniststudies.org/">Call for Papers</a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
   <div class="text-high">Seminars</div>
   <div class="text-low">Workshops</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
   <div class="text-high">Travel</div>
   <div class="text-low">Events</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" style="width:100%">
   <div class="text-high">Registration</div>
   <div class="text-low">Program</div>
