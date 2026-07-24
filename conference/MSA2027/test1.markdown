@@ -72,8 +72,8 @@ img {vertical-align: middle;}
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
-  left: 15%;
-  bottom: 70%;
+  left: 10%;
+  bottom: 75%;
   width: 55%;
   text-align: center;
 }
@@ -86,7 +86,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   bottom: 15%;
-  left: 53%;
+  left: 45%;
   width: 55%;
   text-align: center;
 }
