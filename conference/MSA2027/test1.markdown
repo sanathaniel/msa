@@ -73,7 +73,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   left: 10%;
-  bottom: 75%;
+  bottom: 72%;
   width: 55%;
   text-align: center;
 }
