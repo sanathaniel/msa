@@ -11,7 +11,7 @@ classes:
 <head>
 
 <link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 
 <style>
 
@@ -19,20 +19,38 @@ classes:
 
 body {
   font-family: 'Kabel', Arial, sans-serif;
+  color: white;
   margin: 0;
   overflow: hidden;
   height: 100vh;
   background: #111111;
   position: relative;
+
+
+	a {
+color: #FECE0E;
 }
 
-a {
-color: white;
+	a:visited {
+color: #FECE0E;
 }
 
-a:visited {
-color: white;
+	h1 {
+color: #F14347;
 }
+
+	h2 {
+color: #F14347;
+padding-bottom: 0px;
+}
+
+	h3 {
+color: #029AD4;
+}
+  
+}
+
+
 
 .star {
   position: absolute;
