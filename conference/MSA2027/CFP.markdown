@@ -1,0 +1,567 @@
+---
+layout: 27conference
+permalink: /conference/MSA2027/CFP/
+masthead: false
+footer: false
+minimal_mistakes_skin: "dark"
+classes:
+  - dark-theme
+---
+
+<head>
+
+<link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+@import url('https://fonts.cdnfonts.com/css/kabel');
+
+body {
+  font-family: 'Kabel', Arial, sans-serif;
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+  background: #111111;
+  position: relative;
+}
+
+a {
+color: white;
+}
+
+a:visited {
+color: white;
+}
+
+.star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.8;
+  animation: twinkle 2s infinite ease-in-out;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 0.3; }
+}
+
+* {box-sizing: border-box;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+.expanded {
+	text-align: center;
+	font-family: 'Kabel', sans-serif;
+	font-size: 2em;
+	font-weight: 900;
+	line-height: 75%;
+	font-style: normal;
+	color: #F14347;
+}
+
+/* Caption text */
+.text-high {
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  padding: 8px 12px;
+  position: absolute;
+  left: 10%;
+  bottom: 72%;
+  width: 55%;
+  text-align: center;
+}
+
+/* Caption text */
+.text-low {
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 15%;
+  left: 45%;
+  width: 55%;
+  text-align: center;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+@keyframes fadeInHold {
+     0%, 100% { opacity: 0; }
+	 20%, 80% { opacity: 1; }
+}
+.fade-in-hold {
+     animation: fadeInHold 3s ease-in forwards; /* Adjust duration as needed */
+}
+
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+
+.CFP-summary {
+  padding: 4px;
+  width: 100%;
+  background-color: #689c4b;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.stream-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #da6c3a;
+  color: white; 
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.CFP-title {
+	background-color: #689c4b; 
+	}
+
+.CFP-summary:hover {
+  opacity: 0.7;
+  }
+  
+.stream-title:hover {
+  opacity: 0.7;
+  }
+
+.CFP-body {
+	max-width: 1000px;
+	text-align:left;
+	font-size:1rem;
+	margin-left: 40px;
+}
+
+.seminar-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #689c4b;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  }
+  
+.seminar-title:hover {
+  opacity: 0.7;
+  }
+
+.workshop-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #689c4b;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+  
+.workshop-title:hover {
+  opacity: 0.7;
+  }
+  
+</style>
+
+<body>
+ 
+<div class="CFP-full">
+<div class="CFP-body">
+
+<!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
+
+
+<div class="page__hero--overlay" 
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/postcard.jpg);">
+    <div class="wrapper">
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #F14347; text-shadow: 4px 4px 4px rgb(0, 0, 0);">      
+		  Call for Papers       
+	  </h1> 
+	</div>
+</div>
+
+<div style="font-size: .5rem;">
+	Pamela Colman Smith, <i>The Empress</i>
+</div>
+
+<p>
+</p>
+
+<h1>
+Weird Modernisms 
+</h1>
+
+<hr>
+
+<h2>CFP for the Modernist Studies Association 2026 Annual Conference, held in conjunction with the British Association for Modernist Studies</h2>
+<h2>Loughborough, UK, 1-4 July, 2026</h2>
+
+<hr>
+
+<h2>CFP Deadline now <i>December 29</i></h2>
+
+
+<p>The BAMS/MSA joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes. </p>
+
+<p>In addition to the idea of ‘making strange’, we invite participants to consider Weird Modernism a making <i>of the</i> strange through, for example, the writing and transmission of weird tales and a deliberate exoticizing of non-Western cultures to revive and unsettle. Such appropriation is necessarily associated with the inherently weird concept of Othering. It has its counterpart, too, in the resurgence of highly localised narratives that distrust the rational in favour of the folk, and which embrace the unexplainable as a way of telling marginalised and forgotten histories. Weird Modernism is also fertile ground for considering the ethical potential and pitfalls of estrangement, and we welcome papers which interrogate the weird as a framework for reading. 
+</p>
+ 
+<p>In recent years, elements of folk culture and the weird have been selectively adopted by nationalist movements, which obscures their more complex, diverse, and subversive histories. This conference invites participants to engage critically with these traditions, exploring how they can be reinterpreted through inclusive, intersectional approaches. 
+ </p>
+ 
+<p>The New Weird genre further provides an expanded literary framework for engaging with the more-than-human and for navigating, or even transcending, some of the paradoxes that emerge within human-centred thought (Marshall, 2016). Like Patricia MacCormack’s readings of H. P. Lovecraft as “anti-anthropocentric, even anti-humanist” (MacCormack 2019), the weird nudges our critical explorations across species lines. 
+</p> 
+
+<p>
+While the weird has often been cast as a genre of interiority, one interested in the psychological effects of difference for both character and reader, more recent theorisations of the weird can expose the affective forces and embodied subjects of Modernist texts. As Sianne Ngai has suggested, emotions, feelings, and affect make strange the social and cultural landscapes that surround us – from the zany, cute and interesting (2012) to horror, envy, and paranoia (2005). We hope that papers exploring such affects will challenge ideas about where and how the weird is registered in Modernist culture.
+</p>
+
+<p>Participants may therefore wish to consider the following aspects of Weird Modernisms:</p>
+
+<ul>
+	<li>
+		Modernism-adjacent texts, scholars and practitioners 
+	</li>
+	<li>
+		Alternative lifestyles and the occult 
+	</li>
+	<li>
+		Folk/local narratives and magic, myth, and ritual  
+	</li>
+	<li>
+		Appropriation of the ‘Other’ 
+	</li>
+	<li>
+		Surrealism, the surreal and the uncanny 
+	</li>
+	<li>
+		Affect studies and emotions  
+	</li>
+	<li>
+		More-than-human, eco-critical, post-human 
+	</li>
+	<li>
+		Genre fiction: sci-fi, cli-fi, horror, weird fiction 
+	</li>
+	<li>
+		Materiality and thing theory  
+	</li>
+</ul>
+
+<p>We aim to foster a multidisciplinary dialogue that includes but is not limited to literature, the visual arts, film, performance, music and philosophy. We invite contributions that engage with these themes through research papers, archival research, and creative or practice-based methodologies.
+</p>
+
+<p>The MSA and BAMS joint conference 2026 will feature keynote speakers, excursions, organized panels, seminars, roundtables, workshops, and streams of interdisciplinary panels arranged by the MSA’s Special Interest Groups (SIGs) and the local organising committee. We look forward to welcoming participants to the Holywell Conference Centre in Loughborough, the site of a spring with fabled medicinal qualities.</p>
+
+<p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options for panels, roundtables, and individual papers (but not seminars or workshops). Please note that panels and roundtables must be wholly in-person or wholly virtual; they may not be a hybrid of both. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly. 
+</p>
+
+<h1 id="guests">Featured Guests</h1>
+
+<p>
+	<img src="https://dam.bibliolive.com/mup/getimage.aspx?class=books&assetversionid=338373&cat=default&size=largeweb&id=14344"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<p>
+<a href="https://www.abdn.ac.uk/people/catriona.mcara#about">Dr Catriona McAra</a>, art historian, curator and Lecturer in Modern and Contemporary Art History at University of Aberdeen, author of <a href="https://manchesteruniversitypress.co.uk/9781526161222/">The Medium of Leonora Carrington: A Feminist Haunting in the Contemporary Arts</a> (Manchester University Press, 2022)
+</p>
+
+<p>
+	<img src="https://www.silverpress.org/cdn/shop/files/Untitled_design_copy_4_900x.png?v=1745577310"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<p>
+<a href="https://www.qmul.ac.uk/sed/staff/ramayyan.html">Dr Nisha Ramayya</a>, poet and Senior Lecturer in Creative Writing at Queen Mary, University of London, author of poetry collections <a href="https://granta.com/products/fantasia/">Fantasia</a> (Granta, 2024) and <a href="https://www.silverpress.org/products/states-of-the-body-produced-by-love?srsltid=AfmBOooBobicueCmvIpJOuVoVPtz8n8rfkP0snhgxkSF0sx04OvSkJSp">States of the Body Produced by Love</a> (reissued, expanded edition, Spiral Books, 2025)
+</p>
+
+<p>
+	<img src="https://muse.jhu.edu/issue/42824/image/front_cover?format=180"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<p>
+<a href="https://english.fsu.edu/faculty/alison-sperling">Dr Alison Sperling</a>, Assistant Professor of Literature, Media, and Culture at Florida State University, author of ‘Weird Queer Ecologies’ (in <a href="https://www.peterlang.com/document/1321928">The Weird: A Companion</a>, Peter Lang, 2025), co-editor of <a href="https://muse.jhu.edu/issue/42824">‘Weird Temporalities’ special issue of Studies in the Fantastic (2020)</a> and currently finalising a monograph entitled Weird Modernism.
+</p>
+
+<h1>Proposals</h1>
+
+<p>The conference organizers for MSA Loughborough 2026 invite proposals for:</p>
+
+<strong>
+	<li>
+		<a href="#p1">Seminars (due December 29, 2025)</a>
+	</li>
+	<li>
+		<a href="#p2">Workshops (due December 29, 2025)</a>
+	</li>
+	<li>
+		<a href="#p3">Panels (due December 29, 2025)</a>
+	</li>
+	<li>
+		<a href="#p4">Roundtables (due December 29, 2025)</a>
+	</li>
+		<li>
+		<a href="#p5">Individual Papers (due December 29, 2025) </a>
+	</li>
+</strong>
+
+<hr>
+<details closed>
+	<summary class="CFP-summary" id="p1">Call for Seminar Proposals</summary>
+		<div class="description">
+<p>Seminars are a central feature of the MSA conference. They are longer sessions of no more than 12 participants, designed to generate lively exchange and facilitate future collaborations. Each participant writes a brief position paper (5-7 pages) that is pre-circulated and read by all participants prior to the conference. Participants sign up for seminars on a first-come, first-served basis when registering for the conference.
+</p>
+
+<p>Seminar Topics: There are no limits on topics, but past experience has shown that the more clearly defined the topic and the more guidance provided by the leader, the more productive the ensuing discussion. “Clearly defined” should not be confused with “narrow,” as extremely narrow seminar topics tend to exclude many potential participants. To review past seminar topics, go to the <a href="/conference/past-conferences">Conference Archives</a> on the MSA website and then click on “Conference Schedule” or “Conference Program.” You will find seminars listed along with panels and other events.</p>
+
+<p><a href="https://msa2026.exordo.com/">Click here to submit Seminar Proposals</a> by Monday December 29, 2025. Please provide a 300-word description of the seminar purpose and format. Seminar leaders’ bios are limited to 100 words. </p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary" id="p2">Call for Workshop Proposals</summary>
+		<div class="description">
+<p>Workshops can take the form of discussions, presentations, and hands-on demonstrations. Past workshops have focused on topics such as collaboration, book making, publishing, teaching, the job market, mid-career challenges and opportunities, research and the liberal arts college, and alternative/non-academic jobs, and how best to ensure the future of the profession. Participation in a workshop does not preclude participation in other aspects of the conference.
+</p>
+
+<p> 
+Workshops are participatory in format and can be either 90 or 120 minutes in length. They may be led by one person or by a panel of experts. Participants will register for workshops at the same time as conference registration.
+</p>
+
+<p><a href="https://msa2026.exordo.com/">Click here to submit Workshop Proposals</a> by Monday December 29, 2025. Please include a 300-word description of the workshop purpose and format. Participants’ bios are limited to 100 words.</p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary" id="p3">Call for Panel Proposals</summary>
+		<div class="description">
+<p>Panels are designed to expand research and debate on a topic or theme and present a clear rationale for the papers’ collective goal. Keep in mind that topics are not limited to the conference theme. Please be sure to characterize in your proposal what each paper contributes individually and how it fits into a cohesive session.
+</p>
+<ul>
+	<li>We encourage interdisciplinary panels and generally discourage panels on single authors.
+	</li>
+	<li>In order to allow for discussion, preference will be given to panels with three participants 
+	(20 minutes each), though panels of four will be considered (15 minutes each).
+	</li>
+	<li>Panels composed entirely of participants from a single department at a single institution 
+	are not likely to be accepted.
+	</li>
+	<li>The MSA encourages panels comprising scholars from a diverse range of institutions and of
+	 various ranks, including graduate students, postdoctoral fellows, contingent faculty, and 
+	 independent scholars.
+	</li>
+	<li>Please elect an appropriate chair for your panel if possible and include this information as 
+	part of your proposal. Otherwise, the program committee wil help recruit a chair for you.
+	</li>
+</ul>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Panel Proposals</a> by Monday December 29, 2025. Please include a list of participants, paper titles, and a 300-500-word abstract of the session. Author bios are limited to 100 words.</p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary" id="p4">Call for Roundtable Proposals</summary>
+		<div class="description">
+<p>All topics will be considered for roundtable discussions. Unlike panels, which generally feature a sequence of 15-20-minute talks followed by questions, roundtables gather a group of participants around a shared concern in order to generate discussion among the participants and with the audience. Instead of delivering full-length papers, presenters are asked to deliver short position statements (5-8 minutes) that respond to questions distributed in advance by the organizer, or to take turns responding to prompts from the moderator, or take a more experimental approach to the format. The bulk of the session should be devoted to discussion. No paper titles are listed in the program, only the names of participants and an abstract describing the goals of the session.
+</p>
+
+<p>Please bear in mind these guidelines:
+</p>
+<ul>
+	<li>Roundtables may feature as many as 6 speakers but are more likely to be accepted if 
+	they include 4 or 5.
+	</li>
+	<li>Roundtable organizers should discourage participants from writing formal papers and
+	 to be as brief and concise as possible, ideally speaking for no more than 5 minutes at a 
+	 time in order to facilitate discussion.
+	</li>
+	<li>We particularly welcome roundtables that include participants from multiple disciplines,
+	 and we discourage roundtables on single authors.
+	</li>
+	<li>The MSA encourages roundtables comprising scholars from a diverse range of institutions
+	 and of various ranks, including graduate students, postdoctoral fellows, contingent faculty, 
+	 and independent scholars.
+	</li>
+	<li>Roundtables composed entirely of participants from a single department at a single 
+	institution are not likely to be accepted.
+	</li>
+	<li>Roundtable organizers should identify a chair and include this information with their proposals.
+	</li>
+</ul>
+<p><a href="https://msa2026.exordo.com/">Click here to submit Roundtable Proposals</a> by Monday December 29, 2025. Please include a list of participants and a 300-500-word abstract of the session. Participants’ bios are limited to 100 words each. </p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary" id="p5">Call for Individual Paper Proposals for MSA Panel Streams</summary>
+		<div class="description">
+<p>Individual paper proposals must speak directly to one of this year’s streams, described below. The MSA program committee and MSA Special Interest Groups in charge of the streams will compose panels and roundtables from the individual papers.</p>
+<p><a href="https://msa2026.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by December 29, 
+2025. Please include a 300-word abstract of the paper. Author bios are limited to
+ 100 words. </p>
+ 
+
+<details closed>
+	<summary class="stream-title">Modernism & Environment Stream</summary>
+		<div class="description">
+			<p>
+			This stream invites papers that explore the ecological dimensions of weird modernism. From the material ephemerality cultivated by pulp fiction to more-than-human, spectral environments, weird modernism brings out the enmeshment of human, ecological and cosmic spaces. We invite participants to meditate on the environmental concerns that pervade the weird worlds of modernist texts. How do ecocritical lenses illuminate the weird relationships between the environment, the human and nonhuman in modernism? Or how do the forms and themes of weird modernisms destabilize narrative agency and challenge ecological plausibility? 
+			</p>
+		</div>
+</details>
+
+<details closed>
+	<summary class="stream-title">Modernism and Film Stream</summary>
+		<div class="description">
+			<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Modernism and Film stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which the "weird" informs film productions, film cultures, and the very activity of cinematic thought. 
+			</p>
+		</div>
+</details>
+		
+<details closed>
+	<summary class="stream-title">Modernism and Pedagogy Stream</summary>
+		<div class="description">		
+			<p>The Modernism and Pedagogy SIG invites papers that explore the weird sides of teaching modernism through approach, philosophy and content. We seek demonstrations or examples of teaching modernism in weird spaces, the weirdness of teaching modernism in the modern university and modernism’s own weird ideas about pedagogy. Participants might consider jessie l. beier’s “weird pedagogies” (2023) as a mode for rethinking around and through the crisis of higher education and its future. As always, we welcome papers which reflect on the more general aspects of pedagogy and modernism, and the relationship between modernist pedagogy and scholarship. We hope papers will address the lived conditions of our teaching labour, with institutional pressures and constraints demanding creativity and weirdness in our pedagogical practices. </p>		
+		</div>
+</details>
+
+<details closed>
+		<summary class="stream-title">Intersectional Feminist and Queer Praxis Stream</summary>
+			<div class="description">		
+				<p>Queer studies has long challenged frameworks of heteronormativity and chrononormativity, emphasising alternative modes of living, dying, desiring, and experiencing time (MacCormack, 2025; Freeman, 2010; McRuer, 2006; Edelman, 2004). Within this context, the weird emerges not as a marker of identity but as a deliberate aesthetic and political strategy. This extends beyond a queer lived experience to also encompass queering Modernism itself through, for example, queer readings of canonical texts. 
+				</p>
+		</div>
+	</details>
+</div>
+<details closed>
+		<summary class="stream-title">Weird Modernisms Stream</summary>
+			<div class="description">		
+				<p>We also welcome individual paper proposals focussed on Weird Modernisms that fall outside of these Special Interest Groups.
+				</p>
+		</div>
+	</details>
+		<p>
+		</p>
+</details>
+<hr>
+
+<details closed>
+	<summary class="CFP-summary">Participation</summary>
+		<div class="description">
+<p>So as to involve as many people as possible as active participants, the MSA limits appearances
+ on the program to one in each category below:
+ </p>
+ <ul>
+	<li>Seminar, either as leader or as participant
+	</li>
+	<li>Panel or roundtable, as participant (you may also chair a different panel or roundtable)
+	</li>
+</ul>
+<p>In other words, you may organize a seminar, present a paper on a panel, and register for a workshop, but you may not 
+ present two papers on panels or roundtables.
+</p>
+<p>MSA rules do not allow panel or roundtable organizers to chair their own session if they are 
+also presenting a paper or making substantive remarks in the session; the session chair must be
+ someone who is otherwise not presenting.
+</p>
+<p>All who attend the MSA conference must be members of the organization with dues paid for 
+2025-26 (MSA membership runs from July 1 until June 30 each year) and with any past dues paid 
+in full. For information on MSA, please check the <a href="/index.html">Association website.</a>
+</p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary">Conference Access</summary>
+		<div class="description">
+<p>The MSA is committed to ensuring that all conference registrants will be able to 
+participate in conference events. We ask that all conference attendees give thought 
+to questions of access and work with the conference organizers to create an event that
+ is welcoming to the entire community of participants.  Participants will upload copies
+ of their papers to a secure drive prior to the conference to ensure equal access to 
+ materials for all participants.
+ </p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary">Statement on Inclusion</summary>
+		<div class="description">
+<p>The Modernist Studies Association supports the rights and dignity of all persons 
+associated with our organization and conference. We hold that inclusivity, diversity, 
+access, and equality are critical to the strength of our organization and the effectiveness
+ of our academic mission. In the spirit of maintaining a welcoming and inclusive organization,
+ we urge our participants to use individuals’ preferred names and pronouns when introducing 
+ speakers and in citing their work or ideas.
+ </p>
+		</div>
+</details>
+<hr>
+<details closed>
+	<summary class="CFP-summary">Contact Information</summary>
+		<div class="description">
+<p>Questions about our upcoming conference?</p>
+<u1><li>Contact <a href="mailto:bamsmsa26@gmail.com">bamsmsa26@gmail.com</a></li></u1>
+<p>
+</p>
+<p>Questions about membership and registration?</p>
+<u1><li>Contact Karen Weingarten at <a href="mailto:kweingarten@qc.cuny.edu">kweingarten@qc.cuny.edu</a></li></u1>
+<p>
+</p>
+<p>Questions for the Program Committee?</p>
+<u1><li>Contact Missy Bradshaw at <a href="mailto:mbradshaw@luc.edu">mbradshaw@luc.edu</a></li></u1>
+<p>
+</p>
+</details>
+
+
+<script>
+
+// Function to create multiple stars
+function createStars() {
+  const numberOfStars = 200; // Adjust for more or fewer stars
+  for (let i = 0; i < numberOfStars; i++) {
+    const star = document.createElement('div');
+    star.classList.add('star');
+
+    // Random size, position, and animation duration for each star
+    const size = Math.random() * 3 + 1;
+    star.style.width = `${size}px`;
+    star.style.height = `${size}px`;
+    star.style.left = `${Math.random() * 100}vw`;
+    star.style.top = `${Math.random() * 100}vh`;
+    star.style.animationDuration = `${Math.random() * 2 + 1}s`;
+
+    document.body.appendChild(star);
+  }
+}
+
+createStars();
+
+</script>

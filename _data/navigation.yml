@@ -1,4 +1,22 @@
 # main links
+
+conf_nav_27:
+  - title: "Tallahassee"
+    url: /conference/MSA2027/
+  - title: "Registration"
+    url: /conference/MSA2027/registration/
+  - title: "Final Program"
+    url: /conference/MSA2027/program/
+  - title: "Seminars"
+    url: /conference/MSA2027/seminars/
+  - title: "Workshops"
+    url: /conference/MSA2027/workshops/
+  - title: "Travel"
+    url: /conference/MSA2027/travel/
+  - title: "Events"
+    url: /conference/MSA2027/events/
+  - title: "CFP"
+    url: /conference/MSA2027/CFP/
  
 conf_nav_26:
   - title: "Loughborough"
