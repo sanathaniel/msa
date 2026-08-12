@@ -12,7 +12,6 @@ classes:
 
 <link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
 
-
 <style>
 
 @import url('https://fonts.cdnfonts.com/css/kabel');
@@ -21,11 +20,10 @@ body {
   font-family: 'Kabel', Arial, sans-serif;
   color: white;
   margin: 0;
-  overflow: hidden;
   height: 100vh;
   background: #111111;
   position: relative;
-
+}
 
 	a {
 color: #FECE0E;
@@ -36,19 +34,26 @@ color: #FECE0E;
 }
 
 	h1 {
-color: #F14347;
+	color: #F14347;
+	font-family: 'Kabel', sans-serif;
+	font-size: 2em;
+	font-weight: 900;
 }
 
 	h2 {
-color: #F14347;
-padding-bottom: 0px;
+	color: #F14347;
+	font-family: 'Kabel', sans-serif;
+	font-size: 2em;
+	font-weight: 900;
 }
 
 	h3 {
-color: #029AD4;
+	color: #F14347;
+	font-family: 'Kabel', sans-serif;
+	font-size: 2em;
+	font-weight: 900;
 }
   
-}
 
 
 
