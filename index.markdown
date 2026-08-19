@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/mod-mod-thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Call for Co-Editor</h3>
-				<figcaption  class="archive__item-title"><i>MOdernism/modernity</i> invites applications for the position of Co-editor.</figcaption>
+				<figcaption  class="archive__item-title"><i>Modernism/modernity</i> invites applications for the position of Co-editor.</figcaption>
 			<a href="https://www.moderniststudies.org/journal/editor/" class="btn btn--primary">Apply</a>
 		</div>	
 	
