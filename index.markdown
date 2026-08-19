@@ -26,6 +26,15 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/mod-mod-thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Call for Co-Editor</h3>
+				<figcaption  class="archive__item-title"><i>MOdernism/modernity</i> invites applications for the position of Co-editor.</figcaption>
+			<a href="https://www.moderniststudies.org/journal/editor/" class="btn btn--primary">Apply</a>
+		</div>	
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -99,6 +108,10 @@ layout: home
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
+
+		
+<!--	
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
@@ -107,10 +120,6 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing the Graduate Publication Mentorship Program.</figcaption>
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
-		
-<!--	
-
-
 		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
