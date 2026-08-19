@@ -44,7 +44,7 @@ sidebar:
 
 <p><em>Modernism/modernity</em>, a scholarly journal devoted to the interdisciplinary study of modernism, is the official publication of the Modernist Studies Association. <em>M/m</em> is published by the&nbsp;<a href="http://www.press.jhu.edu/journals/">Journals Division</a>&nbsp;of the&nbsp;<a href="http://www.press.jhu.edu/">Johns Hopkins University Press</a>. Members of the MSA automatically receive four free issues of&nbsp;the journal (published in January, April, September, and November) and have free access <a href="http://muse.jhu.edu/journals/modernism-modernity">online through Project MUSE&nbsp;</a>. The open access Print Plus platform (<a href="https://modernismmodernity.org/">modernismmodernity.org</a>) features additional content, including innovative peer-reviewed formats; the two platforms together comprise the journal, which is indexed in the MLA bibliography. Although we welcome contributions specifically geared to the digital platform, articles are considered for the journal as a whole, and are scheduled based on editorial needs and at the discretion of the editors.</p>
 
-<p><em>Modernism/modernity</em>’s editors are elected to a five-year term by the MSA board. The current editors are:</p>
+<p><em>Modernism/modernity</em>’s editors are elected to a four-year term by the MSA board. The current editors are:</p>
 <ul>
 	<li><a href="mailto:nerlekar@amesall.rutgers.edu">Anjali Nerlekar</a>, Rutgers University<br/></li>
     <li><a href="mailto:Faye.Hammill@glasgow.ac.uk>">Faye Hammill</a>, University of Glasgow</li>
