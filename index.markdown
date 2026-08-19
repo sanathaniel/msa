@@ -108,6 +108,10 @@ layout: home
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
+
+		
+<!--	
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="/conference/MSA2026/assets/mentorship.jpg" min-width="150" min-height="150"/>
@@ -116,10 +120,6 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing the Graduate Publication Mentorship Program.</figcaption>
 			<a href="/members/mentorship/" class="btn btn--primary">Apply</a>
 		</div>
-		
-<!--	
-
-
 		
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
