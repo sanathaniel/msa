@@ -26,6 +26,15 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/mod-mod-thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>Call for Co-Editor</h3>
+				<figcaption  class="archive__item-title"><i>MOdernism/modernity</i> invites applications for the position of Co-editor.</figcaption>
+			<a href="https://www.moderniststudies.org/journal/editor/" class="btn btn--primary">Apply</a>
+		</div>	
 	
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
