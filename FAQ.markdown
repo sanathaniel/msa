@@ -38,8 +38,7 @@ permalink: /FAQ/
 		href="mailto:jrnlcirc@press.jhu.edu">jrnlcirc@press.jhu.edu</a>
 </p>
 <h2>How do I submit an essay for <em>Modernism/modernity</em>?</h2>
-<p>You can find submissions guidelines on the journal's page on
-	our site.</p>
+<p>You can find submissions guidelines on the <a href="https://www.moderniststudies.org/journal/">journal's page</a> on	our site.</p>
 <h2>What is the msa-members mailing list? How do I join?</h2>
 <p>The MSA uses a Google Group mailing list to communicate with 
 	members.</p>
