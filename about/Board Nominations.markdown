@@ -114,7 +114,7 @@ less of our future conferences.</p>
 				href="https://docs.google.com/document/d/1lxgFVW32DlMWS2PlmmHJnJE12YHAkDrl/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
 				href="https://vote.press.jhu.edu/msa/candidate/126"
 			>Statement</a></li>
-		<li>Candidate 3:  Hyunsoo Kim <a
+		<li>Candidate 3:  Hyunsoo Kim  <a
 				href="https://docs.google.com/document/d/1SyCM4TmrneGpWlFolBP3IJtx6VrruysM/edit?usp=sharing&ouid=113651242898693258780&rtpof=true&sd=true">CV</a> | <a
 				href="https://vote.press.jhu.edu/msa/candidate/127"
 			>Statement</a></li>
