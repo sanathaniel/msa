@@ -7,7 +7,7 @@ sidebar:
 ---
 
 
-<p>Follow the links below to see programs for past MSA conferences.</p>
+<p>Follow the links below to see programs for past MSA conferences. </p>
 <ul>
 	<li>
 		<a href= "/conference/MSA2026/">MSA 2026: Loughborough, July 1-4, 2026</a>
