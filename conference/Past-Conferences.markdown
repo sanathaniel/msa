@@ -19,7 +19,7 @@ sidebar:
 		<a
 			href="/conference/MSA2026/assets/BAMS_MSA_2026_Virtual_Schedule.pdf"
 			style="margin-left: 50px; font-size: 75%;">download the virtual
-			conference program</a>
+			conference program</a> 
 	</li>
 	<li>
 		<a href= "/conference/MSA2025/">MSA 2025: Boston, October 9-12, 2025</a>
