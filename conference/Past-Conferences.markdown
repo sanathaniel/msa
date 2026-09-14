@@ -13,11 +13,11 @@ sidebar:
 		<a href= "/conference/MSA2026/">MSA 2026: Loughborough, July 1-4, 2026</a>
 		<br>
 		<a
-			href="/conference/MSA2026/BAMS_MSA_2026_In_Person_Schedule.pdf"
+			href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf"
 			style="margin-left: 50px; font-size: 75%;">download the in-person
 			conference program</a>
 		<a
-			href="/conference/MSA2026/BAMS_MSA_2026_Virtual_Schedule.pdf"
+			href="/conference/MSA2026/assets/BAMS_MSA_2026_Virtual_Schedule.pdf"
 			style="margin-left: 50px; font-size: 75%;">download the virtual
 			conference program</a>
 	</li>
