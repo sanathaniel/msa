@@ -208,6 +208,6 @@ createStars();
 
 </script>
 
-</div>
+
 </body>
 
