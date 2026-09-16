@@ -18,7 +18,7 @@ classes:
 
 body {
   font-family: 'Kabel', Arial, sans-serif;
-  color: white;
+  color: black;
   margin: 0;
   height: 100vh;
   background: #111111;
@@ -26,60 +26,35 @@ body {
 }
 
 	a {
-color: #FECE0E;
+color: #2a72af;
 }
 
 	a:visited {
-color: #FECE0E;
+color: #e32321;
 }
 
 	h1 {
-	color: #F14347;
+	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 }
 
 	h2 {
-	color: #F14347;
+	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 }
 
 	h3 {
-	color: #F14347;
+	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 }
   
 
-
-
-.star {
-  position: absolute;
-  background: white;
-  border-radius: 50%;
-  opacity: 0.8;
-  animation: twinkle 2s infinite ease-in-out;
-}
-
-@keyframes twinkle {
-  0%, 100% { opacity: 0.8; }
-  50% { opacity: 0.3; }
-}
-
-* {box-sizing: border-box;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 500px;
-  position: relative;
-  margin: auto;
-}
 
 .expanded {
 	text-align: center;
@@ -91,56 +66,10 @@ img {vertical-align: middle;}
 	color: #F14347;
 }
 
-/* Caption text */
-.text-high {
-  color: white;
-  font-size: 20px;
-  font-style: italic;
-  padding: 8px 12px;
-  position: absolute;
-  left: 10%;
-  bottom: 72%;
-  width: 55%;
-  text-align: center;
-}
-
-/* Caption text */
-.text-low {
-  color: white;
-  font-size: 20px;
-  font-style: italic;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 15%;
-  left: 45%;
-  width: 55%;
-  text-align: center;
-}
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-@keyframes fadeInHold {
-     0%, 100% { opacity: 0; }
-	 20%, 80% { opacity: 1; }
-}
-.fade-in-hold {
-     animation: fadeInHold 3s ease-in forwards; /* Adjust duration as needed */
-}
-
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
-}
-
-
 .CFP-summary {
   padding: 4px;
   width: 100%;
-  background-color: #689c4b;
+  background-color: ffd300;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -151,7 +80,7 @@ img {vertical-align: middle;}
 .stream-title {
   padding: 4px;
   width: 100%;
-  background-color: #da6c3a;
+  background-color: #ffd300;
   color: white; 
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -160,7 +89,7 @@ img {vertical-align: middle;}
   }
 
 .CFP-title {
-	background-color: #689c4b; 
+	background-color: black; 
 	}
 
 .CFP-summary:hover {
@@ -181,7 +110,7 @@ img {vertical-align: middle;}
 .seminar-title {
   padding: 4px;
   width: 100%;
-  background-color: #689c4b;
+  background-color: #ffd300;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -197,7 +126,7 @@ img {vertical-align: middle;}
 .workshop-title {
   padding: 4px;
   width: 100%;
-  background-color: #689c4b;
+  background-color: #ffd300;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -220,7 +149,7 @@ img {vertical-align: middle;}
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px black inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/postcard.jpg);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/header.png);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #F14347; text-shadow: 4px 4px 4px rgb(0, 0, 0);">      
 		  Call for Papers       
@@ -228,15 +157,11 @@ img {vertical-align: middle;}
 	</div>
 </div>
 
-<div style="font-size: .5rem;">
-	Pamela Colman Smith, <i>The Empress</i>
-</div>
-
 <p>
 </p>
 
 <h1>
-Weird Modernisms 
+Expanded Universe
 </h1>
 
 <hr>
