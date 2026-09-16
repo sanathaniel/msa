@@ -3,7 +3,7 @@ layout: 27conference
 permalink: /conference/MSA2027/seminars/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/thumbnail.jpg
+    image: conference/MSA2027/assets/albers_thumb.png
   - nav: conf_nav_27
 masthead: false
 footer: false
@@ -20,67 +20,43 @@ footer: false
 
 body {
   font-family: 'Kabel', Arial, sans-serif;
-  color: white;
+  color: black;
   margin: 0;
   height: 100vh;
-  background: #111111;
+  background: white;
   position: relative;
 }
 
 	a {
-color: #FECE0E;
+color: #2a72af;
 }
 
 	a:visited {
-color: #FECE0E;
+color: #e32321;
 }
 
 	h1 {
-	color: #F14347;
+	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 }
 
 	h2 {
-	color: #F14347;
+	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 }
 
 	h3 {
-	color: #F14347;
+	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
 	font-size: 2em;
 	font-weight: 900;
 }
   
 
-
-.star {
-  position: absolute;
-  background: white;
-  border-radius: 50%;
-  opacity: 0.8;
-  animation: twinkle 2s infinite ease-in-out;
-}
-
-@keyframes twinkle {
-  0%, 100% { opacity: 0.8; }
-  50% { opacity: 0.3; }
-}
-
-* {box-sizing: border-box;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 500px;
-  position: relative;
-  margin: auto;
-}
 
 .expanded {
 	text-align: center;
@@ -92,51 +68,80 @@ img {vertical-align: middle;}
 	color: #F14347;
 }
 
-/* Caption text */
-.text-high {
+.CFP-summary {
+  padding: 4px;
+  width: 100%;
+  background-color: #e32321;
   color: white;
-  font-size: 20px;
-  font-style: italic;
-  padding: 8px 12px;
-  position: absolute;
-  left: 10%;
-  bottom: 72%;
-  width: 55%;
-  text-align: center;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.stream-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #ffd300;
+  color: white; 
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+
+.CFP-title {
+	background-color: black; 
+	}
+
+.CFP-summary:hover {
+  opacity: 0.7;
+  }
+  
+.stream-title:hover {
+  opacity: 0.7;
+  }
+
+.CFP-body {
+	max-width: 1000px;
+	text-align:left;
+	font-size:1rem;
+	margin-left: 40px;
 }
 
-/* Caption text */
-.text-low {
+.seminar-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #e32321;
   color: white;
-  font-size: 20px;
-  font-style: italic;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 15%;
-  left: 45%;
-  width: 55%;
-  text-align: center;
-}
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  }
+  
+.seminar-title:hover {
+  opacity: 0.7;
+  }
 
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-@keyframes fadeInHold {
-     0%, 100% { opacity: 0; }
-	 20%, 80% { opacity: 1; }
-}
-.fade-in-hold {
-     animation: fadeInHold 3s ease-in forwards; /* Adjust duration as needed */
-}
-
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
-}
+.workshop-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #e32321;
+  color: white;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px
+  }
+  
+.workshop-title:hover {
+  opacity: 0.7;
+  }
+  
 </style>
+
 </head>
 
 
