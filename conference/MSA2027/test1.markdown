@@ -163,7 +163,7 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
 </div>
 
-<div style="font-size: .5rem;">
+<div style="font-size: .5rem; color: white; text-align: right;">
 	Images drawn from Joseph Albers' "Steps" (1932)
 </div>
 
