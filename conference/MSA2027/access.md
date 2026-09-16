@@ -158,6 +158,10 @@ color: #e32321;
 	</div>
 </div>
 
+<div style="font-size: .5rem;">
+	Image drawn from Joseph Albers' "Steps" (1932)
+</div>
+
 <h1>Sharing Accessible Presentation Materials</h1>
 
 BAMS/MSA 2026 presenters are asked to upload a digital copy of their remarks prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. 

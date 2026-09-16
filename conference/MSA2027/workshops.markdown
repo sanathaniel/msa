@@ -159,7 +159,9 @@ color: #e32321;
 	</div>
 </div>
 
-
+<div style="font-size: .5rem;">
+	Image drawn from Joseph Albers' "Steps" (1932)
+</div>
         
 <p></p>
 <p>The Modernist Studies Association is pleased to offer the following workshops during the Loughborough 2026 conference. </p>

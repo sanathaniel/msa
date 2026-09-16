@@ -158,6 +158,10 @@ color: #e32321;
 	</div>
 </div>
 
+<div style="font-size: .5rem;">
+	Image drawn from Joseph Albers' "Steps" (1932)
+</div>
+
 <!--
 <p>
 Travel coming April 2026.

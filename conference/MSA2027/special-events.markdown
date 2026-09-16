@@ -159,6 +159,10 @@ color: #e32321;
 	</div>
 </div>
 
+<div style="font-size: .5rem;">
+	Image drawn from Joseph Albers' "Steps" (1932)
+</div>
+
 <p>
 Please  use our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a> to sign up for the special events listed on this page.
 </p>
