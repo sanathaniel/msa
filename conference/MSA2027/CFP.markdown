@@ -165,7 +165,7 @@ color: #e32321;
 </p>
 
 <h1>
-Expanded Universe
+MSA: Expanded Universe
 </h1>
 
 <hr>
@@ -232,6 +232,11 @@ While the weird has often been cast as a genre of interiority, one interested in
 <p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options for panels, roundtables, and individual papers (but not seminars or workshops). Please note that panels and roundtables must be wholly in-person or wholly virtual; they may not be a hybrid of both. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly. 
 </p>
 
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p> 
+
 <h1 id="guests">Featured Guests</h1>
 
 <p>
@@ -260,6 +265,11 @@ While the weird has often been cast as a genre of interiority, one interested in
 <p>
 <a href="https://english.fsu.edu/faculty/alison-sperling">Dr Alison Sperling</a>, Assistant Professor of Literature, Media, and Culture at Florida State University, author of ‘Weird Queer Ecologies’ (in <a href="https://www.peterlang.com/document/1321928">The Weird: A Companion</a>, Peter Lang, 2025), co-editor of <a href="https://muse.jhu.edu/issue/42824">‘Weird Temporalities’ special issue of Studies in the Fantastic (2020)</a> and currently finalising a monograph entitled Weird Modernism.
 </p>
+
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p> 
 
 <h1>Proposals</h1>
 
