@@ -21,7 +21,7 @@ body {
   color: black;
   margin: 0;
   height: 100vh;
-  background: #111111;
+  background: white;
   position: relative;
 }
 
