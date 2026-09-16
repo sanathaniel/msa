@@ -45,7 +45,7 @@ color: #e32321;
 	h2 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
 	font-weight: 900;
 }
 
@@ -142,14 +142,18 @@ color: #e32321;
   
 </style>
 
-</head>
+<body>
+ 
+<div class="CFP-full">
+<div class="CFP-body">
 
+<!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
 
 
 <div class="page__hero--overlay" 
- style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/header.png);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/header_white_banner.png);">
     <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #e32321; text-shadow: 4px 4px 4px rgb(0, 0, 0);">        
+	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #e32321; text-shadow: 4px 4px 4px rgb(0, 0, 0);">       
 		  Seminars       
 	  </h1> 
 	</div>
