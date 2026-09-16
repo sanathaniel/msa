@@ -159,7 +159,7 @@ color: #e32321;
 	</div>
 </div>
 
-<div style="font-size: .5rem;">
+<div style="font-size: .5rem; text-align: right;">
 	Image drawn from Joseph Albers' "Steps" (1932)
 </div>
 

@@ -44,14 +44,14 @@ color: #e32321;
 	h2 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.5em;
 	font-weight: 900;
 }
 
 	h3 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
+	font-size: 1.25em;
 	font-weight: 900;
 }
   
@@ -158,11 +158,11 @@ color: #e32321;
 	</div>
 </div>
 
-<div style="font-size: .5rem;">
+<div style="font-size: .5rem; text-align: right;">
 	Image drawn from Joseph Albers' "Steps" (1932)
 </div>
 
-Registration for the in-person conference has now closed. 
+<p>Registration for the in-person conference has now closed.</p>
  
 Virtual registration is open until Wednesday 24 June, midnight (BST). You can register for the <strong>online conference</strong> at the link below.
 

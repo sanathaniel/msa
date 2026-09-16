@@ -44,14 +44,14 @@ color: #e32321;
 	h2 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.5em;
 	font-weight: 900;
 }
 
 	h3 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
+	font-size: 1.25em;
 	font-weight: 900;
 }
   
@@ -158,7 +158,7 @@ color: #e32321;
 	</div>
 </div>
 
-<div style="font-size: .5rem;">
+<div style="font-size: .5rem; text-align: right;">
 	Image drawn from Joseph Albers' "Steps" (1932)
 </div>
 
