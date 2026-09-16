@@ -52,7 +52,7 @@ color: #e32321;
 	h3 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
+	font-size: 1.25em;
 	font-weight: 900;
 }
   
@@ -151,7 +151,7 @@ color: #e32321;
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/header_white_banner.png);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: url(/conference/MSA2027/assets/header_white_banner.png);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #e32321; text-shadow: 4px 4px 4px rgb(0, 0, 0);">       
 		  Seminars       
@@ -687,27 +687,3 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 </details>	 
 
 
-<script>
-
-// Function to create multiple stars
-function createStars() {
-  const numberOfStars = 200; // Adjust for more or fewer stars
-  for (let i = 0; i < numberOfStars; i++) {
-    const star = document.createElement('div');
-    star.classList.add('star');
-
-    // Random size, position, and animation duration for each star
-    const size = Math.random() * 3 + 1;
-    star.style.width = `${size}px`;
-    star.style.height = `${size}px`;
-    star.style.left = `${Math.random() * 100}vw`;
-    star.style.top = `${Math.random() * 100}vh`;
-    star.style.animationDuration = `${Math.random() * 2 + 1}s`;
-
-    document.body.appendChild(star);
-  }
-}
-
-createStars();
-
-</script>

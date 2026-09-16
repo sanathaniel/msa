@@ -43,7 +43,7 @@ color: #e32321;
 	h2 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 1.5em;
+	font-size: 1.25em;
 	font-weight: 900;
 }
 
@@ -149,7 +149,7 @@ color: #e32321;
 
 
 <div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/conference/MSA2027/assets/header_white_banner.png);">
+  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image:  url(/conference/MSA2027/assets/header_white_banner.png);">
     <div class="wrapper">
 	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #e32321; text-shadow: 4px 4px 4px rgb(0, 0, 0);">      
 		  Call for Papers       
@@ -166,12 +166,11 @@ Expanded Universe
 
 <hr>
 
-<h2>CFP for the Modernist Studies Association 2026 Annual Conference, held in conjunction with the British Association for Modernist Studies</h2>
-<h2>Loughborough, UK, 1-4 July, 2026</h2>
+<h2>Tallahassee, FL, 9-12 December, 2027</h2>
 
 <hr>
 
-<h2>CFP Deadline now <i>December 29</i></h2>
+<h3>CFP Deadline <i>January 22</i></h3>
 
 
 <p>The BAMS/MSA joint conference 2026 celebrates the works and study of Modernism as strange, queer, uncanny, occult, and above all weird. Since the foundational work of Viktor Shklovsky, Modernism has been aligned with the idea of ‘making strange’. Following Shklovsky, this has usually been understood as a creative act of defamiliarization, the work of presenting the taken-for-granted with new and puzzling perspectives. The MSA and BAMS joint conference 2026 takes this heritage and refracts it to consider the concept of Weird Modernism in a multi-faceted and interdisciplinary context. Whether as genre in its own right or a lens to highlight non-normative experience, the weird both encourages alternative ways of thinking about the form, style and ethics of Modernist cultural production and typifies the encounter with Modernism’s experimental modes. </p>
