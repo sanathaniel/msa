@@ -174,9 +174,9 @@ color: #e32321;
 <p></p>
 
 <p>
-	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" height="40px" align="left" />
-<p> 
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
 
 <h1><strong>ROLES: SEMINAR LEADERS and INVITED PARTICIPANTS</strong></h1>
 
@@ -188,9 +188,9 @@ color: #e32321;
 <p></p>
 
 <p>
-	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" height="40px" align="left" />
-<p> 
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
 
 <h1><strong>AUDITORS</strong></h1>
 
@@ -209,8 +209,8 @@ color: #e32321;
 <p><strong>Other guidelines</strong>  are up to individual leaders and can lend seminars their unique styles. In the past, some leaders have provided a list of recommended readings and/or a list of questions the group should consider. Some have assigned participants to generate detailed critiques of each other’s work in pairs or small groups, in addition to all of the participants reading each other’s work. Leaders have also given specific paper guidelines guiding content (encouraging or discouraging textual, theoretical, or methodological analysis, e.g.).</p>
 
 <p>
-	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" height="40px" align="left" />
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
 <p>  
 
 <h1><strong>CONFERENCE GUIDELINES</strong></h1>
