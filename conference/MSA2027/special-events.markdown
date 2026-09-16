@@ -3,7 +3,7 @@ layout: 27conference
 permalink: /conference/MSA2027/events/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/thumbnail.jpg
+    image: conference/MSA2027/assets/albers_thumb.png
   - nav: conf_nav_27
 masthead: false
 footer: false

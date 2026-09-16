@@ -69,7 +69,7 @@ color: #e32321;
 .CFP-summary {
   padding: 4px;
   width: 100%;
-  background-color: ffd300;
+  background-color: #e32321;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -110,7 +110,7 @@ color: #e32321;
 .seminar-title {
   padding: 4px;
   width: 100%;
-  background-color: #ffd300;
+  background-color: #e32321;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
@@ -126,7 +126,7 @@ color: #e32321;
 .workshop-title {
   padding: 4px;
   width: 100%;
-  background-color: #ffd300;
+  background-color: #e32321;
   color: white;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
