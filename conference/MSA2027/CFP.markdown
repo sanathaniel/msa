@@ -17,7 +17,7 @@ classes:
 @import url('https://fonts.cdnfonts.com/css/kabel');
 
 body {
-  font-family: 'Kabel', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: black;
   margin: 0;
   height: 100vh;
@@ -43,7 +43,7 @@ color: #e32321;
 	h2 {
 	color: #2a72af;
 	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
 	font-weight: 900;
 }
 
