@@ -163,6 +163,10 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
 </div>
 
+<div style="font-size: .5rem;">
+	Images drawn from Joseph Albers' "Steps" (1932)
+</div>
+
 <script>
 let slideIndex = 0;
 showSlides();

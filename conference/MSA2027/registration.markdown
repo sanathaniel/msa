@@ -158,6 +158,9 @@ color: #e32321;
 	</div>
 </div>
 
+<div style="font-size: .5rem;">
+	Image drawn from Joseph Albers' "Steps" (1932)
+</div>
 
 Registration for the in-person conference has now closed. 
  
