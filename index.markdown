@@ -29,6 +29,15 @@ layout: home
 
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
+					<img src="assets/mod_crossings_thumb.png" min-width="150" min-height="150"/>
+				</div>
+				<h3>Modernist Crossings</h3>
+				<figcaption  class="archive__item-title">Register for the Modernist Crossings Online Symposium.</figcaption>
+			<a href="https://www.moderniststudies.org/conference/digital/" class="btn btn--primary">Register</a>
+		</div>	
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
 					<img src="assets/mod-mod-thumb.jpg" min-width="150" min-height="150"/>
 				</div>
 				<h3>Call for Co-Editor</h3>
@@ -99,6 +108,9 @@ layout: home
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 		
+		
+<!--	
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
@@ -107,10 +119,6 @@ layout: home
 				<figcaption  class="archive__item-title">Explore MSA's digital federation.<br/></figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
-		
-
-		
-<!--	
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
