@@ -175,7 +175,7 @@ color: #e32321;
 
 <p>
 	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin:1em" alt="" height="80" align="left" />
+		style="margin-right:1em" height="40px" align="left" />
 <p> 
 
 <h1><strong>ROLES: SEMINAR LEADERS and INVITED PARTICIPANTS</strong></h1>
@@ -189,7 +189,7 @@ color: #e32321;
 
 <p>
 	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin:1em" alt="" height="80" align="left" />
+		style="margin-right:1em" height="40px" align="left" />
 <p> 
 
 <h1><strong>AUDITORS</strong></h1>
@@ -210,8 +210,8 @@ color: #e32321;
 
 <p>
 	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin:1em" alt="" height="80" align="left" />
-<p> 
+		style="margin-right:1em" height="40px" align="left" />
+<p>  
 
 <h1><strong>CONFERENCE GUIDELINES</strong></h1>
 
@@ -219,7 +219,7 @@ color: #e32321;
 
 <p>
 	<img src="conference/MSA2027/assets/albers_thumb.png"
-		style="margin:1em" alt="" height="80" align="left" />
+		style="margin-right:1em" height="40px" align="left" />
 <p> 
 
 <h1><strong>SEMINARS</strong></h1>
