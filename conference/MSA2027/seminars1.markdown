@@ -224,7 +224,7 @@ color: #e32321;
 
 <p>
 	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" height="40px" align="left" />
+		style="margin-right:1em" width="40px" align="left" />
 <p> 
 
 <h1><strong>SEMINARS</strong></h1>
