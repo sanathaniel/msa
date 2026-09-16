@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/mod_crossings_thumb.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>Modernist Crossings</h3>
-				<figcaption  class="archive__item-title">Registration for Modernist Crossings Online Symposium: coming soon!</figcaption>
+				<figcaption  class="archive__item-title">Registration for Modernist Crossings: coming soon!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/digital/" class="btn btn--primary">Register</a>
 		</div>	
 
@@ -53,15 +53,6 @@ layout: home
 				<figcaption  class="archive__item-title">Announcing MSA'27, to be held in Tallahassee, Florida.</figcaption>
 			<a href="https://www.moderniststudies.org/conference/upcoming-conferences/" class="btn btn--primary">Plan</a>
 		</div>	
-
-		<div class ="feature__item" style="border:20px;">
-			<div class="feature__item-teaser">
-					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
-				</div>
-				<h3>BAMS/MSA 2026</h3>
-				<figcaption  class="archive__item-title">Thanks to all who made MSA2026 a wonderful gathering!</figcaption>
-			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Farewell</a>
-		</div>
  		
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -107,9 +98,6 @@ layout: home
 				<figcaption  class="archive__item-title">Join one of MSA's listservs.<br /></figcaption>
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
-		
-		
-<!--	
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
@@ -119,6 +107,20 @@ layout: home
 				<figcaption  class="archive__item-title">Explore MSA's digital federation.<br/></figcaption>
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
+		
+		
+<!--	
+
+
+		<div class ="feature__item" style="border:20px;">
+			<div class="feature__item-teaser">
+					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>BAMS/MSA 2026</h3>
+				<figcaption  class="archive__item-title">Thanks to all who made MSA2026 a wonderful gathering!</figcaption>
+			<a href="https://www.moderniststudies.org/conference/MSA2026/program/" class="btn btn--primary">Farewell</a>
+		</div>
+
 
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
