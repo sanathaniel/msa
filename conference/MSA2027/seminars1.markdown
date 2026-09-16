@@ -198,6 +198,11 @@ color: #e32321;
 
 <p></p>
 
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
+
 <h1><strong>PRE-CONFERENCE GUIDELINES</strong></h1>
 
 <p>Seminar leaders should set firm guidelines for each seminar from their first or second contact with seminar participants. These should include, <strong>at a minimum:</strong></p>
@@ -218,7 +223,7 @@ color: #e32321;
 <p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
 
 <p>
-	<img src="conference/MSA2027/assets/albers_thumb.png"
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
 		style="margin-right:1em" height="40px" align="left" />
 <p> 
 

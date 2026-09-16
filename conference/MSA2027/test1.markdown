@@ -132,25 +132,25 @@ img {vertical-align: middle;}
 <div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
   <div class="text-high">Modernism... Expanded</div>
-  <div class="text-low"><a href="https://www.moderniststudies.org/">Call for Papers</a></div>
+  <div class="text-low"><a href="/conference/MSA2026/CFP/">Call for Papers</a></div>
 </div>
 
 <div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_2.jpg" style="width:100%">
-  <div class="text-high">Seminars</div>
-  <div class="text-low">Workshops</div>
+  <div class="text-high"><a href="/conference/MSA2026/seminars/">Seminars</a></div>
+  <div class="text-low"><a href="/conference/MSA2026/workshops/">Workshops</a></div>
 </div>
 
 <div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
-  <div class="text-high">Travel</div>
-  <div class="text-low">Events</div>
+  <div class="text-high"><a href="/conference/MSA2026/travel/">Travel</a></div>
+  <div class="text-low"><a href="/conference/MSA2026/events/">Events</a></div>
 </div>
 
 <div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_4.jpg" style="width:100%">
-  <div class="text-high">Registration</div>
-  <div class="text-low">Program</div>
+  <div class="text-high"><a href="/conference/MSA2026/registration/">Registration</a></div>
+  <div class="text-low"><a href="/conference/MSA2026/program/">Program</a></div>
 </div>
 
 </div>
