@@ -159,7 +159,7 @@ color: #e32321;
 </div>
 
 <div style="font-size: .5rem; text-align: right;">
-	Image drawn from Joseph Albers' "Steps" (1932)
+	Image drawn from Josef Albers' "Steps" (1932)
 </div>
 
 <h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">In-Person Schedule</a></h2>
