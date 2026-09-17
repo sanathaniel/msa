@@ -3,12 +3,11 @@ layout: 27conference
 permalink: /conference/MSA2027/seminars/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/albers_thumb.png
+    image: conference/MSA2027/assets/msa_fsu.png
   - nav: conf_nav_27
 masthead: false
 footer: false
 ---
-
 
 <head>
 
@@ -173,6 +172,11 @@ color: #e32321;
 
 <p></p>
 
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
+
 <h1><strong>ROLES: SEMINAR LEADERS and INVITED PARTICIPANTS</strong></h1>
 
 <p>Seminars are led by anywhere between one and three leaders who have some experience or knowledge foundational to the seminar topic, and who can represent different professional stages or institutional statuses.</p>
@@ -182,11 +186,21 @@ color: #e32321;
 
 <p></p>
 
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
+
 <h1><strong>AUDITORS</strong></h1>
 
 <p>Seminars are limited to a set number of participants. By default, auditors are NOT permitted; seminar leaders may, however, choose to allow auditors but must inform the conference organizers.</p>
 
 <p></p>
+
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
 
 <h1><strong>PRE-CONFERENCE GUIDELINES</strong></h1>
 
@@ -198,9 +212,19 @@ color: #e32321;
 </ul>
 <p><strong>Other guidelines</strong>  are up to individual leaders and can lend seminars their unique styles. In the past, some leaders have provided a list of recommended readings and/or a list of questions the group should consider. Some have assigned participants to generate detailed critiques of each other’s work in pairs or small groups, in addition to all of the participants reading each other’s work. Leaders have also given specific paper guidelines guiding content (encouraging or discouraging textual, theoretical, or methodological analysis, e.g.).</p>
 
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
+
 <h1><strong>CONFERENCE GUIDELINES</strong></h1>
 
 <p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
+
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p> 
 
 <h1><strong>SEMINARS</strong></h1>
 
@@ -688,5 +712,20 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 			</p>
 		</div>
 </details>	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -3,7 +3,7 @@ layout: 27conference
 permalink: /conference/MSA2027/travel/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/albers_thumb.png
+    image: conference/MSA2027/assets/msa_fsu.png
   - nav: conf_nav_27
 masthead: false
 footer: false
@@ -180,6 +180,10 @@ Travel coming April 2026.
 	</li>
 </ul>
  
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
  
 <h2 id="travel">Getting to Loughborough University  </h2>
 
@@ -258,7 +262,10 @@ Maps, directions and more information on moving between and around the various c
 </ul>
 
 
- 
+ <p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
  
 <h2 id="hotels">Conference Hotels </h2>
 
@@ -276,6 +283,11 @@ However, the number of rooms available are limited so delegates may need to arra
 -->
 
 There are several other hotel options available in the town centre and in the surrounding areas. More information is below.
+
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
 
 <h2>Other Accommodation Options</h2>
 
@@ -343,7 +355,10 @@ Loughborough is surrounded by beautiful countryside and several small villages. 
 </ul>
 
 
-
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
 
 <h2 id="town">Attractions</h2>
 

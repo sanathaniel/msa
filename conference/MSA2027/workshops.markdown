@@ -3,7 +3,7 @@ layout: 27conference
 permalink: /conference/MSA2027/workshops/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/albers_thumb.png
+    image: conference/MSA2027/assets/msa_fsu.png
   - nav: conf_nav_27
 masthead: false
 footer: false
