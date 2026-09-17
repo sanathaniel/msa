@@ -51,6 +51,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 500px;
+  height: 380px;
   position: relative;
   margin: auto;
 }
@@ -104,11 +105,12 @@ img {vertical-align: middle;}
      animation: fadeInHold 3s ease-in forwards; /* Adjust duration as needed */
 }
 
-
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
+
 </style>
 </head>
 
@@ -163,7 +165,7 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
 </div>
 
-<div style="font-size: .5rem; color: white; text-align: right;">
+<div style="max-width: 650px; font-size: .5rem; color: white; text-align: right;">
 	Images drawn from Joseph Albers' "Steps" (1932)
 </div>
 
