@@ -68,7 +68,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-high {
   color: white;
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
@@ -81,7 +81,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-low {
   color: white;
-  font-size: 24px;
+  font-size: 22px;
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
@@ -128,7 +128,7 @@ img {vertical-align: middle;}
 	</div>
 <p></p>
 
-<div style="max-width: 650px; font-size: .5rem; color: white; text-align: right;">
+<div style="max-width: 600px; font-size: .5rem; color: white; text-align: right;">
 	Images drawn from Josef Albers' "Steps" (1932)
 </div>
 
@@ -136,7 +136,7 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="mySlides fade-in-hold">
+<div class="mySlides fade-in-hold" style="padding-bottom: 15px;">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
   <div class="text-high">Modernism... Expanded</div>
   <div class="text-low"><a href="/conference/MSA2027/CFP/">Call for Papers</a></div>
@@ -148,7 +148,7 @@ img {vertical-align: middle;}
   <div class="text-low"><a href="/conference/MSA2027/workshops/">Workshops</a></div>
 </div>
 
-<div class="mySlides fade-in-hold">
+<div class="mySlides fade-in-hold" style="padding-bottom: 25px;">
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
   <div class="text-high"><a href="/conference/MSA2027/travel/">Travel</a></div>
   <div class="text-low"><a href="/conference/MSA2027/events/">Events</a></div>
