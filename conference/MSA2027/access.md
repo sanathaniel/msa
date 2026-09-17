@@ -3,7 +3,7 @@ layout: 27conference
 permalink: /conference/MSA2027/access/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/albers_thumb.png
+    image: conference/MSA2027/assets/msa_fsu.png
   - nav: conf_nav_27
 masthead: false
 footer: false
@@ -161,6 +161,11 @@ color: #e32321;
 <div style="font-size: .5rem; text-align: right;">
 	Image drawn from Joseph Albers' "Steps" (1932)
 </div>
+
+<p>
+	<img src="/conference/MSA2027/assets/albers_thumb.png"
+		style="margin-right:1em" width="40px" align="left" />
+<p>  
 
 <h1>Sharing Accessible Presentation Materials</h1>
 
