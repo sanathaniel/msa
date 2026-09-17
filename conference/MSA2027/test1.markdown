@@ -69,12 +69,12 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-high {
   color: white;
-  font-size: 28px;
+  font-size: 24px;
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
   left: 10%;
-  bottom: 72%;
+  bottom: 70%;
   width: 55%;
   text-align: center;
 }
@@ -82,7 +82,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-low {
   color: white;
-  font-size: 28px;
+  font-size: 24px;
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
@@ -129,6 +129,12 @@ img {vertical-align: middle;}
 	</div>
 <p></p>
 
+<div style="max-width: 650px; font-size: .5rem; color: white; text-align: right;">
+	Images drawn from Josef Albers' "Steps" (1932)
+</div>
+
+<p></p>
+
 <div class="slideshow-container">
 
 <div class="mySlides fade-in-hold">
@@ -165,9 +171,6 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
 </div>
 
-<div style="max-width: 650px; font-size: .5rem; color: white; text-align: right;">
-	Images drawn from Joseph Albers' "Steps" (1932)
-</div>
 
 <script>
 let slideIndex = 0;
