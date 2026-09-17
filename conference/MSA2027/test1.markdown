@@ -51,7 +51,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 500px;
-  height: 380px;
+  height: 380px; 
   position: relative;
   margin: auto;
 }
@@ -69,7 +69,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-high {
   color: white;
-  font-size: 20px;
+  font-size: 28px;
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
@@ -82,7 +82,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text-low {
   color: white;
-  font-size: 20px;
+  font-size: 28px;
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
