@@ -51,7 +51,6 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 500px;
-  height: 380px; 
   position: relative;
   margin: auto;
 }
@@ -122,7 +121,7 @@ img {vertical-align: middle;}
 		<span style="color: #F14347">M</span><span style="color: #029AD4">S</span><span style="color: #FECE0E">A</span>
 		<span style="color: white">2027</span>
 		<br />
-		<span style="color: #F14347; font-size: .75em;">MODERNISM, EXPANDED UNIVERSE</span>
+		<span style="color: #F14347; font-size: .75em;">EXPANDED UNIVERSE</span>
 		<br />
 		<span style= "color: white; font-size: .75em;">TALLAHASSEE, FLORIDA</span>
 		<br />
