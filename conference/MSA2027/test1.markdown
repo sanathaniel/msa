@@ -136,9 +136,9 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="mySlides fade-in-hold" style="padding-bottom: 15px;">
+<div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
-  <div class="text-high">Modernism... Expanded</div>
+  <div class="text-high" style="padding-bottom: 10px;">Modernism... Expanded</div>
   <div class="text-low"><a href="/conference/MSA2027/CFP/">Call for Papers</a></div>
 </div>
 
@@ -148,9 +148,9 @@ img {vertical-align: middle;}
   <div class="text-low"><a href="/conference/MSA2027/workshops/">Workshops</a></div>
 </div>
 
-<div class="mySlides fade-in-hold" style="padding-bottom: 25px;">
+<div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_3.jpg" style="width:100%">
-  <div class="text-high"><a href="/conference/MSA2027/travel/">Travel</a></div>
+  <div class="text-high" style="padding-bottom: 25px;"><a href="/conference/MSA2027/travel/">Travel</a></div>
   <div class="text-low"><a href="/conference/MSA2027/events/">Events</a></div>
 </div>
 
