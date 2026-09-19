@@ -23,7 +23,7 @@ Digital programming has concluded for 2024. Review past meetings below, and stay
 
 <br />
 
-<p>Full Program Coming Soon!</p>
+<p><a href="https://docs.google.com/document/d/1mRdj4z5QF90PsH_rVLb5GK-5Bbkqt4kT/edit?usp=sharing&ouid=105897998784153510572&rtpof=true&sd=true">Registration open!</a></p>
 
 
 <hr> 

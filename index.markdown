@@ -32,7 +32,7 @@ layout: home
 					<img src="assets/mod_crossings_thumb.png" min-width="150" min-height="150"/>
 				</div>
 				<h3>Modernist Crossings</h3>
-				<figcaption  class="archive__item-title">Registration for Modernist Crossings: coming soon!</figcaption>
+				<figcaption  class="archive__item-title">Registration for Modernist Crossings: now open!</figcaption>
 			<a href="https://www.moderniststudies.org/conference/digital/" class="btn btn--primary">Register</a>
 		</div>	
 
