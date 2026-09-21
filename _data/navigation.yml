@@ -117,6 +117,8 @@ prizes_nav:
         url: /prizes/collection/
       - title: "Translation Prize"
         url: /prizes/translation/
+      - title: "CCIS Essay Prize"
+        url: /prizes/CCIS/
       - title: "Previous Winners"
         url: /prizes/previous-winners/
     
