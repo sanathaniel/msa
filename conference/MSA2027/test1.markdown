@@ -72,7 +72,7 @@ img {vertical-align: middle;}
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
-  left: 8%;
+  left: 10%;
   bottom: 70%;
   width: 55%;
   text-align: center;
@@ -85,8 +85,8 @@ img {vertical-align: middle;}
   font-style: italic;
   padding: 8px 12px;
   position: absolute;
-  bottom: 32%;
-  left: 23%;
+  bottom: 52%;
+  left: 26%;
   width: 55%;
   text-align: center;
 }
@@ -99,7 +99,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   bottom: 15%;
-  left: 39%;
+  left: 45%;
   width: 55%;
   text-align: center;
 }
@@ -151,7 +151,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade-in-hold">
   <img src="/conference/MSA2027/assets/expand_black_narrow_1.jpg" style="width:100%">
-  <div class="text-high" style="padding-bottom: 10px;">Modernism...</div>
+  <div class="text-high" style="padding-bottom: 20px;">Modernism...</div>
   <div class="text-mid" style="padding-bottom: 0px;">...Expanded</div>
   <div class="text-low"><a href="/conference/MSA2027/CFP/">Call for Papers</a></div>
 </div>
