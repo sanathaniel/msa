@@ -42,7 +42,7 @@ footer: false
 SEMINARS
 </h1>
 
-<hr style="border: 1px rgba(242,240,234,0.14);">
+<hr style="height: 1px; color: #f2f0ea;">
 
 <h1>
 HOW A SEMINAR WORKS</h1>
@@ -74,7 +74,7 @@ HOW A SEMINAR WORKS</h1>
 
 <p>Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.</p>
 
-<hr style="border: 1px rgba(242,240,234,0.14);">
+<hr style="height: 1px; color: #f2f0ea;">
 
 <h1>THE LIST</h1>
 
