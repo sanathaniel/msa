@@ -33,7 +33,7 @@ footer: false
 <p></p>
 
 <div style="font-size: .5rem; color: #9a968c; text-align: right;">
-	striped steps after François Bucher / Josef Albers, Despite Straight Lines
+	after François Bucher / Josef Albers, "Despite Straight Lines"
 </div>
 
 <p></p>
@@ -66,7 +66,7 @@ HOW A SEMINAR WORKS</h1>
 
 <p>Leaders should set rules in the first or second message to the group, including at a minimum:
 
-<ol type="1" style="color: #9a968c">
+<ol type="1">
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
@@ -138,7 +138,7 @@ Bringing together educators and scholars who work across film, literature, digit
 <p>Guiding questions to consider:</p>
 
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>How can assignments embody the experimental or uncanny qualities of modernism?
 		</li>
 		<li>What happens when students become media makers rather than passive viewers?
@@ -307,7 +307,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			<p>Allegory has long been a familiar critical strategy to ward off the strangeness of modernist art. We seek papers on resistances to allegory. Where allegory is a privileged form of making sense—or, put otherwise, a time-honored form of explaining away—how might the weird name forms of modernist production and reception that refuse allegorical assimilation? Does the weird dis-arrange Rancière’s distribution of the sensible? Is Walter Benjamin’s theory of allegory weird enough? We are interested in thinking together about how critics, readers, and audiences have assimilated what should resist assimilation, and the possibilities of nevertheless finding critical languages for the unassimilable, languages which do not revert to familiar forms of allegoresis. Participants may find instructive Angus Fletcher’s <i>1964 Allegory: The Theory of a Symbolic Mode</i>, and in particular its appendix on “Illustrations.” The Symbolist and Surrealist paintings of Redon, Moreau, Ernst, Delvaux, and de Chirico occasion Fletcher’s claim that all surrealist elements throughout the history of Western painting are allegorical; their “odds and ends” and “discontinuity” create effects of <i>allegorical</i> “enigma.” The seminar seeks out modernist enigmas that might resist rather than illustrate allegory.
 			</p>
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>Formal resistance to allegorical closure;
 		</li>
 		<li>Historical performance in theater, dance, or other genres which frustrates the allegorical impulse;
@@ -356,7 +356,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Perhaps, though, we find in modernism’s insurgent spirit early signs of being weirded out by the growth paradigm. How might modernism have rethought what socially necessary and unnecessary production entails? This Modernism & Environment SIG-sponsored seminar invites participants to consider modernism’s relationship to the degrowth movement and thought by considering how modernist texts experiment with, resist, or critique modernity’s paradigms of growth and development. Topics might include:
 			</p>
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>bildungsroman and narrative structures of growth
 		</li>
 		<li>maximalist vs. minimalist aesthetics
@@ -380,7 +380,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Suggested Reading:</p>
 
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>Kohei Saito, <i>Slow Down: A Degrowth Manifesto</i> (Astra House 2024)
 		</li>
 		<li>Jason Hickel, “On Technology and Degrowth,” Monthly Review 75: 3 (July-August 2023)
@@ -447,7 +447,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Participants will contribute to an interdisciplinary conversation analyzing occult, spiritual, or religious–aka “weird”–conceptions of belonging that were advanced through a range of modernist practices, including: experiments in automatic writing; composition of synaesthetic music; photographic, lithographic, sculptural, and painterly abstraction; and designing immersive environments. We welcome position papers, 5-7 pages in length, that advance new methods and approaches for analyzing the stakes of weird invocations of the globe. Papers could be anchored in a range of subjects, including the study of:
 			</p>
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>techniques of askesis and ekstasis
 		</li>
 		<li>poetics of affiliation and fellowship across creatures
@@ -490,7 +490,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			<p>Feminist, queer, and trans scholarship has often worked to revise and expand the canon, and proffered ways to reread and rethink even the most canonical of texts. After all, as Eve Sedgwick advised us thirty-five years ago in Epistemology of the Closet, “the relationship of gay studies to the canon is, and had best be, tortuous.” This axiom is no less applicable to modernist studies, where scholars of anti- or non-canonical modernisms have often found themselves classified as doing modernism otherwise, always with an adjective appended (new, bad, weak, global, etc). The “weird” opens up another way of thinking against the mainstream of modernist studies, and we take it as a call not only to be attuned to the innate weirdness of texts themselves, but also to texts that are weirdly-suited to the ways we have come to understand modernism (perhaps even, in some cases, because their work is “not weird enough”). We invite papers that bring feminist, queer, and trans approaches to non-canonical modernist figures, texts, and objects, and are especially interested in papers focusing on:</p>
 			
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>Underread or under-studied authors
 		</li>
 		<li>Authors whose work is out of print, or has not been translated into English
@@ -515,7 +515,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>We particularly welcome contributions that explore:</p>
 
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>Print and publication networks: magazines, anthologies, and presses that shaped or escaped Harlem’s orbit.
 		</li>
 		<li>Editorial and epistolary circulation: correspondence, editorial exchange, and literary friendship as engines of modernist production.
@@ -541,7 +541,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 
 The seminar invites papers that examine how modernism engages with the Byzantine Empire across different national and cultural contexts, media and genres, and which offer transnational or comparative perspectives on this underexplored relationship.</p>
 <p>
-	<ol type="1" style="color: #9a968c">
+	<ol type="1">
 		<li>How did cultural materials related to the Byzantine Empire circulate within literary and artistic circles?
 		</li>
 		<li>What connections can be drawn between the rise in interest in the Byzantine Empire during the 19thc and the emergence of decadent literature?
