@@ -3,7 +3,7 @@ layout: 27conference-hub
 permalink: /conference/MSA2027/seminars1/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/msa_fsu.png
+    image: conference/MSA2027/assets/logo1.jpg
   - nav: conf_nav_27
 masthead: false
 footer: false
@@ -47,23 +47,24 @@ SEMINARS
 <h1>
 HOW A SEMINAR WORKS</h1>
 
-During registration you may select a seminar. In advance of the meeting, participants write short papers in response to the topic and circulate them to the group by whatever method the leaders set. Everyone reads everyone else’s work. The point is a careful conversation, not a stack of unread talks.
+<p>During registration you may select a seminar. In advance of the meeting, participants write short papers in response to the topic and circulate them to the group by whatever method the leaders set. Everyone reads everyone else’s work. The point is a careful conversation, not a stack of unread talks.
+</p>
 
-Seminars run two hours and thirty minutes. The first two hours belong to the participants; the last thirty minutes open to questions, general discussion, and auditors if the leaders have allowed them.
+<p>Seminars run two hours and thirty minutes. The first two hours belong to the participants; the last thirty minutes open to questions, general discussion, and auditors if the leaders have allowed them.</p>
 
 <h1>LEADERS AND INVITED PARTICIPANTS</h1>
 
-A seminar has one to three leaders with some claim on the topic, ideally across professional stages. Leaders may invite up to two people in a special role. They are urged to ask those guests for a paper or a prepared response so the hour is not ornamental.
+<p>A seminar has one to three leaders with some claim on the topic, ideally across professional stages. Leaders may invite up to two people in a special role. They are urged to ask those guests for a paper or a prepared response so the hour is not ornamental.</p>
 
-Seminars work when the talk stays anchored in the writing circulated beforehand, and when the leader acts as a facilitator among peers rather than an instructor. No one should dominate. Every submission should get attention.
+<p>Seminars work when the talk stays anchored in the writing circulated beforehand, and when the leader acts as a facilitator among peers rather than an instructor. No one should dominate. Every submission should get attention.</p>
 
 <h1>AUDITORS</h1>
 
-Numbers are capped. Auditors are not permitted by default. Leaders who want them must tell the conference organizers.
+<p>Numbers are capped. Auditors are not permitted by default. Leaders who want them must tell the conference organizers.</p>
 
 <h1>BEFORE THE CONFERENCE</h1>
 
-Leaders should set rules in the first or second message to the group, including at a minimum:
+<p>Leaders should set rules in the first or second message to the group, including at a minimum:
 
 <ol type="1" style="color: #9a968c">
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
@@ -71,7 +72,7 @@ Leaders should set rules in the first or second message to the group, including 
 	<li><strong>The procedure for sharing of written work.</strong></li>
 </ol>
 
-Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.
+<p>Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.</p>
 
 <hr style="border: 1px rgba(242,240,234,0.14);">
 
