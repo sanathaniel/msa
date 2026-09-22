@@ -3,145 +3,23 @@ layout: 27conference
 permalink: /conference/MSA2027/events/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/msa_fsu.png
+    image: conference/MSA2027/assets/logo1.jpg
   - nav: conf_nav_27
 masthead: false
 footer: false
 ---
 
 
+
 <head>
 
-<link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
+</head>
 
 <style>
 
-@import url('https://fonts.cdnfonts.com/css/kabel');
-
-body {
-  font-family: Arial, sans-serif;
-  color: black;
-  margin: 0;
-  height: 100vh;
-  background: white;
-  position: relative;
-}
-
-	a {
-color: #2a72af;
-}
-
-	a:visited {
-color: #e32321;
-}
-
-	h1 {
-	color: #2a72af;
-	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
-	font-weight: 900;
-}
-
-	h2 {
-	color: #2a72af;
-	font-family: 'Kabel', sans-serif;
-	font-size: 1.5em;
-	font-weight: 900;
-}
-
-	h3 {
-	color: #2a72af;
-	font-family: 'Kabel', sans-serif;
-	font-size: 1.25em;
-	font-weight: 900;
-}
-  
-  
-
-
-.expanded {
-	text-align: center;
-	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
-	font-weight: 900;
-	line-height: 75%;
-	font-style: normal;
-	color: #F14347;
-}
-
-.CFP-summary {
-  padding: 4px;
-  width: 100%;
-  background-color: #e32321;
-  color: white;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px
-  }
-
-.stream-title {
-  padding: 4px;
-  width: 100%;
-  background-color: #ffd300;
-  color: white; 
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px
-  }
-
-.CFP-title {
-	background-color: black; 
-	}
-
-.CFP-summary:hover {
-  opacity: 0.7;
-  }
-  
-.stream-title:hover {
-  opacity: 0.7;
-  }
-
-.CFP-body {
-	max-width: 1000px;
-	text-align:left;
-	font-size:1rem;
-	margin-left: 40px;
-}
-
-.seminar-title {
-  padding: 4px;
-  width: 100%;
-  background-color: #e32321;
-  color: white;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px;
-  font-size: 1.2rem;
-  }
-  
-.seminar-title:hover {
-  opacity: 0.7;
-  }
-
-.workshop-title {
-  padding: 4px;
-  width: 100%;
-  background-color: #e32321;
-  color: white;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px
-  }
-  
-.workshop-title:hover {
-  opacity: 0.7;
-  }
   
 </style>
+
 
 <body>
  
@@ -151,18 +29,16 @@ color: #e32321;
 <!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
 
 
-<div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image:  url(/conference/MSA2027/assets/header_white_banner.png);">
-    <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #e32321; text-shadow: 4px 4px 4px rgb(0, 0, 0);">      
-		  Events       
-	  </h1> 
-	</div>
+<p></p>
+	<img src="/conference/MSA2027/assets/hero.jpg"
+		style="width= 100%; height: auto; box-shadow: 0 0 16px 16px #050505 inset;">
+<p></p>
+
+<div style="font-size: .5rem; color: #9a968c; text-align: right;">
+	after François Bucher / Josef Albers, "Despite Straight Lines"
 </div>
 
-<div style="font-size: .5rem; text-align: right;">
-	Image drawn from Josef Albers' "Steps" (1932)
-</div>
+<p></p>
 
 <p>
 Please  use our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a> to sign up for the special events listed on this page.
