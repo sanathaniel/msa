@@ -9,6 +9,18 @@ sidebar:
 <!-- #BeginEditable "content"
 -->
 
+
+<p>
+The call for Book Prize nominations is now closed. Please visit our shortlists to see this year's excellent selections.
+</p>
+
+<p>General queries about the prizes can be emailed to <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney</a>, MSA Second-Vice President.</p>
+
+<p></p>
+
+
+
+
 <!--
 
 <h1>MSA Book Prizes</h1>
@@ -16,6 +28,8 @@ sidebar:
 <p><strong>Submissions for this year’s awards are now closed.</strong> The shortlist and winners will be announced in the fall of 2025. We will celebrate the winning and shortlisted titles at the opening reception of our annual conference.</p>
 
 -->
+
+<!--
 
 <h1>MSA Essay Prize for Contingent and Independent Scholars</h1>
 
