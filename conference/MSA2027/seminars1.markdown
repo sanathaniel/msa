@@ -1,9 +1,9 @@
 ---
-layout: 27conference
+layout: 27conference-hub
 permalink: /conference/MSA2027/seminars1/
 sidebar:
   - title: ""
-    image: conference/MSA2027/assets/albers_thumb.png
+    image: conference/MSA2027/assets/msa_fsu.png
   - nav: conf_nav_27
 masthead: false
 footer: false
@@ -11,133 +11,11 @@ footer: false
 
 <head>
 
-<link href="https://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
+</head>
 
 <style>
 
-@import url('https://fonts.cdnfonts.com/css/kabel');
 
-body {
-  font-family: Arial, sans-serif;
-  color: black;
-  margin: 0;
-  height: 100vh;
-  background: white;
-  position: relative;
-}
-
-	a {
-color: #2a72af;
-}
-
-	a:visited {
-color: #e32321;
-}
-
-	h1 {
-	color: #2a72af;
-	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
-	font-weight: 900;
-}
-
-	h2 {
-	color: #2a72af;
-	font-family: 'Kabel', sans-serif;
-	font-size: 1.5em;
-	font-weight: 900;
-}
-
-	h3 {
-	color: #2a72af;
-	font-family: 'Kabel', sans-serif;
-	font-size: 1.25em;
-	font-weight: 900;
-}
-  
-
-
-.expanded {
-	text-align: center;
-	font-family: 'Kabel', sans-serif;
-	font-size: 2em;
-	font-weight: 900;
-	line-height: 75%;
-	font-style: normal;
-	color: #F14347;
-}
-
-.CFP-summary {
-  padding: 4px;
-  width: 100%;
-  background-color: #e32321;
-  color: white;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px
-  }
-
-.stream-title {
-  padding: 4px;
-  width: 100%;
-  background-color: #ffd300;
-  color: white; 
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px
-  }
-
-.CFP-title {
-	background-color: black; 
-	}
-
-.CFP-summary:hover {
-  opacity: 0.7;
-  }
-  
-.stream-title:hover {
-  opacity: 0.7;
-  }
-
-.CFP-body {
-	max-width: 1000px;
-	text-align:left;
-	font-size:1rem;
-	margin-left: 40px;
-}
-
-.seminar-title {
-  padding: 4px;
-  width: 100%;
-  background-color: #e32321;
-  color: white;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px;
-  font-size: 1.2rem;
-  }
-  
-.seminar-title:hover {
-  opacity: 0.7;
-  }
-
-.workshop-title {
-  padding: 4px;
-  width: 100%;
-  background-color: #e32321;
-  color: white;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  margin-bottom: 10px
-  }
-  
-.workshop-title:hover {
-  opacity: 0.7;
-  }
   
 </style>
 
@@ -149,59 +27,57 @@ color: #e32321;
 <!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
 
 
-<div class="page__hero--overlay" 
-  style="background-color: #000; color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; background-image: url(/conference/MSA2027/assets/header_white_banner.png);">
-    <div class="wrapper">
-	  <h1 id="page-title" class="page__title" itemprop="headline" style="color: #e32321; text-shadow: 4px 4px 4px rgb(0, 0, 0);">       
-		  Seminars       
-	  </h1> 
-	</div>
+<div>
+	<p>
+		<img src="/conference/MSA2027/assets/hero.jpg"
+			style="width= 100%; height: auto; box-shadow: 0 0 8px 8px #050505 inset;">
+	<p> 
 </div>
 
-<div style="font-size: .5rem; text-align: right;">
-	Image drawn from Josef Albers' "Steps" (1932)
+<div style="font-size: .5rem; color: #9a968c; text-align: right;">
+	striped steps after François Bucher / Josef Albers, Despite Straight Lines
 </div>
 
- <p></p>
+<h1>
+SEMINARS
+</h1>
 
-<p>During the registration process, you will have the opportunity to select a seminar should you wish to participate in one (seminar titles and descriptions are listed below). In advance of the seminar meeting at MSA, participants produce short papers in response to the seminar topic description and share them with the entire group through whatever mechanism the seminar leaders devise. All participants are to read all of the participants’ papers—a process that aims to ensure careful and significant dialogue on the topic. Seminars take place at MSA in blocks of two hours and thirty minutes. Typically, the first two hours are devoted to specific discussion of the topic by seminar participants and the final thirty minutes allow room for questions, general discussion, and/or participation of auditors, if relevant. </p>
+<hr style="border: 0; border-top: 1px rgba(242,240,234,0.14);">
 
-<!--
-<strong>This year, rather than selecting a seminar as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong>
--->
+<h1>
+HOW A SEMINAR WORKS</h1>
 
-<p></p>
+During registration you may select a seminar. In advance of the meeting, participants write short papers in response to the topic and circulate them to the group by whatever method the leaders set. Everyone reads everyone else’s work. The point is a careful conversation, not a stack of unread talks.
 
-<h1><strong>ROLES: SEMINAR LEADERS and INVITED PARTICIPANTS</strong></h1>
+Seminars run two hours and thirty minutes. The first two hours belong to the participants; the last thirty minutes open to questions, general discussion, and auditors if the leaders have allowed them.
 
-<p>Seminars are led by anywhere between one and three leaders who have some experience or knowledge foundational to the seminar topic, and who can represent different professional stages or institutional statuses.</p>
-<p>Some seminar leaders choose to invite a few people to join a seminar in some special role—usually scholars with special interest or expertise in the topic. It is entirely up to seminar leaders whether to exercise this option or not. All seminar leaders are welcome to invite up to two invited participants and can determine their precise role. Seminar organizers are, however, strongly urged to require invited participants to produce papers or prepare responses for the seminar in order to feed the dialogue of the seminar and to make the best use of everyone’s time.</p>
-<p>Seminars function best when they foster considered, sustained intellectual dialogue anchored in the work that seminar participants circulate in advance and a lively conversation among peers during the seminar itself. Repeated experience suggests that seminars also function best when all participants, with the exception of the seminar leader(s), produce fresh, written work for the occasion.</p>
-<p>The MSA encourages seminar leaders to discuss with invited participants the role they will play in the seminar in the earliest stages of the planning process.</p>
+<h1><LEADERS AND INVITED PARTICIPANTS</h1>
 
-<p></p>
+A seminar has one to three leaders with some claim on the topic, ideally across professional stages. Leaders may invite up to two people in a special role. They are urged to ask those guests for a paper or a prepared response so the hour is not ornamental.
 
-<h1><strong>AUDITORS</strong></h1>
+Seminars work when the talk stays anchored in the writing circulated beforehand, and when the leader acts as a facilitator among peers rather than an instructor. No one should dominate. Every submission should get attention.
 
-<p>Seminars are limited to a set number of participants. By default, auditors are NOT permitted; seminar leaders may, however, choose to allow auditors but must inform the conference organizers.</p>
+<h1><AUDITORS</h1>
 
-<p></p>
+Numbers are capped. Auditors are not permitted by default. Leaders who want them must tell the conference organizers.
 
-<h1><strong>PRE-CONFERENCE GUIDELINES</strong></h1>
+<h1><BEFORE THE CONFERENCE</h1>
 
-<p>Seminar leaders should set firm guidelines for each seminar from their first or second contact with seminar participants. These should include, <strong>at a minimum:</strong></p>
+Leaders should set rules in the first or second message to the group, including at a minimum:
+
 <ul>
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
 </ul>
-<p><strong>Other guidelines</strong>  are up to individual leaders and can lend seminars their unique styles. In the past, some leaders have provided a list of recommended readings and/or a list of questions the group should consider. Some have assigned participants to generate detailed critiques of each other’s work in pairs or small groups, in addition to all of the participants reading each other’s work. Leaders have also given specific paper guidelines guiding content (encouraging or discouraging textual, theoretical, or methodological analysis, e.g.).</p>
 
-<h1><strong>CONFERENCE GUIDELINES</strong></h1>
+Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.
 
-<p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
+<hr style="border: 0; border-top: 1px rgba(242,240,234,0.14);">
 
-<h1><strong>SEMINARS</strong></h1>
+<h1>THE LIST</h1>
+
+Twenty-seven seminars. Open an entry for leaders and the call; the official text remains on the Association site.
 
 <details closed>
 	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing</summary>
@@ -687,5 +563,20 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 			</p>
 		</div>
 </details>	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
