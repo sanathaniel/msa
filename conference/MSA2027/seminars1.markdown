@@ -27,22 +27,22 @@ footer: false
 <!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
 
 
-<div>
-	<p>
-		<img src="/conference/MSA2027/assets/hero.jpg"
-			style="width= 100%; height: auto; box-shadow: 0 0 8px 8px #050505 inset;">
-	<p> 
-</div>
+<p></p>
+	<img src="/conference/MSA2027/assets/hero.jpg"
+		style="width= 100%; height: auto; box-shadow: 0 0 8px 8px #050505 inset;">
+<p></p>
 
 <div style="font-size: .5rem; color: #9a968c; text-align: right;">
 	striped steps after François Bucher / Josef Albers, Despite Straight Lines
 </div>
 
+<p></p>
+
 <h1>
 SEMINARS
 </h1>
 
-<hr style="border: 0; border-top: 1px rgba(242,240,234,0.14);">
+<hr style="border: 1px rgba(242,240,234,0.14);">
 
 <h1>
 HOW A SEMINAR WORKS</h1>
@@ -51,33 +51,33 @@ During registration you may select a seminar. In advance of the meeting, partici
 
 Seminars run two hours and thirty minutes. The first two hours belong to the participants; the last thirty minutes open to questions, general discussion, and auditors if the leaders have allowed them.
 
-<h1><LEADERS AND INVITED PARTICIPANTS</h1>
+<h1>LEADERS AND INVITED PARTICIPANTS</h1>
 
 A seminar has one to three leaders with some claim on the topic, ideally across professional stages. Leaders may invite up to two people in a special role. They are urged to ask those guests for a paper or a prepared response so the hour is not ornamental.
 
 Seminars work when the talk stays anchored in the writing circulated beforehand, and when the leader acts as a facilitator among peers rather than an instructor. No one should dominate. Every submission should get attention.
 
-<h1><AUDITORS</h1>
+<h1>AUDITORS</h1>
 
 Numbers are capped. Auditors are not permitted by default. Leaders who want them must tell the conference organizers.
 
-<h1><BEFORE THE CONFERENCE</h1>
+<h1>BEFORE THE CONFERENCE</h1>
 
 Leaders should set rules in the first or second message to the group, including at a minimum:
 
-<ul>
+<ol type="1" style="color: #9a968c">
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
-</ul>
+</ol>
 
 Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.
 
-<hr style="border: 0; border-top: 1px rgba(242,240,234,0.14);">
+<hr style="border: 1px rgba(242,240,234,0.14);">
 
 <h1>THE LIST</h1>
 
-Twenty-seven seminars. Open an entry for leaders and the call; the official text remains on the Association site.
+<p>Twenty-seven seminars. Open an entry for leaders and the call; the official text remains on the Association site.</p>
 
 <details closed>
 	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing</summary>
@@ -137,7 +137,7 @@ Bringing together educators and scholars who work across film, literature, digit
 <p>Guiding questions to consider:</p>
 
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>How can assignments embody the experimental or uncanny qualities of modernism?
 		</li>
 		<li>What happens when students become media makers rather than passive viewers?
@@ -146,7 +146,7 @@ Bringing together educators and scholars who work across film, literature, digit
 		</li>
 		<li>What ethical or affective challenges arise when teaching “weirdness” as method?
 		</li>
-	</ul>
+	</ol>
 </p>
 			
 Participants will circulate a brief teaching artifact, such as a syllabus excerpt, assignment prompt, in-class activity, multimodal exercise, or other pedagogical material, accompanied by a short (300–500 word) reflective statement that situates the artifact within their broader approach to teaching film and media. These materials are intended to highlight concrete classroom practices and creative experiments that might model modernism’s weirdness in pedagogical form. Our discussion will map shared concerns across these teaching materials, consider issues of accessibility and assessment, and envision collaborative frameworks for expanding experimental, media-rich approaches to teaching film and modernism.
@@ -306,7 +306,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			<p>Allegory has long been a familiar critical strategy to ward off the strangeness of modernist art. We seek papers on resistances to allegory. Where allegory is a privileged form of making sense—or, put otherwise, a time-honored form of explaining away—how might the weird name forms of modernist production and reception that refuse allegorical assimilation? Does the weird dis-arrange Rancière’s distribution of the sensible? Is Walter Benjamin’s theory of allegory weird enough? We are interested in thinking together about how critics, readers, and audiences have assimilated what should resist assimilation, and the possibilities of nevertheless finding critical languages for the unassimilable, languages which do not revert to familiar forms of allegoresis. Participants may find instructive Angus Fletcher’s <i>1964 Allegory: The Theory of a Symbolic Mode</i>, and in particular its appendix on “Illustrations.” The Symbolist and Surrealist paintings of Redon, Moreau, Ernst, Delvaux, and de Chirico occasion Fletcher’s claim that all surrealist elements throughout the history of Western painting are allegorical; their “odds and ends” and “discontinuity” create effects of <i>allegorical</i> “enigma.” The seminar seeks out modernist enigmas that might resist rather than illustrate allegory.
 			</p>
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>Formal resistance to allegorical closure;
 		</li>
 		<li>Historical performance in theater, dance, or other genres which frustrates the allegorical impulse;
@@ -327,7 +327,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Surface reading, and other critical languages for the anti-allegorical, as weirdly modernist
 		</li>
-	</ul>
+	</ol>
 </p>							
 			
 <p>Participants will pre-circulate papers of about five pages: these papers will be the basis of our in-person seminar. We are open to alternative forms of criticism.</p>		
@@ -355,7 +355,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Perhaps, though, we find in modernism’s insurgent spirit early signs of being weirded out by the growth paradigm. How might modernism have rethought what socially necessary and unnecessary production entails? This Modernism & Environment SIG-sponsored seminar invites participants to consider modernism’s relationship to the degrowth movement and thought by considering how modernist texts experiment with, resist, or critique modernity’s paradigms of growth and development. Topics might include:
 			</p>
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>bildungsroman and narrative structures of growth
 		</li>
 		<li>maximalist vs. minimalist aesthetics
@@ -372,14 +372,14 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>19th century science of social energetics
 		</li>
-	</ul>
+	</ol>
 </p>				
 			
 <p>We are interested in papers of all forms: works in progress, position-papers, notes from the field, methodological reflections, teaching ideas, plans for community engagement projects, manifestos, manuals for everyday action, and so on. As with previous SIG seminars, our goal is to open a space for collaborative discussion, resource-sharing, and community-building around how modernist studies can contribute to broader efforts to renovate, defend, repair, critically reinhabit, or propose alternatives to the paradigms we’ve inherited.</p>
 <p>Suggested Reading:</p>
 
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>Kohei Saito, <i>Slow Down: A Degrowth Manifesto</i> (Astra House 2024)
 		</li>
 		<li>Jason Hickel, “On Technology and Degrowth,” Monthly Review 75: 3 (July-August 2023)
@@ -392,7 +392,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Jason Moore, <i>Capitalism in the Web of Life: Ecology and the Accumulation of Capital</i> (Verso 2015)
 		</li>
-	</ul>
+	</ol>
 </p>			
 			
 		</div>
@@ -446,7 +446,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Participants will contribute to an interdisciplinary conversation analyzing occult, spiritual, or religious–aka “weird”–conceptions of belonging that were advanced through a range of modernist practices, including: experiments in automatic writing; composition of synaesthetic music; photographic, lithographic, sculptural, and painterly abstraction; and designing immersive environments. We welcome position papers, 5-7 pages in length, that advance new methods and approaches for analyzing the stakes of weird invocations of the globe. Papers could be anchored in a range of subjects, including the study of:
 			</p>
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>techniques of askesis and ekstasis
 		</li>
 		<li>poetics of affiliation and fellowship across creatures
@@ -457,7 +457,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>noncausal narratives and accounts of consciousness
 		</li>
-	</ul>
+	</ol>
 </p>						
 			
 			
@@ -489,7 +489,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			<p>Feminist, queer, and trans scholarship has often worked to revise and expand the canon, and proffered ways to reread and rethink even the most canonical of texts. After all, as Eve Sedgwick advised us thirty-five years ago in Epistemology of the Closet, “the relationship of gay studies to the canon is, and had best be, tortuous.” This axiom is no less applicable to modernist studies, where scholars of anti- or non-canonical modernisms have often found themselves classified as doing modernism otherwise, always with an adjective appended (new, bad, weak, global, etc). The “weird” opens up another way of thinking against the mainstream of modernist studies, and we take it as a call not only to be attuned to the innate weirdness of texts themselves, but also to texts that are weirdly-suited to the ways we have come to understand modernism (perhaps even, in some cases, because their work is “not weird enough”). We invite papers that bring feminist, queer, and trans approaches to non-canonical modernist figures, texts, and objects, and are especially interested in papers focusing on:</p>
 			
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>Underread or under-studied authors
 		</li>
 		<li>Authors whose work is out of print, or has not been translated into English
@@ -498,7 +498,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Authors whose work is contemporaneous to, but rarely considered part of, modernism
 		</li>
-	</ul>
+	</ol>
 </p>			
 			
 		</div>
@@ -514,7 +514,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>We particularly welcome contributions that explore:</p>
 
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>Print and publication networks: magazines, anthologies, and presses that shaped or escaped Harlem’s orbit.
 		</li>
 		<li>Editorial and epistolary circulation: correspondence, editorial exchange, and literary friendship as engines of modernist production.
@@ -525,7 +525,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Archival reconsiderations: new readings of circulation—through fragments, reprints, and rediscovered periodicals—as modes of survival and influence.
 		</li>
-	</ul>
+	</ol>
 </p>
 
 <p>By centering circulation as both method and metaphor, this cluster asks: what happens when we follow the Renaissance in motion?</p>			
@@ -540,7 +540,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 
 The seminar invites papers that examine how modernism engages with the Byzantine Empire across different national and cultural contexts, media and genres, and which offer transnational or comparative perspectives on this underexplored relationship.</p>
 <p>
-	<ul>
+	<ol type="1" style="color: #9a968c">
 		<li>How did cultural materials related to the Byzantine Empire circulate within literary and artistic circles?
 		</li>
 		<li>What connections can be drawn between the rise in interest in the Byzantine Empire during the 19thc and the emergence of decadent literature?
@@ -553,7 +553,7 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 		</li>
 		<li>What contemporary artistic works reflect the influence of both Byzantine traditions and modernist aesthetics?
 		</li>
-	</ul>
+	</ol>
 </p>
 			<p>We call for brief position papers (5-7 pages) on any work (including work in progress) that engages with modernism and Byzantium. Papers will be pre-circulated. We will match participants and ask each attendee to respond to one paper.</p>
 
