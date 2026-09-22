@@ -53,12 +53,13 @@ font-weight: 700;
 font-style: normal;
 }
 
-.nav__items a {
-    color: #9a968c;
-}
-
-.nav__items a:hover {
-    color: #f2f0ea;
+.sticky-nav-bar {
+	a {
+		color: #9a968c;
+		a:hover {
+			color: #f2f0ea;
+		}
+	}
 }
 
 	a {
@@ -69,6 +70,50 @@ color: #9a968c;
 color: #f2f0ea;
 }
 
+.seminar-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #050505;
+  color: #f2f0ea;
+  border: 1px solid #e8e4dc;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  }
+  
+.seminar-title:hover {
+  color:#f2f0ea24;
+  }
+
+.workshop-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #050505;
+  color: #f2f0ea;
+  border: 1px solid #e8e4dc;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  }
+  
+.workshop-title:hover {
+  color:#f2f0ea24;
+  }
+  
+.stream-title {
+  padding: 4px;
+  width: 100%;
+  background-color: #050505;
+  color: #f2f0ea;
+  border: 1px solid #e8e4dc;
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  }
+  
+.stream-title:hover {
+  color:#f2f0ea24;
+  }
 
   
 </style>
@@ -91,7 +136,7 @@ color: #f2f0ea;
 
 <div id="main" role="main">
 
-<div style="background-color:fcf0d8; color:#2dbae7;"> 
+<div class="sticky-nav-bar"> 
   {% include sidebar.html %}
 </div>
 
