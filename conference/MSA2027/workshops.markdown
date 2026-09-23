@@ -38,6 +38,15 @@ footer: false
 </div>
 
 
+
+<h1>
+WORKSHOPS
+</h1>
+
+<hr style="height: 1px; color: #f2f0ea;">
+
+
+
 <p></p>
 <p>The Modernist Studies Association is pleased to offer the following workshops during the Loughborough 2026 conference. </p>
 <p></p>

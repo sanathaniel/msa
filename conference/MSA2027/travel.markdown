@@ -39,6 +39,15 @@ footer: false
 
 <p></p>
 
+
+<h1>
+TRAVEL
+</h1>
+
+<hr style="height: 1px; color: #f2f0ea;">
+
+
+
 <!--
 <p>
 Travel coming April 2026.
@@ -57,10 +66,6 @@ Travel coming April 2026.
 	</li>
 </ul>
  
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
  
 <h2 id="travel">Getting to Loughborough University  </h2>
 
@@ -138,12 +143,6 @@ Maps, directions and more information on moving between and around the various c
 	<li>Full address and more travel details for The Link Hotel can be found here.</li>
 </ul>
 
-
- <p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
- 
 <h2 id="hotels">Conference Hotels </h2>
 
 Hotel bookings via the online conference store are now closed. 
@@ -160,11 +159,6 @@ However, the number of rooms available are limited so delegates may need to arra
 -->
 
 There are several other hotel options available in the town centre and in the surrounding areas. More information is below.
-
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
 
 <h2>Other Accommodation Options</h2>
 
@@ -231,11 +225,6 @@ Loughborough is surrounded by beautiful countryside and several small villages. 
 	<li><a href="https://queensheadbelton.co.uk/">https://queensheadbelton.co.uk/</a> (15 mins drive from conference venue)</li>
 </ul>
 
-
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
 
 <h2 id="town">Attractions</h2>
 
