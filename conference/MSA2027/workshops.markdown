@@ -34,7 +34,7 @@ footer: false
 <p></p>
 
 <div style="font-size: .5rem; color: #9a968c; text-align: right;">
-	after François Bucher / Josef Albers, "Despite Straight Lines"
+	François Bucher / Josef Albers, "Despite Straight Lines"
 </div>
 
 
