@@ -8,9 +8,9 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
-<!--
+
 <p>The Modernist Studies Association is excited to announce its short list for
-	the MSA Translation Book Prize for a book published in 2022 or 2023. Many congratulations to everyone who published books last year and to the
+	the MSA Translation Book Prize for a book published in 2024 or 2025. Many congratulations to everyone who published books last year and to the
 	finalists below. The winner will be announced at the MSA conference
 	this fall.
 </p>
@@ -18,103 +18,92 @@ sidebar:
 	
 <h1>2024 Book Prize Shortlist: Translation</h1>
 
+
+<!-- FIRST NOMINEE -->
+
+
+<p>
+	<img src="https://minnesota-us.imgix.net/covers/9781517919689.jpg?auto=format&w=298&dpr=1&q=100"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>WINNER: Maria Janion, <a href="https://www.upress.umn.edu/9781517919689/the-bad-child/">The Bad Child: A Maria Janion Reader</a> translated from Polish by Marta Figlerowicz (University of Minnesota Press, 2025)
+</p></strong>
+
+<p>
+An English translation of Maria Janion’s critical writings is long overdue, and Marta Figlerowicz has done a particularly excellent job in selecting, translating, and annotating this reader. Vital in Slavic Studies, Janion’s work is also of broader interest for complicating simplistic East/West binaries, departing from the tradition of Polish liberal emigré thought by critiquing the ideals of individualism and ironic detachment, and seeking to recuperate a culturally rooted socialism that would not feed nationalist fantasy. Meditating on the cultural hybridity that emerges from Poland’s liminal position in Europe, Janion’s writing weaves together reflections on repressed histories and collective trauma, pop culture, and desire. Figlerowicz has assembled an appealingly wide-ranging collection in both topic and form (a book excerpt, essays, and interviews), an inviting introduction to Janion’s work.
+</p>
+
+
+<!-- SECOND NOMINEE -->
+
+
+<p>
+	<img src="https://libraries.clemson.edu/press/wp-content/uploads/sites/3/2024/02/CUPRESS_Spine-S_Co.png"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Ramon Gomez de la Serna, <a href="hhttps://libraries.clemson.edu/press/books/morbidities-and-the-concept-of-the-new-literature/">The Morbidities and “The Concept of the New Literature,"</a> translated from Spanish by Nicolas Fernandez-Medina (Clemson University Press, 2024)
+</p></strong>
+
+<p>
+Nicolás Fernández-Medina’s rigorous introduction to and lucid translations of Gomez de la Serna’s experimental autobiography and literary manifesto bring two foundational works of Spanish literature to an Anglophone readership in complete form for the first time. Witty and sophisticated, Gomez de la Serna’s autobiography reflects on the image of the writer and absurdities of modern life, while his manifesto outlines a revolutionary path for world literary aesthetics. Fernandez-Medina’s elegant translation places Gomez de la Serna’s work at the forefront of global avant-garde and modernist innovation.
+
+</p>
+
+
+<!-- THIRD NOMINEE -->
+
+
+<p>
+	<img src="https://media.wiley.com/product_data/coverImage300/26/15095607/1509560726.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Ailton Krenak, <a href="https://www.politybooks.com/bookdetail?book_slug=ancestral-future--9781509560721">Ancestral Future, </a> edited by Rita Carelli, translated from Portuguese by Alex Brostoff and Jamille Pinheiro Dias (Polity Press, 2024)
+</p></strong>
+
+<p>
+<i>Ancestral Future</i> is a pithy and lucid work that shares with English readers the long struggle of the Indigenous Awakening Movement for civil rights. In addition to documenting the speeches of the renowned indigenous Brazilian thinker and activist Ailton Krenak, the book offers the possibility of alternative inclusive worldviews beyond the rigid perspective of global capital. As a translated work, <i>Ancestral Future</i> endeavors to question the task of the translator by embodying Krenak’s own philosophical vision, wherein the translated text emerges as a middle space that celebrates the equal partnership among speaker, editor and translators and acknowledges their worldviews.
+
+</p>
+
+
+<!-- FOURTH NOMINEE -->
+
+<!--
+<hr />
+
+<p><strong>Nominating Committee:</strong> Christos Hadjiyiannis, University of Regensberg 
+(Chair), María del Pilar Blanco, University of Oxford, Harris Feinsod, Johns 
+Hopkins University</p>							
 -->
 
-
-
+<hr />
 <h1>About</h1>
-<p>Every other year, the Modernist Studies Association seeks nominations for
-	its Translation Prize, awarded to a book published in the
-	previous two years. A panel of judges determines the book that made the
-	most significant contribution to modernist studies.<br />
-<p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2026 to recommend a book(published in 2024 or 2025). Visit our <a href="/prizes/previous-winners/"
-		>Archive</a> to see previous winners.</p>
-		
+<p>Every other year, the Modernist Studies Association seeks nominations
+	for its Translation Prize, awarded to a
+	work published in the previous two years. A panel of judges
+	determines the work that made the most significant contribution to
+	modernist studies. A book first published in another year will not
+	be eligible for the prize. This exclusion applies even if a new
+	edition (paperback or revised, for example) was published in the
+	award year. 
+<p>Please visit our <a href="/prize/nominate.html">Nominations</a> in
+	spring 2028 to recommend a book for the next prize (for books
+	published in 2025 and 2026). Visit our <a
+		href="/prize/archive.html">Archive</a> to see previous
+	winners.</p>
+	
+
+
+
 <!--
 <p>The Modernist Studies Association has announced its short list for
 	the 2023 MSA Book Prize for an Edition, Anthology, or Essay
 	Collection published in 2021 or 2022. We offer our congratulations
 	to all of the finalists. This prize is awarded every other year.</p>
 	
-<!-- FIRST NOMINEE -->
-
-<!--
-
-<p>
-	<img src="https://images.squarespace-cdn.com/content/v1/5490c4c7e4b0518046d7a6c3/1671044953924-QH60QZNY0CRR5ONA06L9/A+Book+Untitled+Cover.png?format=500w"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
-<p> 
-
-<strong><p>WINNER: Shushan Avagyan, <a href="https://awst-press.com/shop/a-book-untitled">A Book, Untitled, translated from Armenian by Deanna 
-Cachoian-Schanz</a> (AWST Press, 2023)</p></strong>
-
-<p>
-Written as a literary experiment, <em>A Book, Untitled</em> puts Armenian modernist writers in a world beyond their native literary landscape, populated by such contemporaries as Marina Tsvetaeva, Gertrude Stein, and Virginia Woolf. As the reader navigates 26.5 chapters of seemingly unrelated vignettes in disparate and unidentified voices, they discover that Avagyan, while writing the novel as a translator’s diary, is also mapping out a larger archival or archaeological site: an imagined encounter between two literary giants of the twentieth century, Shushanik Kurghinian and Zabel Yesayan, whose legacies had been censored by the Tsarist and Stalinist regimes. The imagined encounter between these two authors in 1926 is juxtaposed with a contemporary conversation between the novel’s unnamed narrator—an archivist and translator referred to as the “typist/writer”—and her friend Lara, who are both piecing together their feminist predecessors' fragmented stories.
-</p>
-
--->
-
-<!-- SECOND NOMINEE -->
-
-<!--
-
-<p>
-	<img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674271012.png?fm=jpg&q=80&fit=max&w=600"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>Marcel Proust, <a href="https://www.hup.harvard.edu/books/9780674271012">The Seventy-Five Folios and Other Unpublished Manuscripts, 
-translated from French by Sam Taylor</a> (Harvard University Press, 2023)</p></strong>
-
-<p>
-Presented for the first time in English, the recently discovered early manuscripts of the twentieth century’s most towering literary figure offer uncanny glimpses of his emerging genius and the creation of his masterpiece. One of the most significant literary events of the century, the discovery of manuscript pages containing early drafts of Marcel Proust’s <em>In Search of Lost Time</em> put an end to a decades-long search for the Proustian grail. The Paris publisher Bernard de Fallois claimed to have viewed the folios, but doubts about their existence emerged when none appeared in the Proust manuscripts bequeathed to the Bibliothèque Nationale in 1962. The texts had in fact been hidden among Fallois’s private papers, where they were found upon his death in 2018. <em>The Seventy-Five Folios and Other Unpublished Manuscripts</em> presents these folios here for the first time in English, along with seventeen other brief unpublished texts. Extensive commentary and notes by the Proust scholar Nathalie Mauriac Dyer offer insightful critical analysis.
-</p>
-
--->
-
-<!-- THIRD NOMINEE -->
-
-<!--
-
-<p>
-	<img src="https://northwest-press-us.imgix.net/covers/9780810144392.jpg?auto=format&w=298&dpr=1&q=20"
-		style="margin:1em" alt="" width="100" height="150" align="left" />
-<p> 
-
-<strong><p>Fradl Shtok, <a href="https://nupress.northwestern.edu/9780810144392/from-the-jewish-provinces/">From the Jewish Provinces: Selected Stories, translated from 
-Yiddish by Jordan Finkin and Allison Schachter</a> (Northwestern University 
-Press, 2022)</p></strong>
-
-<p>
-The translation of Fradl Shtok’s From the <em>Jewish Provinces</em> revives a nearly forgotten collection of Yiddish modernist masterpieces. Shtok’s collection of short stories represents one of the only known volumes of Yiddish modernist short fiction authored by a woman. In sophisticated prose, the stories describe the travails of young women looking for love and desire in a world that spurns them. These young Jewish women struggle with disabled bodies, sexual violence, and unwanted marriage. Some strive to imagine themselves as artists, while others lose themselves in fantasy worlds or look with desperate longing at the non-Jewish men that surround them. Through deft portraits of her characters’ inner worlds Shtok gives us access to unglimpsed corners of the Jewish imagination. The translation intervenes in the literary history of Yiddish prose to show women’s active participation in modernist experimentation.
-</p>
-
--->
-
-<!-- FOURTH NOMINEE -->
-
-<!--
-
-<p>
-	<img src="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg"
-		style="margin:1em" alt="" width="100" height="150" align="right" />
-<p> 
-
-<strong><p>Murathan Mungan, <a href="https://df83e96a84d8529ac3a1-b14d7eeab70e892e89289d791c854243.ssl.cf2.rackcdn.com/s/1/1647026527/northwest_298W/3715.jpg">Valor: Stories, translated from Turkish by Aron Aji and 
-David Gramling</a> (Northwestern University Press, 2022)</p></strong>
-
-<p>
-Among the array of Turkish literature available in English, one of the most glaring gaps is the work of Murathan Mungan (b. 1955), author of over sixty books--of poetry, fiction, plays, screenplays and essays--produced in the course of a forty-year writing career. To date, only a handful of his poems and short fiction have appeared in English (many in Aji’s and Gramling’s own co-translations), and no book-length work had been translated yet until <em>Valor. Cenk Hikayeleri/Valor</em> (1986) has long been considered by Turkish critics as a milestone of modern Turkish literature deserving of international reception. <em>Valor</em> reflects most vividly the author’s multi-ethnic, Kurdish-Arab-Turkish background, and represents his lush poetics, literary breadth, and his enduring sociopolitical commitments.
-</p>
-
-<hr />
-
-<p><strong>Nominating Committee:</strong> Christos Hadjiyiannis, University of Regensberg 
-(Chair), María del Pilar Blanco, University of Oxford, Harris Feinsod, Johns 
-Hopkins University</p>							
-
-<hr />
 
 -->	
 	
