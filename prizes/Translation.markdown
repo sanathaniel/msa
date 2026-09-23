@@ -16,7 +16,7 @@ sidebar:
 </p>
 
 	
-<h1>2024 Book Prize Shortlist: Translation</h1>
+<h1>2026 Book Prize Shortlist: Translation</h1>
 
 
 <!-- FIRST NOMINEE -->
