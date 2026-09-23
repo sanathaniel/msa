@@ -17,25 +17,27 @@ sidebar:
 <!-- FIRST NOMINEE -->
 
 <p>
-	<img src="https://cup-us.imgix.net/covers/9780231217453.jpg?auto=format&w=350"
+	<img src="https://cup-us.imgix.net/covers/9780231213851.jpg?auto=format&w=350"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>WINNER: Maebh Long and Matthew Hayward, <a href="https://cup.columbia.edu/book/the-rise-of-pacific-literature/9780231217453/">The Rise of Pacific Literature: Decolonization, Radical Campuses, and Modernism</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>WINNER: Aparna Bhargava Dharwadker, <a href="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcup.columbia.edu%2Fbook%2Fcosmo-modernism-and-theater-in-india%2F9780231213851%2F&data=05%7C02%7Ckweingarten%40qc.cuny.edu%7C204f5e0c71614869439f08df18403565%7C6f60f0b35f064e099715989dba8cc7d8%7C0%7C0%7C639256336186197643%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Vki5nCsjBitexV8oLSU0gALfHWlsBnmF9XJPHLf2ZZk%3D&reserved=0">Cosmo-Modernism and Theater in India: Writing and Staging Multilingual Modernisms</a> (Columbia University Press, 2025)</p></strong>
 
 <p>
-In their co-authored <i>The Rise of Pacific Literature</i>, Maebh Long and Matthew Hayward create new approaches to global modernisms by taking us into the classrooms, syllabi, and little magazines that forged a golden age of Oceanic writing. At the newly founded universities of Papua New Guinea and the South Pacific in the 1960s and 70s, the curriculum centered Pacific orality and Indigenous forms, treating modernist techniques as one set of tools among many that students could use to create a distinctive Oceanic literature. With fresh readings of writers including Albert Wendt, Subramani, and Marjorie Crocombe (along with less recognized authors), the book shows how the university—so often tied to reproducing the canon—became a crucible for a radical literary movement. The result is a vivid, collaboratively researched history of the rise of Pacific literature that links Port Moresby and Suva with Kingston, Delhi, and Lagos. Essential reading for scholars of modernism, postcolonial studies, and Indigenous literary futures.
+Refining arguments on global and planetary modernisms by focusing on the India’s rich multilingual dramatic tradition, Aparna Bhargava Dharwadker traces the ways prominent mid- to late-twentieth-century playwrights such as Dharamvir Bharati, Vijay Tendulkar and Girish Karnad enacted a break from colonial-era theatrical forms. Her careful attention to the writing, staging and reception of plays shows how playwrights’ negotiations of Indian tradition, precolonial techniques and the postcolonial created new modernist modes of Indian classicism and realism. Her focus on how noncommercial theatre and the constant activity of translation required by regional, national and transnational circulation shines important new light on modernist drama and global modernisms.
+
 </p>
 
 <p>
-	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/83/9780226832678.jpg/jcr:content/9780226832678.jpg"
+	<img src="https://texas-press-us.imgix.net/covers/9781477331408.jpg?auto=format&w=298&dpr=1&q=100"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Elizabeth Abel, <a href="https://press.uchicago.edu/ucp/books/book/chicago/O/bo213064503.html">Odd Affinities: Virginia Woolf’s Shadow Genealogies</a> (University of Chicago Press, 2024)</p></strong>
+<strong><p>Shiben Banerji, <a href="https://press.uchicago.edu/ucp/books/book/chicago/O/bo213064503.html">Lineages of the Global City: Occult Modernism and the Spiritualization of Democracy</a> (University of Texas Press, 2025)</p></strong>
 
 <p> 
-Elizabeth Abel’s compelling, beautifully-written study usefully strays from the traditional pathways and settled canons that have defined Virginia Woolf’s influence on later writers. Abel constructs her conceptual foundation on Woolf’s own terms in <i>Mrs. Dalloway</i>, the “odd affinities” Clarissa senses she has “with people she had never spoken to…even trees, or barns” that offer some solace that after death, the “unseen part of us…might survive,” might be “recovered,” might persist through “haunting certain places after death.” The study’s first half considers the subtle presence of <i>Mrs. Dalloway’s</i> narrative form in the social and aesthetic projects of Nella Larsen and James Baldwin. The second considers <i>To the Lighthouse’s</i> tonal and formal affinities with the European post-World War II elegiac modes of Roland Barthes and W. G. Sebald and offers a new narrative of profound mourning running through twentieth-century European literature. A timely, compulsively readable reimagining of Woolf that opens subversive ways of thinking about literary reception, influence, and genealogy, <i>Odd Affinities</i> is a model for how to make seemingly old critical conversations feel vitally new. 
+In this strikingly original study, Shiben Banerji shows how modernists influenced by esoteric movements planned urban spaces to nurture a new global consciousness. With various occult interests, particularly in Theosophy, designers in Europe and the Americas, Australia and South Asia conceived of urban planning as a counter to the twin threats of international socialism and liberal internationalism. Analyzing the films, drawings, writing and prints comprising city plans, <i>Lineages of the Global City</i> guides us through the fantastic ideals and late-colonial compromises of these interconnected scenes. It is a remarkable book, furthering in unexpected ways the reappraisal of the relationship between modernism and the occult movements of the early twentieth century.
+
 </p>
 
 <!--Second Nominee-->
@@ -43,51 +45,43 @@ Elizabeth Abel’s compelling, beautifully-written study usefully strays from th
 
 
 <p>
-	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/23/9780226234861.jpg/jcr:content/9780226234861.jpg"
+	<img src="https://minnesota-us.imgix.net/covers/9781517914776.jpg?auto=format&w=298&dpr=1&q=100"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Devin Fore, <a href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo218258142.html">Soviet Factography: Reality Without Realism</a> (University of Chicago Press, 2024)</p></strong>
+<strong><p>Kristin Bluemel, <a href="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.upress.umn.edu%2F9781517914776%2Fenchanted-wood%2F&data=05%7C02%7Ckweingarten%40qc.cuny.edu%7C204f5e0c71614869439f08df18403565%7C6f60f0b35f064e099715989dba8cc7d8%7C0%7C0%7C639256336186241295%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hJ2bvVq66xwUvWptRMa6tl1pnQmL3r1W3Ic%2FkcGc2LA%3D&reserved=0">Enchanted Wood: Engraving a Place for Women Artists in Rural Britain</a> (University of Minnesota Press, 2025)</p></strong>
 
 <p>
-A brilliant introduction for the English-speaking world to factography, a 1920s Soviet avant-garde movement and precursor to documentary that set out to register the Revolution’s massive transformation of Russian culture and its citizens. Original, meticulous archival work and a strong theoretical grounding are the impressive twin strengths of <i>Soviet Factography,</i> which conveys a nearly lost historical moment before the rise of documentary formalized practices for depicting reality. This moment combined post-revolutionary zeal with an experimental new media landscape that sought to inscribe and record the present without recourse to the past or concern for the future.  Fore reconstructs the peak of the movement in 1928–1931, when photography, inscription technologies, film, and radio presented the possibility of an immediate experience of contemporary reality that would render artists, aesthetic form, and contemplation obsolete. While Fore does not engage the potentially massive implications of his historical account for our own moment of mass media’s proliferation of disinformation, readers will doubtless recognize echoes between the world Fore presents and our own. 
+<i>Enchanted Wood</i> is visually arresting recovery of the overlooked story of four women wood engravers. These craftswomen flourished during Depression-era British publishing, where they illustrated children’s and adult’s books by reworking Thomas Bewick’s eighteenth-century naturalist print traditions for modern reflections on gender, marriage and motherhood. Providing richly reproduced engravings, drawings and rare colour prints, Kristin Bluemel’s work enables readers to experience the ways these gentle arts facilitated professional standing and personal independence for these women. In so doing she presents Gwen Raverat, Agnes Miller Parker, Clare Leighton, and Joan Hassall as significant modern artists and literary figures.
+
 </p>
 
 
 <p>
-	<img src="https://cup-us.imgix.net/covers/9780231213295.jpg?auto=format&w=350"
+	<img src="https://global.oup.com/academic/covers/pdp/9780198972525"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Maggie Hennefeld, <a href="https://cup.columbia.edu/book/death-by-laughter/9780231213295/">Death by Laughter: Female Hysteria and Early Cinema</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>Kevin Ohi, <a href="https://global.oup.com/academic/product/narrative-personae-and-desire-in-modernist-fiction-9780198972525?cc=us&lang=en&">Narrative Personae and Desire in Modernist Fiction</a> (Oxford University Press, 2025)</p></strong>
 
 <p>
-A study of the late 19th-/early 20th-century archive of hysterical laughter, Maggie Hennefeld’s <i>Death by Laughter</i> weaves together film history, cultural theory and criticism, political critique, and the history of psychotherapy and medical theater. It is a brilliant work of scholarship that is as intellectually rich as it is stylistically sharp—and genuinely funny. Its engagement with gendered and racialized bodies in media and medical history is timely and profound, challenging its readers to reconsider comedy’s affective power and its ethical/political stakes. Hennefeld’s archival work; theoretical insights; as well as her pleasurable curation of cinematic texts and images make <i>Death by Laughter</i> a landmark contribution to feminist film studies. It is a triumph: an impossible-to-put-down account of the politics of humor and the subversive, “madusanal” potential of cinematic excess.
+Kevin Ohi trains a judicious eye on the relationship between narrators and characters in modernist fiction, tracing the emergence of the narrative ‘quasi-person’ as the expression of an all-too-human desire. Resisting both the untechnical treatment of literary characters as ‘real’ subjects and an anti-subjective denial of interiority itself—reading practices that distort modernists’ own conceptions of their literary projects—the book encourages careful reading. It allows us to hear anew the strange narrative voices of canonical modernists such as Virginia Woolf and William Faulkner while encouraging a fresh appraisal of neglected authors including Ronald Firbank and James Purdy, who emerge not only as seminal queer writers but also meticulous narrative stylists. Well-read and beautifully crafted, it celebrates the aesthetic pleasure afforded by close attention to modernist prose.
+
 </p>
 
 
 
-
-<!-- SECOND NOMINEE -->
-
-
-<!-- THIRD NOMINEE -->
-
-
-<!-- FOURTH NOMINEE -->
-
-
-<!-- FIFTH NOMINEE -->
-
 <p>
-	<img src="https://cup-us.imgix.net/covers/9780231212649.jpg?auto=format&w=350"
+	<img src="https://oup.silverchair-cdn.com/oup/backfile/content_public/books/61559/book/1/m_9780198951506.jpeg?Expires=1793163753&Signature=K7BjolHEsIRYBxM7m~WIANFWDqMy5i1WNNfOnpXWZsjxu~ruk-i5Dwkb5Knwsi21bisHdeEwJIbjhWFCLXGlm-I7rppIZ0BPMVjfB29Ck91Aam2FmKsnrvRBg5~OIrEEVaK-fGufujt4jtpOsnPdsOvBGzEk00x~CzWPTaXzzZbw9Apw-fQuWrVJ2Q9ND5l59ElFfOVSxAmUpXjLGMhyhLlXBAuB-AQzeUpYGMfEEutsux0cj-yUIelthsZq9VdpxFdWRLhI50V2tUVUTsPkltx-BFhCru-8UtnUsM3VOvZw5NhnS0HjVt1POq3gEZji8Tc2wJrescK~jn6OAqXHMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Adam McKible, <a href="https://cup.columbia.edu/book/circulating-jim-crow/9780231212649/">Circulating Jim Crow: The Saturday Evening Post and the War Against Black Modernity</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>Anna Snaith, <a href="https://academic.oup.com/book/61559">Writing Noise in Interwar Britain: Literature and the Politics of Sound</a> (Oxford University Press, 2025)
+</p></strong>
 
 <p>
-In a meticulous deep dive into a single influential periodical, Adam McKible shows how the <i>Saturday Evening Post</i> circulated anti-Black racism across a vast American readership. Adam McKible uncovers how George Horace Lorimer and his stable of white authors popularized demeaning dialect fiction that justified segregation and violence, even as Black writers of the Harlem Renaissance—from Paul Laurence Dunbar to W. E. B. Du Bois—exposed and countered this project. In lucid prose and sharp archival research, McKible places popular writers alongside Fitzgerald, Faulkner, and Petry to reveal how the <i>Post</i> normalized white supremacy for millions of readers. A bracing, necessary reappraisal of American modernism, mass culture, and the long fight against Jim Crow.
+Anna Snaith’s brilliant reading of the ‘age of noise’ focuses critical attention on the soundscape of interwar Britain. From the screams of First World War bombs to the harmonics and discords of street performers, from the blaring static of radio sets to the shrill control of industrial sirens, from sonic nationalism to sonic healing, Snaith focuses our attention on modernist writers’ fascination with the cacophony of modernity. Her analyses astutely remind us that close reading is close listening, and as she trains her ear on Virginia Woolf, Elizabeth Bowen, and Dorothy L. Sayers as well as George Orwell and Claude McKay she shows the epistemological shifts that arise when we heed the sounds of the city, as well as the sounds of the sentence.
+
 </p>
 
 <hr />
@@ -110,7 +104,7 @@ Stilling, Florida State University, Philip Tsang, Colorado State University</p>
 	exclusion applies even if a new edition (paperback or revised, for
 	example) was published in the award year.<br />
 <p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2026 to recommend a book(published in 2025). Visit our <a href="/prizes/archive.html"
+	in Spring 2027 to recommend a book(published in 2026). Visit our <a href="/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 	
 	

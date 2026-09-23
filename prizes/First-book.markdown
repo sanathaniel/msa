@@ -20,50 +20,109 @@ sidebar:
 
 <!-- FIRST NOMINEE -->
 <p>
-	<img src="https://www.sup.org/_next/image?url=https%3A%2F%2Fsupress.sites-pro.stanford.edu%2Fsites%2Fsupress%2Ffiles%2Fmedia%2Fcovers%2F32612.jpg&w=640&q=75"
+	<img src="https://cup-us.imgix.net/covers/9780231215947.jpg?auto=format&w=350"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>WINNER: Sonali Thakkar, <a href="https://www.sup.org/books/literary-studies-and-literature/reeducation-race">The Reeducation of Race: Jewishness and the Politics of Antiracism in Postcolonial Thought</a> 
-(Stanford University Press, 2023)</p></strong>
+<strong><p>WINNER: Shir Alon, <a href="https://cup.columbia.edu/book/static-forms/9780231215947/">Static Forms: Writing the Present in the Modern Middle East</a> 
+(Columbia UP, 2025))</p></strong>
 
 <p>
-Sonali Thakkar’s <i>The Reeducation of Race</i> is a sharp, elegantly argued book that moves with precision between the institutional ambitions of UNESCO and the insurgent critiques of anticolonial thinkers. From the bureaucratic optimism of postwar “race education” campaigns to the searing indictments of Frantz Fanon and Aimé Césaire, Thakkar charts a terrain where liberal antiracism and colonial power uneasily coexist. Her argument is as unsettling as it is illuminating: the very pedagogies meant to dismantle racism often reinscribe its logics under the banner of universalism. Drawing on a rich archive of sources and a contrapuntal methodology, Thakkar reframes modernist studies as a global, decolonial project that refuses to smooth over the fractures of race, empire, and solidarity. The result is a book that offers a bold reckoning with the compromises embedded in the history of antiracist education.
+<i>Static Forms</i> is a challenging and evocative study of literary modernity and its variable tempos
+and tenses in Arabic and Hebrew writing. These literatures, Alon contends, have a “parallel
+trajectory,” especially apparent in shared discourses of cultural revival. The tension between
+novelty and literary-cultural inheritance exerts a paradoxical effect on these literatures: their
+modernism expresses distinct “formal solutions [that] emerge in relation to the lived experience
+of the modern present” while also engendering what Alon terms “static forms.” Alon’s chapters
+offers sophisticated theorizations and subtle readings of such forms, which appear as reverb,
+repetition, and other kinds of suspended or compulsive relations to time and action in the work
+of writers including Shmuel Yosef Agnon, Mahmud al-Mas’adi, Sonallah Ibrahim, Yeshayahu
+Koren, and Adania Shibli. In a gripping chapter, Alon brilliantly reads recurring figures of
+scratching and scraping in the work of Fathi Ghanem and Yosef Haim Brenner as critical
+engagements with national imperatives about productivity and settlement. <i>Static Forms</i> is an
+erudite and sensitive work of comparative scholarship, tracing shared developments while
+resisting false equivalences. Alon’s readings are attuned to the ways that her Arabic texts are
+enmeshed in projects of postcolonial nation building and her Hebrew texts implicated in Israeli
+settler colonialism. In the final chapter, on Shibli’s novel <i>Touch</i>, Alon poignantly examines the
+temporality of the suspended present in light of the ongoing Nakba and the condition of
+Palestinian dispossession.
+
 </p>
 
 <p>
-	<img src="https://www.psupress.org/images/covers/294wide/978-0-271-09716-9md_294.jpg"
+	<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421450636.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>RUNNER UP: Kristopher W. Kersey, <a href="https://www.psupress.org/books/titles/978-0-271-09716-9.html">Facing Images: Medieval Japanese Art and the Problem of Modernity</a> (Penn State UP, 2024)</p></strong>
+<strong><p>Nicoletta Asciuto, <a href="https://www.press.jhu.edu/books/title/33271/brilliant-modernism">Brilliant Modernism: Cultures of Light and Modernist Poetry</a> (Johns Hopkins University Press, 2025)
+</p></strong>
 
 <p>
-With vertiginous subtlety and piercing perspicuity, <i>Facing</i> Images shows that premodern Japanese art is a crucial corpus in the ongoing process through which the discipline and practice of art history attempts to decenter the hegemonic assumptions, methods, and archives of Euro-America. Kersey’s exquisite readings of visual and textual artifacts--ranging from twelfth-century Japan, to turn-of-the-century Vienna, to the sculpture garden at the Museum of Modern Art–reveal that the history of Japanese art constitutively undermines categories inherited from the Euro-American art historical discipline–such as “non-Western,” “modern,” and “premodern”--and instead demands a method based in unrelenting erudition and extraordinary intellectual flexibility. Those fatigued, if not disappointed, by the shortcomings of the so-called global turn in modernist studies would do well to flock to this gorgeously written, brilliant book for how it challenges us, by example, to rise to the occasion of thinking beyond provincial notions of modernness and modernity, not just geographically but also temporally. 
+This compelling and multidisciplinary study shows how changes in illumination technology at the
+turn of the twentieth century shaped modernist poetics and visual arts, exploring how a group of
+“brilliant modernists” such as T. S. Eliot, Filippo Marinetti and Mina Loy drew upon the shifting
+cultural meanings of light and illumination to articulate their own status as moderns. <i>Brilliant
+Modernism</i> demonstrates how as simple an act as lighting a candle, or walking a city’s streets,
+could feel new, strange, and even liberating given the new forms of artificial illumination
+emerging at this time. Asciuto reveals how this “bright new aesthetic” not only reorganized
+longstanding poetic metaphors about light and dark, but also “sparked revolutionary ideas about
+gender,” as a figure like Loy took symbolic moons and real lamps as means to throw light on
+ideas about erotics, domesticity, and her own evolving creative practices as a woman writer.
+
 </p>
 
 
 <p>
-	<img src="https://cup-us.imgix.net/covers/9780231559546.jpg?auto=format&w=350"
+	<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421452425.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Laura E. Helton, <a href="https://cup.columbia.edu/book/scattered-and-fugitive-things/9780231559546/">Scattered and Fugitive Things: How Black Collectors Created Archives and Remade History</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>Maria Farland, <a href="https://www.press.jhu.edu/books/title/53853/degraded-heartland"> Degraded Heartland: Antipastoral, Agriculture, and the Rural Modern in US
+Literature
+</a> (Johns Hopkins University Press, 2025)</p></strong>
 
 <p>
-Arguing that the practice of Black archiving was “intimately bound up with the possibilities of Black being”, <i>Scattered and Fugitive Things</i> is a crucial reminder that historical collections do not merely catalogue and document the past but profoundly shape our futures. Through six collections and the Black bibliophiles, librarians, curators, and archivists, who built, cared, and advocated for them, Helton narrates a compelling new intellectual history of early twentieth century America, revealing collecting as a radical act of community building, creative flourishing, and political defiance. An astounding work of archival research itself, and beautifully written—this book reminds us why we love books. 
+<i>Degraded Heartland</i> offers our “first book-length study of US antipastoral,” a literary mode that
+confronted the widespread notions about rural degeneration and ambitions for agrarian reform
+which began circulating in the mid-nineteenth century. Through sweeping historical research,
+Farland shows how writers from Dickinson and Whitman to Frost and Toomer were intimately
+familiar with rural environments being threatened by overextraction, and with rural populations
+who were pathologized as “backwards,” while also gathering a neglected archive of immigrant
+farm fiction that dramatizes the clash between capital’s need to mobilize labor for settling new
+lands grated and American xenophobia. Farland’s learned study incorporates unforgettable
+biographic details, like Emily Dickinson winning a county prize for best rye bread, or Frost first
+publishing in poultry magazines, to launch a major recontextualization of these modern writers
+within a set of anxieties about rural spaces and peoples that remain distressingly significant
+even today.
+
 </p>
 
 
 <p>
-	<img src="https://sunypress.edu/var/site/storage/images/books/e/emporialism/9781438499475_cover/7864177-1-eng-CA/9781438499475_cover1_rb_fullcover.jpg"
+	<img src="https://yale-press-us.imgix.net/covers/9780300280883.jpg?auto=format&w=298&dpr=1&q=100"
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Amr Kamal, <a href="https://sunypress.edu/Books/E/Emporialism">Emporialism: Department Store Fictions and the Politics of the Mediterranean</a> (SUNY Press, 2024)</p></strong>
+<strong><p>Atreyee Gupta, <a href="https://yalebooks.yale.edu/book/9780300280883/non-aligned/">Non-Aligned: Art, Decolonization, and the Third-World Project in India
+</a> (SUNY Press, 2024)</p></strong>
 
 <p>
-With breathtaking geographical reach, critical acuity, and archival rigor, <i>Emporialism</i> studies how the department store from the period of late imperialism to decolonization (1850-1960) was not simply a site of modern mass consumption, but also–or rather, therefore–a key nexus for the cultural articulation of the political and social ideologies undergirding colonial expansionism, national self-fashioning, and Orientalist fantasy. With crystal analytic clarity and wide-ranging authority, the book focuses on the politically imbricated cases of France and Egypt and works across a vast array of primary texts including fictional and nonfictional literature, caricatures, catalogues, and advertisements. In the process, it reveals how the spaces of and practices within and around the department store in late-nineteenth and early-twentieth-century Egypt and France force us to rethink the processes and sites through which notions of race, ethnicity, class consciousness, and the very claim to modernity get prescribed, expressed, and circulated. 
+In <i>Non-Aligned</i>, Atreyee Gupta enriches familiar histories of decolonization, the Bandung
+Conference, and midcentury dreams of third world solidarity by demonstrating how these
+political aspirations spurred the formally challenging and restlessly experimental work of a
+marvelous array of artists in India, including Abanindranath Tagore, Jeet Malhotra, Dhanraj
+Bhagat, Jagdish Swaminathan, and Francis Newton Souza. Through astute close readings of
+their work, as well as meticulous research into materials such as preparatory studies and notes,
+Gupta reconstructs the centrality of Afro-Asian and other internationalist affiliations for these
+artists in the years before and after Bandung. Painting and collage are central, but so too are
+architecture, photography and sculpture, as in the expansive chapter on the planned city of
+Chandigarh, which considers the aesthetics of industrial materials like concrete in an era of
+international abstraction and postcolonial ideologies of development and infrastructure at home.
+In Gupta’s canny analysis, non-alignment takes on a double meaning: not just the political
+posture of decolonizing nations caught between Cold War superpowers but also a figure for an
+Indian modernist aesthetics that took its cues from anticolonial struggle rather than from forms
+and debates disseminated from Europe or America.
+
 </p>
 
 
@@ -72,10 +131,13 @@ With breathtaking geographical reach, critical acuity, and archival rigor, <i>Em
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Cate I. Reilly, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Psychic Empire: Literary Modernism and the Clinical State</a> (Columbia University Press, 2024)</p></strong>
+<strong><p>Sebastian P. Klinger, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Sleep Works: Experiments in Science and Literature 1899-1929</a> (Johns Hopkins University Press, 2025)</p></strong>
 
 <p>
-A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Empire</i> reimagines the entangled histories of modernist literature and the clinical state. Refusing to treat psychiatry’s rise as a mere backdrop, Reilly traces how writers across Central and Eastern Europe engaged—critically and creatively—with the diagnostic frameworks of Kraepelin and the emerging sciences of mind and brain. Through a deft fusion of literary analysis, history of science, and political critique, Reilly reveals how modernist texts do not simply reflect psychiatric paradigms but actively destabilize them, staging consciousness as a site of resistance and reinvention. Boldly interdisciplinary and elegantly composed, <i>Psychic Empire</i> invites us to reconsider the aesthetic and political stakes of literature’s encounter with clinical reason. This dazzling book offers a vision of modernism that is both shaped by and subversive of the psychic architectures of empire.
+Readers will never see Proust the same way after absorbing Sebastian P. Klinger’s lucid and engaging
+study of experimental sleep research and its intersection with 20th century literature. Opening with science but ending with poetry, the book reads familiar modernist literary works anew by attending to their engagement with sleep beyond the well-trodden psychoanalytic territory of dreams. Rather, Klinger’s approach encompasses pathologies such as insomnia and encephalitis lethargica and new sleep
+technologies ranging from the sedative Veronal to the “electroencephalograph,” a machine that records the alpha rhythms of a person at rest. Historicizing the surprising labor involved in simply going to bed (and staying there), <i>Sleep Works</i> offers riveting, fresh analyses of the works of Kafka, Proust, Rilke, and Schnitzler, digging into the archives of German corporate pharmaceutical giants Bayer and Merck via these companies’ European archives (a highlight is Klinger’s discovery of Bayer’s records regarding Arthur Schnitzler’s story of a Veronal poisoning in <i>Fräulein Else</i>). Klinger’s examples of all of the different ways slumber was becoming fatefully “taylorized” during these decades are enough to keep one up at night.
+
 </p>
 
 
@@ -107,6 +169,6 @@ A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Emp
 	exclusion applies even if a new edition (paperback or revised, for
 	example) was published in the award year.<br />
 <p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2026 to recommend a book(published in 2025). Visit our <a href="/prizes/archive.html"
+	in Spring 2027 to recommend a book(published in 2026). Visit our <a href="/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 <!-- #EndEditable -->

@@ -8,6 +8,206 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
+<h1>2025 MSA Book Shortlist (for books published in 2024)</h1>
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231217453.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>WINNER: Maebh Long and Matthew Hayward, <a href="https://cup.columbia.edu/book/the-rise-of-pacific-literature/9780231217453/">The Rise of Pacific Literature: Decolonization, Radical Campuses, and Modernism</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+In their co-authored <i>The Rise of Pacific Literature</i>, Maebh Long and Matthew Hayward create new approaches to global modernisms by taking us into the classrooms, syllabi, and little magazines that forged a golden age of Oceanic writing. At the newly founded universities of Papua New Guinea and the South Pacific in the 1960s and 70s, the curriculum centered Pacific orality and Indigenous forms, treating modernist techniques as one set of tools among many that students could use to create a distinctive Oceanic literature. With fresh readings of writers including Albert Wendt, Subramani, and Marjorie Crocombe (along with less recognized authors), the book shows how the university—so often tied to reproducing the canon—became a crucible for a radical literary movement. The result is a vivid, collaboratively researched history of the rise of Pacific literature that links Port Moresby and Suva with Kingston, Delhi, and Lagos. Essential reading for scholars of modernism, postcolonial studies, and Indigenous literary futures.
+</p>
+
+<p>
+	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/83/9780226832678.jpg/jcr:content/9780226832678.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Elizabeth Abel, <a href="https://press.uchicago.edu/ucp/books/book/chicago/O/bo213064503.html">Odd Affinities: Virginia Woolf’s Shadow Genealogies</a> (University of Chicago Press, 2024)</p></strong>
+
+<p> 
+Elizabeth Abel’s compelling, beautifully-written study usefully strays from the traditional pathways and settled canons that have defined Virginia Woolf’s influence on later writers. Abel constructs her conceptual foundation on Woolf’s own terms in <i>Mrs. Dalloway</i>, the “odd affinities” Clarissa senses she has “with people she had never spoken to…even trees, or barns” that offer some solace that after death, the “unseen part of us…might survive,” might be “recovered,” might persist through “haunting certain places after death.” The study’s first half considers the subtle presence of <i>Mrs. Dalloway’s</i> narrative form in the social and aesthetic projects of Nella Larsen and James Baldwin. The second considers <i>To the Lighthouse’s</i> tonal and formal affinities with the European post-World War II elegiac modes of Roland Barthes and W. G. Sebald and offers a new narrative of profound mourning running through twentieth-century European literature. A timely, compulsively readable reimagining of Woolf that opens subversive ways of thinking about literary reception, influence, and genealogy, <i>Odd Affinities</i> is a model for how to make seemingly old critical conversations feel vitally new. 
+</p>
+
+<!--Second Nominee-->
+
+
+
+<p>
+	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/23/9780226234861.jpg/jcr:content/9780226234861.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Devin Fore, <a href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo218258142.html">Soviet Factography: Reality Without Realism</a> (University of Chicago Press, 2024)</p></strong>
+
+<p>
+A brilliant introduction for the English-speaking world to factography, a 1920s Soviet avant-garde movement and precursor to documentary that set out to register the Revolution’s massive transformation of Russian culture and its citizens. Original, meticulous archival work and a strong theoretical grounding are the impressive twin strengths of <i>Soviet Factography,</i> which conveys a nearly lost historical moment before the rise of documentary formalized practices for depicting reality. This moment combined post-revolutionary zeal with an experimental new media landscape that sought to inscribe and record the present without recourse to the past or concern for the future.  Fore reconstructs the peak of the movement in 1928–1931, when photography, inscription technologies, film, and radio presented the possibility of an immediate experience of contemporary reality that would render artists, aesthetic form, and contemplation obsolete. While Fore does not engage the potentially massive implications of his historical account for our own moment of mass media’s proliferation of disinformation, readers will doubtless recognize echoes between the world Fore presents and our own. 
+</p>
+
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231213295.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Maggie Hennefeld, <a href="https://cup.columbia.edu/book/death-by-laughter/9780231213295/">Death by Laughter: Female Hysteria and Early Cinema</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+A study of the late 19th-/early 20th-century archive of hysterical laughter, Maggie Hennefeld’s <i>Death by Laughter</i> weaves together film history, cultural theory and criticism, political critique, and the history of psychotherapy and medical theater. It is a brilliant work of scholarship that is as intellectually rich as it is stylistically sharp—and genuinely funny. Its engagement with gendered and racialized bodies in media and medical history is timely and profound, challenging its readers to reconsider comedy’s affective power and its ethical/political stakes. Hennefeld’s archival work; theoretical insights; as well as her pleasurable curation of cinematic texts and images make <i>Death by Laughter</i> a landmark contribution to feminist film studies. It is a triumph: an impossible-to-put-down account of the politics of humor and the subversive, “madusanal” potential of cinematic excess.
+</p>
+
+
+
+
+<!-- SECOND NOMINEE -->
+
+
+<!-- THIRD NOMINEE -->
+
+
+<!-- FOURTH NOMINEE -->
+
+
+<!-- FIFTH NOMINEE -->
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231212649.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Adam McKible, <a href="https://cup.columbia.edu/book/circulating-jim-crow/9780231212649/">Circulating Jim Crow: The Saturday Evening Post and the War Against Black Modernity</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+In a meticulous deep dive into a single influential periodical, Adam McKible shows how the <i>Saturday Evening Post</i> circulated anti-Black racism across a vast American readership. Adam McKible uncovers how George Horace Lorimer and his stable of white authors popularized demeaning dialect fiction that justified segregation and violence, even as Black writers of the Harlem Renaissance—from Paul Laurence Dunbar to W. E. B. Du Bois—exposed and countered this project. In lucid prose and sharp archival research, McKible places popular writers alongside Fitzgerald, Faulkner, and Petry to reveal how the <i>Post</i> normalized white supremacy for millions of readers. A bracing, necessary reappraisal of American modernism, mass culture, and the long fight against Jim Crow.
+</p>
+
+<hr />
+
+
+<h1>2025 MSA First Book Prize</h1>
+
+<p>
+	<img src="https://www.sup.org/_next/image?url=https%3A%2F%2Fsupress.sites-pro.stanford.edu%2Fsites%2Fsupress%2Ffiles%2Fmedia%2Fcovers%2F32612.jpg&w=640&q=75"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>WINNER: Sonali Thakkar, <a href="https://www.sup.org/books/literary-studies-and-literature/reeducation-race">The Reeducation of Race: Jewishness and the Politics of Antiracism in Postcolonial Thought</a> 
+(Stanford University Press, 2023)</p></strong>
+
+<p>
+Sonali Thakkar’s <i>The Reeducation of Race</i> is a sharp, elegantly argued book that moves with precision between the institutional ambitions of UNESCO and the insurgent critiques of anticolonial thinkers. From the bureaucratic optimism of postwar “race education” campaigns to the searing indictments of Frantz Fanon and Aimé Césaire, Thakkar charts a terrain where liberal antiracism and colonial power uneasily coexist. Her argument is as unsettling as it is illuminating: the very pedagogies meant to dismantle racism often reinscribe its logics under the banner of universalism. Drawing on a rich archive of sources and a contrapuntal methodology, Thakkar reframes modernist studies as a global, decolonial project that refuses to smooth over the fractures of race, empire, and solidarity. The result is a book that offers a bold reckoning with the compromises embedded in the history of antiracist education.
+</p>
+
+<p>
+	<img src="https://www.psupress.org/images/covers/294wide/978-0-271-09716-9md_294.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>RUNNER UP: Kristopher W. Kersey, <a href="https://www.psupress.org/books/titles/978-0-271-09716-9.html">Facing Images: Medieval Japanese Art and the Problem of Modernity</a> (Penn State UP, 2024)</p></strong>
+
+<p>
+With vertiginous subtlety and piercing perspicuity, <i>Facing</i> Images shows that premodern Japanese art is a crucial corpus in the ongoing process through which the discipline and practice of art history attempts to decenter the hegemonic assumptions, methods, and archives of Euro-America. Kersey’s exquisite readings of visual and textual artifacts--ranging from twelfth-century Japan, to turn-of-the-century Vienna, to the sculpture garden at the Museum of Modern Art–reveal that the history of Japanese art constitutively undermines categories inherited from the Euro-American art historical discipline–such as “non-Western,” “modern,” and “premodern”--and instead demands a method based in unrelenting erudition and extraordinary intellectual flexibility. Those fatigued, if not disappointed, by the shortcomings of the so-called global turn in modernist studies would do well to flock to this gorgeously written, brilliant book for how it challenges us, by example, to rise to the occasion of thinking beyond provincial notions of modernness and modernity, not just geographically but also temporally. 
+</p>
+
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231559546.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Laura E. Helton, <a href="https://cup.columbia.edu/book/scattered-and-fugitive-things/9780231559546/">Scattered and Fugitive Things: How Black Collectors Created Archives and Remade History</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+Arguing that the practice of Black archiving was “intimately bound up with the possibilities of Black being”, <i>Scattered and Fugitive Things</i> is a crucial reminder that historical collections do not merely catalogue and document the past but profoundly shape our futures. Through six collections and the Black bibliophiles, librarians, curators, and archivists, who built, cared, and advocated for them, Helton narrates a compelling new intellectual history of early twentieth century America, revealing collecting as a radical act of community building, creative flourishing, and political defiance. An astounding work of archival research itself, and beautifully written—this book reminds us why we love books. 
+</p>
+
+
+<p>
+	<img src="https://sunypress.edu/var/site/storage/images/books/e/emporialism/9781438499475_cover/7864177-1-eng-CA/9781438499475_cover1_rb_fullcover.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Amr Kamal, <a href="https://sunypress.edu/Books/E/Emporialism">Emporialism: Department Store Fictions and the Politics of the Mediterranean</a> (SUNY Press, 2024)</p></strong>
+
+<p>
+With breathtaking geographical reach, critical acuity, and archival rigor, <i>Emporialism</i> studies how the department store from the period of late imperialism to decolonization (1850-1960) was not simply a site of modern mass consumption, but also–or rather, therefore–a key nexus for the cultural articulation of the political and social ideologies undergirding colonial expansionism, national self-fashioning, and Orientalist fantasy. With crystal analytic clarity and wide-ranging authority, the book focuses on the politically imbricated cases of France and Egypt and works across a vast array of primary texts including fictional and nonfictional literature, caricatures, catalogues, and advertisements. In the process, it reveals how the spaces of and practices within and around the department store in late-nineteenth and early-twentieth-century Egypt and France force us to rethink the processes and sites through which notions of race, ethnicity, class consciousness, and the very claim to modernity get prescribed, expressed, and circulated. 
+</p>
+
+
+<p>
+	<img src="https://cup-us.imgix.net/covers/9780231560399.jpg?auto=format&w=350"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Cate I. Reilly, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Psychic Empire: Literary Modernism and the Clinical State</a> (Columbia University Press, 2024)</p></strong>
+
+<p>
+A daring and intellectually expansive work, Catherine Reilly ‘s <i>Psychic Empire</i> reimagines the entangled histories of modernist literature and the clinical state. Refusing to treat psychiatry’s rise as a mere backdrop, Reilly traces how writers across Central and Eastern Europe engaged—critically and creatively—with the diagnostic frameworks of Kraepelin and the emerging sciences of mind and brain. Through a deft fusion of literary analysis, history of science, and political critique, Reilly reveals how modernist texts do not simply reflect psychiatric paradigms but actively destabilize them, staging consciousness as a site of resistance and reinvention. Boldly interdisciplinary and elegantly composed, <i>Psychic Empire</i> invites us to reconsider the aesthetic and political stakes of literature’s encounter with clinical reason. This dazzling book offers a vision of modernism that is both shaped by and subversive of the psychic architectures of empire.
+</p>
+
+
+
+
+
+
+<h1>2025 MSA Shortlist for Editions, Anthologies, or Collections (published in 2023 or 2024)</h1>
+
+<p>
+	<img src="https://assets.cambridge.org/97811070/02685/cover/9781107002685.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>WINNER: <a href="https://www.cambridge.org/core/books/prefaces/DB4005E34CB61B444619E7C5F132B2F4">Henry James, The Prefaces,</a> edited by Oliver Herford, Vol. 33 of The Cambridge Edition of the Complete Fiction of Henry James (Cambridge University Press, 2024).</p></strong>
+
+<p>As a new volume in the prestigious Cambridge Edition of the Complete Fiction of Henry James, The Prefaces makes an immense contribution to James scholarship, pushing our understanding of the Prefaces that James produced between 1906 and 1909 for his uniform New York Edition to a new level. Under Oliver Herford’s careful editorship, The Prefaces faithfully reproduces the text of the New York Edition and is rigorously annotated. Herford’s Introduction, which sets out the history of their composition, publication and reception in meticulous detail, incorporates a fascinating and learned treatise on the genre of Preface writing in European literature. An extraordinary achievement, Herford’s exemplary work will make this volume the authoritative edition of James’s Prefaces for decades to come. </p>
+
+
+<p>
+	<img src="https://oup.silverchair-cdn.com/oup/backfile/content_public/books/58516/book/1/m_9781496849571.jpeg?Expires=1761317013&Signature=q2m5ircOpdycjr0zNfGZ5pMp2ajoS4GpuqmPzu3y7nhhPaDPcnEAfqZ6t5gXxlZILs2nqw5tsj9W4xPXkXX~e~4VHavX6Taz5uVaxxsNGjhNc-CQRdwvze6yFrM0aSUd7pjJs7RRQE~JiHOAv57yXx1MGVVmN6N7f8~gcrvibAbJHDfX1FzSockYdVQy8ak6qzFgQDxsRFUvnPv~IztLqKCQwdWfo~V2NIYtfoTfvTddn2JrnBKEerkK6jp-jvi1Rf2I6HqMbMkqDEsURTk9bJQTOWiizuX0Y9Os4xIDYbd6YWOHSeNP-UHodj0cpW-dnVNUs1bzmy~jgM4aGADmCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>RUNNER UP: Jonathan Najarian (ed.), <a href="https://www.upress.state.ms.us/Books/C/Comics-and-Modernism">Comics and Modernism: History, Form, and Culture</a> (University Press of Mississippi, 2024).</p></strong>
+
+<p>With Comics and Modernism, Jonathan Narjarian and his contributors enter into largely unexplored territory.  Each chapter adventurously and convincingly showcases an original aspect of the intersection between modernist aesthetics and comics ‘as an essentially modernist form’ (p. 302), limning a plethora of similarities, synergies and mutual influences from graphic concerns to narrative conceits, while further dissolving in orthodox modernist fashion the boundaries between serious and popular culture in the process. This outstanding collection of essays on a new form of popular modernism is bound to become a standard reference for other scholars following in its wake.</p>
+
+
+<p>
+	<img src="https://www.getty.edu/research/exhibitions_events/exhibitions/alfredo_boulton/images/publication.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Idurre Alonso (ed.), <a href="https://shop.getty.edu/products/alfredo-boulton-looking-at-venezuela-1928-ai1978?srsltid=AfmBOop9kl069wOO7-VGBG2S4o9ZvRuUcJYgc8RPa3cAFm0-Wxo2jrq5">Alfredo Boulton: Looking at Venezuela, 1928–1978</a> (Getty Research Institute, 2023).</p></strong>
+
+<p>This luxuriously beautiful volume introduces the modernist Venezuelan photographer Alfredo Boulton to an international audience. Almost unknown outside of his country, Boulton (1908–1995) was a champion of modern art and the modernization of Venezuela who worked tirelessly to raise the profile of the Venezuelan arts at home and abroad. His photographic work, now housed in the Getty Archive, is an experiment in hybrid modernism. Applying a modernist aesthetic to an indigenous point of view, Boulton uses the camera to document the landscape, people, and customs of Venezuela to create ‘a foundational allegory of [his] homeland’ (p. 139).  The editor Idurre Alonso skilfully places Boulton’s captivating photographs in the context of eleven specially commissioned essays exploring a rich range of biographical, critical, and art historical topics that illuminate his work and his connections with his contemporaries.</p>
+
+<p>
+	<img src="https://oup.silverchair-cdn.com/oup/backfile/content_public/books/45647/book/3/m_9780197647912.jpeg?Expires=1761286687&Signature=B4JGqaSO-knZRSsqpOWHYS1Onc2cgi693MrLmrI~eHXbKhPxJLfXznAeBvDAFRprcOUdVC~4nFSn5IceX-~SubR5w5p20obwMff2wG6JcYSHMlGVgTqnzDDtGosDWVEX8qwCX~pCnCK2aFMj9ggQTjiorLwldNVdM~NngMJdZPDKtoh1h95zMNy4V8yCq4T9qZVuwRLSzdqCHG7z7FPiSEUjoqHbN3nXMozpYEca25vhBe48esax9IXPx3s6UUdmH3wAH9aYmjmec6RwMcq8sTdY5Bc5N7rX8HXPGsbGUXrNk4CejoNaTR7cFMF7ylkUxwMbApT-M1menaA1tVFI6w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+		style="margin:1em" alt="" width="100" height="150" align="right" />
+<p> 
+
+<strong><p>Ulka Anjaria and Anjali Nerlekar (eds), <a href="https://academic.oup.com/edited-volume/45647">The Oxford Handbook of Modern Indian Literatures</a> (Oxford University Press, 2024).</p></strong>
+
+<p>The Oxford Handbook of Modern Indian Literatures is a magisterially comprehensive and expertly edited compendium on its subject. With its eye trained on non-Anglophone Indian writing, this volume opens our eye to the wonderfully rich and varied literature that exists outside the canon of Anglophone postcolonial writing that is most familiar to the Global North. The chapters traverse the entire length and breadth of the country’s geo-cultural territory, highlighting the immense vibrancy and diversity of its languages and literatures, as India transitioned from its colonized space into a modern independent nation. In doing so, the contributors chart how within its excessive and often contradictory heterogeneity, India’s confrontation and engagement with modernity, and literary modernism, unfolds in sustaining and disruptive acts of invention, counternarrative, multilingualism, linguistic code-switching, social contestation, and memorializing, celebrating and recasting cultural traditions.</p>
+
+
+<p>
+	<img src="https://assets.cambridge.org/97811087/02515/cover/9781108702515.jpg"
+		style="margin:1em" alt="" width="100" height="150" align="left" />
+<p> 
+
+<strong><p>Mark Whalan (ed.), <a href="https://www.cambridge.org/core/books/cambridge-history-of-american-modernism/3807673848098B1B08EC7FCBE8B357AF">The Cambridge History of American Modernism</a> (Cambridge University Press, 2023).</p></strong>
+
+<p>Mark Whalan’s lively and compendious volume is a product of the New Modernist Editing in its preoccupation with reorienting the bounds of ‘traditional’ modernist studies towards pluralism, intersectionality, indigeneity, positionality, regionalism, and transnationalism, while giving ample space to queer writers and writers of colour. Seeing modernism as ‘set of relations’ or a ‘constellation’ of ‘cultural engagements with modernity’ (p. 29), as Whalan puts it, the contributions in this volume each in their way explore how the elements of their choice from the great mix of American modernism are bound together, not in a state of homogeny, but more like a grid or circuit board, ‘connecting Paris to Greenwich Village to Nex Mexico’ (p. 71). In chasing these and a multitude of other connections across art, literature, photography, cinema, the media, and anthropology, The Cambridge History of American Modernism is one of the most excellent, fine-grained, and excitingly new treatments to date.</p>
+
+
+
+
+
+
 <h1>2024 MSA Book Shortlist (for books published in 2023)</h1>
 
 <!-- FIRST NOMINEE -->
