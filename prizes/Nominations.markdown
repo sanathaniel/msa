@@ -9,6 +9,7 @@ sidebar:
 <!-- #BeginEditable "content"
 -->
 
+<h1>MSA Book Prizes</h1>
 
 <p>
 The call for Book Prize nominations is now closed. Please visit our shortlists to see this year's excellent selections.

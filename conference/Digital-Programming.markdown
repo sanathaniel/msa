@@ -21,13 +21,14 @@ Digital programming has concluded for 2024. Review past meetings below, and stay
 <img src="/assets/mod_crossings.png" style="margin:1em" alt="" width="600" align="left" />
 <p></p> 
 
+<p>
+<a href="https://docs.google.com/document/d/1mRdj4z5QF90PsH_rVLb5GK-5Bbkqt4kT/edit?usp=sharing&ouid=105897998784153510572&rtpof=true&sd=true" class="btn btn--primary">Registration and Program for Modernist Crossings</a>
+</p>
+
+
 <br />
 
-<p><a href="https://docs.google.com/document/d/1mRdj4z5QF90PsH_rVLb5GK-5Bbkqt4kT/edit?usp=sharing&ouid=105897998784153510572&rtpof=true&sd=true"><h2>Registration and Program for Modernist Crossings!</h2></a></p>
 
-<a href="https://docs.google.com/document/d/1mRdj4z5QF90PsH_rVLb5GK-5Bbkqt4kT/edit?usp=sharing&ouid=105897998784153510572&rtpof=true&sd=true" class="btn btn--primary">Register</a>
-
-<hr> 
 
 <!--
 
@@ -377,4 +378,6 @@ Shoshana Magnet (Ottawa)</p>
 
 
 
-<p>***</p> 
+<p>***</p>
+
+-->

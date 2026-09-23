@@ -16,7 +16,7 @@ sidebar:
 	this fall.</p>
 -->
 
-<h1>2025 Caucus for Contingent and Independent Scholars Essay Prize</h1>
+<h1>Shortlist: 2025 Caucus for Contingent and Independent Scholars Essay Prize</h1>
 
 <p>
 	<img src="https://www.tandfonline.com/action/showCoverImage?doi=10.1080/rfmd20.v008.i02"

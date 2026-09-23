@@ -33,7 +33,7 @@ Refining arguments on global and planetary modernisms by focusing on the Indiaâ€
 		style="margin:1em" alt="" width="100" height="150" align="left" />
 <p> 
 
-<strong><p>Shiben Banerji, <a href="https://press.uchicago.edu/ucp/books/book/chicago/O/bo213064503.html">Lineages of the Global City: Occult Modernism and the Spiritualization of Democracy</a> (University of Texas Press, 2025)</p></strong>
+<strong><p>Shiben Banerji, <a href="https://utpress.utexas.edu/9781477331408/">Lineages of the Global City: Occult Modernism and the Spiritualization of Democracy</a> (University of Texas Press, 2025)</p></strong>
 
 <p> 
 In this strikingly original study, Shiben Banerji shows how modernists influenced by esoteric movements planned urban spaces to nurture a new global consciousness. With various occult interests, particularly in Theosophy, designers in Europe and the Americas, Australia and South Asia conceived of urban planning as a counter to the twin threats of international socialism and liberal internationalism. Analyzing the films, drawings, writing and prints comprising city plans, <i>Lineages of the Global City</i> guides us through the fantastic ideals and late-colonial compromises of these interconnected scenes. It is a remarkable book, furthering in unexpected ways the reappraisal of the relationship between modernism and the occult movements of the early twentieth century.
@@ -104,7 +104,7 @@ Stilling, Florida State University, Philip Tsang, Colorado State University</p>
 	exclusion applies even if a new edition (paperback or revised, for
 	example) was published in the award year.<br />
 <p>Please visit our <a href="/prizes/nominations/">Nominations page</a>
-	in Spring 2027 to recommend a book(published in 2026). Visit our <a href="/prizes/archive.html"
+	in Spring 2027 to recommend a book (published in 2026). Visit our <a href="/prizes/archive.html"
 		>Archive</a> to see previous winners.</p>
 	
 	
