@@ -33,7 +33,7 @@ layout: home
 				</div>
 				<h3>2026 Book Prizes</h3>
 				<figcaption  class="archive__item-title">Announcing the shortlists and winners for the 2026 Prizes!</figcaption>
-			<a href="/prizes/previous-winners" class="btn btn--primary">Celebrate</a>
+			<a href="/prizes/shortlist" class="btn btn--primary">Celebrate</a>
 		</div>
 
 		<div class ="feature__item" style="border:20px;">
