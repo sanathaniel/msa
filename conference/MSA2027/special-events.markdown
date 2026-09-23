@@ -40,14 +40,19 @@ footer: false
 
 <p></p>
 
+
+<h1>
+EVENTS
+</h1>
+
+<hr style="height: 1px; color: #f2f0ea;">
+
+
+
 <p>
 Please  use our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a> to sign up for the special events listed on this page.
 </p>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
 
 <h2>Additional programming</h2>
 <p>We are pleased to present a series of creative workshops, performances, and screenings, over the course of the conference, bringing together researchers, artists, musicians, film makers, archivists, and curators:</p>

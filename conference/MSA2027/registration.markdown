@@ -39,6 +39,14 @@ footer: false
 
 <p></p>
 
+<h1>
+REGISTRATION
+</h1>
+
+<hr style="height: 1px; color: #f2f0ea;">
+
+
+
 <p>Registration for the in-person conference has now closed.</p>
  
 Virtual registration is open until Wednesday 24 June, midnight (BST). You can register for the <strong>online conference</strong> at the link below.
@@ -48,11 +56,6 @@ Virtual registration is open until Wednesday 24 June, midnight (BST). You can re
 <p><strong>Please note that you must be a current member of <a href="https://bams.ac.uk/join-bams/">BAMS</a> or the <a href="https://www.moderniststudies.org/members/login/">MSA</a> to register.</strong></p>
 
 <p>For seminars, workshops and additional programming please use this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">form.</a></p> 
-
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
 
 <h2>Registration Rates</h2>
 

@@ -26,7 +26,6 @@ footer: false
 <!--color: 1e6cb6; box-shadow: 0 0 8px 8px white inset; -->
 
 
-
 <p></p>
 	<img src="/conference/MSA2027/assets/hero.jpg"
 		style="width= 100%; height: auto; box-shadow: 0 0 16px 16px #050505 inset;">
@@ -38,74 +37,51 @@ footer: false
 
 <p></p>
 
+<h1>
+SEMINARS
+</h1>
 
- <p></p>
+<hr style="height: 1px; color: #f2f0ea;">
 
-<p>During the registration process, you will have the opportunity to select a seminar should you wish to participate in one (seminar titles and descriptions are listed below). In advance of the seminar meeting at MSA, participants produce short papers in response to the seminar topic description and share them with the entire group through whatever mechanism the seminar leaders devise. All participants are to read all of the participants’ papers—a process that aims to ensure careful and significant dialogue on the topic. Seminars take place at MSA in blocks of two hours and thirty minutes. Typically, the first two hours are devoted to specific discussion of the topic by seminar participants and the final thirty minutes allow room for questions, general discussion, and/or participation of auditors, if relevant. </p>
+<h1>
+HOW A SEMINAR WORKS</h1>
 
-<!--
-<strong>This year, rather than selecting a seminar as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong>
--->
+<p>During registration you may select a seminar. In advance of the meeting, participants write short papers in response to the topic and circulate them to the group by whatever method the leaders set. Everyone reads everyone else’s work. The point is a careful conversation, not a stack of unread talks.
+</p>
 
-<p></p>
+<p>Seminars run two hours and thirty minutes. The first two hours belong to the participants; the last thirty minutes open to questions, general discussion, and auditors if the leaders have allowed them.</p>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
+<h1>LEADERS AND INVITED PARTICIPANTS</h1>
 
-<h1><strong>ROLES: SEMINAR LEADERS and INVITED PARTICIPANTS</strong></h1>
+<p>A seminar has one to three leaders with some claim on the topic, ideally across professional stages. Leaders may invite up to two people in a special role. They are urged to ask those guests for a paper or a prepared response so the hour is not ornamental.</p>
 
-<p>Seminars are led by anywhere between one and three leaders who have some experience or knowledge foundational to the seminar topic, and who can represent different professional stages or institutional statuses.</p>
-<p>Some seminar leaders choose to invite a few people to join a seminar in some special role—usually scholars with special interest or expertise in the topic. It is entirely up to seminar leaders whether to exercise this option or not. All seminar leaders are welcome to invite up to two invited participants and can determine their precise role. Seminar organizers are, however, strongly urged to require invited participants to produce papers or prepare responses for the seminar in order to feed the dialogue of the seminar and to make the best use of everyone’s time.</p>
-<p>Seminars function best when they foster considered, sustained intellectual dialogue anchored in the work that seminar participants circulate in advance and a lively conversation among peers during the seminar itself. Repeated experience suggests that seminars also function best when all participants, with the exception of the seminar leader(s), produce fresh, written work for the occasion.</p>
-<p>The MSA encourages seminar leaders to discuss with invited participants the role they will play in the seminar in the earliest stages of the planning process.</p>
+<p>Seminars work when the talk stays anchored in the writing circulated beforehand, and when the leader acts as a facilitator among peers rather than an instructor. No one should dominate. Every submission should get attention.</p>
 
-<p></p>
+<h1>AUDITORS</h1>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
+<p>Numbers are capped. Auditors are not permitted by default. Leaders who want them must tell the conference organizers.</p>
 
-<h1><strong>AUDITORS</strong></h1>
+<h1>BEFORE THE CONFERENCE</h1>
 
-<p>Seminars are limited to a set number of participants. By default, auditors are NOT permitted; seminar leaders may, however, choose to allow auditors but must inform the conference organizers.</p>
+<p>Leaders should set rules in the first or second message to the group, including at a minimum:
 
-<p></p>
-
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
-
-<h1><strong>PRE-CONFERENCE GUIDELINES</strong></h1>
-
-<p>Seminar leaders should set firm guidelines for each seminar from their first or second contact with seminar participants. These should include, <strong>at a minimum:</strong></p>
-<ul>
+<ol type="1">
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
-</ul>
-<p><strong>Other guidelines</strong>  are up to individual leaders and can lend seminars their unique styles. In the past, some leaders have provided a list of recommended readings and/or a list of questions the group should consider. Some have assigned participants to generate detailed critiques of each other’s work in pairs or small groups, in addition to all of the participants reading each other’s work. Leaders have also given specific paper guidelines guiding content (encouraging or discouraging textual, theoretical, or methodological analysis, e.g.).</p>
+</ol>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p>  
+<p>Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.</p>
 
-<h1><strong>CONFERENCE GUIDELINES</strong></h1>
+<hr style="height: 1px; color: #f2f0ea;">
 
-<p>The seminar leader acts as a facilitator, rather than an instructor, in conducting this discussion among peers. It is the seminar leader’s job to ensure that the dialogue is inclusive; a leader must not allow one or two participants to dominate and should exercise the chair’s prerogative to steer discussion in a way that includes everyone. No responsibility is more important than making sure that everyone gets to participate fully, and that everyone’s submission gets attention.</p>
+<h1>THE LIST</h1>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p> 
+<p>Twenty-seven seminars. Open an entry for leaders and the call; the official text remains on the Association site.</p>
 
-<h1><strong>SEMINARS</strong></h1>
+<ol>
 
-<details closed>
+<li><details closed>
 	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Alexandra Peat (University of Galway), Dr. Emily Ridge (University of Galway)</strong></p>
@@ -114,8 +90,8 @@ footer: false
 <p>We particularly welcome explorations of offbeat or ‘weird’ modes of acknowledgment. As this was a paratextual element not yet established as an expected ‘bibliographic code’ (Bornstein, 2001: 6), modernist manifestations of acknowledgement are often eccentric in appearance, arrangement, style, tone, positionality and form. Moreover, acknowledgements are often both dispersed within works (epigraphs, footnotes, etc.) and displaced from the works (located at a remove within letters, essays, diaries, reviews, etc.) The seminar will start with definitions. What is an acknowledgement in the context of literary production more broadly and within modernist literary production more specifically? How should we interpret forms of acknowledgement when they are not a recognized element of a literary work? What, who and how did modernist writers acknowledge? To what extent do acknowledgements remain a private textual practice for modernists, and can we identify a shift in modernist writing towards public declarations which perhaps reflects broader trends in the professionalization of writing? Do acknowledgements speak to affective affiliations, distributions of power and/or cultural norms? We invite interventions on the subject of acknowledgement in three broad categories: 1) ideas around modernist paratext; 2) the institutionalisation of writing and publishing practices; 3) ideas of collaboration and network building.
 			</p>
 		</div>
-</details>
-<details closed>
+</details></li>
+<li><details closed>
 	<summary class="seminar-title" id="p2">Women+ in Modernist Publishing and Print</summary>
 		<div class="description">	
 			<p><strong>Leaders: Prof. Nicola Wilson (University of Reading), Dr. Claire Battershill (University of Toronto)</strong></p>
@@ -124,8 +100,8 @@ footer: false
 <p>This seminar invites contributors to extend and deepen research into women’s varied roles in modernist publishing and book production. The early twentieth century was a period of dynamic change in print culture, shaped by the rise of literary agents; the uneven evolution of systems of literary patronage; and the continued growth of popular print. Women worked across a wide spectrum of sites—including libraries, publishing houses, print rooms, drawing offices, bookshops, and design firms—yet many of these contributions remain understudied. We welcome reflections and new research that illuminate the gendered terrain of modernist print and book history. We invite contributors to consider the question: what does feminist modernist book and publishing history look like?
 			</p>			
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p3">Unsettling multilingualisms in global modernism
 </summary>
 		<div class="description">
@@ -139,8 +115,8 @@ footer: false
 <p>In this seminar, we invite position papers that examine multilingual modernism from a range of global perspectives, and we hope to bring together colleagues with different linguistic, cultural and literary spheres of knowledge. The responder is Boriana Alexandrova (University of York).
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p4">Strange methods: modernism and progressive education</summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Isabelle Parkinson (Royal Holloway, University of London)</strong>
@@ -148,8 +124,8 @@ footer: false
 			<p>Scholarly work on the relationships of modernism with education over the last few years has moved beyond examinations of the New Critical project to professionalise the academy and has begun to uncover the complex web of relations between modernist cultural production and progressive education. In examinations, for example, of the significance of Virginia Woolf’s and D.H. Lawrence’s experience of teaching for their writing, of the influence of Ruskinian pedagogy in Dorothy Richardson’s work, of the radical practices at the Black Mountain College, and of the role of resistant pedagogies for writers in colonial and post-colonial contexts, scholars have attended both to the historical connections between modernism and progressive education and to the creative potential of these strange new pedagogical methods. If we agree with Rebecca Beasley that ‘Defamiliarization, learning “to see”, was at the heart of Black Mountain’s progressivism’, with Peter Howarth that ‘the modernist novel's anti-educational stance should be understood as an attempt at counter-education’, and with Ben Conisbee Baer that revolutionary modernist colonial pedagogies are a ‘radical short-circuit of the rationality [colonial education] entail[s]’, then the intersection of modernism and progressive education is indeed characterised by its productive weirdness. How far, however, this was a laudable confluence of radical utopian projects, and how far it was a convenient alliance of hegemonic interests, is still open to question. This seminar aims to bring together scholars working on modernism and progressive education to explore and problematise the conjunctions of these strange new practices.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p5">Teaching Film and Media</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Marc Farrior (Southern Utah University), Dr. Carolyn Jacobs (Central Connecticut State University), Dr. Alix Beeston
@@ -163,7 +139,7 @@ Bringing together educators and scholars who work across film, literature, digit
 <p>Guiding questions to consider:</p>
 
 <p>
-	<ul>
+	<ol type="1">
 		<li>How can assignments embody the experimental or uncanny qualities of modernism?
 		</li>
 		<li>What happens when students become media makers rather than passive viewers?
@@ -172,14 +148,14 @@ Bringing together educators and scholars who work across film, literature, digit
 		</li>
 		<li>What ethical or affective challenges arise when teaching “weirdness” as method?
 		</li>
-	</ul>
+	</ol>
 </p>
 			
 Participants will circulate a brief teaching artifact, such as a syllabus excerpt, assignment prompt, in-class activity, multimodal exercise, or other pedagogical material, accompanied by a short (300–500 word) reflective statement that situates the artifact within their broader approach to teaching film and media. These materials are intended to highlight concrete classroom practices and creative experiments that might model modernism’s weirdness in pedagogical form. Our discussion will map shared concerns across these teaching materials, consider issues of accessibility and assessment, and envision collaborative frameworks for expanding experimental, media-rich approaches to teaching film and modernism.
 
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p6">Weird Forms: Modernism goes to College/in the University</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Andy Hines (Swarthmore College), Dr. Rebecca Roach (University of Brimingham)</strong>
@@ -191,8 +167,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>We invite short papers (or non-traditional forms) that attend to the broad, and often weird, consequences of modernism’s institutionalisation in the modern university. Topics might include taxonomies of past and present academic forms; how investigating academic forms reconceptualizes our knowledge of disciplinary practice; how modernist culture was shaped by a relationship with the forms of the bureaucratic and informational state; or how the standardization of forms makes possible exploitation and automation via technologies like generative AI.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p7">Weird Fates and Futures of Modernism</summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Maren Linett (Purdue University), Prof. Cynthia Port (Caoastal Carolina University)</strong>
@@ -202,8 +178,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		
 			
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p8">Weird Science and the Modernist Body</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Rebecca Bowler (Keele University), Dr. Laura Ludtke (Merton College, Oxford)</strong>
@@ -216,8 +192,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			</p>
 			
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p9">Caring Modernists?</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Milena Schwab-Graham (University of Leeds), Dr. Emily Bell (Loughborough University), Dr. Jade French (Loughborough University), Ms. Paula Maher Martin (University of Galway)</strong>
@@ -228,8 +204,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 
 <p>This seminar will explore care as a relational experience in literary works, artistic forms and cultural traditions. We are also interested in how modernist scholars might better perform care in our own communities, taking a lead from the special issue ‘Precarity, Caregiving, and Covid’ (Bloom and Hartmann-Villalta, 2024) which foregrounded pandemic experiences, precarious work, and disciplinary changes. We invite position papers about modernism, care and: networks of cultural production, affect and emotion, thing theory, ecology and the environment, ethics, labour rights, precarity, and the posthuman.</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p10">Risky Modernism</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Mantra Mukim (University of Oxford), Prof. Jarad Zimbler (King's College London), Prof. Alys Moody (Bard College)</strong>
@@ -241,8 +217,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>At stake is a set of entangled questions: What makes risk a defining tenet of modernism? How does it reconfigure literary form? What threats does modernism pose to its readers, and detractors, alike? For this seminar, we invite short papers (5–7 pages) that engage risk as a critical lens for reading modernism—whether through formal risks, institutional hazards, wagers of alternative modernities, or threats of the marketplace.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p11">Weird Rural Modernisms: Technology, Machinery and the Question of the Countryside</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Maria Farland (Fordham University), Dr. Ben Child (Colgate University), Dr. Kristin Bluemel (Monmouth University)</strong>
@@ -256,8 +232,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>The seminar particularly welcomes work that challenges metronormative narratives of modernism and situates rurality as a dynamic, heterogeneous, and globally connected field. Comparative, multilingual, globally inflected, and interdisciplinary approaches are encouraged. Seminar members are invited to share 5-7 page position papers in advance, and the group will meet for a lively conversation about how this variant of “weird” rural modernism serves to unsettle our standard accounts of literary and cultural expression in this period.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p12">Ghost Writing Modernism Writing Ghosts</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Catherine Hollis (Independent Schoar), Dr. Shilo McGiff (Independent Scholar)</strong>
@@ -270,8 +246,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			</p>
 		
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p13">Raggy Content: New Materialist Approaches to Modernist Editing and Book History</summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Clare Hutton (Loughborough University), Dr. Claire Drewery (Sheffieled Hallam), Prof. Andrew Thacker (Notthingham Trent University)</strong>
@@ -285,8 +261,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>(Please consider joining us by registering for this seminar, and submitting a 5-7 page response in advance for pre-circulation to all registered participants.)  
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p14">Weird Intimacies</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Patrock Query, Dr. Eret Talviste (University of Tartu)
@@ -300,8 +276,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			</p>
 
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p15">The Weird Space Between Modernism and Modernity</summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Genevieve Brassard (University of Portland)
@@ -312,8 +288,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>This seminar welcomes papers grappling with texts or cultural artifacts from the 1914-1945 period that merit scholarly attention despite their continued marginalization. Possibilities include the following: popular, lowbrow, or middlebrow texts; marginalized authors or artists; cultural achievements or movements; recent efforts in republishing out-of-print works (Persephone Books, Handheld Press, McNally Editions, Daunt Books, etc.); the affective relationship between artifacts and audience (both current and contemporaneous); making literary knowledge legible to non-specialized audiences (including and especially students); pedagogical approaches grounded in concrete and transferable skills to analyze modern artifacts; and reconsiderations of weird artists and authors from the interwar period.
 			</p>			
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p16">Prizing Modernism Now</summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Sarah Terry (Oglethorpe University)</strong>
@@ -323,8 +299,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Theoretical, historical, and pedagogical approaches are all welcome, as are papers that engage with the politics of prizes and awards from the modernist to the contemporary.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p17">Weird Resistances to Allegory</summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Rishona Zimring (Lewis and Clarke College), Prof. Martin Harries (University of California, Irvine)</strong>
@@ -332,7 +308,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 			<p>Allegory has long been a familiar critical strategy to ward off the strangeness of modernist art. We seek papers on resistances to allegory. Where allegory is a privileged form of making sense—or, put otherwise, a time-honored form of explaining away—how might the weird name forms of modernist production and reception that refuse allegorical assimilation? Does the weird dis-arrange Rancière’s distribution of the sensible? Is Walter Benjamin’s theory of allegory weird enough? We are interested in thinking together about how critics, readers, and audiences have assimilated what should resist assimilation, and the possibilities of nevertheless finding critical languages for the unassimilable, languages which do not revert to familiar forms of allegoresis. Participants may find instructive Angus Fletcher’s <i>1964 Allegory: The Theory of a Symbolic Mode</i>, and in particular its appendix on “Illustrations.” The Symbolist and Surrealist paintings of Redon, Moreau, Ernst, Delvaux, and de Chirico occasion Fletcher’s claim that all surrealist elements throughout the history of Western painting are allegorical; their “odds and ends” and “discontinuity” create effects of <i>allegorical</i> “enigma.” The seminar seeks out modernist enigmas that might resist rather than illustrate allegory.
 			</p>
 <p>
-	<ul>
+	<ol type="1">
 		<li>Formal resistance to allegorical closure;
 		</li>
 		<li>Historical performance in theater, dance, or other genres which frustrates the allegorical impulse;
@@ -353,14 +329,14 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Surface reading, and other critical languages for the anti-allegorical, as weirdly modernist
 		</li>
-	</ul>
+	</ol>
 </p>							
 			
 <p>Participants will pre-circulate papers of about five pages: these papers will be the basis of our in-person seminar. We are open to alternative forms of criticism.</p>		
 			
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p18">The Weirding of Text into Image</summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Elisabeth Joyce (Pennsylvania Western University)</strong>
@@ -370,8 +346,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>This seminar is open to all considerations of text as it merges into image, from typography issues to graphic design approaches and including electronic kinetic forms. I am particularly interested in relatively under-explored work, such as that by Veronica Forrest-Thomson or Anne Wysocki, but I am open to considerations of any work from any country or time period.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p19">Degrowth: Modernism’s Weird Political Economy (Modernism and Environment SIG)</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Sookyoung Lee (St. Lawrence University), Dr. Joel Duncan (Independent Scholar)</strong>
@@ -381,7 +357,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Perhaps, though, we find in modernism’s insurgent spirit early signs of being weirded out by the growth paradigm. How might modernism have rethought what socially necessary and unnecessary production entails? This Modernism & Environment SIG-sponsored seminar invites participants to consider modernism’s relationship to the degrowth movement and thought by considering how modernist texts experiment with, resist, or critique modernity’s paradigms of growth and development. Topics might include:
 			</p>
 <p>
-	<ul>
+	<ol type="1">
 		<li>bildungsroman and narrative structures of growth
 		</li>
 		<li>maximalist vs. minimalist aesthetics
@@ -398,14 +374,14 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>19th century science of social energetics
 		</li>
-	</ul>
+	</ol>
 </p>				
 			
 <p>We are interested in papers of all forms: works in progress, position-papers, notes from the field, methodological reflections, teaching ideas, plans for community engagement projects, manifestos, manuals for everyday action, and so on. As with previous SIG seminars, our goal is to open a space for collaborative discussion, resource-sharing, and community-building around how modernist studies can contribute to broader efforts to renovate, defend, repair, critically reinhabit, or propose alternatives to the paradigms we’ve inherited.</p>
 <p>Suggested Reading:</p>
 
 <p>
-	<ul>
+	<ol type="1">
 		<li>Kohei Saito, <i>Slow Down: A Degrowth Manifesto</i> (Astra House 2024)
 		</li>
 		<li>Jason Hickel, “On Technology and Degrowth,” Monthly Review 75: 3 (July-August 2023)
@@ -418,12 +394,12 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Jason Moore, <i>Capitalism in the Web of Life: Ecology and the Accumulation of Capital</i> (Verso 2015)
 		</li>
-	</ul>
+	</ol>
 </p>			
 			
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p20">Modernism and Madness after the Neurodivergent Turn</summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Javier Padilla (Colgate Unviersity), Prof. Andrew Gaedtke (University of Illinois Urbana-Champaign)</strong>
@@ -433,8 +409,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>The seminar will follow MSA guidelines, and participants will submit short papers (5-7 pages) six weeks before the conference. Contributors may share works in progress, portions of a larger work, methodological inquiries, critical engagements with single or multiple works, or any other reflection that engages with the seminar’s topics. Once the submissions are received, seminar leaders will circulate them to the group, as well as a set of guiding topics and questions that will serve as a starting point for our discussion. At the conference, the seminar itself will consist of roughly 10-minute interventions from each participant, followed by a more informal, open conversation.
 			</p>
 		</div>
-</details>	
-<details closed>
+</details></li>	
+<li><details closed>
 	<summary class="seminar-title" id="p21">Queer Feminist Modernities: A Strange Attraction</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Jodie Medd (Carleton University), Dr. Madelyn Detloff (Miami University (Ohio))</strong></p>
@@ -444,8 +420,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>We welcome contributions from scholars at any and all stages of study, professional positions, and career paths.
 			</p>
 		</div>
-</details>	 
-<details closed>
+</details></li>	 
+<li><details closed>
 	<summary class="seminar-title" id="p21">Aliens, Automata, and Amphibia</summary>
 		<div class="description">
 			<p><strong>Leader: Prof. Aaron Jaffe (Florida State University), Ms. Meg Cook (Florida State University)</strong></p>
@@ -461,8 +437,8 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Special Invited Guest:  Siegfried Zielinski, the Michel Foucault Professor for Techno-Culture and Media Archaeology at the European Graduate School in Saas Fee and author of <i>Deep Time of the Media</i> and many other books on the archeology and variantology of media.
 			</p>
 		</div>
-</details>	 
-<details closed>
+</details></li>	 
+<li><details closed>
 	<summary class="seminar-title" id="p21">Weird Genealogies of Global Modernism</summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Shiben Banerji (University of California, Berkley), Dr. Apala Das (Bilkent University)</strong></p>
@@ -472,7 +448,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>Participants will contribute to an interdisciplinary conversation analyzing occult, spiritual, or religious–aka “weird”–conceptions of belonging that were advanced through a range of modernist practices, including: experiments in automatic writing; composition of synaesthetic music; photographic, lithographic, sculptural, and painterly abstraction; and designing immersive environments. We welcome position papers, 5-7 pages in length, that advance new methods and approaches for analyzing the stakes of weird invocations of the globe. Papers could be anchored in a range of subjects, including the study of:
 			</p>
 <p>
-	<ul>
+	<ol type="1">
 		<li>techniques of askesis and ekstasis
 		</li>
 		<li>poetics of affiliation and fellowship across creatures
@@ -483,14 +459,14 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>noncausal narratives and accounts of consciousness
 		</li>
-	</ul>
+	</ol>
 </p>						
 			
 			
 			
 		</div>
-</details>	 
-<details closed>
+</details></li>	 
+<li><details closed>
 	<summary class="seminar-title" id="p21">The self as material</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Annabel Williams (University of St. Andrews), Mr. Alexander Harley (Harvard University), Ms. Maria Matilde Morales (Harvard University), Dr. Kamran Javadizadeh (Villanova University)</strong>
@@ -507,15 +483,15 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 
 			
 		</div>
-</details>	 
-<details closed>
+</details></li>	 
+<li><details closed>
 	<summary class="seminar-title" id="p21">Queer, Weird, and Otherwise Non-Canonical Modernisms</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Elizabeth Blake (Clark University), Dr. Elizabeth Anderson (University of Aberdeen)</strong></p>
 			<p>Feminist, queer, and trans scholarship has often worked to revise and expand the canon, and proffered ways to reread and rethink even the most canonical of texts. After all, as Eve Sedgwick advised us thirty-five years ago in Epistemology of the Closet, “the relationship of gay studies to the canon is, and had best be, tortuous.” This axiom is no less applicable to modernist studies, where scholars of anti- or non-canonical modernisms have often found themselves classified as doing modernism otherwise, always with an adjective appended (new, bad, weak, global, etc). The “weird” opens up another way of thinking against the mainstream of modernist studies, and we take it as a call not only to be attuned to the innate weirdness of texts themselves, but also to texts that are weirdly-suited to the ways we have come to understand modernism (perhaps even, in some cases, because their work is “not weird enough”). We invite papers that bring feminist, queer, and trans approaches to non-canonical modernist figures, texts, and objects, and are especially interested in papers focusing on:</p>
 			
 <p>
-	<ul>
+	<ol type="1">
 		<li>Underread or under-studied authors
 		</li>
 		<li>Authors whose work is out of print, or has not been translated into English
@@ -524,12 +500,12 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Authors whose work is contemporaneous to, but rarely considered part of, modernism
 		</li>
-	</ul>
+	</ol>
 </p>			
 			
 		</div>
-</details>	 
-<details closed>
+</details></li>	 
+<li><details closed>
 	<summary class="seminar-title" id="p21">The Harlem Renaissance in Circulation</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Adam McKible (John Jay College of Criminal Justice), Dr. Suzanne W. Churchill (Davidson College), Dr. Rachel Farebrother (Swansea University)</strong></p>
@@ -540,7 +516,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 <p>We particularly welcome contributions that explore:</p>
 
 <p>
-	<ul>
+	<ol type="1">
 		<li>Print and publication networks: magazines, anthologies, and presses that shaped or escaped Harlem’s orbit.
 		</li>
 		<li>Editorial and epistolary circulation: correspondence, editorial exchange, and literary friendship as engines of modernist production.
@@ -551,14 +527,14 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</li>
 		<li>Archival reconsiderations: new readings of circulation—through fragments, reprints, and rediscovered periodicals—as modes of survival and influence.
 		</li>
-	</ul>
+	</ol>
 </p>
 
 <p>By centering circulation as both method and metaphor, this cluster asks: what happens when we follow the Renaissance in motion?</p>			
 			
 		</div>
-</details>	 
-<details closed>
+</details></li>	 
+<li><details closed>
 	<summary class="seminar-title" id="p21">Weird Connections: Modernism & Byzantium</summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Christos Hadiyiannis (University of Regensburg), Dr. Demet Karabulut Dede (Istanbul Bilgi University)</strong></p>
@@ -566,7 +542,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 
 The seminar invites papers that examine how modernism engages with the Byzantine Empire across different national and cultural contexts, media and genres, and which offer transnational or comparative perspectives on this underexplored relationship.</p>
 <p>
-	<ul>
+	<ol type="1">
 		<li>How did cultural materials related to the Byzantine Empire circulate within literary and artistic circles?
 		</li>
 		<li>What connections can be drawn between the rise in interest in the Byzantine Empire during the 19thc and the emergence of decadent literature?
@@ -579,7 +555,7 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 		</li>
 		<li>What contemporary artistic works reflect the influence of both Byzantine traditions and modernist aesthetics?
 		</li>
-	</ul>
+	</ol>
 </p>
 			<p>We call for brief position papers (5-7 pages) on any work (including work in progress) that engages with modernism and Byzantium. Papers will be pre-circulated. We will match participants and ask each attendee to respond to one paper.</p>
 
@@ -588,21 +564,6 @@ The seminar invites papers that examine how modernism engages with the Byzantine
 <p>The discussion will be structured, congenial, and inclusive; the organisers are committed to ensuring that everyone gets the chance to speak and to be heard.
 			</p>
 		</div>
-</details>	 
+</details></li>	 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</ol>
