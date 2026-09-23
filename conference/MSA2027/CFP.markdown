@@ -46,9 +46,9 @@ CFP: MSA2027, Expanded Universe
 <hr style="height: 1px; color: #9a968c;">
 </p>
 
-<h2>Tallahassee, FL, 9-12 December, 2027</h2>
+<h1>Tallahassee, FL, 9-12 December, 2027</h1>
 
-<h3>CFP Deadline <i>January 22</i></h3>
+<h1>CFP Deadline <i>January 22</i></h1>
 
 <hr>
 

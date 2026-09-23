@@ -16,7 +16,7 @@ sidebar:
 	this fall.</p>
 -->
 
-<h1>2025 MSA First Book Prize Shortlist (for books published in 2024)</h1>
+<h1>2026 MSA First Book Prize Shortlist (for books published in 2024)</h1>
 
 <!-- FIRST NOMINEE -->
 <p>
@@ -127,11 +127,11 @@ and debates disseminated from Europe or America.
 
 
 <p>
-	<img src="https://cup-us.imgix.net/covers/9780231560399.jpg?auto=format&w=350"
+	<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421450803.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Sebastian P. Klinger, <a href="https://cup.columbia.edu/book/psychic-empire/9780231560399/">Sleep Works: Experiments in Science and Literature 1899-1929</a> (Johns Hopkins University Press, 2025)</p></strong>
+<strong><p>Sebastian P. Klinger, <a href="https://www.press.jhu.edu/books/title/53855/sleep-works">Sleep Works: Experiments in Science and Literature 1899-1929</a> (Johns Hopkins University Press, 2025)</p></strong>
 
 <p>
 Readers will never see Proust the same way after absorbing Sebastian P. Klinger’s lucid and engaging
