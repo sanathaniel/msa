@@ -96,7 +96,7 @@ HOW A SEMINAR WORKS</h1>
 		</div>
 </details></li>
 <li><details closed>
-	<summary class="seminar-title" id="p2">Women+ in Modernist Publishing and Print</summary>
+	<summary class="seminar-title" id="p2"><span class="t">Women+ in Modernist Publishing and Print</span><span class="hint">OPEN</span></summary>
 		<div class="description">	
 			<p><strong>Leaders: Prof. Nicola Wilson (University of Reading), Dr. Claire Battershill (University of Toronto)</strong></p>
 			<p>In our recent co-edited volume, <i>The Edinburgh Companion to Women in Publishing, 1900–2020</i> (EUP, 2024), we identified a rapidly developing field of intersectional feminist book and publishing history—one that is reshaping understandings of women’s long-standing and often historically under-valued contributions to publishing and print production. Building on crucial scholarship by Jayne Marek (1995) and Shari Benstock (1986), contributors to the modernist section of the volume traced a “constellation” (Battershill 2022) of women’s modernist print activity, examining figures such as Elizabeth Corbet Yeats, Virginia Woolf, Anaïs Nin, Nancy Cunard, Caresse Crosby, Maria Jolas, Jessie Redmon Fauset, Noémia de Sousa, Natalie and Lea Danesi, Gwenda David, Harriet Shaw Weaver, Marie Neurath, Nella Larsen, Ethel Gutman, and Eva Collet Reckitt. While the volume assembled a diverse range of fascinating women’s stories, it also underscored the need for further scholarly engagement with this expanding field.</p>
@@ -106,7 +106,7 @@ HOW A SEMINAR WORKS</h1>
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p3">Unsettling multilingualisms in global modernism
+	<summary class="seminar-title" id="p3"><span class="t">Unsettling multilingualisms in global modernism</span><span class="hint">OPEN</span>
 </summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Juliette Taylor-Batty (Leeds Trinity University), Prof. Anjali Nerlekar (Rutgars University)</strong>
@@ -121,7 +121,7 @@ HOW A SEMINAR WORKS</h1>
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p4">Strange methods: modernism and progressive education</summary>
+	<summary class="seminar-title" id="p4"><span class="t">Strange methods: modernism and progressive education</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Isabelle Parkinson (Royal Holloway, University of London)</strong>
 			</p>
@@ -130,7 +130,7 @@ HOW A SEMINAR WORKS</h1>
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p5">Teaching Film and Media</summary>
+	<summary class="seminar-title" id="p5"><span class="t">Teaching Film and Media</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Marc Farrior (Southern Utah University), Dr. Carolyn Jacobs (Central Connecticut State University), Dr. Alix Beeston
 (Cardiff University), Dr. Nicholas Forster (University of Oregon)</strong>
@@ -160,7 +160,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p6">Weird Forms: Modernism goes to College/in the University</summary>
+	<summary class="seminar-title" id="p6"><span class="t">Weird Forms: Modernism goes to College/in the University</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Andy Hines (Swarthmore College), Dr. Rebecca Roach (University of Brimingham)</strong>
 			</p>
@@ -173,7 +173,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p7">Weird Fates and Futures of Modernism</summary>
+	<summary class="seminar-title" id="p7"><span class="t">Weird Fates and Futures of Modernism</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Maren Linett (Purdue University), Prof. Cynthia Port (Caoastal Carolina University)</strong>
 			</p>
@@ -184,7 +184,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p8">Weird Science and the Modernist Body</summary>
+	<summary class="seminar-title" id="p8"><span class="t">Weird Science and the Modernist Body</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Rebecca Bowler (Keele University), Dr. Laura Ludtke (Merton College, Oxford)</strong>
 			</p>
@@ -198,7 +198,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p9">Caring Modernists?</summary>
+	<summary class="seminar-title" id="p9"><span class="t">Caring Modernists?</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Milena Schwab-Graham (University of Leeds), Dr. Emily Bell (Loughborough University), Dr. Jade French (Loughborough University), Ms. Paula Maher Martin (University of Galway)</strong>
 			</p>
@@ -210,7 +210,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p10">Risky Modernism</summary>
+	<summary class="seminar-title" id="p10"><span class="t">Risky Modernism</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Mantra Mukim (University of Oxford), Prof. Jarad Zimbler (King's College London), Prof. Alys Moody (Bard College)</strong>
 			</p>
@@ -223,7 +223,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p11">Weird Rural Modernisms: Technology, Machinery and the Question of the Countryside</summary>
+	<summary class="seminar-title" id="p11"><span class="t">Weird Rural Modernisms: Technology, Machinery and the Question of the Countryside</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Maria Farland (Fordham University), Dr. Ben Child (Colgate University), Dr. Kristin Bluemel (Monmouth University)</strong>
 			</p>
@@ -238,7 +238,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p12">Ghost Writing Modernism Writing Ghosts</summary>
+	<summary class="seminar-title" id="p12"><span class="t">Ghost Writing Modernism Writing Ghosts</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Catherine Hollis (Independent Schoar), Dr. Shilo McGiff (Independent Scholar)</strong>
 			</p>
@@ -252,7 +252,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p13">Raggy Content: New Materialist Approaches to Modernist Editing and Book History</summary>
+	<summary class="seminar-title" id="p13"><span class="t">Raggy Content: New Materialist Approaches to Modernist Editing and Book History</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Clare Hutton (Loughborough University), Dr. Claire Drewery (Sheffieled Hallam), Prof. Andrew Thacker (Notthingham Trent University)</strong>
 			</p>
@@ -267,7 +267,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p14">Weird Intimacies</summary>
+	<summary class="seminar-title" id="p14"><span class="t">Weird Intimacies</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Patrock Query, Dr. Eret Talviste (University of Tartu)
 </strong>
@@ -282,7 +282,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p15">The Weird Space Between Modernism and Modernity</summary>
+	<summary class="seminar-title" id="p15"><span class="t">The Weird Space Between Modernism and Modernity</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Genevieve Brassard (University of Portland)
 </strong>
@@ -294,7 +294,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p16">Prizing Modernism Now</summary>
+	<summary class="seminar-title" id="p16"><span class="t">Prizing Modernism Now</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Sarah Terry (Oglethorpe University)</strong>
 			</p>
@@ -305,7 +305,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p17">Weird Resistances to Allegory</summary>
+	<summary class="seminar-title" id="p17"><span class="t">Weird Resistances to Allegory</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Rishona Zimring (Lewis and Clarke College), Prof. Martin Harries (University of California, Irvine)</strong>
 			</p>
@@ -341,7 +341,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p18">The Weirding of Text into Image</summary>
+	<summary class="seminar-title" id="p18"><span class="t">The Weirding of Text into Image</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leader: Dr. Elisabeth Joyce (Pennsylvania Western University)</strong>
 			</p>	
@@ -352,7 +352,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p19">Degrowth: Modernism’s Weird Political Economy (Modernism and Environment SIG)</summary>
+	<summary class="seminar-title" id="p19"><span class="t">Degrowth: Modernism’s Weird Political Economy (Modernism and Environment SIG)</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Sookyoung Lee (St. Lawrence University), Dr. Joel Duncan (Independent Scholar)</strong>
 			</p>
@@ -404,7 +404,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p20">Modernism and Madness after the Neurodivergent Turn</summary>
+	<summary class="seminar-title" id="p20"><span class="t">Modernism and Madness after the Neurodivergent Turn</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Javier Padilla (Colgate Unviersity), Prof. Andrew Gaedtke (University of Illinois Urbana-Champaign)</strong>
 			</p>
@@ -415,7 +415,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	
 <li><details closed>
-	<summary class="seminar-title" id="p21">Queer Feminist Modernities: A Strange Attraction</summary>
+	<summary class="seminar-title" id="p21"><span class="t">Queer Feminist Modernities: A Strange Attraction</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Jodie Medd (Carleton University), Dr. Madelyn Detloff (Miami University (Ohio))</strong></p>
 
@@ -426,7 +426,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	 
 <li><details closed>
-	<summary class="seminar-title" id="p21">Aliens, Automata, and Amphibia</summary>
+	<summary class="seminar-title" id="p21"><span class="t">Aliens, Automata, and Amphibia</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leader: Prof. Aaron Jaffe (Florida State University), Ms. Meg Cook (Florida State University)</strong></p>
 
@@ -443,7 +443,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	 
 <li><details closed>
-	<summary class="seminar-title" id="p21">Weird Genealogies of Global Modernism</summary>
+	<summary class="seminar-title" id="p21"><span class="t">Weird Genealogies of Global Modernism</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Prof. Shiben Banerji (University of California, Berkley), Dr. Apala Das (Bilkent University)</strong></p>
 
@@ -471,7 +471,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	 
 <li><details closed>
-	<summary class="seminar-title" id="p21">The self as material</summary>
+	<summary class="seminar-title" id="p21"><span class="t">The self as material</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Annabel Williams (University of St. Andrews), Mr. Alexander Harley (Harvard University), Ms. Maria Matilde Morales (Harvard University), Dr. Kamran Javadizadeh (Villanova University)</strong>
 			</p>
@@ -489,7 +489,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	 
 <li><details closed>
-	<summary class="seminar-title" id="p21">Queer, Weird, and Otherwise Non-Canonical Modernisms</summary>
+	<summary class="seminar-title" id="p21"><span class="t">Queer, Weird, and Otherwise Non-Canonical Modernisms</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Elizabeth Blake (Clark University), Dr. Elizabeth Anderson (University of Aberdeen)</strong></p>
 			<p>Feminist, queer, and trans scholarship has often worked to revise and expand the canon, and proffered ways to reread and rethink even the most canonical of texts. After all, as Eve Sedgwick advised us thirty-five years ago in Epistemology of the Closet, “the relationship of gay studies to the canon is, and had best be, tortuous.” This axiom is no less applicable to modernist studies, where scholars of anti- or non-canonical modernisms have often found themselves classified as doing modernism otherwise, always with an adjective appended (new, bad, weak, global, etc). The “weird” opens up another way of thinking against the mainstream of modernist studies, and we take it as a call not only to be attuned to the innate weirdness of texts themselves, but also to texts that are weirdly-suited to the ways we have come to understand modernism (perhaps even, in some cases, because their work is “not weird enough”). We invite papers that bring feminist, queer, and trans approaches to non-canonical modernist figures, texts, and objects, and are especially interested in papers focusing on:</p>
@@ -510,7 +510,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	 
 <li><details closed>
-	<summary class="seminar-title" id="p21">The Harlem Renaissance in Circulation</summary>
+	<summary class="seminar-title" id="p21"><span class="t">The Harlem Renaissance in Circulation</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Adam McKible (John Jay College of Criminal Justice), Dr. Suzanne W. Churchill (Davidson College), Dr. Rachel Farebrother (Swansea University)</strong></p>
 			<p>The Harlem Renaissance has long anchored histories of modernism and Black cultural expression in a narrow geography—chiefly around Harlem and the publishing world of New York City. Yet the vitality of the Renaissance lay not in a fixed location but in its circulation: through print networks outside of New York, migration routes that stretch beyond the paths of South to North, correspondences across linguistic and cultural divides, and performance circuits that connected Black artists, editors, and readers across regions and oceans.</p>
@@ -539,7 +539,7 @@ Participants will circulate a brief teaching artifact, such as a syllabus excerp
 		</div>
 </details></li>	 
 <li><details closed>
-	<summary class="seminar-title" id="p21">Weird Connections: Modernism & Byzantium</summary>
+	<summary class="seminar-title" id="p21"><span class="t">Weird Connections: Modernism & Byzantium</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Christos Hadiyiannis (University of Regensburg), Dr. Demet Karabulut Dede (Istanbul Bilgi University)</strong></p>
 			<p>Modernists were drawn to unexpected connections. One such weird connection was with Byzantium, which for many modernists signalled decline and revival, corruption and rediscovery, imagination and reinvention.
