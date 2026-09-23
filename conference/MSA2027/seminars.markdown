@@ -41,7 +41,9 @@ footer: false
 SEMINARS
 </h1>
 
-<hr style="height: 1px; color: #f2f0ea;">
+<p>
+<hr style="height: 1px; color: #9a968c;">
+</p>
 
 <h1>
 HOW A SEMINAR WORKS</h1>
@@ -66,14 +68,16 @@ HOW A SEMINAR WORKS</h1>
 <p>Leaders should set rules in the first or second message to the group, including at a minimum:
 
 <ul>
-	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
-	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
-	<li><strong>The procedure for sharing of written work.</strong></li>
+	<li>A deadline for submission of written work. Participants who do not submit written work will not be listed in the conference program. It is appropriate to be firm.</li>
+	<li>A length, typically five to seven pages.</li>
+	<li>A method for sharing the work.</li>
 </ul>
 
 <p>Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.</p>
 
-<hr style="height: 1px; color: #f2f0ea;">
+<p>
+<hr style="height: 1px; color: #9a968c;">
+</p>
 
 <h1>THE LIST</h1>
 
@@ -82,7 +86,7 @@ HOW A SEMINAR WORKS</h1>
 <ol>
 
 <li><details closed>
-	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing</summary>
+	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing<span>OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Alexandra Peat (University of Galway), Dr. Emily Ridge (University of Galway)</strong></p>
 			<p>The acknowledgement page has become a standard feature of contemporary literature, a paratextual space for authors to offer thanks, signal networks of personal and professional support, or cite sources. Following the premise that the shape and function of the contemporary acknowledgment page has evolved and crystallised since the mid-to-late twentieth century, this seminar is interested in those offbeat forms of acknowledgement that existed before the consolidation of acknowledgement as a paratextual practice, paying particular attention to modernist acknowledgements.</p>

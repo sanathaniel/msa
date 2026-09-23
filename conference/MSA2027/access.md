@@ -40,9 +40,17 @@ footer: false
 
 <h1>Sharing Accessible Presentation Materials</h1>
 
+<p>
+<hr style="height: 1px; color: #9a968c;">
+</p>
+
 BAMS/MSA 2026 presenters are asked to upload a digital copy of their remarks prior to the beginning of their session(s). These digital files are not intended for any use other than to expand accessibility during the conference. 
 
 <h2>Uploading Materials as a Presenter</h2>
+
+<p>
+<hr style="height: 1px; color: #9a968c;">
+</p>
 
 <ul>
 	<li>Save your document in either PDF or .DOCX format (max size 4mb). Include your surname(s) as the first part of your filename, e.g. “Smith MSA23 Paper.pdf”.</li> 
