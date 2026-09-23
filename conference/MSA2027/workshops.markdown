@@ -58,7 +58,7 @@ WORKSHOPS
 <ol>
     
 <li><details closed>
-	<summary class="seminar-title" id="p1">Mapping Religion in the Global Anglophone Novel</summary>
+	<summary class="seminar-title" id="p1"><span class="t">Mapping Religion in the Global Anglophone Novel</span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leaders: Prof. Jamie Callison (University of Agder), Dr. Elizabeth Anderson (University of Aberdeen), Prof. Mimi Winick (Virginia Commonwealth University), Dr. Graham Jensen (Digital Research Alliance of Canada), Prof. Suzanne Hobson (Queen Mary University of London)
@@ -72,7 +72,7 @@ WORKSHOPS
 </details></li>
 
 <li><details closed>
-	<summary class="seminar-title" id="p2">Ghost in the Medium: Teaching and Researching Text and Image</summary>
+	<summary class="seminar-title" id="p2"><span class="t">Ghost in the Medium: Teaching and Researching Text and Image</span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leaders: Prof. Emily Hyde (Rowan University), Ms. Jo Klevdal (University of North Carolina, Chapel Hill)</strong></p>
@@ -85,7 +85,7 @@ WORKSHOPS
 		</div>
 </details></li>
 <li><details closed>
-	<summary class="seminar-title" id="p2">Film Studies Workshop</summary>
+	<summary class="seminar-title" id="p2"><span class="t">Film Studies Workshop</span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leaders: Prof. John Hoffmann (Chapman University)</strong></p>
@@ -95,7 +95,7 @@ WORKSHOPS
 		   	</div>
 </details></li>
 <li><details closed>
-	<summary class="seminar-title" id="p2">Give What You Can, Take What You Need: Creating Modernist Mutual Aid <i>*VIRTUAL SEMINAR*</i></summary>
+	<summary class="seminar-title" id="p2"><span class="t">Give What You Can, Take What You Need: Creating Modernist Mutual Aid <i>*VIRTUAL SEMINAR*</i></span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leaders: Dr. Nissa Ren Cannon (Stanford University), Dr. Catherine Hollis (Independent Scholar)</strong></p>
@@ -111,7 +111,7 @@ WORKSHOPS
 </div>
 </details></li>
 <li><details closed>
-	<summary class="seminar-title" id="p2">Weird Waste: A Hands-On Craft Workshop in Modernist (Re)Making</summary>
+	<summary class="seminar-title" id="p2"><span class="t">Weird Waste: A Hands-On Craft Workshop in Modernist (Re)Making</span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leaders: Prof. Diana Proenza (Unviersity of Maryland, College Park), Dr. Jade French (Loughborough University), Dr. Molly Volanth Hall (Rhode Island School of Design)</strong></p>
@@ -125,7 +125,7 @@ WORKSHOPS
 </div>
 </details></li>
 <li><details closed>
-	<summary class="seminar-title" id="p2">E-Poetry Workshop</summary>
+	<summary class="seminar-title" id="p2"><span class="t">E-Poetry Workshop</span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leader: Dr. Leonardo Flores</strong></p>
@@ -144,7 +144,7 @@ WORKSHOPS
 </details></li>
 
 <li><details closed>
-	<summary class="seminar-title" id="p2">What’s Next: Life and Work After Submission</summary>
+	<summary class="seminar-title" id="p2"><span class="t">What’s Next: Life and Work After Submission</span><span class="hint">OPEN</span></summary>
 		<div class="description">
     
         <p><strong>Leaders: Jenny Kenyon (University of Bristol), Lily Martin (Keele University), John D. Attridge (Regent College London), Enaiê Mairê Azambuja (Independent Researcher; incoming Visiting Research Fellow, University of Tampere), James Dowthwaite (University of Mainz), Paul Saint-Amour (University of Pennsylvania), Aran Ward Sell (University of Notre Dame)</strong></p>

@@ -39,7 +39,7 @@ classes:
 <p></p>
 
 <h1>
-MSA: Expanded Universe
+CFP: MSA2027, Expanded Universe
 </h1>
 
 <p>
