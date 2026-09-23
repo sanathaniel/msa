@@ -42,7 +42,9 @@ classes:
 MSA: Expanded Universe
 </h1>
 
-<hr>
+<p>
+<hr style="height: 1px; color: #9a968c;">
+</p>
 
 <h2>Tallahassee, FL, 9-12 December, 2027</h2>
 

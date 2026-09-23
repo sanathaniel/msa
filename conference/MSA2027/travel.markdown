@@ -44,7 +44,9 @@ footer: false
 TRAVEL
 </h1>
 
-<hr style="height: 1px; color: #f2f0ea;">
+<p>
+<hr style="height: 1px; color: #9a968c;">
+</p>
 
 
 
