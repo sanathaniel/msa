@@ -86,7 +86,7 @@ HOW A SEMINAR WORKS</h1>
 <ol>
 
 <li><details closed>
-	<summary class="seminar-title" id="p1">Offbeat Acknowledgements in Modernist Writing<span>OPEN</span></summary>
+	<summary class="seminar-title" id="p1"><span>Offbeat Acknowledgements in Modernist Writing</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p><strong>Leaders: Dr. Alexandra Peat (University of Galway), Dr. Emily Ridge (University of Galway)</strong></p>
 			<p>The acknowledgement page has become a standard feature of contemporary literature, a paratextual space for authors to offer thanks, signal networks of personal and professional support, or cite sources. Following the premise that the shape and function of the contemporary acknowledgment page has evolved and crystallised since the mid-to-late twentieth century, this seminar is interested in those offbeat forms of acknowledgement that existed before the consolidation of acknowledgement as a paratextual practice, paying particular attention to modernist acknowledgements.</p>
