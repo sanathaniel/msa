@@ -72,6 +72,8 @@ color: #f2f0ea;
 
 .seminar-title {
   padding: 0.75rem 0 0.95rem;
+  display: flex;
+  justify-content: space-between;
   width: 100%;
   background-color: #050505;
   color: #f2f0ea;
@@ -130,23 +132,19 @@ ol li {
 	border-top: 1px solid #9a968c;
 
 .t {
-	box-sizing: border-box;
 }
 
 details.seminar-title summary {
 	cursor: pointer;
     list-style: none;
-    display: grid;
-    grid-template-columns: 2.2rem 1fr auto;
 }
 	
 details summary .hint {
 	color: #9a968c;
-	text-align: end;
 	font-size: .72rem;
 }
 
-details.seminar-title[open] summary .hint {
+details summary[open] .hint {
 	color: #f5c518;
 }
 
