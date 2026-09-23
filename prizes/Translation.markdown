@@ -39,11 +39,11 @@ An English translation of Maria Janion’s critical writings is long overdue, an
 
 
 <p>
-	<img src="https://libraries.clemson.edu/press/wp-content/uploads/sites/3/2024/02/CUPRESS_Spine-S_Co.png"
+	<img src="https://libraries.clemson.edu/press/wp-content/uploads/sites/3/2024/02/Clemson-Go%CC%81mez-de-la-Serna-cover-chosen-668x1024.jpg"
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Ramon Gomez de la Serna, <a href="http://libraries.clemson.edu/press/books/morbidities-and-the-concept-of-the-new-literature/">The Morbidities and “The Concept of the New Literature,"</a> translated from Spanish by Nicolas Fernandez-Medina (Clemson University Press, 2024)
+<strong><p>Ramon Gomez de la Serna, <a href="http://libraries.clemson.edu/press/books/morbidities-and-the-concept-of-the-new-literature/"> Morbidities and “The Concept of the New Literature,"</a> translated from Spanish by Nicolas Fernandez-Medina (Clemson University Press, 2024)
 </p></strong>
 
 <p>
