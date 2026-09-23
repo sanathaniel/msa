@@ -65,11 +65,11 @@ HOW A SEMINAR WORKS</h1>
 
 <p>Leaders should set rules in the first or second message to the group, including at a minimum:
 
-<ol type="1">
+<ul>
 	<li><strong>A deadline for submission of written work</strong> (preferably about six weeks before the conference).  <strong>It is MSA’s policy that participants who do not submit written work will not be listed in the conference program for a seminar.</strong> It is perfectly appropriate to be tough: More than one seminar has suffered because participants did not have sufficient time to read all of the papers carefully.</li>
 	<li><strong>A recommended length for seminar papers (typically 5 to 7 pages).</strong></li>
 	<li><strong>The procedure for sharing of written work.</strong></li>
-</ol>
+</ul>
 
 <p>Some leaders add a reading list, paired critiques, or constraints on method. Those extras give a seminar its particular grain.</p>
 
