@@ -8,7 +8,27 @@ sidebar:
 
 <!-- #BeginEditable "content" -->
 
-<h1>2025 MSA Shortlist for Editions, Anthologies, or Collections (published in 2023 or 2024)</h1>
+<!--
+<h1>Prize for Editions, Anthologies, or Collections (published in 2023 or 2024)</h1>
+-->
+
+<h1>About</h1>
+<p>Every other year, the Modernist Studies Association seeks nominations
+	for its Edition, Anthology, or Essay Collection Prize, awarded to a
+	work published in the previous two years. A panel of judges
+	determines the work that made the most significant contribution to
+	modernist studies. A book first published in another year will not
+	be eligible for the prize. This exclusion applies even if a new
+	edition (paperback or revised, for example) was published in the
+	award year. 
+<p>Please visit our <a href="/prizes/nominations/">Nominations</a> in
+	spring 2027 to recommend a book for the next prize (for books
+	published in 2025 and 2026). Visit our <a
+		href="/prizes/previous-winners">Archive</a> to see previous
+	winners.</p>
+
+
+<!--
 
 <p>
 	<img src="https://assets.cambridge.org/97811070/02685/cover/9781107002685.jpg"
@@ -58,21 +78,9 @@ sidebar:
 
 <p>Mark Whalan’s lively and compendious volume is a product of the New Modernist Editing in its preoccupation with reorienting the bounds of ‘traditional’ modernist studies towards pluralism, intersectionality, indigeneity, positionality, regionalism, and transnationalism, while giving ample space to queer writers and writers of colour. Seeing modernism as ‘set of relations’ or a ‘constellation’ of ‘cultural engagements with modernity’ (p. 29), as Whalan puts it, the contributions in this volume each in their way explore how the elements of their choice from the great mix of American modernism are bound together, not in a state of homogeny, but more like a grid or circuit board, ‘connecting Paris to Greenwich Village to Nex Mexico’ (p. 71). In chasing these and a multitude of other connections across art, literature, photography, cinema, the media, and anthropology, The Cambridge History of American Modernism is one of the most excellent, fine-grained, and excitingly new treatments to date.</p>
 
+-->
 
 <hr />
 
-<h1>About</h1>
-<p>Every other year, the Modernist Studies Association seeks nominations
-	for its Edition, Anthology, or Essay Collection Prize, awarded to a
-	work published in the previous two years. A panel of judges
-	determines the work that made the most significant contribution to
-	modernist studies. A book first published in another year will not
-	be eligible for the prize. This exclusion applies even if a new
-	edition (paperback or revised, for example) was published in the
-	award year. 
-<p>Please visit our <a href="/prizes/nominations/">Nominations</a> in
-	spring 2027 to recommend a book for the next prize (for books
-	published in 2025 and 2026). Visit our <a
-		href="/prizes/previous-winners">Archive</a> to see previous
-	winners.</p>
+
 <!-- #EndEditable -->

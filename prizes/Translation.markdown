@@ -43,7 +43,7 @@ An English translation of Maria Janion’s critical writings is long overdue, an
 		style="margin:1em" alt="" width="100" height="150" align="right" />
 <p> 
 
-<strong><p>Ramon Gomez de la Serna, <a href="hhttps://libraries.clemson.edu/press/books/morbidities-and-the-concept-of-the-new-literature/">The Morbidities and “The Concept of the New Literature,"</a> translated from Spanish by Nicolas Fernandez-Medina (Clemson University Press, 2024)
+<strong><p>Ramon Gomez de la Serna, <a href="http://libraries.clemson.edu/press/books/morbidities-and-the-concept-of-the-new-literature/">The Morbidities and “The Concept of the New Literature,"</a> translated from Spanish by Nicolas Fernandez-Medina (Clemson University Press, 2024)
 </p></strong>
 
 <p>
@@ -99,10 +99,7 @@ Hopkins University</p>
 
 
 <!--
-<p>The Modernist Studies Association has announced its short list for
-	the 2023 MSA Book Prize for an Edition, Anthology, or Essay
-	Collection published in 2021 or 2022. We offer our congratulations
-	to all of the finalists. This prize is awarded every other year.</p>
+
 	
 
 -->	
