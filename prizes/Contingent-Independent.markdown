@@ -16,7 +16,7 @@ sidebar:
 	this fall.</p>
 -->
 
-<h1>Shortlist: 2026 Caucus for Contingent and Independent Scholars Essay Prize</h1>
+<h1>Shortlist: 2026 Caucus for Contingent and Independent Scholars Essay Prize (for essays published in 2025)</h1>
 <h2>Sponsored by <a href="https://libraries.clemson.edu/press/">Clemson University Press</a></h2>
 
 <p>
