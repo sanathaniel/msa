@@ -26,6 +26,15 @@ layout: home
 <div class="main-wrapper">
 
 	<div class="feature__wrapper">
+	
+		<div class ="feature__item">
+				<div class="feature__item-teaser">
+					<img src="assets/demuth.jpg" min-width="150" min-height="150"/>
+				</div>
+				<h3>2026 Book Prizes</h3>
+				<figcaption  class="archive__item-title">Announcing the shortlists and winners for the 2026 Prizes!</figcaption>
+			<a href="/prizes/previous-winners" class="btn btn--primary">Celebrate</a>
+		</div>
 
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
@@ -99,6 +108,11 @@ layout: home
 			<a href="/members/login/listserv/" class="btn btn--primary">Connect</a>
 		</div>
 
+
+		
+		
+<!--	
+
 		<div class ="feature__item">
 				<div class="feature__item-teaser">
 					<img src="assets/square-logo.png" min-width="150" min-height="150"/>
@@ -108,10 +122,6 @@ layout: home
 			<a href="https://modnets.org/" class="btn btn--primary">Explore</a>
 		</div>
 		
-		
-<!--	
-
-
 		<div class ="feature__item" style="border:20px;">
 			<div class="feature__item-teaser">
 					<img src="assets/empress_thumb.jpg" min-width="150" min-height="150"/>
