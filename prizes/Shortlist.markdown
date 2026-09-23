@@ -10,9 +10,12 @@ sidebar:
 
 
 
-
+<p>The Modernist Studies Association is excited to announce its short list for
+	the MSA  Book Prize for a book published in 2025. Many
+	congratulations to everyone who published books last year and to the
+	finalists below. </p>
 							
-<h1>2026 MSA Book Prize Shortlist (for books published in 2024)</h1>
+<h1>2026 MSA Book Prize Shortlist (for books published in 2025)</h1>
 
 <!-- FIRST NOMINEE -->
 
