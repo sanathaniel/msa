@@ -39,7 +39,7 @@ classes:
 <p></p>
 
 <h1>
-CFP: MSA2027, Expanded Universe
+Call for Papers
 </h1>
 
 <p>
@@ -108,10 +108,6 @@ While the weird has often been cast as a genre of interiority, one interested in
 <p>The conference is open to anyone, in any discipline, working on modernism. The conference will take place in Loughborough, but there will be some remote presentation and attendance options for panels, roundtables, and individual papers (but not seminars or workshops). Please note that panels and roundtables must be wholly in-person or wholly virtual; they may not be a hybrid of both. Please indicate whether you would like to attend in person or online when you submit your proposal. Further details, including keynotes, prices for the conference and details of how to pay, will appear shortly. 
 </p>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p> 
 
 <h1 id="guests">Featured Guests</h1>
 
@@ -142,11 +138,6 @@ While the weird has often been cast as a genre of interiority, one interested in
 <a href="https://english.fsu.edu/faculty/alison-sperling">Dr Alison Sperling</a>, Assistant Professor of Literature, Media, and Culture at Florida State University, author of ‘Weird Queer Ecologies’ (in <a href="https://www.peterlang.com/document/1321928">The Weird: A Companion</a>, Peter Lang, 2025), co-editor of <a href="https://muse.jhu.edu/issue/42824">‘Weird Temporalities’ special issue of Studies in the Fantastic (2020)</a> and currently finalising a monograph entitled Weird Modernism.
 </p>
 
-<p>
-	<img src="/conference/MSA2027/assets/albers_thumb.png"
-		style="margin-right:1em" width="40px" align="left" />
-<p> 
-
 <h1>Proposals</h1>
 
 <p>The conference organizers for MSA Loughborough 2026 invite proposals for:</p>
@@ -171,7 +162,7 @@ While the weird has often been cast as a genre of interiority, one interested in
 
 <hr>
 <details closed>
-	<summary class="CFP-summary" id="p1">Call for Seminar Proposals</summary>
+	<summary class="CFP-summary" id="p1"><span class="t">Call for Seminar Proposals</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>Seminars are a central feature of the MSA conference. They are longer sessions of no more than 12 participants, designed to generate lively exchange and facilitate future collaborations. Each participant writes a brief position paper (5-7 pages) that is pre-circulated and read by all participants prior to the conference. Participants sign up for seminars on a first-come, first-served basis when registering for the conference.
 </p>
@@ -183,7 +174,7 @@ While the weird has often been cast as a genre of interiority, one interested in
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary" id="p2">Call for Workshop Proposals</summary>
+	<summary class="CFP-summary" id="p2"><span class="t">Call for Workshop Proposals</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>Workshops can take the form of discussions, presentations, and hands-on demonstrations. Past workshops have focused on topics such as collaboration, book making, publishing, teaching, the job market, mid-career challenges and opportunities, research and the liberal arts college, and alternative/non-academic jobs, and how best to ensure the future of the profession. Participation in a workshop does not preclude participation in other aspects of the conference.
 </p>
@@ -197,7 +188,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary" id="p3">Call for Panel Proposals</summary>
+	<summary class="CFP-summary" id="p3"><span class="t">Call for Panel Proposals</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>Panels are designed to expand research and debate on a topic or theme and present a clear rationale for the papers’ collective goal. Keep in mind that topics are not limited to the conference theme. Please be sure to characterize in your proposal what each paper contributes individually and how it fits into a cohesive session.
 </p>
@@ -223,7 +214,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary" id="p4">Call for Roundtable Proposals</summary>
+	<summary class="CFP-summary" id="p4"><span class="t">Call for Roundtable Proposals</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>All topics will be considered for roundtable discussions. Unlike panels, which generally feature a sequence of 15-20-minute talks followed by questions, roundtables gather a group of participants around a shared concern in order to generate discussion among the participants and with the audience. Instead of delivering full-length papers, presenters are asked to deliver short position statements (5-8 minutes) that respond to questions distributed in advance by the organizer, or to take turns responding to prompts from the moderator, or take a more experimental approach to the format. The bulk of the session should be devoted to discussion. No paper titles are listed in the program, only the names of participants and an abstract describing the goals of the session.
 </p>
@@ -256,7 +247,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary" id="p5">Call for Individual Paper Proposals for MSA Panel Streams</summary>
+	<summary class="CFP-summary" id="p5"><span class="t">Call for Individual Paper Proposals for MSA Panel Streams</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>Individual paper proposals must speak directly to one of this year’s streams, described below. The MSA program committee and MSA Special Interest Groups in charge of the streams will compose panels and roundtables from the individual papers.</p>
 <p><a href="https://msa2026.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by December 29, 
@@ -265,7 +256,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
  
 
 <details closed>
-	<summary class="stream-title">Modernism & Environment Stream</summary>
+	<summary class="stream-title"><span class="t">Modernism & Environment Stream</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p>
 			This stream invites papers that explore the ecological dimensions of weird modernism. From the material ephemerality cultivated by pulp fiction to more-than-human, spectral environments, weird modernism brings out the enmeshment of human, ecological and cosmic spaces. We invite participants to meditate on the environmental concerns that pervade the weird worlds of modernist texts. How do ecocritical lenses illuminate the weird relationships between the environment, the human and nonhuman in modernism? Or how do the forms and themes of weird modernisms destabilize narrative agency and challenge ecological plausibility? 
@@ -274,7 +265,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 
 <details closed>
-	<summary class="stream-title">Modernism and Film Stream</summary>
+	<summary class="stream-title"><span class="t">Modernism and Film Stream</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 			<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Modernism and Film stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which the "weird" informs film productions, film cultures, and the very activity of cinematic thought. 
 			</p>
@@ -282,14 +273,14 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 		
 <details closed>
-	<summary class="stream-title">Modernism and Pedagogy Stream</summary>
+	<summary class="stream-title"><span class="t">Modernism and Pedagogy Stream</span><span class="hint">OPEN</span></summary>
 		<div class="description">		
 			<p>The Modernism and Pedagogy SIG invites papers that explore the weird sides of teaching modernism through approach, philosophy and content. We seek demonstrations or examples of teaching modernism in weird spaces, the weirdness of teaching modernism in the modern university and modernism’s own weird ideas about pedagogy. Participants might consider jessie l. beier’s “weird pedagogies” (2023) as a mode for rethinking around and through the crisis of higher education and its future. As always, we welcome papers which reflect on the more general aspects of pedagogy and modernism, and the relationship between modernist pedagogy and scholarship. We hope papers will address the lived conditions of our teaching labour, with institutional pressures and constraints demanding creativity and weirdness in our pedagogical practices. </p>		
 		</div>
 </details>
 
 <details closed>
-		<summary class="stream-title">Intersectional Feminist and Queer Praxis Stream</summary>
+		<summary class="stream-title"><span class="t">Intersectional Feminist and Queer Praxis Stream</span><span class="hint">OPEN</span></summary>
 			<div class="description">		
 				<p>Queer studies has long challenged frameworks of heteronormativity and chrononormativity, emphasising alternative modes of living, dying, desiring, and experiencing time (MacCormack, 2025; Freeman, 2010; McRuer, 2006; Edelman, 2004). Within this context, the weird emerges not as a marker of identity but as a deliberate aesthetic and political strategy. This extends beyond a queer lived experience to also encompass queering Modernism itself through, for example, queer readings of canonical texts. 
 				</p>
@@ -297,7 +288,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	</details>
 </div>
 <details closed>
-		<summary class="stream-title">Weird Modernisms Stream</summary>
+		<summary class="stream-title"><span class="t">Weird Modernisms Stream</span><span class="hint">OPEN</span></summary>
 			<div class="description">		
 				<p>We also welcome individual paper proposals focussed on Weird Modernisms that fall outside of these Special Interest Groups.
 				</p>
@@ -309,7 +300,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 <hr>
 
 <details closed>
-	<summary class="CFP-summary">Participation</summary>
+	<summary class="CFP-summary"><span class="t">Participation</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>So as to involve as many people as possible as active participants, the MSA limits appearances
  on the program to one in each category below:
@@ -335,7 +326,7 @@ in full. For information on MSA, please check the <a href="/index.html">Associat
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary">Conference Access</summary>
+	<summary class="CFP-summary"><span class="t">Conference Access</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>The MSA is committed to ensuring that all conference registrants will be able to 
 participate in conference events. We ask that all conference attendees give thought 
@@ -348,7 +339,7 @@ to questions of access and work with the conference organizers to create an even
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary">Statement on Inclusion</summary>
+	<summary class="CFP-summary"><span class="t">Statement on Inclusion</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>The Modernist Studies Association supports the rights and dignity of all persons 
 associated with our organization and conference. We hold that inclusivity, diversity, 
@@ -361,7 +352,7 @@ access, and equality are critical to the strength of our organization and the ef
 </details>
 <hr>
 <details closed>
-	<summary class="CFP-summary">Contact Information</summary>
+	<summary class="CFP-summary"><span class="t">Contact Information</span><span class="hint">OPEN</span></summary>
 		<div class="description">
 <p>Questions about our upcoming conference?</p>
 <u1><li>Contact <a href="mailto:bamsmsa26@gmail.com">bamsmsa26@gmail.com</a></li></u1>
