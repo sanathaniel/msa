@@ -54,8 +54,10 @@ WORKSHOPS
 <!--
 <strong>This year, rather than signing up for these workshops as part of general registration, you will need to do so through our <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=wE8mz7iun0SQVILORFQIS7RWOC1PztNOjOUZ0AKCh25UOVlBOFVPRjlFOEpSUUlHS1MzVVFNU0xHUi4u">additional programming form</a>.</strong>
 -->
-        
-<details closed>
+    
+<ol>
+    
+<li><details closed>
 	<summary class="seminar-title" id="p1">Mapping Religion in the Global Anglophone Novel</summary>
 		<div class="description">
     
@@ -67,8 +69,8 @@ WORKSHOPS
 <p>To facilitate this shift, the Mapping Religion in the Global Anglophone Novel (MaRGAN) project is producing a searchable database that records engagements with religion in approximately 500 modernist novels, classifying and describing relevant elements of religion (ritual, gods and spirts, community etc), the religious traditions with which they engage, and the geographical areas from which they emerge accompanied by several visualisations. The workshop invites scholars of modernism and religion, the global modernist novel, digital humanists, and individual authors whose work interacts with religious themes to explore in a structured way a prototype of the MaRGAN database, bringing familiar elements of well-known novels into conversation with lesser-known texts from across the globe. Through a range of planned activities, participants leave the workshop with an expanded understanding of how <i>religion</i> and the <i>global</i> interact in the context of modernism, a framework for working with and across diverse and underrepresented texts, and experience of a new digital tool and dataset that can be integrated into future teaching and research.</p>
 
     	</div>
-</details>
-<details closed>
+<details closed></li>
+<li><details closed>
 	<summary class="seminar-title" id="p2">Ghost in the Medium: Teaching and Researching Text and Image</summary>
 		<div class="description">
     
@@ -80,8 +82,8 @@ WORKSHOPS
 		</p>
  
 		</div>
-</details>
-<details closed>
+<details closed></li>
+<li><details closed>
 	<summary class="seminar-title" id="p2">Film Studies Workshop</summary>
 		<div class="description">
     
@@ -90,8 +92,8 @@ WORKSHOPS
         <p>Building on the immensely successful workshops held at the three preceding MSA conferences, this event will allow members of the Film Studies Special Interest Group to continue the conversations begun last year while deepening connections within the SIG. For the workshop, presenters pre-circulate current work that will then be discussed in breakout sessions. This format allows for a kind of sustained intellectual engagement that is uncommon for conference settings; and participants at the earlier workshops have said repeatedly how much they enjoy the opportunity for extended, focused discussions of pre-circulated papers. Furthermore, the workshop should appeal to a demographic that the MSA keenly needs to support: junior scholars and graduate students. Since many dissertations on twentieth-century literature and culture now include a chapter on film, the workshop gives these scholars a chance to receive feedback while bringing them into the MSA fold. Finally, the workshop is an excellent way to attract film scholars who do not usually attend the MSA because current work can be solicited in advance, thus obviating the need to compose new papers for a panel or roundtable. Pre-registration will be required.</p>   
 		
 		   	</div>
-</details>
-<details closed>
+<details closed></li>
+<li><details closed>
 	<summary class="seminar-title" id="p2">Give What You Can, Take What You Need: Creating Modernist Mutual Aid <i>*VIRTUAL SEMINAR*</i></summary>
 		<div class="description">
     
@@ -106,8 +108,8 @@ WORKSHOPS
 <p>This workshop is organized under the auspices of CCIS, but open to all!</p>
 		
 </div>
-</details>
-<details closed>
+<details closed></li>
+<li><details closed>
 	<summary class="seminar-title" id="p2">Weird Waste: A Hands-On Craft Workshop in Modernist (Re)Making</summary>
 		<div class="description">
     
@@ -120,8 +122,8 @@ WORKSHOPS
 <p>Following the hands-on portion of the workshop (we have secured funding for materials which will be provided for participants), the co-facilitators will lead a discussion reflecting on how the workshop centers principles of sustainability, creativity, collaboration, and reuse within, as a legacy of, and beyond modernist making. In particular, we will encourage participants to think about how the principles of slowness, fluidity, and plurality inherent to the models of modernist handiwork and craft (see: Elkins, 2022) and media production (small presses, little magazines, pamphlets, etc.) offer reuse and recycling as a weird intervention that lets us encounter the everyday in new ways.</p>
 
 </div>
-</details>
-<details closed>
+<details closed></li>
+<li><details closed>
 	<summary class="seminar-title" id="p2">E-Poetry Workshop</summary>
 		<div class="description">
     
@@ -138,9 +140,9 @@ WORKSHOPS
 		
 		
 </div>
-</details>
+<details closed></li>
 
-<details closed>
+<li><details closed>
 	<summary class="seminar-title" id="p2">What’s Next: Life and Work After Submission</summary>
 		<div class="description">
     
@@ -152,9 +154,10 @@ We will cover topics ranging from publishing your research (including a first mo
 
 Chaired by the BAMS and MSA postgraduate reps, the session will begin with short introductory talks from each of our speakers, followed by an extended Q&A. Please feel free to ask any questions you have relating to life and work after submission. 
 		
-		
 </div>
-</details>
+<details closed></li>
+
+</ol>
 
 
 
