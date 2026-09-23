@@ -89,7 +89,7 @@ Hopkins University</p>
 	award year. 
 <p>Please visit our <a href="/prize/nominate.html">Nominations</a> in
 	spring 2028 to recommend a book for the next prize (for books
-	published in 2025 and 2026). Visit our <a
+	published in 2026 and 2027). Visit our <a
 		href="/prize/archive.html">Archive</a> to see previous
 	winners.</p>
 	
