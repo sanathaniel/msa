@@ -29,7 +29,7 @@ footer: false
 <img src="/conference/MSA2027/assets/hero.jpg" style="width= 100%; height: auto; box-shadow: 0 0 16px 16px #050505 inset;">
 
 <div style="font-size: .5rem; color: #9a968c; text-align: right;">
-	after François Bucher / Josef Albers, "Despite Straight Lines"
+	François Bucher / Josef Albers, "Despite Straight Lines"
 </div>
 
 <p></p>
