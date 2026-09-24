@@ -254,7 +254,6 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 2025. Please include a 300-word abstract of the paper. Author bios are limited to
  100 words. </p> 
  
-
 <details closed>
 	<summary class="stream-title"><span class="t">Modernism & Environment Stream</span><span class="hint">OPEN</span></summary>
 		<div class="description">
