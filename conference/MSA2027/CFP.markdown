@@ -252,7 +252,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 <p>Individual paper proposals must speak directly to one of this year’s streams, described below. The MSA program committee and MSA Special Interest Groups in charge of the streams will compose panels and roundtables from the individual papers.</p>
 <p><a href="https://msa2026.exordo.com/">Click here to submit individual Paper Proposals</a> for panel streams by December 29, 
 2025. Please include a 300-word abstract of the paper. Author bios are limited to
- 100 words. </p>
+ 100 words. </p> 
  
 
 <details closed>
