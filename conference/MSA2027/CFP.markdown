@@ -255,7 +255,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
  100 words. </p> 
  
 <details closed>
-	<summary class="stream-title"><span class="t">Modernism & Environment Stream</span><span class="hint">OPEN</span></summary>
+	<summary class="stream-title">Modernism & Environment Stream</summary>
 		<div class="description">
 			<p>
 			This stream invites papers that explore the ecological dimensions of weird modernism. From the material ephemerality cultivated by pulp fiction to more-than-human, spectral environments, weird modernism brings out the enmeshment of human, ecological and cosmic spaces. We invite participants to meditate on the environmental concerns that pervade the weird worlds of modernist texts. How do ecocritical lenses illuminate the weird relationships between the environment, the human and nonhuman in modernism? Or how do the forms and themes of weird modernisms destabilize narrative agency and challenge ecological plausibility? 
@@ -264,7 +264,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 
 <details closed>
-	<summary class="stream-title"><span class="t">Modernism and Film Stream</span><span class="hint">OPEN</span></summary>
+	<summary class="stream-title">Modernism and Film Stream</summary>
 		<div class="description">
 			<p>Many modernist artists and theorists, as well as scholars of modernism today, have thought with and through film. The Modernism and Film stream invites conference participants to take up that history: to consider how cinema has shaped and been shaped by art and politics in the modernist period and to think methodologically about what the fields of modernist studies and film/media studies might teach each other. In keeping with this year’s conference theme, we especially welcome proposals that consider the ways in which the "weird" informs film productions, film cultures, and the very activity of cinematic thought. 
 			</p>
@@ -272,14 +272,14 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 </details>
 		
 <details closed>
-	<summary class="stream-title"><span class="t">Modernism and Pedagogy Stream</span><span class="hint">OPEN</span></summary>
+	<summary class="stream-title">Modernism and Pedagogy Stream</summary>
 		<div class="description">		
 			<p>The Modernism and Pedagogy SIG invites papers that explore the weird sides of teaching modernism through approach, philosophy and content. We seek demonstrations or examples of teaching modernism in weird spaces, the weirdness of teaching modernism in the modern university and modernism’s own weird ideas about pedagogy. Participants might consider jessie l. beier’s “weird pedagogies” (2023) as a mode for rethinking around and through the crisis of higher education and its future. As always, we welcome papers which reflect on the more general aspects of pedagogy and modernism, and the relationship between modernist pedagogy and scholarship. We hope papers will address the lived conditions of our teaching labour, with institutional pressures and constraints demanding creativity and weirdness in our pedagogical practices. </p>		
 		</div>
 </details>
 
 <details closed>
-		<summary class="stream-title"><span class="t">Intersectional Feminist and Queer Praxis Stream</span><span class="hint">OPEN</span></summary>
+		<summary class="stream-title">Intersectional Feminist and Queer Praxis Stream</summary>
 			<div class="description">		
 				<p>Queer studies has long challenged frameworks of heteronormativity and chrononormativity, emphasising alternative modes of living, dying, desiring, and experiencing time (MacCormack, 2025; Freeman, 2010; McRuer, 2006; Edelman, 2004). Within this context, the weird emerges not as a marker of identity but as a deliberate aesthetic and political strategy. This extends beyond a queer lived experience to also encompass queering Modernism itself through, for example, queer readings of canonical texts. 
 				</p>
@@ -287,7 +287,7 @@ Workshops are participatory in format and can be either 90 or 120 minutes in len
 	</details>
 </div>
 <details closed>
-		<summary class="stream-title"><span class="t">Weird Modernisms Stream</span><span class="hint">OPEN</span></summary>
+		<summary class="stream-title">Weird Modernisms Stream</summary>
 			<div class="description">		
 				<p>We also welcome individual paper proposals focussed on Weird Modernisms that fall outside of these Special Interest Groups.
 				</p>
@@ -365,7 +365,7 @@ access, and equality are critical to the strength of our organization and the ef
 <u1><li>Contact Missy Bradshaw at <a href="mailto:mbradshaw@luc.edu">mbradshaw@luc.edu</a></li></u1>
 <p>
 </p>
-</details>
+
 
 
 <script>
