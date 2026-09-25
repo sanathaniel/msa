@@ -102,7 +102,7 @@ even today.
 <p> 
 
 <strong><p>Atreyee Gupta, <a href="https://yalebooks.yale.edu/book/9780300280883/non-aligned/">Non-Aligned: Art, Decolonization, and the Third-World Project in India
-</a> (SUNY Press, 2024)</p></strong>
+</a> (Yale University Press, 2025)</p></strong>
 
 <p>
 In <i>Non-Aligned</i>, Atreyee Gupta enriches familiar histories of decolonization, the Bandung
