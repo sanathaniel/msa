@@ -66,6 +66,18 @@ Nicolás Fernández-Medina’s rigorous introduction to and lucid translations o
 
 </p>
 
+<hr />
+
+<p><strong>Nominating Committee:</strong>
+<ul>
+	<li>Amr Kamal (City College of New York, CUNY) (Chair)</li>
+	<li>Kasia Bartozynska (Ithaca College)</li>
+	<li>Preetha Mani (Rutgers)</li>
+</ul>
+</p>
+
+
+<hr />
 
 <!-- FOURTH NOMINEE -->
 

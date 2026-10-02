@@ -138,6 +138,18 @@ technologies ranging from the sedative Veronal to the â€œelectroencephalograph,â
 
 </p>
 
+<hr />
+
+<p><strong>Nominating Committee:</strong>
+<ul>
+	<li>Sonali Thakkar (New York University) (Chair)</li>
+	<li>Ian Afflerbach (University of North Georgia)</li>
+	<li>Beth Blum (Harvard University)</li>
+</ul>
+</p>
+
+
+<hr />
 
 
 

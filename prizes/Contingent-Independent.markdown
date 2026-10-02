@@ -50,3 +50,17 @@ Sean Weidman offers an exciting case for Dorothy Day’s modernism in “Dorothy
 </p>
 
 
+<hr />
+
+<p><strong>Nominating Committee:</strong>
+<ul>
+	<li>Kate Schnur (Queens College, CUNY) (Chair)</li>
+	<li>Emily Bloom (Sarah Lawrence College)</li>
+	<li>A. Layne Craig (Texas Christian University)</li>
+	<li>Andrew Dorkin (Clemson University Press)</li>
+	<li>Dominique Townsend (Xavier University of Louisiana)</li>
+</ul>
+</p>
+
+
+<hr />

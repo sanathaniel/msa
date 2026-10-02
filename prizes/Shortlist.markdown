@@ -89,14 +89,17 @@ Anna Snaith’s brilliant reading of the ‘age of noise’ focuses critical att
 
 <hr />
 
-<!--
+<p><strong>Nominating Committee:</strong>
+<ul>
+	<li>Matthew Hayward (University of Waikato) (Co-Chair)</li>
+	<li>Maebh Long (University of Otago) (Co-Chair)</li>
+	<li>Adam McKible (John Jay College, CUNY)</li>
+</ul>
+</p>
 
-<p><strong>Nominating Committee:</strong> Melanie Micir, Washington University (Chair), Robert 
-Stilling, Florida State University, Philip Tsang, Colorado State University</p>
 
 <hr />
 
--->
 
  <h1>About</h1>
 <p>Each year, the Modernist Studies Association seeks nominations for
