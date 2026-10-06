@@ -321,7 +321,7 @@ layout: home
 			username="moderniststudies.bsky.social"			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
 			mode=""
 			limit="3"
-			custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } p.ml-10 { margin-left: 0; }"
+			custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } p.ml-10 { margin-left: 0; margin-bottom: 0.25em; font-size: 14px; }"
 		  >
 		  </bsky-embed>
 	</div>
