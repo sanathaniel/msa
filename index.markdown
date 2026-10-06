@@ -308,7 +308,7 @@ layout: home
 	    -->
 
    	
-	<div class ="feed-block" style="font-size: 16px; padding-right:10px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);">
+	<div class ="feed-block" style="font-size: 16px; padding-right:10px; box-shadow: 0;">
 		<br>
 			<div class="soc-title">
 				<a href="https://bsky.app/profile/moderniststudies.bsky.social">
@@ -321,7 +321,7 @@ layout: home
 			username="moderniststudies.bsky.social"			feed="at%3A%2F%2Fdid%3Aplc%3Az72i7hdynmk6r22z27h6tvur%2Fapp.bsky.feed.generator%2Fwhats-hot&limit=1"
 			mode=""
 			limit="3"
-			custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; }"
+			custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } p.ml-10 { margin-left: 0; }"
 		  >
 		  </bsky-embed>
 	</div>
