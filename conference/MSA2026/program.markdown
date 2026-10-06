@@ -48,12 +48,9 @@ color: #689c4b;
 	</div>
 </div>
 
-<h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf">In-Person Schedule</a></h2>
+<h2><a href="/conference/past-conferences/BAMS_MSA 2026 Program In Person (Loughborough).pdf">In-Person Schedule</a></h2>
 
-<h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule_Small.pdf">(Smaller file size) In-Person Schedule</a></h2>
-
-<h2><a href="/conference/MSA2026/assets/BAMS_MSA_2026_Virtual_Schedule.pdf">Virtual Schedule</a></h2>
-
+<h2><a href="/conference/past-conferences/BAMS_MSA 2026 Program Virtual (Loughborough).pdf">Virtual Schedule</a></h2>
 
 
 For late adjustments to the conference programs, <a href="https://docs.google.com/document/d/1xUL8h9xp-mWJFtXBmTv_tKvb6_U8tH6ZroWiReLmB60/edit?usp=sharing">please see our addendum</a>.

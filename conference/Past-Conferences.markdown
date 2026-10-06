@@ -13,12 +13,12 @@ sidebar:
 		<a href= "/conference/MSA2026/">MSA 2026: Loughborough, July 1-4, 2026</a>
 		<br>
 		<a
-			href="/conference/MSA2026/assets/BAMS_MSA_2026_In_Person_Schedule.pdf"
+			href="/conference/past-conferences/BAMS_MSA 2026 Program In Person (Loughborough).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the in-person
 			conference program</a>
 		<br>
 		<a
-			href="/conference/MSA2026/assets/BAMS_MSA_2026_Virtual_Schedule.pdf"
+			href="/conference/past-conferences/BAMS_MSA 2026 Program Virtual (Loughborough).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the virtual
 			conference program</a> 
 	</li>
@@ -26,7 +26,7 @@ sidebar:
 		<a href= "/conference/MSA2025/">MSA 2025: Boston, October 9-12, 2025</a>
 		<br>
 		<a
-			href="/conference/MSA2025/MSA_Program_2025_FINAL.pdf"
+			href="/conference/past-conferences/MSA 2025 Program (Boston) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -34,7 +34,7 @@ sidebar:
 		<a href= "/conference/MSA2024/">MSA 2024: Chicago, November 7-10, 2024</a>
 		<br>
 		<a
-			href="/conference/MSA2024/MSA2024_Final_Program.pdf"
+			href="/conference/past-conferences/MSA 2024 Program (Chicago) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -43,7 +43,7 @@ sidebar:
 			2023: Brooklyn, October 26-29, 2023
 		<br>
 		<a
-			href="/conference/past-conferences/MSA_2023_Program_10_13_23.pdf"
+			href="/conference/past-conferences/MSA 2023 Program (Brooklyn) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -52,7 +52,7 @@ sidebar:
 			2022: Portland, October 27-30, 2022
 		<br>
 		<a
-			href="/conference/past-conferences/MSA2022_Final_Program.pdf"
+			href="/conference/past-conferences/MSA 2022 Program (Portland) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -70,7 +70,7 @@ sidebar:
 			17-20, 2019
 		<br>
 		<a
-			href="/conference/past-conferences/2019 Program (Toronto).pdf"
+			href="/conference/past-conferences/MSA 2019 Program (Toronto) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -79,7 +79,7 @@ sidebar:
 			2018: Columbus, November 8-11, 2018
 		<br>
 		<a
-			href="/conference/past-conferences/2018 Program (Columbus).pdf"
+			href="/conference/past-conferences/MSA 2018 Program (Columbus) [compressed 20261001]).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -88,7 +88,7 @@ sidebar:
 			Amsterdam, August 10-13, 2017
 		<br>
 		<a
-			href="/conference/past-conferences/2017 Program (Amsterdam).pdf"
+			href="/conference/past-conferences/MSA 2017 Program (Amsterdam) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -97,7 +97,7 @@ sidebar:
 			Pasadena, CA, November 17-20, 2016
 		<br>
 		<a
-			href="/conference/past-conferences/2016 Program (Pasadena).pdf"
+			href="/conference/past-conferences/MSA 2016 Program (Pasadena) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -106,7 +106,7 @@ sidebar:
 			Boston, MA, November 19-22, 2015
 		<br>
 		<a
-			href="/conference/past-conferences/2015 Program (Boston).pdf"
+			href="/conference/past-conferences/MSA 2015 Program (Boston) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -115,7 +115,7 @@ sidebar:
 			Pittsburgh, PA, November 6-9, 2014
 		<br>
 		<a
-			href="/conference/past-conferences/2014 Program (Pittsburgh).pdf"
+			href="/conference/past-conferences/MSA 2014 Program (Pittsburgh).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -124,7 +124,7 @@ sidebar:
 			Sussex, UK, August 29-September 3, 2013
 		<br>
 		<a
-			href="/conference/past-conferences/2013 Program (Sussex).pdf"
+			href="/conference/past-conferences/MSA 2013 Program (Sussex) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -132,7 +132,7 @@ sidebar:
 		MSA 14: Las Vegas, October 18-21, 2012
 		<br>
 		<a
-			href="/conference/past-conferences/2012 Program (Vegas).pdf"
+			href="/conference/past-conferences/MSA 2012 Program (Vegas).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -141,7 +141,7 @@ sidebar:
 			2011
 		<br>
 		<a
-			href="/conference/past-conferences/2011 Program (Buffalo).pdf"
+			href="/conference/past-conferences/MSA 2011 Program (Buffalo) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -150,7 +150,7 @@ sidebar:
 			Victoria, November 11-14, 2010
 		<br>
 		<a
-			href="/conference/past-conferences/2010 Program (Victoria).pdf"
+			href="/conference/past-conferences/MSA 2010 Program (Victoria) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -159,7 +159,7 @@ sidebar:
 			2009
 		<br>
 		<a
-			href="/conference/past-conferences/2009 Program (Montreal).pdf"
+			href="/conference/past-conferences/MSA 2009 Program (Montreal).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -167,7 +167,7 @@ sidebar:
 		MSA 10: Nashville, November 13-16, 2008
 		<br>
 		<a
-			href="/conference/past-conferences/2008 Program (Nashville).pdf"
+			href="/conference/past-conferences/MSA 2008 Program (Nashville).pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
