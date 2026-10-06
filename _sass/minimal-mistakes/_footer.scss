@@ -62,7 +62,8 @@
 
   li + li:before {
     content: "";
-    padding-right: 5px;
+    padding-right: 0;
+    /* ORIGINALLY? padding-right: 5px; */
   }
 
   a {
