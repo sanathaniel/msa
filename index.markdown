@@ -2,6 +2,14 @@
 layout: home
 ---
 
+<style>
+
+div.flex > img {
+	display: none;
+}
+
+</style>
+
 
 <div id="main-banner">
 
