@@ -79,7 +79,7 @@ sidebar:
 			2018: Columbus, November 8-11, 2018
 		<br>
 		<a
-			href="/conference/past-conferences/MSA 2018 Program (Columbus) [compressed 20261001]).pdf"
+			href="/conference/past-conferences/MSA 2018 Program (Columbus) [compressed 20261001].pdf"
 			style="margin-left: 50px; font-size: 75%;">download the
 			conference program</a>
 	</li>
@@ -120,7 +120,7 @@ sidebar:
 			conference program</a>
 	</li>
 	<li>
-		<MSA 15:
+		MSA 15:
 			Sussex, UK, August 29-September 3, 2013
 		<br>
 		<a
