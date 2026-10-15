@@ -32,6 +32,8 @@ custom_head: |
 -->
 
   			<!-- #BeginEditable "content" -->
+<strong>This page should redirect you automatically to the <em>Modernism/modernity</em> Print Plus platform. If it does not, use this link: <a href="https://modernismmodernity.org/">https://modernismmodernity.org/</a></strong>
+
 <ul>
 	<li>
 	<a href="https://www.press.jhu.edu/journals/modernismmodernity">Learn about the journal and instructions to submit</a>
