@@ -37,7 +37,7 @@ sidebar:
 	<a href="https://muse.jhu.edu/journal/131">Read the journal online</a>
 	</li>
 	<li>
-	<a href="https://modernismmodernity.org/">modernismmodernity.org</a>Access the Print Plus online platform</a>
+	<a href="https://modernismmodernity.org/">Access the Print Plus online platform</a>
 	</li>
 </ul>
 <h3><strong>About</strong></h3>
