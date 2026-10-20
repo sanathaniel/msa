@@ -4,9 +4,6 @@ title:
 permalink: /journal/
 sidebar:
   nav: journal_nav
-custom_head: |
-  <meta http-equiv="refresh" content="0; url=https://modernismmodernity.org/">
-  <link rel="canonical" href="https://modernismmodernity.org/" />
 ---
  
 <div id="main-banner">
